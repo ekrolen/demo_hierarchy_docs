@@ -1,0 +1,13 @@
+race_ethnicities,fk_race,fk_ethnicity
+"White, Hispanic",White,Hispanic
+"White, Non-Hispanic",White,Non-Hispanic
+"Black or African American, Hispanic",Black or African American,Hispanic
+"Black or African American, Non-Hispanic",Black or African American,Non-Hispanic
+"American Indian or Alaska Native, Hispanic",American Indian or Alaska Native,Hispanic
+"American Indian or Alaska Native, Non-Hispanic",American Indian or Alaska Native,Non-Hispanic
+"Asian, Hispanic",Asian,Hispanic
+"Asian, Non-Hispanic",Asian,Non-Hispanic
+"Native Hawaiian or Pacific Islander, Hispanic",Native Hawaiian or Pacific Islander,Hispanic
+"Native Hawaiian or Pacific Islander, Non-Hispanic",Native Hawaiian or Pacific Islander,Non-Hispanic
+"Other, Hispanic",Other,Hispanic
+"Other, Non-Hispanic",Other,Non-Hispanic
