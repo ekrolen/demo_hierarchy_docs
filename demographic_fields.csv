@@ -1,5 +1,5 @@
-Demographic_fields
-Sex
-Race
-Ethnicity
-Age
+demographic_fields,parent,source
+Sex,None,Standard Semantic Hierarchy
+Race,None,Standard Semantic Hierarchy
+Ethnicity,None,Standard Semantic Hierarchy
+Age,None,Standard Semantic Hierarchy
