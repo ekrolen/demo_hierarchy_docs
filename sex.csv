@@ -1,5 +1,5 @@
 Sexes,FK_demo_fields,Parent,Source
-Female,Sex,None,Standard Semantic Hierarchy
-Male,Sex,None,Standard Semantic Hierarchy
-Intersex,Sex,None,Standard Semantic Hierarchy
-Unreported,Sex,None,Standard Semantic Hierarchy
+Female,Sex,Sex,Standard Semantic Hierarchy
+Male,Sex,Sex,Standard Semantic Hierarchy
+Intersex,Sex,Sex,Standard Semantic Hierarchy
+Unreported,Sex,Sex,Standard Semantic Hierarchy
