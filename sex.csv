@@ -1,5 +1,5 @@
-top_level,second_level
-Sex,Female
-Sex,Male
-Sex,Intersex
-Sex,Unreported
+sexes,fk_demo_fields
+Female,Sex
+Male,Sex
+Intersex,Sex
+Unreported,Sex
