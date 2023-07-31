@@ -1,7 +1,7 @@
-races,parent,source
-White,Race,Standard Semantic Hierarchy
-Black or African American,Race,Standard Semantic Hierarchy
-American Indian or Alaska Native,Race,Standard Semantic Hierarchy
-Asian,Race,Standard Semantic Hierarchy
-Native Hawaiian or Pacific Islander,Race,Standard Semantic Hierarchy
-Other,Race,Standard Semantic Hierarchy
+races,parent,source,pre-1994,post-1994
+White,Race,Standard Semantic Hierarchy,White,White
+Black or African American,Race,Standard Semantic Hierarchy,Black,Black
+American Indian or Alaska Native,Race,Standard Semantic Hierarchy,Other,American Indian or Alaska Native
+Asian,Race,Standard Semantic Hierarchy,Other,Asian or Pacific Islander
+Native Hawaiian or Pacific Islander,Race,Standard Semantic Hierarchy,Other,Asian or Pacific Islander
+Other,Race,Standard Semantic Hierarchy,Other,Other
