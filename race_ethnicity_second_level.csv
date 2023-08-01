@@ -1,4 +1,4 @@
-race_ethnicities,fk_race,fk_ethnicity
+race_ethnicity_second_level,fk_race,fk_ethnicity
 "White, Hispanic",White,Hispanic
 "White, Non-Hispanic",White,Non-Hispanic
 "Black or African American, Hispanic",Black or African American,Hispanic
