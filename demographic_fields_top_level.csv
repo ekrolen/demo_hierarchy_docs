@@ -1,4 +1,4 @@
-demographic_fields,parent,source
+demographic_fields_top_level,parent,source
 Sex,None,Standard Semantic Hierarchy
 Race,None,Standard Semantic Hierarchy
 Ethnicity,None,Standard Semantic Hierarchy
