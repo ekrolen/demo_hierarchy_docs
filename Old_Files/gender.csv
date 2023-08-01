@@ -1,0 +1,6 @@
+genders,parent,source
+Female,Gender,Standard Semantic Hierarchy
+Male,Gender,Standard Semantic Hierarchy
+Transgender,Gender,Standard Semantic Hierarchy
+None of these,Gender,Standard Semantic Hierarchy
+Unreported,Gender,Standard Semantic Hierarchy
