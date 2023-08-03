@@ -1,21 +1,21 @@
-Title_sector,NAICS
-"Agriculture, Forestry, Fishing and Hunting",NAICS
-"Mining, Quarrying, and Oil and Gas Extraction",NAICS
-Utilities,NAICS
-Construction,NAICS
-Manufacturing,NAICS
-Wholesale Trade,NAICS
-Retail Trade,NAICS
-Transportation and Warehousing,NAICS
-Information,NAICS
-Finance and Insurance,NAICS
-Real Estate and Rental and Leasing,NAICS
-"Professional, Scientific, and Technical Services",NAICS
-Management of Companies and Enterprises,NAICS
-Administrative and Support and Waste Management and Remediation Services,NAICS
-Educational Services,NAICS
-Health Care and Social Assistance,NAICS
-"Arts, Entertainment, and Recreation",NAICS
-Accommodation and Food Services,NAICS
-Other Services (except Public Administration),NAICS
-Public Administration,NAICS
+sector,naics,source
+"Agriculture, Forestry, Fishing and Hunting",NAICS,2022 NAICS
+"Mining, Quarrying, and Oil and Gas Extraction",NAICS,2022 NAICS
+Utilities,NAICS,2022 NAICS
+Construction,NAICS,2022 NAICS
+Manufacturing,NAICS,2022 NAICS
+Wholesale Trade,NAICS,2022 NAICS
+Retail Trade,NAICS,2022 NAICS
+Transportation and Warehousing,NAICS,2022 NAICS
+Information,NAICS,2022 NAICS
+Finance and Insurance,NAICS,2022 NAICS
+Real Estate and Rental and Leasing,NAICS,2022 NAICS
+"Professional, Scientific, and Technical Services",NAICS,2022 NAICS
+Management of Companies and Enterprises,NAICS,2022 NAICS
+Administrative and Support and Waste Management and Remediation Services,NAICS,2022 NAICS
+Educational Services,NAICS,2022 NAICS
+Health Care and Social Assistance,NAICS,2022 NAICS
+"Arts, Entertainment, and Recreation",NAICS,2022 NAICS
+Accommodation and Food Services,NAICS,2022 NAICS
+Other Services (except Public Administration),NAICS,2022 NAICS
+Public Administration,NAICS,2022 NAICS
