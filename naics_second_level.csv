@@ -1,0 +1,21 @@
+Title_sector,NAICS
+"Agriculture, Forestry, Fishing and Hunting",NAICS
+"Mining, Quarrying, and Oil and Gas Extraction",NAICS
+Utilities,NAICS
+Construction,NAICS
+Manufacturing,NAICS
+Wholesale Trade,NAICS
+Retail Trade,NAICS
+Transportation and Warehousing,NAICS
+Information,NAICS
+Finance and Insurance,NAICS
+Real Estate and Rental and Leasing,NAICS
+"Professional, Scientific, and Technical Services",NAICS
+Management of Companies and Enterprises,NAICS
+Administrative and Support and Waste Management and Remediation Services,NAICS
+Educational Services,NAICS
+Health Care and Social Assistance,NAICS
+"Arts, Entertainment, and Recreation",NAICS
+Accommodation and Food Services,NAICS
+Other Services (except Public Administration),NAICS
+Public Administration,NAICS

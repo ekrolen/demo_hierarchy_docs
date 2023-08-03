@@ -1,0 +1,690 @@
+Title_naics_ind,Title_ind_group
+Soybean Farming,Oilseed and Grain Farming
+Oilseed (except Soybean) Farming,Oilseed and Grain Farming
+Dry Pea and Bean Farming,Oilseed and Grain Farming
+Wheat Farming,Oilseed and Grain Farming
+Corn Farming,Oilseed and Grain Farming
+Rice Farming,Oilseed and Grain Farming
+Other Grain Farming,Oilseed and Grain Farming
+Vegetable and Melon Farming,Vegetable and Melon Farming
+Orange Groves,Fruit and Tree Nut Farming
+Citrus (except Orange) Groves,Fruit and Tree Nut Farming
+Noncitrus Fruit and Tree Nut Farming,Fruit and Tree Nut Farming
+Food Crops Grown Under Cover,"Greenhouse, Nursery, and Floriculture Production"
+Nursery and Floriculture Production,"Greenhouse, Nursery, and Floriculture Production"
+Tobacco Farming,Other Crop Farming
+Cotton Farming,Other Crop Farming
+Sugarcane Farming,Other Crop Farming
+Hay Farming,Other Crop Farming
+All Other Crop Farming,Other Crop Farming
+"Beef Cattle Ranching and Farming, including Feedlots",Cattle Ranching and Farming
+Dairy Cattle and Milk Production,Cattle Ranching and Farming
+Dual-Purpose Cattle Ranching and Farming,Cattle Ranching and Farming
+Hog and Pig Farming,Hog and Pig Farming
+Chicken Egg Production,Poultry and Egg Production
+Broilers and Other Meat Type Chicken Production,Poultry and Egg Production
+Turkey Production,Poultry and Egg Production
+Poultry Hatcheries,Poultry and Egg Production
+Other Poultry Production,Poultry and Egg Production
+Sheep Farming,Sheep and Goat Farming
+Goat Farming,Sheep and Goat Farming
+Aquaculture,Aquaculture
+Apiculture,Other Animal Production
+Horses and Other Equine Production,Other Animal Production
+Fur-Bearing Animal and Rabbit Production,Other Animal Production
+All Other Animal Production,Other Animal Production
+Timber Tract Operations,Timber Tract Operations
+Forest Nurseries and Gathering of Forest Products,Forest Nurseries and Gathering of Forest Products
+Logging,Logging
+Fishing,Fishing
+Hunting and Trapping,Hunting and Trapping
+Support Activities for Crop Production,Support Activities for Crop Production
+Support Activities for Animal Production,Support Activities for Animal Production
+Support Activities for Forestry,Support Activities for Forestry
+Crude Petroleum Extraction ,Oil and Gas Extraction
+Natural Gas Extraction ,Oil and Gas Extraction
+Coal Mining,Coal Mining
+Iron Ore Mining,Metal Ore Mining
+Gold Ore and Silver Ore Mining,Metal Ore Mining
+"Copper, Nickel, Lead, and Zinc Mining",Metal Ore Mining
+Other Metal Ore Mining,Metal Ore Mining
+Stone Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying
+"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying",Nonmetallic Mineral Mining and Quarrying
+Other Nonmetallic Mineral Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying
+Support Activities for Mining,Support Activities for Mining
+Electric Power Generation ,"Electric Power Generation, Transmission and Distribution"
+"Electric Power Transmission, Control, and Distribution ","Electric Power Generation, Transmission and Distribution"
+Natural Gas Distribution ,Natural Gas Distribution 
+Water Supply and Irrigation Systems ,"Water, Sewage and Other Systems "
+Sewage Treatment Facilities ,"Water, Sewage and Other Systems "
+Steam and Air-Conditioning Supply ,"Water, Sewage and Other Systems "
+Residential Building Construction,Residential Building Construction
+Industrial Building Construction,Nonresidential Building Construction
+Commercial and Institutional Building Construction,Nonresidential Building Construction
+Water and Sewer Line and Related Structures Construction,Utility System Construction
+Oil and Gas Pipeline and Related Structures Construction,Utility System Construction
+Power and Communication Line and Related Structures Construction,Utility System Construction
+Land Subdivision,Land Subdivision
+"Highway, Street, and Bridge Construction","Highway, Street, and Bridge Construction"
+Other Heavy and Civil Engineering Construction,Other Heavy and Civil Engineering Construction
+Poured Concrete Foundation and Structure Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Structural Steel and Precast Concrete Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Framing Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Masonry Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Glass and Glazing Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Roofing Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+Siding Contractors ,"Foundation, Structure, and Building Exterior Contractors"
+"Other Foundation, Structure, and Building Exterior Contractors ","Foundation, Structure, and Building Exterior Contractors"
+Electrical Contractors and Other Wiring Installation Contractors,Building Equipment Contractors
+"Plumbing, Heating, and Air-Conditioning Contractors",Building Equipment Contractors
+Other Building Equipment Contractors,Building Equipment Contractors
+Drywall and Insulation Contractors,Building Finishing Contractors
+Painting and Wall Covering Contractors,Building Finishing Contractors
+Flooring Contractors,Building Finishing Contractors
+Tile and Terrazzo Contractors,Building Finishing Contractors
+Finish Carpentry Contractors,Building Finishing Contractors
+Other Building Finishing Contractors,Building Finishing Contractors
+Site Preparation Contractors,Other Specialty Trade Contractors
+All Other Specialty Trade Contractors,Other Specialty Trade Contractors
+Animal Food Manufacturing,Animal Food Manufacturing
+Flour Milling and Malt Manufacturing,Grain and Oilseed Milling
+Starch and Vegetable Fats and Oils Manufacturing,Grain and Oilseed Milling
+Breakfast Cereal Manufacturing,Grain and Oilseed Milling
+Sugar Manufacturing,Sugar and Confectionery Product Manufacturing
+Nonchocolate Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing
+Chocolate and Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing
+Frozen Food Manufacturing,Fruit and Vegetable Preserving and Specialty Food Manufacturing
+"Fruit and Vegetable Canning, Pickling, and Drying",Fruit and Vegetable Preserving and Specialty Food Manufacturing
+Dairy Product (except Frozen) Manufacturing,Dairy Product Manufacturing
+Ice Cream and Frozen Dessert Manufacturing,Dairy Product Manufacturing
+Animal Slaughtering and Processing,Animal Slaughtering and Processing
+Seafood Product Preparation and Packaging,Seafood Product Preparation and Packaging
+Bread and Bakery Product Manufacturing,Bakeries and Tortilla Manufacturing
+"Cookie, Cracker, and Pasta Manufacturing",Bakeries and Tortilla Manufacturing
+Tortilla Manufacturing,Bakeries and Tortilla Manufacturing
+Snack Food Manufacturing,Other Food Manufacturing
+Coffee and Tea Manufacturing,Other Food Manufacturing
+Flavoring Syrup and Concentrate Manufacturing,Other Food Manufacturing
+Seasoning and Dressing Manufacturing,Other Food Manufacturing
+All Other Food Manufacturing,Other Food Manufacturing
+Soft Drink and Ice Manufacturing,Beverage Manufacturing
+Breweries,Beverage Manufacturing
+Wineries,Beverage Manufacturing
+Distilleries,Beverage Manufacturing
+Tobacco Manufacturing,Tobacco Manufacturing
+"Fiber, Yarn, and Thread Mills","Fiber, Yarn, and Thread Mills"
+Broadwoven Fabric Mills,Fabric Mills
+Narrow Fabric Mills and Schiffli Machine Embroidery,Fabric Mills
+Nonwoven Fabric Mills,Fabric Mills
+Knit Fabric Mills,Fabric Mills
+Textile and Fabric Finishing Mills,Textile and Fabric Finishing and Fabric Coating Mills
+Fabric Coating Mills,Textile and Fabric Finishing and Fabric Coating Mills
+Carpet and Rug Mills,Textile Furnishings Mills
+Curtain and Linen Mills,Textile Furnishings Mills
+Textile Bag and Canvas Mills,Other Textile Product Mills
+All Other Textile Product Mills,Other Textile Product Mills
+Apparel Knitting Mills,Apparel Knitting Mills
+Cut and Sew Apparel Contractors ,Cut and Sew Apparel Manufacturing
+Cut and Sew Apparel Manufacturing (except Contractors) ,Cut and Sew Apparel Manufacturing
+Apparel Accessories and Other Apparel Manufacturing,Apparel Accessories and Other Apparel Manufacturing
+Leather and Hide Tanning and Finishing,Leather and Hide Tanning and Finishing
+Footwear Manufacturing,Footwear Manufacturing
+Other Leather and Allied Product Manufacturing,Other Leather and Allied Product Manufacturing
+Sawmills and Wood Preservation,Sawmills and Wood Preservation
+"Veneer, Plywood, and Engineered Wood Product Manufacturing","Veneer, Plywood, and Engineered Wood Product Manufacturing"
+Millwork,Other Wood Product Manufacturing
+Wood Container and Pallet Manufacturing,Other Wood Product Manufacturing
+All Other Wood Product Manufacturing,Other Wood Product Manufacturing
+Pulp Mills,"Pulp, Paper, and Paperboard Mills"
+Paper Mills,"Pulp, Paper, and Paperboard Mills"
+Paperboard Mills,"Pulp, Paper, and Paperboard Mills"
+Paperboard Container Manufacturing,Converted Paper Product Manufacturing
+Paper Bag and Coated and Treated Paper Manufacturing,Converted Paper Product Manufacturing
+Stationery Product Manufacturing,Converted Paper Product Manufacturing
+Other Converted Paper Product Manufacturing,Converted Paper Product Manufacturing
+Printing,Printing and Related Support Activities
+Support Activities for Printing,Printing and Related Support Activities
+Petroleum Refineries,Petroleum and Coal Products Manufacturing
+"Asphalt Paving, Roofing, and Saturated Materials Manufacturing",Petroleum and Coal Products Manufacturing
+Other Petroleum and Coal Products Manufacturing,Petroleum and Coal Products Manufacturing
+Petrochemical Manufacturing,Basic Chemical Manufacturing
+Industrial Gas Manufacturing,Basic Chemical Manufacturing
+Synthetic Dye and Pigment Manufacturing,Basic Chemical Manufacturing
+Other Basic Inorganic Chemical Manufacturing,Basic Chemical Manufacturing
+Other Basic Organic Chemical Manufacturing,Basic Chemical Manufacturing
+Resin and Synthetic Rubber Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"
+Artificial and Synthetic Fibers and Filaments Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"
+Fertilizer and Compost Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
+Pesticide and Other Agricultural Chemical Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
+Pharmaceutical and Medicine Manufacturing,Pharmaceutical and Medicine Manufacturing
+Paint and Coating Manufacturing,"Paint, Coating, and Adhesive Manufacturing"
+Adhesive Manufacturing,"Paint, Coating, and Adhesive Manufacturing"
+Soap and Cleaning Compound Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+Toilet Preparation Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+Printing Ink Manufacturing,Other Chemical Product and Preparation Manufacturing
+Explosives Manufacturing,Other Chemical Product and Preparation Manufacturing
+All Other Chemical Product and Preparation Manufacturing,Other Chemical Product and Preparation Manufacturing
+Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing,Plastics Product Manufacturing
+"Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",Plastics Product Manufacturing
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Plastics Product Manufacturing
+Polystyrene Foam Product Manufacturing,Plastics Product Manufacturing
+Urethane and Other Foam Product (except Polystyrene) Manufacturing,Plastics Product Manufacturing
+Plastics Bottle Manufacturing,Plastics Product Manufacturing
+Other Plastics Product Manufacturing,Plastics Product Manufacturing
+Tire Manufacturing,Rubber Product Manufacturing
+Rubber and Plastics Hoses and Belting Manufacturing,Rubber Product Manufacturing
+Other Rubber Product Manufacturing,Rubber Product Manufacturing
+"Pottery, Ceramics, and Plumbing Fixture Manufacturing",Clay Product and Refractory Manufacturing
+Clay Building Material and Refractories Manufacturing,Clay Product and Refractory Manufacturing
+Glass and Glass Product Manufacturing,Glass and Glass Product Manufacturing
+Cement Manufacturing,Cement and Concrete Product Manufacturing
+Ready-Mix Concrete Manufacturing,Cement and Concrete Product Manufacturing
+"Concrete Pipe, Brick, and Block Manufacturing",Cement and Concrete Product Manufacturing
+Other Concrete Product Manufacturing,Cement and Concrete Product Manufacturing
+Lime Manufacturing,Lime and Gypsum Product Manufacturing
+Gypsum Product Manufacturing,Lime and Gypsum Product Manufacturing
+Abrasive Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing
+All Other Nonmetallic Mineral Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing
+Iron and Steel Mills and Ferroalloy Manufacturing,Iron and Steel Mills and Ferroalloy Manufacturing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Steel Product Manufacturing from Purchased Steel
+Rolling and Drawing of Purchased Steel,Steel Product Manufacturing from Purchased Steel
+Alumina and Aluminum Production and Processing,Alumina and Aluminum Production and Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining,Nonferrous Metal (except Aluminum) Production and Processing
+"Copper Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing
+Ferrous Metal Foundries,Foundries
+Nonferrous Metal Foundries,Foundries
+Forging and Stamping,Forging and Stamping
+Cutlery and Handtool Manufacturing,Cutlery and Handtool Manufacturing
+Plate Work and Fabricated Structural Product Manufacturing,Architectural and Structural Metals Manufacturing
+Ornamental and Architectural Metal Products Manufacturing,Architectural and Structural Metals Manufacturing
+Power Boiler and Heat Exchanger Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing"
+Metal Tank (Heavy Gauge) Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing"
+"Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing","Boiler, Tank, and Shipping Container Manufacturing"
+Hardware Manufacturing,Hardware Manufacturing
+Spring and Wire Product Manufacturing,Spring and Wire Product Manufacturing
+Machine Shops,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+"Turned Product and Screw, Nut, and Bolt Manufacturing","Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+"Coating, Engraving, Heat Treating, and Allied Activities","Coating, Engraving, Heat Treating, and Allied Activities"
+Metal Valve Manufacturing,Other Fabricated Metal Product Manufacturing
+All Other Fabricated Metal Product Manufacturing,Other Fabricated Metal Product Manufacturing
+Agricultural Implement Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing"
+Construction Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing"
+Mining and Oil and Gas Field Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing"
+Industrial Machinery Manufacturing,Industrial Machinery Manufacturing
+Commercial and Service Industry Machinery Manufacturing,Commercial and Service Industry Machinery Manufacturing
+"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing","Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+Metalworking Machinery Manufacturing,Metalworking Machinery Manufacturing
+"Engine, Turbine, and Power Transmission Equipment Manufacturing","Engine, Turbine, and Power Transmission Equipment Manufacturing"
+Pump and Compressor Manufacturing,Other General Purpose Machinery Manufacturing
+Material Handling Equipment Manufacturing,Other General Purpose Machinery Manufacturing
+All Other General Purpose Machinery Manufacturing,Other General Purpose Machinery Manufacturing
+Computer and Peripheral Equipment Manufacturing,Computer and Peripheral Equipment Manufacturing
+Telephone Apparatus Manufacturing,Communications Equipment Manufacturing
+Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Communications Equipment Manufacturing
+Other Communications Equipment Manufacturing,Communications Equipment Manufacturing
+Audio and Video Equipment Manufacturing,Audio and Video Equipment Manufacturing
+Semiconductor and Other Electronic Component Manufacturing,Semiconductor and Other Electronic Component Manufacturing
+"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing","Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+Manufacturing and Reproducing Magnetic and Optical Media,Manufacturing and Reproducing Magnetic and Optical Media
+Electric Lighting Equipment Manufacturing,Electric Lighting Equipment Manufacturing
+Small Electrical Appliance Manufacturing,Household Appliance Manufacturing
+Major Household Appliance Manufacturing ,Household Appliance Manufacturing
+Electrical Equipment Manufacturing,Electrical Equipment Manufacturing
+Battery Manufacturing,Other Electrical Equipment and Component Manufacturing
+Communication and Energy Wire and Cable Manufacturing,Other Electrical Equipment and Component Manufacturing
+Wiring Device Manufacturing,Other Electrical Equipment and Component Manufacturing
+All Other Electrical Equipment and Component Manufacturing,Other Electrical Equipment and Component Manufacturing
+Automobile and Light Duty Motor Vehicle Manufacturing,Motor Vehicle Manufacturing
+Heavy Duty Truck Manufacturing,Motor Vehicle Manufacturing
+Motor Vehicle Body and Trailer Manufacturing,Motor Vehicle Body and Trailer Manufacturing
+Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Electrical and Electronic Equipment Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Brake System Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Transmission and Power Train Parts Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Seating and Interior Trim Manufacturing,Motor Vehicle Parts Manufacturing
+Motor Vehicle Metal Stamping,Motor Vehicle Parts Manufacturing
+Other Motor Vehicle Parts Manufacturing,Motor Vehicle Parts Manufacturing
+Aerospace Product and Parts Manufacturing,Aerospace Product and Parts Manufacturing
+Railroad Rolling Stock Manufacturing,Railroad Rolling Stock Manufacturing
+Ship and Boat Building,Ship and Boat Building
+Other Transportation Equipment Manufacturing,Other Transportation Equipment Manufacturing
+Wood Kitchen Cabinet and Countertop Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing
+Household and Institutional Furniture Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing
+Office Furniture (including Fixtures) Manufacturing,Office Furniture (including Fixtures) Manufacturing
+Mattress Manufacturing,Other Furniture Related Product Manufacturing
+Blind and Shade Manufacturing,Other Furniture Related Product Manufacturing
+Medical Equipment and Supplies Manufacturing,Medical Equipment and Supplies Manufacturing
+Jewelry and Silverware Manufacturing,Other Miscellaneous Manufacturing
+Sporting and Athletic Goods Manufacturing,Other Miscellaneous Manufacturing
+"Doll, Toy, and Game Manufacturing",Other Miscellaneous Manufacturing
+Office Supplies (except Paper) Manufacturing,Other Miscellaneous Manufacturing
+Sign Manufacturing,Other Miscellaneous Manufacturing
+All Other Miscellaneous Manufacturing,Other Miscellaneous Manufacturing
+Automobile and Other Motor Vehicle Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 
+Motor Vehicle Supplies and New Parts Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 
+Tire and Tube Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 
+Motor Vehicle Parts (Used) Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 
+Furniture Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers 
+Home Furnishing Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers 
+"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers 
+"Brick, Stone, and Related Construction Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers 
+"Roofing, Siding, and Insulation Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers 
+Other Construction Material Merchant Wholesalers ,Lumber and Other Construction Materials Merchant Wholesalers 
+Photographic Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Office Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Other Commercial Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ",Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Ophthalmic Goods Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Other Professional Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers 
+Metal Service Centers and Other Metal Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers 
+Coal and Other Mineral and Ore Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers 
+"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers 
+"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers 
+Other Electronic Parts and Equipment Merchant Wholesalers ,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers 
+Hardware Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "
+Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "
+Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "
+Refrigeration Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "
+Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Farm and Garden Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Industrial Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Industrial Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Service Establishment Equipment and Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers "
+Sporting and Recreational Goods and Supplies Merchant Wholesalers,Miscellaneous Durable Goods Merchant Wholesalers 
+Toy and Hobby Goods and Supplies Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers 
+Recyclable Material Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers 
+"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ",Miscellaneous Durable Goods Merchant Wholesalers 
+Other Miscellaneous Durable Goods Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers 
+Printing and Writing Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers 
+Stationery and Office Supplies Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers 
+Industrial and Personal Service Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers 
+Drugs and Druggists' Sundries Merchant Wholesalers ,Drugs and Druggists' Sundries Merchant Wholesalers 
+"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ","Apparel, Piece Goods, and Notions Merchant Wholesalers "
+Footwear Merchant Wholesalers ,"Apparel, Piece Goods, and Notions Merchant Wholesalers "
+Clothing and Clothing Accessories Merchant Wholesalers,"Apparel, Piece Goods, and Notions Merchant Wholesalers "
+General Line Grocery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Packaged Frozen Food Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Dairy Product (except Dried or Canned) Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Poultry and Poultry Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Confectionery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Fish and Seafood Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Meat and Meat Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Fresh Fruit and Vegetable Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Other Grocery and Related Products Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers 
+Grain and Field Bean Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers 
+Livestock Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers 
+Other Farm Product Raw Material Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers 
+Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers 
+Other Chemical and Allied Products Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers 
+Petroleum Bulk Stations and Terminals ,Petroleum and Petroleum Products Merchant Wholesalers 
+Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ,Petroleum and Petroleum Products Merchant Wholesalers 
+Beer and Ale Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers "
+Wine and Distilled Alcoholic Beverage Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers "
+Farm Supplies Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers 
+"Book, Periodical, and Newspaper Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers 
+"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers 
+Tobacco Product and Electronic Cigarette Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers 
+"Paint, Varnish, and Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers 
+Other Miscellaneous Nondurable Goods Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers 
+Wholesale Trade Agents and Brokers ,Wholesale Trade Agents and Brokers 
+New Car Dealers ,Automobile Dealers 
+Used Car Dealers ,Automobile Dealers 
+Recreational Vehicle Dealers ,Other Motor Vehicle Dealers 
+"Motorcycle, Boat, and Other Motor Vehicle Dealers ",Other Motor Vehicle Dealers 
+Automotive Parts and Accessories Retailers ,"Automotive Parts, Accessories, and Tire Retailers "
+Tire Dealers ,"Automotive Parts, Accessories, and Tire Retailers "
+Home Centers ,Building Material and Supplies Dealers 
+Paint and Wallpaper Retailers ,Building Material and Supplies Dealers 
+Hardware Retailers ,Building Material and Supplies Dealers 
+Other Building Material Dealers ,Building Material and Supplies Dealers 
+Outdoor Power Equipment Retailers ,Lawn and Garden Equipment and Supplies Retailers 
+"Nursery, Garden Center, and Farm Supply Retailers ",Lawn and Garden Equipment and Supplies Retailers 
+Supermarkets and Other Grocery Retailers (except Convenience Retailers) ,Grocery and Convenience Retailers 
+Convenience Retailers and Vending Machine Operators ,Grocery and Convenience Retailers 
+Fruit and Vegetable Retailers ,Specialty Food Retailers 
+Meat Retailers ,Specialty Food Retailers 
+Fish and Seafood Retailers ,Specialty Food Retailers 
+Other Specialty Food Retailers ,Specialty Food Retailers 
+"Beer, Wine, and Liquor Retailers ","Beer, Wine, and Liquor Retailers "
+Furniture Retailers ,Furniture and Home Furnishings Retailers 
+Home Furnishings Retailers ,Furniture and Home Furnishings Retailers 
+Electronics and Appliance Retailers ,Electronics and Appliance Retailers 
+Department Stores ,Department Stores 
+"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ","Warehouse Clubs, Supercenters, and Other General Merchandise Retailers "
+Pharmacies and Drug Retailers ,Health and Personal Care Retailers 
+"Cosmetics, Beauty Supplies, and Perfume Retailers ",Health and Personal Care Retailers 
+Optical Goods Retailers ,Health and Personal Care Retailers 
+Other Health and Personal Care Retailers ,Health and Personal Care Retailers 
+Gasoline Stations with Convenience Stores ,Gasoline Stations 
+Other Gasoline Stations ,Gasoline Stations 
+Fuel Dealers,Fuel Dealers
+Clothing and Clothing Accessories Retailers ,Clothing and Clothing Accessories Retailers 
+Shoe Retailers ,Shoe Retailers 
+Jewelry Retailers ,"Jewelry, Luggage, and Leather Goods Retailers "
+Luggage and Leather Goods Retailers ,"Jewelry, Luggage, and Leather Goods Retailers "
+Sporting Goods Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers "
+"Hobby, Toy, and Game Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers "
+"Sewing, Needlework, and Piece Goods Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers "
+Musical Instrument and Supplies Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers "
+Book Retailers and News Dealers ,Book Retailers and News Dealers 
+Florists ,Florists 
+Office Supplies and Stationery Retailers ,"Office Supplies, Stationery, and Gift Retailers "
+"Gift, Novelty, and Souvenir Retailers ","Office Supplies, Stationery, and Gift Retailers "
+Used Merchandise Retailers ,Used Merchandise Retailers 
+Pet and Pet Supplies Retailers ,Other Miscellaneous Retailers 
+Art Dealers ,Other Miscellaneous Retailers 
+Manufactured (Mobile) Home Dealers ,Other Miscellaneous Retailers 
+All Other Miscellaneous Retailers ,Other Miscellaneous Retailers 
+Scheduled Air Transportation,Scheduled Air Transportation
+Nonscheduled Air Transportation,Nonscheduled Air Transportation
+Rail Transportation,Rail Transportation
+"Deep Sea, Coastal, and Great Lakes Water Transportation","Deep Sea, Coastal, and Great Lakes Water Transportation"
+Inland Water Transportation,Inland Water Transportation
+"General Freight Trucking, Local",General Freight Trucking
+"General Freight Trucking, Long-Distance",General Freight Trucking
+Used Household and Office Goods Moving,Specialized Freight Trucking
+"Specialized Freight (except Used Goods) Trucking, Local",Specialized Freight Trucking
+"Specialized Freight (except Used Goods) Trucking, Long-Distance",Specialized Freight Trucking
+Urban Transit Systems,Urban Transit Systems
+Interurban and Rural Bus Transportation,Interurban and Rural Bus Transportation
+Taxi and Ridesharing Services,Taxi and Limousine Service
+Limousine Service,Taxi and Limousine Service
+School and Employee Bus Transportation,School and Employee Bus Transportation
+Charter Bus Industry,Charter Bus Industry
+Other Transit and Ground Passenger Transportation,Other Transit and Ground Passenger Transportation
+Pipeline Transportation of Crude Oil,Pipeline Transportation of Crude Oil
+Pipeline Transportation of Natural Gas,Pipeline Transportation of Natural Gas
+Pipeline Transportation of Refined Petroleum Products,Other Pipeline Transportation
+All Other Pipeline Transportation,Other Pipeline Transportation
+"Scenic and Sightseeing Transportation, Land","Scenic and Sightseeing Transportation, Land"
+"Scenic and Sightseeing Transportation, Water","Scenic and Sightseeing Transportation, Water"
+"Scenic and Sightseeing Transportation, Other","Scenic and Sightseeing Transportation, Other"
+Airport Operations,Support Activities for Air Transportation
+Other Support Activities for Air Transportation,Support Activities for Air Transportation
+Support Activities for Rail Transportation,Support Activities for Rail Transportation
+Port and Harbor Operations,Support Activities for Water Transportation
+Marine Cargo Handling,Support Activities for Water Transportation
+Navigational Services to Shipping,Support Activities for Water Transportation
+Other Support Activities for Water Transportation,Support Activities for Water Transportation
+Motor Vehicle Towing,Support Activities for Road Transportation
+Other Support Activities for Road Transportation,Support Activities for Road Transportation
+Freight Transportation Arrangement,Freight Transportation Arrangement
+Other Support Activities for Transportation,Other Support Activities for Transportation
+Postal Service,Postal Service
+Couriers and Express Delivery Services,Couriers and Express Delivery Services
+Local Messengers and Local Delivery,Local Messengers and Local Delivery
+General Warehousing and Storage,Warehousing and Storage
+Refrigerated Warehousing and Storage,Warehousing and Storage
+Farm Product Warehousing and Storage,Warehousing and Storage
+Other Warehousing and Storage,Warehousing and Storage
+Motion Picture and Video Production,Motion Picture and Video Industries
+Motion Picture and Video Distribution,Motion Picture and Video Industries
+Motion Picture and Video Exhibition,Motion Picture and Video Industries
+Postproduction Services and Other Motion Picture and Video Industries,Motion Picture and Video Industries
+Music Publishers,Sound Recording Industries
+Sound Recording Studios,Sound Recording Industries
+Record Production and Distribution,Sound Recording Industries
+Other Sound Recording Industries,Sound Recording Industries
+Newspaper Publishers,"Newspaper, Periodical, Book, and Directory Publishers"
+Periodical Publishers,"Newspaper, Periodical, Book, and Directory Publishers"
+Book Publishers,"Newspaper, Periodical, Book, and Directory Publishers"
+Directory and Mailing List Publishers,"Newspaper, Periodical, Book, and Directory Publishers"
+Other Publishers,"Newspaper, Periodical, Book, and Directory Publishers"
+Software Publishers,Software Publishers
+Radio Broadcasting Stations,Radio and Television Broadcasting Stations
+Television Broadcasting Stations,Radio and Television Broadcasting Stations
+"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers","Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"
+Wired and Wireless Telecommunications Carriers (except Satellite),Wired and Wireless Telecommunications (except Satellite)
+Telecommunications Resellers and Agents for Wireless Telecommunication Services,Wired and Wireless Telecommunications (except Satellite)
+Satellite Telecommunications,Satellite Telecommunications
+All Other Telecommunications,All Other Telecommunications
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"
+Libraries and Archives,"Web Search Portals, Libraries, Archives, and Other Information Services"
+Web Search Portals and All Other Information Services,"Web Search Portals, Libraries, Archives, and Other Information Services"
+Monetary Authorities-Central Bank,Monetary Authorities-Central Bank
+Commercial Banking ,Depository Credit Intermediation 
+Credit Unions ,Depository Credit Intermediation 
+Savings Institutions and Other Depository Credit Intermediation ,Depository Credit Intermediation 
+Credit Card Issuing ,Nondepository Credit Intermediation 
+Sales Financing ,Nondepository Credit Intermediation 
+Other Nondepository Credit Intermediation ,Nondepository Credit Intermediation 
+Mortgage and Nonmortgage Loan Brokers ,Activities Related to Credit Intermediation 
+"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",Activities Related to Credit Intermediation 
+Other Activities Related to Credit Intermediation ,Activities Related to Credit Intermediation 
+Investment Banking and Securities Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage
+Commodity Contracts Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage
+Securities and Commodity Exchanges,Securities and Commodity Exchanges
+Miscellaneous Intermediation ,Other Financial Investment Activities
+Portfolio Management and Investment Advice ,Other Financial Investment Activities
+All Other Financial Investment Activities ,Other Financial Investment Activities
+"Direct Life, Health, and Medical Insurance Carriers ",Insurance Carriers
+"Direct Insurance (except Life, Health, and Medical) Carriers ",Insurance Carriers
+Reinsurance Carriers ,Insurance Carriers
+Insurance Agencies and Brokerages ,"Agencies, Brokerages, and Other Insurance Related Activities"
+Other Insurance Related Activities ,"Agencies, Brokerages, and Other Insurance Related Activities"
+Pension Funds ,Insurance and Employee Benefit Funds 
+Health and Welfare Funds ,Insurance and Employee Benefit Funds 
+Other Insurance Funds ,Insurance and Employee Benefit Funds 
+Open-End Investment Funds ,Other Investment Pools and Funds
+"Trusts, Estates, and Agency Accounts ",Other Investment Pools and Funds
+Other Financial Vehicles ,Other Investment Pools and Funds
+Lessors of Residential Buildings and Dwellings ,Lessors of Real Estate
+Lessors of Nonresidential Buildings (except Miniwarehouses) ,Lessors of Real Estate
+Lessors of Miniwarehouses and Self-Storage Units ,Lessors of Real Estate
+Lessors of Other Real Estate Property ,Lessors of Real Estate
+Offices of Real Estate Agents and Brokers,Offices of Real Estate Agents and Brokers
+Real Estate Property Managers ,Activities Related to Real Estate
+Offices of Real Estate Appraisers ,Activities Related to Real Estate
+Other Activities Related to Real Estate ,Activities Related to Real Estate
+Passenger Car Rental and Leasing,Automotive Equipment Rental and Leasing
+"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",Automotive Equipment Rental and Leasing
+Consumer Electronics and Appliances Rental,Consumer Goods Rental
+Other Consumer Goods Rental ,Consumer Goods Rental
+General Rental Centers,General Rental Centers
+"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing",Commercial and Industrial Machinery and Equipment Rental and Leasing
+Office Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing
+Other Commercial and Industrial Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+Offices of Lawyers,Legal Services
+Offices of Notaries,Legal Services
+Other Legal Services,Legal Services
+"Accounting, Tax Preparation, Bookkeeping, and Payroll Services","Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+Architectural Services,"Architectural, Engineering, and Related Services"
+Landscape Architectural Services,"Architectural, Engineering, and Related Services"
+Engineering Services,"Architectural, Engineering, and Related Services"
+Drafting Services,"Architectural, Engineering, and Related Services"
+Building Inspection Services,"Architectural, Engineering, and Related Services"
+Geophysical Surveying and Mapping Services,"Architectural, Engineering, and Related Services"
+Surveying and Mapping (except Geophysical) Services,"Architectural, Engineering, and Related Services"
+Testing Laboratories and Services,"Architectural, Engineering, and Related Services"
+Interior Design Services,Specialized Design Services
+Industrial Design Services,Specialized Design Services
+Graphic Design Services,Specialized Design Services
+Other Specialized Design Services,Specialized Design Services
+Computer Systems Design and Related Services,Computer Systems Design and Related Services
+Management Consulting Services,"Management, Scientific, and Technical Consulting Services"
+Environmental Consulting Services,"Management, Scientific, and Technical Consulting Services"
+Other Scientific and Technical Consulting Services,"Management, Scientific, and Technical Consulting Services"
+"Research and Development in the Physical, Engineering, and Life Sciences",Scientific Research and Development Services
+Research and Development in the Social Sciences and Humanities,Scientific Research and Development Services
+Advertising Agencies,"Advertising, Public Relations, and Related Services"
+Public Relations Agencies,"Advertising, Public Relations, and Related Services"
+Media Buying Agencies,"Advertising, Public Relations, and Related Services"
+Media Representatives,"Advertising, Public Relations, and Related Services"
+Indoor and Outdoor Display Advertising,"Advertising, Public Relations, and Related Services"
+Direct Mail Advertising,"Advertising, Public Relations, and Related Services"
+Advertising Material Distribution Services,"Advertising, Public Relations, and Related Services"
+Other Services Related to Advertising,"Advertising, Public Relations, and Related Services"
+Marketing Research and Public Opinion Polling,"Other Professional, Scientific, and Technical Services"
+Photographic Services,"Other Professional, Scientific, and Technical Services"
+Translation and Interpretation Services,"Other Professional, Scientific, and Technical Services"
+Veterinary Services,"Other Professional, Scientific, and Technical Services"
+"All Other Professional, Scientific, and Technical Services","Other Professional, Scientific, and Technical Services"
+Management of Companies and Enterprises,Management of Companies and Enterprises
+Office Administrative Services,Office Administrative Services
+Facilities Support Services,Facilities Support Services
+Employment Placement Agencies and Executive Search Services,Employment Services
+Temporary Help Services,Employment Services
+Professional Employer Organizations,Employment Services
+Document Preparation Services,Business Support Services
+Telephone Call Centers,Business Support Services
+Business Service Centers,Business Support Services
+Collection Agencies,Business Support Services
+Credit Bureaus,Business Support Services
+Other Business Support Services,Business Support Services
+Travel Agencies,Travel Arrangement and Reservation Services
+Tour Operators,Travel Arrangement and Reservation Services
+Other Travel Arrangement and Reservation Services,Travel Arrangement and Reservation Services
+"Investigation, Guard, and Armored Car Services",Investigation and Security Services
+Security Systems Services,Investigation and Security Services
+Exterminating and Pest Control Services,Services to Buildings and Dwellings
+Janitorial Services,Services to Buildings and Dwellings
+Landscaping Services,Services to Buildings and Dwellings
+Carpet and Upholstery Cleaning Services,Services to Buildings and Dwellings
+Other Services to Buildings and Dwellings,Services to Buildings and Dwellings
+Packaging and Labeling Services,Other Support Services
+Convention and Trade Show Organizers,Other Support Services
+All Other Support Services,Other Support Services
+Waste Collection ,Waste Collection 
+Waste Treatment and Disposal ,Waste Treatment and Disposal 
+Remediation Services ,Remediation and Other Waste Management Services 
+Materials Recovery Facilities ,Remediation and Other Waste Management Services 
+All Other Waste Management Services ,Remediation and Other Waste Management Services 
+Elementary and Secondary Schools ,Elementary and Secondary Schools
+Junior Colleges,Junior Colleges
+"Colleges, Universities, and Professional Schools","Colleges, Universities, and Professional Schools"
+Business and Secretarial Schools,Business Schools and Computer and Management Training
+Computer Training,Business Schools and Computer and Management Training
+Professional and Management Development Training,Business Schools and Computer and Management Training
+Technical and Trade Schools,Technical and Trade Schools 
+Fine Arts Schools,Other Schools and Instruction
+Sports and Recreation Instruction,Other Schools and Instruction
+Language Schools,Other Schools and Instruction
+All Other Schools and Instruction,Other Schools and Instruction
+Educational Support Services,Educational Support Services
+Offices of Physicians,Offices of Physicians
+Offices of Dentists,Offices of Dentists
+Offices of Chiropractors,Offices of Other Health Practitioners
+Offices of Optometrists,Offices of Other Health Practitioners
+Offices of Mental Health Practitioners (except Physicians),Offices of Other Health Practitioners
+"Offices of Physical, Occupational and Speech Therapists, and Audiologists",Offices of Other Health Practitioners
+Offices of All Other Health Practitioners,Offices of Other Health Practitioners
+Family Planning Centers,Outpatient Care Centers
+Outpatient Mental Health and Substance Abuse Centers,Outpatient Care Centers
+Other Outpatient Care Centers,Outpatient Care Centers
+Medical and Diagnostic Laboratories,Medical and Diagnostic Laboratories
+Home Health Care Services,Home Health Care Services
+Ambulance Services,Other Ambulatory Health Care Services
+All Other Ambulatory Health Care Services,Other Ambulatory Health Care Services
+General Medical and Surgical Hospitals,General Medical and Surgical Hospitals
+Psychiatric and Substance Abuse Hospitals,Psychiatric and Substance Abuse Hospitals
+Specialty (except Psychiatric and Substance Abuse) Hospitals,Specialty (except Psychiatric and Substance Abuse) Hospitals
+Nursing Care Facilities (Skilled Nursing Facilities),Nursing Care Facilities (Skilled Nursing Facilities)
+Residential Intellectual and Developmental Disability Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+Residential Mental Health and Substance Abuse Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+Other Residential Care Facilities,Other Residential Care Facilities
+Child and Youth Services,Individual and Family Services
+Services for the Elderly and Persons with Disabilities,Individual and Family Services
+Other Individual and Family Services,Individual and Family Services
+Community Food Services,"Community Food and Housing, and Emergency and Other Relief Services"
+Community Housing Services,"Community Food and Housing, and Emergency and Other Relief Services"
+Emergency and Other Relief Services,"Community Food and Housing, and Emergency and Other Relief Services"
+Vocational Rehabilitation Services,Vocational Rehabilitation Services
+Child Care Services,Child Care Services
+Theater Companies and Dinner Theaters,Performing Arts Companies
+Dance Companies,Performing Arts Companies
+Musical Groups and Artists,Performing Arts Companies
+Other Performing Arts Companies,Performing Arts Companies
+Spectator Sports,Spectator Sports
+"Promoters of Performing Arts, Sports, and Similar Events with Facilities","Promoters of Performing Arts, Sports, and Similar Events"
+"Promoters of Performing Arts, Sports, and Similar Events without Facilities","Promoters of Performing Arts, Sports, and Similar Events"
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+"Independent Artists, Writers, and Performers","Independent Artists, Writers, and Performers"
+Museums,"Museums, Historical Sites, and Similar Institutions"
+Historical Sites,"Museums, Historical Sites, and Similar Institutions"
+Zoos and Botanical Gardens,"Museums, Historical Sites, and Similar Institutions"
+Nature Parks and Other Similar Institutions,"Museums, Historical Sites, and Similar Institutions"
+Amusement and Theme Parks,Amusement Parks and Arcades
+Amusement Arcades,Amusement Parks and Arcades
+Casinos (except Casino Hotels),Gambling Industries
+Other Gambling Industries,Gambling Industries
+Golf Courses and Country Clubs,Other Amusement and Recreation Industries
+Skiing Facilities,Other Amusement and Recreation Industries
+Marinas,Other Amusement and Recreation Industries
+Fitness and Recreational Sports Centers,Other Amusement and Recreation Industries
+Bowling Centers,Other Amusement and Recreation Industries
+All Other Amusement and Recreation Industries,Other Amusement and Recreation Industries
+Hotels (except Casino Hotels) and Motels,Traveler Accommodation
+Casino Hotels,Traveler Accommodation
+Other Traveler Accommodation,Traveler Accommodation
+RV (Recreational Vehicle) Parks and Recreational Camps,RV (Recreational Vehicle) Parks and Recreational Camps
+"Rooming and Boarding Houses, Dormitories, and Workers' Camps","Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+Food Service Contractors,Special Food Services
+Caterers,Special Food Services
+Mobile Food Services,Special Food Services
+Drinking Places (Alcoholic Beverages),Drinking Places (Alcoholic Beverages)
+Restaurants and Other Eating Places,Restaurants and Other Eating Places
+Automotive Mechanical and Electrical Repair and Maintenance,Automotive Repair and Maintenance
+"Automotive Body, Paint, Interior, and Glass Repair",Automotive Repair and Maintenance
+Other Automotive Repair and Maintenance,Automotive Repair and Maintenance
+Electronic and Precision Equipment Repair and Maintenance,Electronic and Precision Equipment Repair and Maintenance
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+Home and Garden Equipment and Appliance Repair and Maintenance,Personal and Household Goods Repair and Maintenance
+Reupholstery and Furniture Repair,Personal and Household Goods Repair and Maintenance
+Footwear and Leather Goods Repair,Personal and Household Goods Repair and Maintenance
+Other Personal and Household Goods Repair and Maintenance,Personal and Household Goods Repair and Maintenance
+"Hair, Nail, and Skin Care Services ",Personal Care Services 
+Other Personal Care Services ,Personal Care Services 
+Funeral Homes and Funeral Services ,Death Care Services 
+Cemeteries and Crematories ,Death Care Services 
+Coin-Operated Laundries and Drycleaners ,Drycleaning and Laundry Services 
+Drycleaning and Laundry Services (except Coin-Operated) ,Drycleaning and Laundry Services 
+Linen and Uniform Supply ,Drycleaning and Laundry Services 
+Pet Care (except Veterinary) Services ,Other Personal Services 
+Photofinishing ,Other Personal Services 
+Parking Lots and Garages ,Other Personal Services 
+All Other Personal Services ,Other Personal Services 
+Religious Organizations ,Religious Organizations 
+Grantmaking and Giving Services ,Grantmaking and Giving Services 
+Social Advocacy Organizations ,Social Advocacy Organizations 
+Civic and Social Organizations ,Civic and Social Organizations 
+Business Associations ,"Business, Professional, Labor, Political, and Similar Organizations "
+Professional Organizations ,"Business, Professional, Labor, Political, and Similar Organizations "
+Labor Unions and Similar Labor Organizations ,"Business, Professional, Labor, Political, and Similar Organizations "
+Political Organizations ,"Business, Professional, Labor, Political, and Similar Organizations "
+"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ","Business, Professional, Labor, Political, and Similar Organizations "
+Private Households,Private Households
+Executive Offices ,"Executive, Legislative, and Other General Government Support "
+Legislative Bodies ,"Executive, Legislative, and Other General Government Support "
+Public Finance Activities ,"Executive, Legislative, and Other General Government Support "
+"Executive and Legislative Offices, Combined ","Executive, Legislative, and Other General Government Support "
+American Indian and Alaska Native Tribal Governments ,"Executive, Legislative, and Other General Government Support "
+Other General Government Support ,"Executive, Legislative, and Other General Government Support "
+Courts ,"Justice, Public Order, and Safety Activities "
+Police Protection ,"Justice, Public Order, and Safety Activities "
+Legal Counsel and Prosecution ,"Justice, Public Order, and Safety Activities "
+Correctional Institutions ,"Justice, Public Order, and Safety Activities "
+Parole Offices and Probation Offices ,"Justice, Public Order, and Safety Activities "
+Fire Protection ,"Justice, Public Order, and Safety Activities "
+"Other Justice, Public Order, and Safety Activities ","Justice, Public Order, and Safety Activities "
+Administration of Education Programs ,Administration of Human Resource Programs 
+Administration of Public Health Programs ,Administration of Human Resource Programs 
+"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ",Administration of Human Resource Programs 
+Administration of Veterans' Affairs ,Administration of Human Resource Programs 
+Administration of Air and Water Resource and Solid Waste Management Programs ,Administration of Environmental Quality Programs 
+Administration of Conservation Programs ,Administration of Environmental Quality Programs 
+Administration of Housing Programs ,"Administration of Housing Programs, Urban Planning, and Community Development "
+Administration of Urban Planning and Community and Rural Development ,"Administration of Housing Programs, Urban Planning, and Community Development "
+Administration of General Economic Programs ,Administration of Economic Programs 
+Regulation and Administration of Transportation Programs ,Administration of Economic Programs 
+"Regulation and Administration of Communications, Electric, Gas, and Other Utilities ",Administration of Economic Programs 
+Regulation of Agricultural Marketing and Commodities ,Administration of Economic Programs 
+"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ",Administration of Economic Programs 
+Space Research and Technology ,Space Research and Technology 
+National Security ,National Security and International Affairs 
+International Affairs ,National Security and International Affairs 
