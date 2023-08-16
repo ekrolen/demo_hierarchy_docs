@@ -1,6 +1,6 @@
-demographic_fields_top_level,parent,source
-Sex,None,Standard Semantic Hierarchy
-Race,None,Standard Semantic Hierarchy
-Ethnicity,None,Standard Semantic Hierarchy
-Age,None,Standard Semantic Hierarchy
-Gender,None,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_heirarchy
+Sex,Top Level Demographic Fields,None,ACS and CPS,Yes
+Race,Top Level Demographic Fields,None,ACS and CPS,Yes
+Ethnicity,Top Level Demographic Fields,None,ACS and CPS,Yes
+Age,Top Level Demographic Fields,None,ACS and CPS,Yes
+Gender,Top Level Demographic Fields,None,ACS and CPS,Yes
