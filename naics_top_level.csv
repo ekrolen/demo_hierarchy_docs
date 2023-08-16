@@ -1,2 +1,2 @@
-NAICS,source
-NAICS,2022 NAICS
+NAICS,parent,concept_name,source,standard_semantic_hierarchy
+NAICS,None,NAICS,2022 NAICS,Yes

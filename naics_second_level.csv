@@ -1,21 +1,21 @@
-sector,naics,source
-"Agriculture, Forestry, Fishing and Hunting",NAICS,2022 NAICS
-"Mining, Quarrying, and Oil and Gas Extraction",NAICS,2022 NAICS
-Utilities,NAICS,2022 NAICS
-Construction,NAICS,2022 NAICS
-Manufacturing,NAICS,2022 NAICS
-Wholesale Trade,NAICS,2022 NAICS
-Retail Trade,NAICS,2022 NAICS
-Transportation and Warehousing,NAICS,2022 NAICS
-Information,NAICS,2022 NAICS
-Finance and Insurance,NAICS,2022 NAICS
-Real Estate and Rental and Leasing,NAICS,2022 NAICS
-"Professional, Scientific, and Technical Services",NAICS,2022 NAICS
-Management of Companies and Enterprises,NAICS,2022 NAICS
-Administrative and Support and Waste Management and Remediation Services,NAICS,2022 NAICS
-Educational Services,NAICS,2022 NAICS
-Health Care and Social Assistance,NAICS,2022 NAICS
-"Arts, Entertainment, and Recreation",NAICS,2022 NAICS
-Accommodation and Food Services,NAICS,2022 NAICS
-Other Services (except Public Administration),NAICS,2022 NAICS
-Public Administration,NAICS,2022 NAICS
+name,parent,concept_name,source,standard_semantic_hierarchy
+"Agriculture, Forestry, Fishing and Hunting",NAICS,Sector,2022 NAICS,Yes
+"Mining, Quarrying, and Oil and Gas Extraction",NAICS,Sector,2022 NAICS,Yes
+Utilities,NAICS,Sector,2022 NAICS,Yes
+Construction,NAICS,Sector,2022 NAICS,Yes
+Manufacturing,NAICS,Sector,2022 NAICS,Yes
+Wholesale Trade,NAICS,Sector,2022 NAICS,Yes
+Retail Trade,NAICS,Sector,2022 NAICS,Yes
+Transportation and Warehousing,NAICS,Sector,2022 NAICS,Yes
+Information,NAICS,Sector,2022 NAICS,Yes
+Finance and Insurance,NAICS,Sector,2022 NAICS,Yes
+Real Estate and Rental and Leasing,NAICS,Sector,2022 NAICS,Yes
+"Professional, Scientific, and Technical Services",NAICS,Sector,2022 NAICS,Yes
+Management of Companies and Enterprises,NAICS,Sector,2022 NAICS,Yes
+Administrative and Support and Waste Management and Remediation Services,NAICS,Sector,2022 NAICS,Yes
+Educational Services,NAICS,Sector,2022 NAICS,Yes
+Health Care and Social Assistance,NAICS,Sector,2022 NAICS,Yes
+"Arts, Entertainment, and Recreation",NAICS,Sector,2022 NAICS,Yes
+Accommodation and Food Services,NAICS,Sector,2022 NAICS,Yes
+Other Services (except Public Administration),NAICS,Sector,2022 NAICS,Yes
+Public Administration,NAICS,Sector,2022 NAICS,Yes

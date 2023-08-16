@@ -1,690 +1,690 @@
-naics_industry,industry_group,source
-Soybean Farming,Oilseed and Grain Farming,2022 NAICS
-Oilseed (except Soybean) Farming,Oilseed and Grain Farming,2022 NAICS
-Dry Pea and Bean Farming,Oilseed and Grain Farming,2022 NAICS
-Wheat Farming,Oilseed and Grain Farming,2022 NAICS
-Corn Farming,Oilseed and Grain Farming,2022 NAICS
-Rice Farming,Oilseed and Grain Farming,2022 NAICS
-Other Grain Farming,Oilseed and Grain Farming,2022 NAICS
-Vegetable and Melon Farming,Vegetable and Melon Farming,2022 NAICS
-Orange Groves,Fruit and Tree Nut Farming,2022 NAICS
-Citrus (except Orange) Groves,Fruit and Tree Nut Farming,2022 NAICS
-Noncitrus Fruit and Tree Nut Farming,Fruit and Tree Nut Farming,2022 NAICS
-Food Crops Grown Under Cover,"Greenhouse, Nursery, and Floriculture Production",2022 NAICS
-Nursery and Floriculture Production,"Greenhouse, Nursery, and Floriculture Production",2022 NAICS
-Tobacco Farming,Other Crop Farming,2022 NAICS
-Cotton Farming,Other Crop Farming,2022 NAICS
-Sugarcane Farming,Other Crop Farming,2022 NAICS
-Hay Farming,Other Crop Farming,2022 NAICS
-All Other Crop Farming,Other Crop Farming,2022 NAICS
-"Beef Cattle Ranching and Farming, including Feedlots",Cattle Ranching and Farming,2022 NAICS
-Dairy Cattle and Milk Production,Cattle Ranching and Farming,2022 NAICS
-Dual-Purpose Cattle Ranching and Farming,Cattle Ranching and Farming,2022 NAICS
-Hog and Pig Farming,Hog and Pig Farming,2022 NAICS
-Chicken Egg Production,Poultry and Egg Production,2022 NAICS
-Broilers and Other Meat Type Chicken Production,Poultry and Egg Production,2022 NAICS
-Turkey Production,Poultry and Egg Production,2022 NAICS
-Poultry Hatcheries,Poultry and Egg Production,2022 NAICS
-Other Poultry Production,Poultry and Egg Production,2022 NAICS
-Sheep Farming,Sheep and Goat Farming,2022 NAICS
-Goat Farming,Sheep and Goat Farming,2022 NAICS
-Aquaculture,Aquaculture,2022 NAICS
-Apiculture,Other Animal Production,2022 NAICS
-Horses and Other Equine Production,Other Animal Production,2022 NAICS
-Fur-Bearing Animal and Rabbit Production,Other Animal Production,2022 NAICS
-All Other Animal Production,Other Animal Production,2022 NAICS
-Timber Tract Operations,Timber Tract Operations,2022 NAICS
-Forest Nurseries and Gathering of Forest Products,Forest Nurseries and Gathering of Forest Products,2022 NAICS
-Logging,Logging,2022 NAICS
-Fishing,Fishing,2022 NAICS
-Hunting and Trapping,Hunting and Trapping,2022 NAICS
-Support Activities for Crop Production,Support Activities for Crop Production,2022 NAICS
-Support Activities for Animal Production,Support Activities for Animal Production,2022 NAICS
-Support Activities for Forestry,Support Activities for Forestry,2022 NAICS
-Crude Petroleum Extraction ,Oil and Gas Extraction,2022 NAICS
-Natural Gas Extraction ,Oil and Gas Extraction,2022 NAICS
-Coal Mining,Coal Mining,2022 NAICS
-Iron Ore Mining,Metal Ore Mining,2022 NAICS
-Gold Ore and Silver Ore Mining,Metal Ore Mining,2022 NAICS
-"Copper, Nickel, Lead, and Zinc Mining",Metal Ore Mining,2022 NAICS
-Other Metal Ore Mining,Metal Ore Mining,2022 NAICS
-Stone Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying,2022 NAICS
-"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying",Nonmetallic Mineral Mining and Quarrying,2022 NAICS
-Other Nonmetallic Mineral Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying,2022 NAICS
-Support Activities for Mining,Support Activities for Mining,2022 NAICS
-Electric Power Generation ,"Electric Power Generation, Transmission and Distribution",2022 NAICS
-"Electric Power Transmission, Control, and Distribution ","Electric Power Generation, Transmission and Distribution",2022 NAICS
-Natural Gas Distribution ,Natural Gas Distribution ,2022 NAICS
-Water Supply and Irrigation Systems ,"Water, Sewage and Other Systems ",2022 NAICS
-Sewage Treatment Facilities ,"Water, Sewage and Other Systems ",2022 NAICS
-Steam and Air-Conditioning Supply ,"Water, Sewage and Other Systems ",2022 NAICS
-Residential Building Construction,Residential Building Construction,2022 NAICS
-Industrial Building Construction,Nonresidential Building Construction,2022 NAICS
-Commercial and Institutional Building Construction,Nonresidential Building Construction,2022 NAICS
-Water and Sewer Line and Related Structures Construction,Utility System Construction,2022 NAICS
-Oil and Gas Pipeline and Related Structures Construction,Utility System Construction,2022 NAICS
-Power and Communication Line and Related Structures Construction,Utility System Construction,2022 NAICS
-Land Subdivision,Land Subdivision,2022 NAICS
-"Highway, Street, and Bridge Construction","Highway, Street, and Bridge Construction",2022 NAICS
-Other Heavy and Civil Engineering Construction,Other Heavy and Civil Engineering Construction,2022 NAICS
-Poured Concrete Foundation and Structure Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Structural Steel and Precast Concrete Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Framing Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Masonry Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Glass and Glazing Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Roofing Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Siding Contractors ,"Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-"Other Foundation, Structure, and Building Exterior Contractors ","Foundation, Structure, and Building Exterior Contractors",2022 NAICS
-Electrical Contractors and Other Wiring Installation Contractors,Building Equipment Contractors,2022 NAICS
-"Plumbing, Heating, and Air-Conditioning Contractors",Building Equipment Contractors,2022 NAICS
-Other Building Equipment Contractors,Building Equipment Contractors,2022 NAICS
-Drywall and Insulation Contractors,Building Finishing Contractors,2022 NAICS
-Painting and Wall Covering Contractors,Building Finishing Contractors,2022 NAICS
-Flooring Contractors,Building Finishing Contractors,2022 NAICS
-Tile and Terrazzo Contractors,Building Finishing Contractors,2022 NAICS
-Finish Carpentry Contractors,Building Finishing Contractors,2022 NAICS
-Other Building Finishing Contractors,Building Finishing Contractors,2022 NAICS
-Site Preparation Contractors,Other Specialty Trade Contractors,2022 NAICS
-All Other Specialty Trade Contractors,Other Specialty Trade Contractors,2022 NAICS
-Animal Food Manufacturing,Animal Food Manufacturing,2022 NAICS
-Flour Milling and Malt Manufacturing,Grain and Oilseed Milling,2022 NAICS
-Starch and Vegetable Fats and Oils Manufacturing,Grain and Oilseed Milling,2022 NAICS
-Breakfast Cereal Manufacturing,Grain and Oilseed Milling,2022 NAICS
-Sugar Manufacturing,Sugar and Confectionery Product Manufacturing,2022 NAICS
-Nonchocolate Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing,2022 NAICS
-Chocolate and Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing,2022 NAICS
-Frozen Food Manufacturing,Fruit and Vegetable Preserving and Specialty Food Manufacturing,2022 NAICS
-"Fruit and Vegetable Canning, Pickling, and Drying",Fruit and Vegetable Preserving and Specialty Food Manufacturing,2022 NAICS
-Dairy Product (except Frozen) Manufacturing,Dairy Product Manufacturing,2022 NAICS
-Ice Cream and Frozen Dessert Manufacturing,Dairy Product Manufacturing,2022 NAICS
-Animal Slaughtering and Processing,Animal Slaughtering and Processing,2022 NAICS
-Seafood Product Preparation and Packaging,Seafood Product Preparation and Packaging,2022 NAICS
-Bread and Bakery Product Manufacturing,Bakeries and Tortilla Manufacturing,2022 NAICS
-"Cookie, Cracker, and Pasta Manufacturing",Bakeries and Tortilla Manufacturing,2022 NAICS
-Tortilla Manufacturing,Bakeries and Tortilla Manufacturing,2022 NAICS
-Snack Food Manufacturing,Other Food Manufacturing,2022 NAICS
-Coffee and Tea Manufacturing,Other Food Manufacturing,2022 NAICS
-Flavoring Syrup and Concentrate Manufacturing,Other Food Manufacturing,2022 NAICS
-Seasoning and Dressing Manufacturing,Other Food Manufacturing,2022 NAICS
-All Other Food Manufacturing,Other Food Manufacturing,2022 NAICS
-Soft Drink and Ice Manufacturing,Beverage Manufacturing,2022 NAICS
-Breweries,Beverage Manufacturing,2022 NAICS
-Wineries,Beverage Manufacturing,2022 NAICS
-Distilleries,Beverage Manufacturing,2022 NAICS
-Tobacco Manufacturing,Tobacco Manufacturing,2022 NAICS
-"Fiber, Yarn, and Thread Mills","Fiber, Yarn, and Thread Mills",2022 NAICS
-Broadwoven Fabric Mills,Fabric Mills,2022 NAICS
-Narrow Fabric Mills and Schiffli Machine Embroidery,Fabric Mills,2022 NAICS
-Nonwoven Fabric Mills,Fabric Mills,2022 NAICS
-Knit Fabric Mills,Fabric Mills,2022 NAICS
-Textile and Fabric Finishing Mills,Textile and Fabric Finishing and Fabric Coating Mills,2022 NAICS
-Fabric Coating Mills,Textile and Fabric Finishing and Fabric Coating Mills,2022 NAICS
-Carpet and Rug Mills,Textile Furnishings Mills,2022 NAICS
-Curtain and Linen Mills,Textile Furnishings Mills,2022 NAICS
-Textile Bag and Canvas Mills,Other Textile Product Mills,2022 NAICS
-All Other Textile Product Mills,Other Textile Product Mills,2022 NAICS
-Apparel Knitting Mills,Apparel Knitting Mills,2022 NAICS
-Cut and Sew Apparel Contractors ,Cut and Sew Apparel Manufacturing,2022 NAICS
-Cut and Sew Apparel Manufacturing (except Contractors) ,Cut and Sew Apparel Manufacturing,2022 NAICS
-Apparel Accessories and Other Apparel Manufacturing,Apparel Accessories and Other Apparel Manufacturing,2022 NAICS
-Leather and Hide Tanning and Finishing,Leather and Hide Tanning and Finishing,2022 NAICS
-Footwear Manufacturing,Footwear Manufacturing,2022 NAICS
-Other Leather and Allied Product Manufacturing,Other Leather and Allied Product Manufacturing,2022 NAICS
-Sawmills and Wood Preservation,Sawmills and Wood Preservation,2022 NAICS
-"Veneer, Plywood, and Engineered Wood Product Manufacturing","Veneer, Plywood, and Engineered Wood Product Manufacturing",2022 NAICS
-Millwork,Other Wood Product Manufacturing,2022 NAICS
-Wood Container and Pallet Manufacturing,Other Wood Product Manufacturing,2022 NAICS
-All Other Wood Product Manufacturing,Other Wood Product Manufacturing,2022 NAICS
-Pulp Mills,"Pulp, Paper, and Paperboard Mills",2022 NAICS
-Paper Mills,"Pulp, Paper, and Paperboard Mills",2022 NAICS
-Paperboard Mills,"Pulp, Paper, and Paperboard Mills",2022 NAICS
-Paperboard Container Manufacturing,Converted Paper Product Manufacturing,2022 NAICS
-Paper Bag and Coated and Treated Paper Manufacturing,Converted Paper Product Manufacturing,2022 NAICS
-Stationery Product Manufacturing,Converted Paper Product Manufacturing,2022 NAICS
-Other Converted Paper Product Manufacturing,Converted Paper Product Manufacturing,2022 NAICS
-Printing,Printing and Related Support Activities,2022 NAICS
-Support Activities for Printing,Printing and Related Support Activities,2022 NAICS
-Petroleum Refineries,Petroleum and Coal Products Manufacturing,2022 NAICS
-"Asphalt Paving, Roofing, and Saturated Materials Manufacturing",Petroleum and Coal Products Manufacturing,2022 NAICS
-Other Petroleum and Coal Products Manufacturing,Petroleum and Coal Products Manufacturing,2022 NAICS
-Petrochemical Manufacturing,Basic Chemical Manufacturing,2022 NAICS
-Industrial Gas Manufacturing,Basic Chemical Manufacturing,2022 NAICS
-Synthetic Dye and Pigment Manufacturing,Basic Chemical Manufacturing,2022 NAICS
-Other Basic Inorganic Chemical Manufacturing,Basic Chemical Manufacturing,2022 NAICS
-Other Basic Organic Chemical Manufacturing,Basic Chemical Manufacturing,2022 NAICS
-Resin and Synthetic Rubber Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",2022 NAICS
-Artificial and Synthetic Fibers and Filaments Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",2022 NAICS
-Fertilizer and Compost Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",2022 NAICS
-Pesticide and Other Agricultural Chemical Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",2022 NAICS
-Pharmaceutical and Medicine Manufacturing,Pharmaceutical and Medicine Manufacturing,2022 NAICS
-Paint and Coating Manufacturing,"Paint, Coating, and Adhesive Manufacturing",2022 NAICS
-Adhesive Manufacturing,"Paint, Coating, and Adhesive Manufacturing",2022 NAICS
-Soap and Cleaning Compound Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",2022 NAICS
-Toilet Preparation Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",2022 NAICS
-Printing Ink Manufacturing,Other Chemical Product and Preparation Manufacturing,2022 NAICS
-Explosives Manufacturing,Other Chemical Product and Preparation Manufacturing,2022 NAICS
-All Other Chemical Product and Preparation Manufacturing,Other Chemical Product and Preparation Manufacturing,2022 NAICS
-Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing,Plastics Product Manufacturing,2022 NAICS
-"Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",Plastics Product Manufacturing,2022 NAICS
-"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Plastics Product Manufacturing,2022 NAICS
-Polystyrene Foam Product Manufacturing,Plastics Product Manufacturing,2022 NAICS
-Urethane and Other Foam Product (except Polystyrene) Manufacturing,Plastics Product Manufacturing,2022 NAICS
-Plastics Bottle Manufacturing,Plastics Product Manufacturing,2022 NAICS
-Other Plastics Product Manufacturing,Plastics Product Manufacturing,2022 NAICS
-Tire Manufacturing,Rubber Product Manufacturing,2022 NAICS
-Rubber and Plastics Hoses and Belting Manufacturing,Rubber Product Manufacturing,2022 NAICS
-Other Rubber Product Manufacturing,Rubber Product Manufacturing,2022 NAICS
-"Pottery, Ceramics, and Plumbing Fixture Manufacturing",Clay Product and Refractory Manufacturing,2022 NAICS
-Clay Building Material and Refractories Manufacturing,Clay Product and Refractory Manufacturing,2022 NAICS
-Glass and Glass Product Manufacturing,Glass and Glass Product Manufacturing,2022 NAICS
-Cement Manufacturing,Cement and Concrete Product Manufacturing,2022 NAICS
-Ready-Mix Concrete Manufacturing,Cement and Concrete Product Manufacturing,2022 NAICS
-"Concrete Pipe, Brick, and Block Manufacturing",Cement and Concrete Product Manufacturing,2022 NAICS
-Other Concrete Product Manufacturing,Cement and Concrete Product Manufacturing,2022 NAICS
-Lime Manufacturing,Lime and Gypsum Product Manufacturing,2022 NAICS
-Gypsum Product Manufacturing,Lime and Gypsum Product Manufacturing,2022 NAICS
-Abrasive Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing,2022 NAICS
-All Other Nonmetallic Mineral Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing,2022 NAICS
-Iron and Steel Mills and Ferroalloy Manufacturing,Iron and Steel Mills and Ferroalloy Manufacturing,2022 NAICS
-Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Steel Product Manufacturing from Purchased Steel,2022 NAICS
-Rolling and Drawing of Purchased Steel,Steel Product Manufacturing from Purchased Steel,2022 NAICS
-Alumina and Aluminum Production and Processing,Alumina and Aluminum Production and Processing,2022 NAICS
-Nonferrous Metal (except Aluminum) Smelting and Refining,Nonferrous Metal (except Aluminum) Production and Processing,2022 NAICS
-"Copper Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing,2022 NAICS
-"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing,2022 NAICS
-Ferrous Metal Foundries,Foundries,2022 NAICS
-Nonferrous Metal Foundries,Foundries,2022 NAICS
-Forging and Stamping,Forging and Stamping,2022 NAICS
-Cutlery and Handtool Manufacturing,Cutlery and Handtool Manufacturing,2022 NAICS
-Plate Work and Fabricated Structural Product Manufacturing,Architectural and Structural Metals Manufacturing,2022 NAICS
-Ornamental and Architectural Metal Products Manufacturing,Architectural and Structural Metals Manufacturing,2022 NAICS
-Power Boiler and Heat Exchanger Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing",2022 NAICS
-Metal Tank (Heavy Gauge) Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing",2022 NAICS
-"Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing","Boiler, Tank, and Shipping Container Manufacturing",2022 NAICS
-Hardware Manufacturing,Hardware Manufacturing,2022 NAICS
-Spring and Wire Product Manufacturing,Spring and Wire Product Manufacturing,2022 NAICS
-Machine Shops,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",2022 NAICS
-"Turned Product and Screw, Nut, and Bolt Manufacturing","Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",2022 NAICS
-"Coating, Engraving, Heat Treating, and Allied Activities","Coating, Engraving, Heat Treating, and Allied Activities",2022 NAICS
-Metal Valve Manufacturing,Other Fabricated Metal Product Manufacturing,2022 NAICS
-All Other Fabricated Metal Product Manufacturing,Other Fabricated Metal Product Manufacturing,2022 NAICS
-Agricultural Implement Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",2022 NAICS
-Construction Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",2022 NAICS
-Mining and Oil and Gas Field Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",2022 NAICS
-Industrial Machinery Manufacturing,Industrial Machinery Manufacturing,2022 NAICS
-Commercial and Service Industry Machinery Manufacturing,Commercial and Service Industry Machinery Manufacturing,2022 NAICS
-"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing","Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",2022 NAICS
-Metalworking Machinery Manufacturing,Metalworking Machinery Manufacturing,2022 NAICS
-"Engine, Turbine, and Power Transmission Equipment Manufacturing","Engine, Turbine, and Power Transmission Equipment Manufacturing",2022 NAICS
-Pump and Compressor Manufacturing,Other General Purpose Machinery Manufacturing,2022 NAICS
-Material Handling Equipment Manufacturing,Other General Purpose Machinery Manufacturing,2022 NAICS
-All Other General Purpose Machinery Manufacturing,Other General Purpose Machinery Manufacturing,2022 NAICS
-Computer and Peripheral Equipment Manufacturing,Computer and Peripheral Equipment Manufacturing,2022 NAICS
-Telephone Apparatus Manufacturing,Communications Equipment Manufacturing,2022 NAICS
-Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Communications Equipment Manufacturing,2022 NAICS
-Other Communications Equipment Manufacturing,Communications Equipment Manufacturing,2022 NAICS
-Audio and Video Equipment Manufacturing,Audio and Video Equipment Manufacturing,2022 NAICS
-Semiconductor and Other Electronic Component Manufacturing,Semiconductor and Other Electronic Component Manufacturing,2022 NAICS
-"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing","Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",2022 NAICS
-Manufacturing and Reproducing Magnetic and Optical Media,Manufacturing and Reproducing Magnetic and Optical Media,2022 NAICS
-Electric Lighting Equipment Manufacturing,Electric Lighting Equipment Manufacturing,2022 NAICS
-Small Electrical Appliance Manufacturing,Household Appliance Manufacturing,2022 NAICS
-Major Household Appliance Manufacturing ,Household Appliance Manufacturing,2022 NAICS
-Electrical Equipment Manufacturing,Electrical Equipment Manufacturing,2022 NAICS
-Battery Manufacturing,Other Electrical Equipment and Component Manufacturing,2022 NAICS
-Communication and Energy Wire and Cable Manufacturing,Other Electrical Equipment and Component Manufacturing,2022 NAICS
-Wiring Device Manufacturing,Other Electrical Equipment and Component Manufacturing,2022 NAICS
-All Other Electrical Equipment and Component Manufacturing,Other Electrical Equipment and Component Manufacturing,2022 NAICS
-Automobile and Light Duty Motor Vehicle Manufacturing,Motor Vehicle Manufacturing,2022 NAICS
-Heavy Duty Truck Manufacturing,Motor Vehicle Manufacturing,2022 NAICS
-Motor Vehicle Body and Trailer Manufacturing,Motor Vehicle Body and Trailer Manufacturing,2022 NAICS
-Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Electrical and Electronic Equipment Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Brake System Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Transmission and Power Train Parts Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Seating and Interior Trim Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Motor Vehicle Metal Stamping,Motor Vehicle Parts Manufacturing,2022 NAICS
-Other Motor Vehicle Parts Manufacturing,Motor Vehicle Parts Manufacturing,2022 NAICS
-Aerospace Product and Parts Manufacturing,Aerospace Product and Parts Manufacturing,2022 NAICS
-Railroad Rolling Stock Manufacturing,Railroad Rolling Stock Manufacturing,2022 NAICS
-Ship and Boat Building,Ship and Boat Building,2022 NAICS
-Other Transportation Equipment Manufacturing,Other Transportation Equipment Manufacturing,2022 NAICS
-Wood Kitchen Cabinet and Countertop Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,2022 NAICS
-Household and Institutional Furniture Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,2022 NAICS
-Office Furniture (including Fixtures) Manufacturing,Office Furniture (including Fixtures) Manufacturing,2022 NAICS
-Mattress Manufacturing,Other Furniture Related Product Manufacturing,2022 NAICS
-Blind and Shade Manufacturing,Other Furniture Related Product Manufacturing,2022 NAICS
-Medical Equipment and Supplies Manufacturing,Medical Equipment and Supplies Manufacturing,2022 NAICS
-Jewelry and Silverware Manufacturing,Other Miscellaneous Manufacturing,2022 NAICS
-Sporting and Athletic Goods Manufacturing,Other Miscellaneous Manufacturing,2022 NAICS
-"Doll, Toy, and Game Manufacturing",Other Miscellaneous Manufacturing,2022 NAICS
-Office Supplies (except Paper) Manufacturing,Other Miscellaneous Manufacturing,2022 NAICS
-Sign Manufacturing,Other Miscellaneous Manufacturing,2022 NAICS
-All Other Miscellaneous Manufacturing,Other Miscellaneous Manufacturing,2022 NAICS
-Automobile and Other Motor Vehicle Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,2022 NAICS
-Motor Vehicle Supplies and New Parts Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,2022 NAICS
-Tire and Tube Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,2022 NAICS
-Motor Vehicle Parts (Used) Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,2022 NAICS
-Furniture Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers ,2022 NAICS
-Home Furnishing Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers ,2022 NAICS
-"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,2022 NAICS
-"Brick, Stone, and Related Construction Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,2022 NAICS
-"Roofing, Siding, and Insulation Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,2022 NAICS
-Other Construction Material Merchant Wholesalers ,Lumber and Other Construction Materials Merchant Wholesalers ,2022 NAICS
-Photographic Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Office Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Other Commercial Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ",Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Ophthalmic Goods Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Other Professional Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,2022 NAICS
-Metal Service Centers and Other Metal Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers ,2022 NAICS
-Coal and Other Mineral and Ore Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers ,2022 NAICS
-"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,2022 NAICS
-"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,2022 NAICS
-Other Electronic Parts and Equipment Merchant Wholesalers ,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,2022 NAICS
-Hardware Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",2022 NAICS
-Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",2022 NAICS
-Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",2022 NAICS
-Refrigeration Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",2022 NAICS
-Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Farm and Garden Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Industrial Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Industrial Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Service Establishment Equipment and Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",2022 NAICS
-Sporting and Recreational Goods and Supplies Merchant Wholesalers,Miscellaneous Durable Goods Merchant Wholesalers ,2022 NAICS
-Toy and Hobby Goods and Supplies Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,2022 NAICS
-Recyclable Material Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,2022 NAICS
-"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ",Miscellaneous Durable Goods Merchant Wholesalers ,2022 NAICS
-Other Miscellaneous Durable Goods Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,2022 NAICS
-Printing and Writing Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,2022 NAICS
-Stationery and Office Supplies Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,2022 NAICS
-Industrial and Personal Service Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,2022 NAICS
-Drugs and Druggists' Sundries Merchant Wholesalers ,Drugs and Druggists' Sundries Merchant Wholesalers ,2022 NAICS
-"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ","Apparel, Piece Goods, and Notions Merchant Wholesalers ",2022 NAICS
-Footwear Merchant Wholesalers ,"Apparel, Piece Goods, and Notions Merchant Wholesalers ",2022 NAICS
-Clothing and Clothing Accessories Merchant Wholesalers,"Apparel, Piece Goods, and Notions Merchant Wholesalers ",2022 NAICS
-General Line Grocery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Packaged Frozen Food Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Dairy Product (except Dried or Canned) Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Poultry and Poultry Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Confectionery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Fish and Seafood Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Meat and Meat Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Fresh Fruit and Vegetable Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Other Grocery and Related Products Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,2022 NAICS
-Grain and Field Bean Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,2022 NAICS
-Livestock Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,2022 NAICS
-Other Farm Product Raw Material Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,2022 NAICS
-Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers ,2022 NAICS
-Other Chemical and Allied Products Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers ,2022 NAICS
-Petroleum Bulk Stations and Terminals ,Petroleum and Petroleum Products Merchant Wholesalers ,2022 NAICS
-Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ,Petroleum and Petroleum Products Merchant Wholesalers ,2022 NAICS
-Beer and Ale Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers ",2022 NAICS
-Wine and Distilled Alcoholic Beverage Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers ",2022 NAICS
-Farm Supplies Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-"Book, Periodical, and Newspaper Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-Tobacco Product and Electronic Cigarette Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-"Paint, Varnish, and Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-Other Miscellaneous Nondurable Goods Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,2022 NAICS
-Wholesale Trade Agents and Brokers ,Wholesale Trade Agents and Brokers ,2022 NAICS
-New Car Dealers ,Automobile Dealers ,2022 NAICS
-Used Car Dealers ,Automobile Dealers ,2022 NAICS
-Recreational Vehicle Dealers ,Other Motor Vehicle Dealers ,2022 NAICS
-"Motorcycle, Boat, and Other Motor Vehicle Dealers ",Other Motor Vehicle Dealers ,2022 NAICS
-Automotive Parts and Accessories Retailers ,"Automotive Parts, Accessories, and Tire Retailers ",2022 NAICS
-Tire Dealers ,"Automotive Parts, Accessories, and Tire Retailers ",2022 NAICS
-Home Centers ,Building Material and Supplies Dealers ,2022 NAICS
-Paint and Wallpaper Retailers ,Building Material and Supplies Dealers ,2022 NAICS
-Hardware Retailers ,Building Material and Supplies Dealers ,2022 NAICS
-Other Building Material Dealers ,Building Material and Supplies Dealers ,2022 NAICS
-Outdoor Power Equipment Retailers ,Lawn and Garden Equipment and Supplies Retailers ,2022 NAICS
-"Nursery, Garden Center, and Farm Supply Retailers ",Lawn and Garden Equipment and Supplies Retailers ,2022 NAICS
-Supermarkets and Other Grocery Retailers (except Convenience Retailers) ,Grocery and Convenience Retailers ,2022 NAICS
-Convenience Retailers and Vending Machine Operators ,Grocery and Convenience Retailers ,2022 NAICS
-Fruit and Vegetable Retailers ,Specialty Food Retailers ,2022 NAICS
-Meat Retailers ,Specialty Food Retailers ,2022 NAICS
-Fish and Seafood Retailers ,Specialty Food Retailers ,2022 NAICS
-Other Specialty Food Retailers ,Specialty Food Retailers ,2022 NAICS
-"Beer, Wine, and Liquor Retailers ","Beer, Wine, and Liquor Retailers ",2022 NAICS
-Furniture Retailers ,Furniture and Home Furnishings Retailers ,2022 NAICS
-Home Furnishings Retailers ,Furniture and Home Furnishings Retailers ,2022 NAICS
-Electronics and Appliance Retailers ,Electronics and Appliance Retailers ,2022 NAICS
-Department Stores ,Department Stores ,2022 NAICS
-"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ","Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ",2022 NAICS
-Pharmacies and Drug Retailers ,Health and Personal Care Retailers ,2022 NAICS
-"Cosmetics, Beauty Supplies, and Perfume Retailers ",Health and Personal Care Retailers ,2022 NAICS
-Optical Goods Retailers ,Health and Personal Care Retailers ,2022 NAICS
-Other Health and Personal Care Retailers ,Health and Personal Care Retailers ,2022 NAICS
-Gasoline Stations with Convenience Stores ,Gasoline Stations ,2022 NAICS
-Other Gasoline Stations ,Gasoline Stations ,2022 NAICS
-Fuel Dealers,Fuel Dealers,2022 NAICS
-Clothing and Clothing Accessories Retailers ,Clothing and Clothing Accessories Retailers ,2022 NAICS
-Shoe Retailers ,Shoe Retailers ,2022 NAICS
-Jewelry Retailers ,"Jewelry, Luggage, and Leather Goods Retailers ",2022 NAICS
-Luggage and Leather Goods Retailers ,"Jewelry, Luggage, and Leather Goods Retailers ",2022 NAICS
-Sporting Goods Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers ",2022 NAICS
-"Hobby, Toy, and Game Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers ",2022 NAICS
-"Sewing, Needlework, and Piece Goods Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers ",2022 NAICS
-Musical Instrument and Supplies Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers ",2022 NAICS
-Book Retailers and News Dealers ,Book Retailers and News Dealers ,2022 NAICS
-Florists ,Florists ,2022 NAICS
-Office Supplies and Stationery Retailers ,"Office Supplies, Stationery, and Gift Retailers ",2022 NAICS
-"Gift, Novelty, and Souvenir Retailers ","Office Supplies, Stationery, and Gift Retailers ",2022 NAICS
-Used Merchandise Retailers ,Used Merchandise Retailers ,2022 NAICS
-Pet and Pet Supplies Retailers ,Other Miscellaneous Retailers ,2022 NAICS
-Art Dealers ,Other Miscellaneous Retailers ,2022 NAICS
-Manufactured (Mobile) Home Dealers ,Other Miscellaneous Retailers ,2022 NAICS
-All Other Miscellaneous Retailers ,Other Miscellaneous Retailers ,2022 NAICS
-Scheduled Air Transportation,Scheduled Air Transportation,2022 NAICS
-Nonscheduled Air Transportation,Nonscheduled Air Transportation,2022 NAICS
-Rail Transportation,Rail Transportation,2022 NAICS
-"Deep Sea, Coastal, and Great Lakes Water Transportation","Deep Sea, Coastal, and Great Lakes Water Transportation",2022 NAICS
-Inland Water Transportation,Inland Water Transportation,2022 NAICS
-"General Freight Trucking, Local",General Freight Trucking,2022 NAICS
-"General Freight Trucking, Long-Distance",General Freight Trucking,2022 NAICS
-Used Household and Office Goods Moving,Specialized Freight Trucking,2022 NAICS
-"Specialized Freight (except Used Goods) Trucking, Local",Specialized Freight Trucking,2022 NAICS
-"Specialized Freight (except Used Goods) Trucking, Long-Distance",Specialized Freight Trucking,2022 NAICS
-Urban Transit Systems,Urban Transit Systems,2022 NAICS
-Interurban and Rural Bus Transportation,Interurban and Rural Bus Transportation,2022 NAICS
-Taxi and Ridesharing Services,Taxi and Limousine Service,2022 NAICS
-Limousine Service,Taxi and Limousine Service,2022 NAICS
-School and Employee Bus Transportation,School and Employee Bus Transportation,2022 NAICS
-Charter Bus Industry,Charter Bus Industry,2022 NAICS
-Other Transit and Ground Passenger Transportation,Other Transit and Ground Passenger Transportation,2022 NAICS
-Pipeline Transportation of Crude Oil,Pipeline Transportation of Crude Oil,2022 NAICS
-Pipeline Transportation of Natural Gas,Pipeline Transportation of Natural Gas,2022 NAICS
-Pipeline Transportation of Refined Petroleum Products,Other Pipeline Transportation,2022 NAICS
-All Other Pipeline Transportation,Other Pipeline Transportation,2022 NAICS
-"Scenic and Sightseeing Transportation, Land","Scenic and Sightseeing Transportation, Land",2022 NAICS
-"Scenic and Sightseeing Transportation, Water","Scenic and Sightseeing Transportation, Water",2022 NAICS
-"Scenic and Sightseeing Transportation, Other","Scenic and Sightseeing Transportation, Other",2022 NAICS
-Airport Operations,Support Activities for Air Transportation,2022 NAICS
-Other Support Activities for Air Transportation,Support Activities for Air Transportation,2022 NAICS
-Support Activities for Rail Transportation,Support Activities for Rail Transportation,2022 NAICS
-Port and Harbor Operations,Support Activities for Water Transportation,2022 NAICS
-Marine Cargo Handling,Support Activities for Water Transportation,2022 NAICS
-Navigational Services to Shipping,Support Activities for Water Transportation,2022 NAICS
-Other Support Activities for Water Transportation,Support Activities for Water Transportation,2022 NAICS
-Motor Vehicle Towing,Support Activities for Road Transportation,2022 NAICS
-Other Support Activities for Road Transportation,Support Activities for Road Transportation,2022 NAICS
-Freight Transportation Arrangement,Freight Transportation Arrangement,2022 NAICS
-Other Support Activities for Transportation,Other Support Activities for Transportation,2022 NAICS
-Postal Service,Postal Service,2022 NAICS
-Couriers and Express Delivery Services,Couriers and Express Delivery Services,2022 NAICS
-Local Messengers and Local Delivery,Local Messengers and Local Delivery,2022 NAICS
-General Warehousing and Storage,Warehousing and Storage,2022 NAICS
-Refrigerated Warehousing and Storage,Warehousing and Storage,2022 NAICS
-Farm Product Warehousing and Storage,Warehousing and Storage,2022 NAICS
-Other Warehousing and Storage,Warehousing and Storage,2022 NAICS
-Motion Picture and Video Production,Motion Picture and Video Industries,2022 NAICS
-Motion Picture and Video Distribution,Motion Picture and Video Industries,2022 NAICS
-Motion Picture and Video Exhibition,Motion Picture and Video Industries,2022 NAICS
-Postproduction Services and Other Motion Picture and Video Industries,Motion Picture and Video Industries,2022 NAICS
-Music Publishers,Sound Recording Industries,2022 NAICS
-Sound Recording Studios,Sound Recording Industries,2022 NAICS
-Record Production and Distribution,Sound Recording Industries,2022 NAICS
-Other Sound Recording Industries,Sound Recording Industries,2022 NAICS
-Newspaper Publishers,"Newspaper, Periodical, Book, and Directory Publishers",2022 NAICS
-Periodical Publishers,"Newspaper, Periodical, Book, and Directory Publishers",2022 NAICS
-Book Publishers,"Newspaper, Periodical, Book, and Directory Publishers",2022 NAICS
-Directory and Mailing List Publishers,"Newspaper, Periodical, Book, and Directory Publishers",2022 NAICS
-Other Publishers,"Newspaper, Periodical, Book, and Directory Publishers",2022 NAICS
-Software Publishers,Software Publishers,2022 NAICS
-Radio Broadcasting Stations,Radio and Television Broadcasting Stations,2022 NAICS
-Television Broadcasting Stations,Radio and Television Broadcasting Stations,2022 NAICS
-"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers","Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",2022 NAICS
-Wired and Wireless Telecommunications Carriers (except Satellite),Wired and Wireless Telecommunications (except Satellite),2022 NAICS
-Telecommunications Resellers and Agents for Wireless Telecommunication Services,Wired and Wireless Telecommunications (except Satellite),2022 NAICS
-Satellite Telecommunications,Satellite Telecommunications,2022 NAICS
-All Other Telecommunications,All Other Telecommunications,2022 NAICS
-"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",2022 NAICS
-Libraries and Archives,"Web Search Portals, Libraries, Archives, and Other Information Services",2022 NAICS
-Web Search Portals and All Other Information Services,"Web Search Portals, Libraries, Archives, and Other Information Services",2022 NAICS
-Monetary Authorities-Central Bank,Monetary Authorities-Central Bank,2022 NAICS
-Commercial Banking ,Depository Credit Intermediation ,2022 NAICS
-Credit Unions ,Depository Credit Intermediation ,2022 NAICS
-Savings Institutions and Other Depository Credit Intermediation ,Depository Credit Intermediation ,2022 NAICS
-Credit Card Issuing ,Nondepository Credit Intermediation ,2022 NAICS
-Sales Financing ,Nondepository Credit Intermediation ,2022 NAICS
-Other Nondepository Credit Intermediation ,Nondepository Credit Intermediation ,2022 NAICS
-Mortgage and Nonmortgage Loan Brokers ,Activities Related to Credit Intermediation ,2022 NAICS
-"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",Activities Related to Credit Intermediation ,2022 NAICS
-Other Activities Related to Credit Intermediation ,Activities Related to Credit Intermediation ,2022 NAICS
-Investment Banking and Securities Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage,2022 NAICS
-Commodity Contracts Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage,2022 NAICS
-Securities and Commodity Exchanges,Securities and Commodity Exchanges,2022 NAICS
-Miscellaneous Intermediation ,Other Financial Investment Activities,2022 NAICS
-Portfolio Management and Investment Advice ,Other Financial Investment Activities,2022 NAICS
-All Other Financial Investment Activities ,Other Financial Investment Activities,2022 NAICS
-"Direct Life, Health, and Medical Insurance Carriers ",Insurance Carriers,2022 NAICS
-"Direct Insurance (except Life, Health, and Medical) Carriers ",Insurance Carriers,2022 NAICS
-Reinsurance Carriers ,Insurance Carriers,2022 NAICS
-Insurance Agencies and Brokerages ,"Agencies, Brokerages, and Other Insurance Related Activities",2022 NAICS
-Other Insurance Related Activities ,"Agencies, Brokerages, and Other Insurance Related Activities",2022 NAICS
-Pension Funds ,Insurance and Employee Benefit Funds ,2022 NAICS
-Health and Welfare Funds ,Insurance and Employee Benefit Funds ,2022 NAICS
-Other Insurance Funds ,Insurance and Employee Benefit Funds ,2022 NAICS
-Open-End Investment Funds ,Other Investment Pools and Funds,2022 NAICS
-"Trusts, Estates, and Agency Accounts ",Other Investment Pools and Funds,2022 NAICS
-Other Financial Vehicles ,Other Investment Pools and Funds,2022 NAICS
-Lessors of Residential Buildings and Dwellings ,Lessors of Real Estate,2022 NAICS
-Lessors of Nonresidential Buildings (except Miniwarehouses) ,Lessors of Real Estate,2022 NAICS
-Lessors of Miniwarehouses and Self-Storage Units ,Lessors of Real Estate,2022 NAICS
-Lessors of Other Real Estate Property ,Lessors of Real Estate,2022 NAICS
-Offices of Real Estate Agents and Brokers,Offices of Real Estate Agents and Brokers,2022 NAICS
-Real Estate Property Managers ,Activities Related to Real Estate,2022 NAICS
-Offices of Real Estate Appraisers ,Activities Related to Real Estate,2022 NAICS
-Other Activities Related to Real Estate ,Activities Related to Real Estate,2022 NAICS
-Passenger Car Rental and Leasing,Automotive Equipment Rental and Leasing,2022 NAICS
-"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",Automotive Equipment Rental and Leasing,2022 NAICS
-Consumer Electronics and Appliances Rental,Consumer Goods Rental,2022 NAICS
-Other Consumer Goods Rental ,Consumer Goods Rental,2022 NAICS
-General Rental Centers,General Rental Centers,2022 NAICS
-"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing",Commercial and Industrial Machinery and Equipment Rental and Leasing,2022 NAICS
-Office Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing,2022 NAICS
-Other Commercial and Industrial Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing,2022 NAICS
-Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),2022 NAICS
-Offices of Lawyers,Legal Services,2022 NAICS
-Offices of Notaries,Legal Services,2022 NAICS
-Other Legal Services,Legal Services,2022 NAICS
-"Accounting, Tax Preparation, Bookkeeping, and Payroll Services","Accounting, Tax Preparation, Bookkeeping, and Payroll Services",2022 NAICS
-Architectural Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Landscape Architectural Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Engineering Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Drafting Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Building Inspection Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Geophysical Surveying and Mapping Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Surveying and Mapping (except Geophysical) Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Testing Laboratories and Services,"Architectural, Engineering, and Related Services",2022 NAICS
-Interior Design Services,Specialized Design Services,2022 NAICS
-Industrial Design Services,Specialized Design Services,2022 NAICS
-Graphic Design Services,Specialized Design Services,2022 NAICS
-Other Specialized Design Services,Specialized Design Services,2022 NAICS
-Computer Systems Design and Related Services,Computer Systems Design and Related Services,2022 NAICS
-Management Consulting Services,"Management, Scientific, and Technical Consulting Services",2022 NAICS
-Environmental Consulting Services,"Management, Scientific, and Technical Consulting Services",2022 NAICS
-Other Scientific and Technical Consulting Services,"Management, Scientific, and Technical Consulting Services",2022 NAICS
-"Research and Development in the Physical, Engineering, and Life Sciences",Scientific Research and Development Services,2022 NAICS
-Research and Development in the Social Sciences and Humanities,Scientific Research and Development Services,2022 NAICS
-Advertising Agencies,"Advertising, Public Relations, and Related Services",2022 NAICS
-Public Relations Agencies,"Advertising, Public Relations, and Related Services",2022 NAICS
-Media Buying Agencies,"Advertising, Public Relations, and Related Services",2022 NAICS
-Media Representatives,"Advertising, Public Relations, and Related Services",2022 NAICS
-Indoor and Outdoor Display Advertising,"Advertising, Public Relations, and Related Services",2022 NAICS
-Direct Mail Advertising,"Advertising, Public Relations, and Related Services",2022 NAICS
-Advertising Material Distribution Services,"Advertising, Public Relations, and Related Services",2022 NAICS
-Other Services Related to Advertising,"Advertising, Public Relations, and Related Services",2022 NAICS
-Marketing Research and Public Opinion Polling,"Other Professional, Scientific, and Technical Services",2022 NAICS
-Photographic Services,"Other Professional, Scientific, and Technical Services",2022 NAICS
-Translation and Interpretation Services,"Other Professional, Scientific, and Technical Services",2022 NAICS
-Veterinary Services,"Other Professional, Scientific, and Technical Services",2022 NAICS
-"All Other Professional, Scientific, and Technical Services","Other Professional, Scientific, and Technical Services",2022 NAICS
-Management of Companies and Enterprises,Management of Companies and Enterprises,2022 NAICS
-Office Administrative Services,Office Administrative Services,2022 NAICS
-Facilities Support Services,Facilities Support Services,2022 NAICS
-Employment Placement Agencies and Executive Search Services,Employment Services,2022 NAICS
-Temporary Help Services,Employment Services,2022 NAICS
-Professional Employer Organizations,Employment Services,2022 NAICS
-Document Preparation Services,Business Support Services,2022 NAICS
-Telephone Call Centers,Business Support Services,2022 NAICS
-Business Service Centers,Business Support Services,2022 NAICS
-Collection Agencies,Business Support Services,2022 NAICS
-Credit Bureaus,Business Support Services,2022 NAICS
-Other Business Support Services,Business Support Services,2022 NAICS
-Travel Agencies,Travel Arrangement and Reservation Services,2022 NAICS
-Tour Operators,Travel Arrangement and Reservation Services,2022 NAICS
-Other Travel Arrangement and Reservation Services,Travel Arrangement and Reservation Services,2022 NAICS
-"Investigation, Guard, and Armored Car Services",Investigation and Security Services,2022 NAICS
-Security Systems Services,Investigation and Security Services,2022 NAICS
-Exterminating and Pest Control Services,Services to Buildings and Dwellings,2022 NAICS
-Janitorial Services,Services to Buildings and Dwellings,2022 NAICS
-Landscaping Services,Services to Buildings and Dwellings,2022 NAICS
-Carpet and Upholstery Cleaning Services,Services to Buildings and Dwellings,2022 NAICS
-Other Services to Buildings and Dwellings,Services to Buildings and Dwellings,2022 NAICS
-Packaging and Labeling Services,Other Support Services,2022 NAICS
-Convention and Trade Show Organizers,Other Support Services,2022 NAICS
-All Other Support Services,Other Support Services,2022 NAICS
-Waste Collection ,Waste Collection ,2022 NAICS
-Waste Treatment and Disposal ,Waste Treatment and Disposal ,2022 NAICS
-Remediation Services ,Remediation and Other Waste Management Services ,2022 NAICS
-Materials Recovery Facilities ,Remediation and Other Waste Management Services ,2022 NAICS
-All Other Waste Management Services ,Remediation and Other Waste Management Services ,2022 NAICS
-Elementary and Secondary Schools ,Elementary and Secondary Schools,2022 NAICS
-Junior Colleges,Junior Colleges,2022 NAICS
-"Colleges, Universities, and Professional Schools","Colleges, Universities, and Professional Schools",2022 NAICS
-Business and Secretarial Schools,Business Schools and Computer and Management Training,2022 NAICS
-Computer Training,Business Schools and Computer and Management Training,2022 NAICS
-Professional and Management Development Training,Business Schools and Computer and Management Training,2022 NAICS
-Technical and Trade Schools,Technical and Trade Schools ,2022 NAICS
-Fine Arts Schools,Other Schools and Instruction,2022 NAICS
-Sports and Recreation Instruction,Other Schools and Instruction,2022 NAICS
-Language Schools,Other Schools and Instruction,2022 NAICS
-All Other Schools and Instruction,Other Schools and Instruction,2022 NAICS
-Educational Support Services,Educational Support Services,2022 NAICS
-Offices of Physicians,Offices of Physicians,2022 NAICS
-Offices of Dentists,Offices of Dentists,2022 NAICS
-Offices of Chiropractors,Offices of Other Health Practitioners,2022 NAICS
-Offices of Optometrists,Offices of Other Health Practitioners,2022 NAICS
-Offices of Mental Health Practitioners (except Physicians),Offices of Other Health Practitioners,2022 NAICS
-"Offices of Physical, Occupational and Speech Therapists, and Audiologists",Offices of Other Health Practitioners,2022 NAICS
-Offices of All Other Health Practitioners,Offices of Other Health Practitioners,2022 NAICS
-Family Planning Centers,Outpatient Care Centers,2022 NAICS
-Outpatient Mental Health and Substance Abuse Centers,Outpatient Care Centers,2022 NAICS
-Other Outpatient Care Centers,Outpatient Care Centers,2022 NAICS
-Medical and Diagnostic Laboratories,Medical and Diagnostic Laboratories,2022 NAICS
-Home Health Care Services,Home Health Care Services,2022 NAICS
-Ambulance Services,Other Ambulatory Health Care Services,2022 NAICS
-All Other Ambulatory Health Care Services,Other Ambulatory Health Care Services,2022 NAICS
-General Medical and Surgical Hospitals,General Medical and Surgical Hospitals,2022 NAICS
-Psychiatric and Substance Abuse Hospitals,Psychiatric and Substance Abuse Hospitals,2022 NAICS
-Specialty (except Psychiatric and Substance Abuse) Hospitals,Specialty (except Psychiatric and Substance Abuse) Hospitals,2022 NAICS
-Nursing Care Facilities (Skilled Nursing Facilities),Nursing Care Facilities (Skilled Nursing Facilities),2022 NAICS
-Residential Intellectual and Developmental Disability Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",2022 NAICS
-Residential Mental Health and Substance Abuse Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",2022 NAICS
-Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,2022 NAICS
-Other Residential Care Facilities,Other Residential Care Facilities,2022 NAICS
-Child and Youth Services,Individual and Family Services,2022 NAICS
-Services for the Elderly and Persons with Disabilities,Individual and Family Services,2022 NAICS
-Other Individual and Family Services,Individual and Family Services,2022 NAICS
-Community Food Services,"Community Food and Housing, and Emergency and Other Relief Services",2022 NAICS
-Community Housing Services,"Community Food and Housing, and Emergency and Other Relief Services",2022 NAICS
-Emergency and Other Relief Services,"Community Food and Housing, and Emergency and Other Relief Services",2022 NAICS
-Vocational Rehabilitation Services,Vocational Rehabilitation Services,2022 NAICS
-Child Care Services,Child Care Services,2022 NAICS
-Theater Companies and Dinner Theaters,Performing Arts Companies,2022 NAICS
-Dance Companies,Performing Arts Companies,2022 NAICS
-Musical Groups and Artists,Performing Arts Companies,2022 NAICS
-Other Performing Arts Companies,Performing Arts Companies,2022 NAICS
-Spectator Sports,Spectator Sports,2022 NAICS
-"Promoters of Performing Arts, Sports, and Similar Events with Facilities","Promoters of Performing Arts, Sports, and Similar Events",2022 NAICS
-"Promoters of Performing Arts, Sports, and Similar Events without Facilities","Promoters of Performing Arts, Sports, and Similar Events",2022 NAICS
-"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",2022 NAICS
-"Independent Artists, Writers, and Performers","Independent Artists, Writers, and Performers",2022 NAICS
-Museums,"Museums, Historical Sites, and Similar Institutions",2022 NAICS
-Historical Sites,"Museums, Historical Sites, and Similar Institutions",2022 NAICS
-Zoos and Botanical Gardens,"Museums, Historical Sites, and Similar Institutions",2022 NAICS
-Nature Parks and Other Similar Institutions,"Museums, Historical Sites, and Similar Institutions",2022 NAICS
-Amusement and Theme Parks,Amusement Parks and Arcades,2022 NAICS
-Amusement Arcades,Amusement Parks and Arcades,2022 NAICS
-Casinos (except Casino Hotels),Gambling Industries,2022 NAICS
-Other Gambling Industries,Gambling Industries,2022 NAICS
-Golf Courses and Country Clubs,Other Amusement and Recreation Industries,2022 NAICS
-Skiing Facilities,Other Amusement and Recreation Industries,2022 NAICS
-Marinas,Other Amusement and Recreation Industries,2022 NAICS
-Fitness and Recreational Sports Centers,Other Amusement and Recreation Industries,2022 NAICS
-Bowling Centers,Other Amusement and Recreation Industries,2022 NAICS
-All Other Amusement and Recreation Industries,Other Amusement and Recreation Industries,2022 NAICS
-Hotels (except Casino Hotels) and Motels,Traveler Accommodation,2022 NAICS
-Casino Hotels,Traveler Accommodation,2022 NAICS
-Other Traveler Accommodation,Traveler Accommodation,2022 NAICS
-RV (Recreational Vehicle) Parks and Recreational Camps,RV (Recreational Vehicle) Parks and Recreational Camps,2022 NAICS
-"Rooming and Boarding Houses, Dormitories, and Workers' Camps","Rooming and Boarding Houses, Dormitories, and Workers' Camps",2022 NAICS
-Food Service Contractors,Special Food Services,2022 NAICS
-Caterers,Special Food Services,2022 NAICS
-Mobile Food Services,Special Food Services,2022 NAICS
-Drinking Places (Alcoholic Beverages),Drinking Places (Alcoholic Beverages),2022 NAICS
-Restaurants and Other Eating Places,Restaurants and Other Eating Places,2022 NAICS
-Automotive Mechanical and Electrical Repair and Maintenance,Automotive Repair and Maintenance,2022 NAICS
-"Automotive Body, Paint, Interior, and Glass Repair",Automotive Repair and Maintenance,2022 NAICS
-Other Automotive Repair and Maintenance,Automotive Repair and Maintenance,2022 NAICS
-Electronic and Precision Equipment Repair and Maintenance,Electronic and Precision Equipment Repair and Maintenance,2022 NAICS
-Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,2022 NAICS
-Home and Garden Equipment and Appliance Repair and Maintenance,Personal and Household Goods Repair and Maintenance,2022 NAICS
-Reupholstery and Furniture Repair,Personal and Household Goods Repair and Maintenance,2022 NAICS
-Footwear and Leather Goods Repair,Personal and Household Goods Repair and Maintenance,2022 NAICS
-Other Personal and Household Goods Repair and Maintenance,Personal and Household Goods Repair and Maintenance,2022 NAICS
-"Hair, Nail, and Skin Care Services ",Personal Care Services ,2022 NAICS
-Other Personal Care Services ,Personal Care Services ,2022 NAICS
-Funeral Homes and Funeral Services ,Death Care Services ,2022 NAICS
-Cemeteries and Crematories ,Death Care Services ,2022 NAICS
-Coin-Operated Laundries and Drycleaners ,Drycleaning and Laundry Services ,2022 NAICS
-Drycleaning and Laundry Services (except Coin-Operated) ,Drycleaning and Laundry Services ,2022 NAICS
-Linen and Uniform Supply ,Drycleaning and Laundry Services ,2022 NAICS
-Pet Care (except Veterinary) Services ,Other Personal Services ,2022 NAICS
-Photofinishing ,Other Personal Services ,2022 NAICS
-Parking Lots and Garages ,Other Personal Services ,2022 NAICS
-All Other Personal Services ,Other Personal Services ,2022 NAICS
-Religious Organizations ,Religious Organizations ,2022 NAICS
-Grantmaking and Giving Services ,Grantmaking and Giving Services ,2022 NAICS
-Social Advocacy Organizations ,Social Advocacy Organizations ,2022 NAICS
-Civic and Social Organizations ,Civic and Social Organizations ,2022 NAICS
-Business Associations ,"Business, Professional, Labor, Political, and Similar Organizations ",2022 NAICS
-Professional Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",2022 NAICS
-Labor Unions and Similar Labor Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",2022 NAICS
-Political Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",2022 NAICS
-"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ","Business, Professional, Labor, Political, and Similar Organizations ",2022 NAICS
-Private Households,Private Households,2022 NAICS
-Executive Offices ,"Executive, Legislative, and Other General Government Support ",2022 NAICS
-Legislative Bodies ,"Executive, Legislative, and Other General Government Support ",2022 NAICS
-Public Finance Activities ,"Executive, Legislative, and Other General Government Support ",2022 NAICS
-"Executive and Legislative Offices, Combined ","Executive, Legislative, and Other General Government Support ",2022 NAICS
-American Indian and Alaska Native Tribal Governments ,"Executive, Legislative, and Other General Government Support ",2022 NAICS
-Other General Government Support ,"Executive, Legislative, and Other General Government Support ",2022 NAICS
-Courts ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-Police Protection ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-Legal Counsel and Prosecution ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-Correctional Institutions ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-Parole Offices and Probation Offices ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-Fire Protection ,"Justice, Public Order, and Safety Activities ",2022 NAICS
-"Other Justice, Public Order, and Safety Activities ","Justice, Public Order, and Safety Activities ",2022 NAICS
-Administration of Education Programs ,Administration of Human Resource Programs ,2022 NAICS
-Administration of Public Health Programs ,Administration of Human Resource Programs ,2022 NAICS
-"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ",Administration of Human Resource Programs ,2022 NAICS
-Administration of Veterans' Affairs ,Administration of Human Resource Programs ,2022 NAICS
-Administration of Air and Water Resource and Solid Waste Management Programs ,Administration of Environmental Quality Programs ,2022 NAICS
-Administration of Conservation Programs ,Administration of Environmental Quality Programs ,2022 NAICS
-Administration of Housing Programs ,"Administration of Housing Programs, Urban Planning, and Community Development ",2022 NAICS
-Administration of Urban Planning and Community and Rural Development ,"Administration of Housing Programs, Urban Planning, and Community Development ",2022 NAICS
-Administration of General Economic Programs ,Administration of Economic Programs ,2022 NAICS
-Regulation and Administration of Transportation Programs ,Administration of Economic Programs ,2022 NAICS
-"Regulation and Administration of Communications, Electric, Gas, and Other Utilities ",Administration of Economic Programs ,2022 NAICS
-Regulation of Agricultural Marketing and Commodities ,Administration of Economic Programs ,2022 NAICS
-"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ",Administration of Economic Programs ,2022 NAICS
-Space Research and Technology ,Space Research and Technology ,2022 NAICS
-National Security ,National Security and International Affairs ,2022 NAICS
-International Affairs ,National Security and International Affairs ,2022 NAICS
+name,parent,concept_name,source,standard_semantic_hierarchy
+Soybean Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Oilseed (except Soybean) Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Dry Pea and Bean Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Wheat Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Corn Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Rice Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Other Grain Farming,Oilseed and Grain Farming,NAICS Industry,2022 NAICS,Yes
+Vegetable and Melon Farming,Vegetable and Melon Farming,NAICS Industry,2022 NAICS,Yes
+Orange Groves,Fruit and Tree Nut Farming,NAICS Industry,2022 NAICS,Yes
+Citrus (except Orange) Groves,Fruit and Tree Nut Farming,NAICS Industry,2022 NAICS,Yes
+Noncitrus Fruit and Tree Nut Farming,Fruit and Tree Nut Farming,NAICS Industry,2022 NAICS,Yes
+Food Crops Grown Under Cover,"Greenhouse, Nursery, and Floriculture Production",NAICS Industry,2022 NAICS,Yes
+Nursery and Floriculture Production,"Greenhouse, Nursery, and Floriculture Production",NAICS Industry,2022 NAICS,Yes
+Tobacco Farming,Other Crop Farming,NAICS Industry,2022 NAICS,Yes
+Cotton Farming,Other Crop Farming,NAICS Industry,2022 NAICS,Yes
+Sugarcane Farming,Other Crop Farming,NAICS Industry,2022 NAICS,Yes
+Hay Farming,Other Crop Farming,NAICS Industry,2022 NAICS,Yes
+All Other Crop Farming,Other Crop Farming,NAICS Industry,2022 NAICS,Yes
+"Beef Cattle Ranching and Farming, including Feedlots",Cattle Ranching and Farming,NAICS Industry,2022 NAICS,Yes
+Dairy Cattle and Milk Production,Cattle Ranching and Farming,NAICS Industry,2022 NAICS,Yes
+Dual-Purpose Cattle Ranching and Farming,Cattle Ranching and Farming,NAICS Industry,2022 NAICS,Yes
+Hog and Pig Farming,Hog and Pig Farming,NAICS Industry,2022 NAICS,Yes
+Chicken Egg Production,Poultry and Egg Production,NAICS Industry,2022 NAICS,Yes
+Broilers and Other Meat Type Chicken Production,Poultry and Egg Production,NAICS Industry,2022 NAICS,Yes
+Turkey Production,Poultry and Egg Production,NAICS Industry,2022 NAICS,Yes
+Poultry Hatcheries,Poultry and Egg Production,NAICS Industry,2022 NAICS,Yes
+Other Poultry Production,Poultry and Egg Production,NAICS Industry,2022 NAICS,Yes
+Sheep Farming,Sheep and Goat Farming,NAICS Industry,2022 NAICS,Yes
+Goat Farming,Sheep and Goat Farming,NAICS Industry,2022 NAICS,Yes
+Aquaculture,Aquaculture,NAICS Industry,2022 NAICS,Yes
+Apiculture,Other Animal Production,NAICS Industry,2022 NAICS,Yes
+Horses and Other Equine Production,Other Animal Production,NAICS Industry,2022 NAICS,Yes
+Fur-Bearing Animal and Rabbit Production,Other Animal Production,NAICS Industry,2022 NAICS,Yes
+All Other Animal Production,Other Animal Production,NAICS Industry,2022 NAICS,Yes
+Timber Tract Operations,Timber Tract Operations,NAICS Industry,2022 NAICS,Yes
+Forest Nurseries and Gathering of Forest Products,Forest Nurseries and Gathering of Forest Products,NAICS Industry,2022 NAICS,Yes
+Logging,Logging,NAICS Industry,2022 NAICS,Yes
+Fishing,Fishing,NAICS Industry,2022 NAICS,Yes
+Hunting and Trapping,Hunting and Trapping,NAICS Industry,2022 NAICS,Yes
+Support Activities for Crop Production,Support Activities for Crop Production,NAICS Industry,2022 NAICS,Yes
+Support Activities for Animal Production,Support Activities for Animal Production,NAICS Industry,2022 NAICS,Yes
+Support Activities for Forestry,Support Activities for Forestry,NAICS Industry,2022 NAICS,Yes
+Crude Petroleum Extraction ,Oil and Gas Extraction,NAICS Industry,2022 NAICS,Yes
+Natural Gas Extraction ,Oil and Gas Extraction,NAICS Industry,2022 NAICS,Yes
+Coal Mining,Coal Mining,NAICS Industry,2022 NAICS,Yes
+Iron Ore Mining,Metal Ore Mining,NAICS Industry,2022 NAICS,Yes
+Gold Ore and Silver Ore Mining,Metal Ore Mining,NAICS Industry,2022 NAICS,Yes
+"Copper, Nickel, Lead, and Zinc Mining",Metal Ore Mining,NAICS Industry,2022 NAICS,Yes
+Other Metal Ore Mining,Metal Ore Mining,NAICS Industry,2022 NAICS,Yes
+Stone Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying,NAICS Industry,2022 NAICS,Yes
+"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying",Nonmetallic Mineral Mining and Quarrying,NAICS Industry,2022 NAICS,Yes
+Other Nonmetallic Mineral Mining and Quarrying,Nonmetallic Mineral Mining and Quarrying,NAICS Industry,2022 NAICS,Yes
+Support Activities for Mining,Support Activities for Mining,NAICS Industry,2022 NAICS,Yes
+Electric Power Generation ,"Electric Power Generation, Transmission and Distribution",NAICS Industry,2022 NAICS,Yes
+"Electric Power Transmission, Control, and Distribution ","Electric Power Generation, Transmission and Distribution",NAICS Industry,2022 NAICS,Yes
+Natural Gas Distribution ,Natural Gas Distribution ,NAICS Industry,2022 NAICS,Yes
+Water Supply and Irrigation Systems ,"Water, Sewage and Other Systems ",NAICS Industry,2022 NAICS,Yes
+Sewage Treatment Facilities ,"Water, Sewage and Other Systems ",NAICS Industry,2022 NAICS,Yes
+Steam and Air-Conditioning Supply ,"Water, Sewage and Other Systems ",NAICS Industry,2022 NAICS,Yes
+Residential Building Construction,Residential Building Construction,NAICS Industry,2022 NAICS,Yes
+Industrial Building Construction,Nonresidential Building Construction,NAICS Industry,2022 NAICS,Yes
+Commercial and Institutional Building Construction,Nonresidential Building Construction,NAICS Industry,2022 NAICS,Yes
+Water and Sewer Line and Related Structures Construction,Utility System Construction,NAICS Industry,2022 NAICS,Yes
+Oil and Gas Pipeline and Related Structures Construction,Utility System Construction,NAICS Industry,2022 NAICS,Yes
+Power and Communication Line and Related Structures Construction,Utility System Construction,NAICS Industry,2022 NAICS,Yes
+Land Subdivision,Land Subdivision,NAICS Industry,2022 NAICS,Yes
+"Highway, Street, and Bridge Construction","Highway, Street, and Bridge Construction",NAICS Industry,2022 NAICS,Yes
+Other Heavy and Civil Engineering Construction,Other Heavy and Civil Engineering Construction,NAICS Industry,2022 NAICS,Yes
+Poured Concrete Foundation and Structure Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Structural Steel and Precast Concrete Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Framing Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Masonry Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Glass and Glazing Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Roofing Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Siding Contractors ,"Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+"Other Foundation, Structure, and Building Exterior Contractors ","Foundation, Structure, and Building Exterior Contractors",NAICS Industry,2022 NAICS,Yes
+Electrical Contractors and Other Wiring Installation Contractors,Building Equipment Contractors,NAICS Industry,2022 NAICS,Yes
+"Plumbing, Heating, and Air-Conditioning Contractors",Building Equipment Contractors,NAICS Industry,2022 NAICS,Yes
+Other Building Equipment Contractors,Building Equipment Contractors,NAICS Industry,2022 NAICS,Yes
+Drywall and Insulation Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Painting and Wall Covering Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Flooring Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Tile and Terrazzo Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Finish Carpentry Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Other Building Finishing Contractors,Building Finishing Contractors,NAICS Industry,2022 NAICS,Yes
+Site Preparation Contractors,Other Specialty Trade Contractors,NAICS Industry,2022 NAICS,Yes
+All Other Specialty Trade Contractors,Other Specialty Trade Contractors,NAICS Industry,2022 NAICS,Yes
+Animal Food Manufacturing,Animal Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Flour Milling and Malt Manufacturing,Grain and Oilseed Milling,NAICS Industry,2022 NAICS,Yes
+Starch and Vegetable Fats and Oils Manufacturing,Grain and Oilseed Milling,NAICS Industry,2022 NAICS,Yes
+Breakfast Cereal Manufacturing,Grain and Oilseed Milling,NAICS Industry,2022 NAICS,Yes
+Sugar Manufacturing,Sugar and Confectionery Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Nonchocolate Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Chocolate and Confectionery Manufacturing,Sugar and Confectionery Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Frozen Food Manufacturing,Fruit and Vegetable Preserving and Specialty Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Fruit and Vegetable Canning, Pickling, and Drying",Fruit and Vegetable Preserving and Specialty Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Dairy Product (except Frozen) Manufacturing,Dairy Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Ice Cream and Frozen Dessert Manufacturing,Dairy Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Animal Slaughtering and Processing,Animal Slaughtering and Processing,NAICS Industry,2022 NAICS,Yes
+Seafood Product Preparation and Packaging,Seafood Product Preparation and Packaging,NAICS Industry,2022 NAICS,Yes
+Bread and Bakery Product Manufacturing,Bakeries and Tortilla Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Cookie, Cracker, and Pasta Manufacturing",Bakeries and Tortilla Manufacturing,NAICS Industry,2022 NAICS,Yes
+Tortilla Manufacturing,Bakeries and Tortilla Manufacturing,NAICS Industry,2022 NAICS,Yes
+Snack Food Manufacturing,Other Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Coffee and Tea Manufacturing,Other Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Flavoring Syrup and Concentrate Manufacturing,Other Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Seasoning and Dressing Manufacturing,Other Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Food Manufacturing,Other Food Manufacturing,NAICS Industry,2022 NAICS,Yes
+Soft Drink and Ice Manufacturing,Beverage Manufacturing,NAICS Industry,2022 NAICS,Yes
+Breweries,Beverage Manufacturing,NAICS Industry,2022 NAICS,Yes
+Wineries,Beverage Manufacturing,NAICS Industry,2022 NAICS,Yes
+Distilleries,Beverage Manufacturing,NAICS Industry,2022 NAICS,Yes
+Tobacco Manufacturing,Tobacco Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Fiber, Yarn, and Thread Mills","Fiber, Yarn, and Thread Mills",NAICS Industry,2022 NAICS,Yes
+Broadwoven Fabric Mills,Fabric Mills,NAICS Industry,2022 NAICS,Yes
+Narrow Fabric Mills and Schiffli Machine Embroidery,Fabric Mills,NAICS Industry,2022 NAICS,Yes
+Nonwoven Fabric Mills,Fabric Mills,NAICS Industry,2022 NAICS,Yes
+Knit Fabric Mills,Fabric Mills,NAICS Industry,2022 NAICS,Yes
+Textile and Fabric Finishing Mills,Textile and Fabric Finishing and Fabric Coating Mills,NAICS Industry,2022 NAICS,Yes
+Fabric Coating Mills,Textile and Fabric Finishing and Fabric Coating Mills,NAICS Industry,2022 NAICS,Yes
+Carpet and Rug Mills,Textile Furnishings Mills,NAICS Industry,2022 NAICS,Yes
+Curtain and Linen Mills,Textile Furnishings Mills,NAICS Industry,2022 NAICS,Yes
+Textile Bag and Canvas Mills,Other Textile Product Mills,NAICS Industry,2022 NAICS,Yes
+All Other Textile Product Mills,Other Textile Product Mills,NAICS Industry,2022 NAICS,Yes
+Apparel Knitting Mills,Apparel Knitting Mills,NAICS Industry,2022 NAICS,Yes
+Cut and Sew Apparel Contractors ,Cut and Sew Apparel Manufacturing,NAICS Industry,2022 NAICS,Yes
+Cut and Sew Apparel Manufacturing (except Contractors) ,Cut and Sew Apparel Manufacturing,NAICS Industry,2022 NAICS,Yes
+Apparel Accessories and Other Apparel Manufacturing,Apparel Accessories and Other Apparel Manufacturing,NAICS Industry,2022 NAICS,Yes
+Leather and Hide Tanning and Finishing,Leather and Hide Tanning and Finishing,NAICS Industry,2022 NAICS,Yes
+Footwear Manufacturing,Footwear Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Leather and Allied Product Manufacturing,Other Leather and Allied Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Sawmills and Wood Preservation,Sawmills and Wood Preservation,NAICS Industry,2022 NAICS,Yes
+"Veneer, Plywood, and Engineered Wood Product Manufacturing","Veneer, Plywood, and Engineered Wood Product Manufacturing",NAICS Industry,2022 NAICS,Yes
+Millwork,Other Wood Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Wood Container and Pallet Manufacturing,Other Wood Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Wood Product Manufacturing,Other Wood Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Pulp Mills,"Pulp, Paper, and Paperboard Mills",NAICS Industry,2022 NAICS,Yes
+Paper Mills,"Pulp, Paper, and Paperboard Mills",NAICS Industry,2022 NAICS,Yes
+Paperboard Mills,"Pulp, Paper, and Paperboard Mills",NAICS Industry,2022 NAICS,Yes
+Paperboard Container Manufacturing,Converted Paper Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Paper Bag and Coated and Treated Paper Manufacturing,Converted Paper Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Stationery Product Manufacturing,Converted Paper Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Converted Paper Product Manufacturing,Converted Paper Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Printing,Printing and Related Support Activities,NAICS Industry,2022 NAICS,Yes
+Support Activities for Printing,Printing and Related Support Activities,NAICS Industry,2022 NAICS,Yes
+Petroleum Refineries,Petroleum and Coal Products Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Asphalt Paving, Roofing, and Saturated Materials Manufacturing",Petroleum and Coal Products Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Petroleum and Coal Products Manufacturing,Petroleum and Coal Products Manufacturing,NAICS Industry,2022 NAICS,Yes
+Petrochemical Manufacturing,Basic Chemical Manufacturing,NAICS Industry,2022 NAICS,Yes
+Industrial Gas Manufacturing,Basic Chemical Manufacturing,NAICS Industry,2022 NAICS,Yes
+Synthetic Dye and Pigment Manufacturing,Basic Chemical Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Basic Inorganic Chemical Manufacturing,Basic Chemical Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Basic Organic Chemical Manufacturing,Basic Chemical Manufacturing,NAICS Industry,2022 NAICS,Yes
+Resin and Synthetic Rubber Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",NAICS Industry,2022 NAICS,Yes
+Artificial and Synthetic Fibers and Filaments Manufacturing,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",NAICS Industry,2022 NAICS,Yes
+Fertilizer and Compost Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",NAICS Industry,2022 NAICS,Yes
+Pesticide and Other Agricultural Chemical Manufacturing,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",NAICS Industry,2022 NAICS,Yes
+Pharmaceutical and Medicine Manufacturing,Pharmaceutical and Medicine Manufacturing,NAICS Industry,2022 NAICS,Yes
+Paint and Coating Manufacturing,"Paint, Coating, and Adhesive Manufacturing",NAICS Industry,2022 NAICS,Yes
+Adhesive Manufacturing,"Paint, Coating, and Adhesive Manufacturing",NAICS Industry,2022 NAICS,Yes
+Soap and Cleaning Compound Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",NAICS Industry,2022 NAICS,Yes
+Toilet Preparation Manufacturing,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",NAICS Industry,2022 NAICS,Yes
+Printing Ink Manufacturing,Other Chemical Product and Preparation Manufacturing,NAICS Industry,2022 NAICS,Yes
+Explosives Manufacturing,Other Chemical Product and Preparation Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Chemical Product and Preparation Manufacturing,Other Chemical Product and Preparation Manufacturing,NAICS Industry,2022 NAICS,Yes
+Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing,Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing",Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Polystyrene Foam Product Manufacturing,Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Urethane and Other Foam Product (except Polystyrene) Manufacturing,Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Plastics Bottle Manufacturing,Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Plastics Product Manufacturing,Plastics Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Tire Manufacturing,Rubber Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Rubber and Plastics Hoses and Belting Manufacturing,Rubber Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Rubber Product Manufacturing,Rubber Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Pottery, Ceramics, and Plumbing Fixture Manufacturing",Clay Product and Refractory Manufacturing,NAICS Industry,2022 NAICS,Yes
+Clay Building Material and Refractories Manufacturing,Clay Product and Refractory Manufacturing,NAICS Industry,2022 NAICS,Yes
+Glass and Glass Product Manufacturing,Glass and Glass Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Cement Manufacturing,Cement and Concrete Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Ready-Mix Concrete Manufacturing,Cement and Concrete Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Concrete Pipe, Brick, and Block Manufacturing",Cement and Concrete Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Concrete Product Manufacturing,Cement and Concrete Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Lime Manufacturing,Lime and Gypsum Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Gypsum Product Manufacturing,Lime and Gypsum Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Abrasive Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Nonmetallic Mineral Product Manufacturing,Other Nonmetallic Mineral Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Iron and Steel Mills and Ferroalloy Manufacturing,Iron and Steel Mills and Ferroalloy Manufacturing,NAICS Industry,2022 NAICS,Yes
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Steel Product Manufacturing from Purchased Steel,NAICS Industry,2022 NAICS,Yes
+Rolling and Drawing of Purchased Steel,Steel Product Manufacturing from Purchased Steel,NAICS Industry,2022 NAICS,Yes
+Alumina and Aluminum Production and Processing,Alumina and Aluminum Production and Processing,NAICS Industry,2022 NAICS,Yes
+Nonferrous Metal (except Aluminum) Smelting and Refining,Nonferrous Metal (except Aluminum) Production and Processing,NAICS Industry,2022 NAICS,Yes
+"Copper Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing,NAICS Industry,2022 NAICS,Yes
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying",Nonferrous Metal (except Aluminum) Production and Processing,NAICS Industry,2022 NAICS,Yes
+Ferrous Metal Foundries,Foundries,NAICS Industry,2022 NAICS,Yes
+Nonferrous Metal Foundries,Foundries,NAICS Industry,2022 NAICS,Yes
+Forging and Stamping,Forging and Stamping,NAICS Industry,2022 NAICS,Yes
+Cutlery and Handtool Manufacturing,Cutlery and Handtool Manufacturing,NAICS Industry,2022 NAICS,Yes
+Plate Work and Fabricated Structural Product Manufacturing,Architectural and Structural Metals Manufacturing,NAICS Industry,2022 NAICS,Yes
+Ornamental and Architectural Metal Products Manufacturing,Architectural and Structural Metals Manufacturing,NAICS Industry,2022 NAICS,Yes
+Power Boiler and Heat Exchanger Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing",NAICS Industry,2022 NAICS,Yes
+Metal Tank (Heavy Gauge) Manufacturing,"Boiler, Tank, and Shipping Container Manufacturing",NAICS Industry,2022 NAICS,Yes
+"Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing","Boiler, Tank, and Shipping Container Manufacturing",NAICS Industry,2022 NAICS,Yes
+Hardware Manufacturing,Hardware Manufacturing,NAICS Industry,2022 NAICS,Yes
+Spring and Wire Product Manufacturing,Spring and Wire Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Machine Shops,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",NAICS Industry,2022 NAICS,Yes
+"Turned Product and Screw, Nut, and Bolt Manufacturing","Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",NAICS Industry,2022 NAICS,Yes
+"Coating, Engraving, Heat Treating, and Allied Activities","Coating, Engraving, Heat Treating, and Allied Activities",NAICS Industry,2022 NAICS,Yes
+Metal Valve Manufacturing,Other Fabricated Metal Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Fabricated Metal Product Manufacturing,Other Fabricated Metal Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Agricultural Implement Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",NAICS Industry,2022 NAICS,Yes
+Construction Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",NAICS Industry,2022 NAICS,Yes
+Mining and Oil and Gas Field Machinery Manufacturing,"Agriculture, Construction, and Mining Machinery Manufacturing",NAICS Industry,2022 NAICS,Yes
+Industrial Machinery Manufacturing,Industrial Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+Commercial and Service Industry Machinery Manufacturing,Commercial and Service Industry Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing","Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",NAICS Industry,2022 NAICS,Yes
+Metalworking Machinery Manufacturing,Metalworking Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Engine, Turbine, and Power Transmission Equipment Manufacturing","Engine, Turbine, and Power Transmission Equipment Manufacturing",NAICS Industry,2022 NAICS,Yes
+Pump and Compressor Manufacturing,Other General Purpose Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+Material Handling Equipment Manufacturing,Other General Purpose Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other General Purpose Machinery Manufacturing,Other General Purpose Machinery Manufacturing,NAICS Industry,2022 NAICS,Yes
+Computer and Peripheral Equipment Manufacturing,Computer and Peripheral Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Telephone Apparatus Manufacturing,Communications Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Communications Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Communications Equipment Manufacturing,Communications Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Audio and Video Equipment Manufacturing,Audio and Video Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Semiconductor and Other Electronic Component Manufacturing,Semiconductor and Other Electronic Component Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing","Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",NAICS Industry,2022 NAICS,Yes
+Manufacturing and Reproducing Magnetic and Optical Media,Manufacturing and Reproducing Magnetic and Optical Media,NAICS Industry,2022 NAICS,Yes
+Electric Lighting Equipment Manufacturing,Electric Lighting Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Small Electrical Appliance Manufacturing,Household Appliance Manufacturing,NAICS Industry,2022 NAICS,Yes
+Major Household Appliance Manufacturing ,Household Appliance Manufacturing,NAICS Industry,2022 NAICS,Yes
+Electrical Equipment Manufacturing,Electrical Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Battery Manufacturing,Other Electrical Equipment and Component Manufacturing,NAICS Industry,2022 NAICS,Yes
+Communication and Energy Wire and Cable Manufacturing,Other Electrical Equipment and Component Manufacturing,NAICS Industry,2022 NAICS,Yes
+Wiring Device Manufacturing,Other Electrical Equipment and Component Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Electrical Equipment and Component Manufacturing,Other Electrical Equipment and Component Manufacturing,NAICS Industry,2022 NAICS,Yes
+Automobile and Light Duty Motor Vehicle Manufacturing,Motor Vehicle Manufacturing,NAICS Industry,2022 NAICS,Yes
+Heavy Duty Truck Manufacturing,Motor Vehicle Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Body and Trailer Manufacturing,Motor Vehicle Body and Trailer Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Electrical and Electronic Equipment Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Brake System Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Transmission and Power Train Parts Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Seating and Interior Trim Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Metal Stamping,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Other Motor Vehicle Parts Manufacturing,Motor Vehicle Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Aerospace Product and Parts Manufacturing,Aerospace Product and Parts Manufacturing,NAICS Industry,2022 NAICS,Yes
+Railroad Rolling Stock Manufacturing,Railroad Rolling Stock Manufacturing,NAICS Industry,2022 NAICS,Yes
+Ship and Boat Building,Ship and Boat Building,NAICS Industry,2022 NAICS,Yes
+Other Transportation Equipment Manufacturing,Other Transportation Equipment Manufacturing,NAICS Industry,2022 NAICS,Yes
+Wood Kitchen Cabinet and Countertop Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,NAICS Industry,2022 NAICS,Yes
+Household and Institutional Furniture Manufacturing,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,NAICS Industry,2022 NAICS,Yes
+Office Furniture (including Fixtures) Manufacturing,Office Furniture (including Fixtures) Manufacturing,NAICS Industry,2022 NAICS,Yes
+Mattress Manufacturing,Other Furniture Related Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Blind and Shade Manufacturing,Other Furniture Related Product Manufacturing,NAICS Industry,2022 NAICS,Yes
+Medical Equipment and Supplies Manufacturing,Medical Equipment and Supplies Manufacturing,NAICS Industry,2022 NAICS,Yes
+Jewelry and Silverware Manufacturing,Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+Sporting and Athletic Goods Manufacturing,Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+"Doll, Toy, and Game Manufacturing",Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+Office Supplies (except Paper) Manufacturing,Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+Sign Manufacturing,Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+All Other Miscellaneous Manufacturing,Other Miscellaneous Manufacturing,NAICS Industry,2022 NAICS,Yes
+Automobile and Other Motor Vehicle Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Supplies and New Parts Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Tire and Tube Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Parts (Used) Merchant Wholesalers ,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Furniture Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Home Furnishing Merchant Wholesalers ,Furniture and Home Furnishing Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Brick, Stone, and Related Construction Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Roofing, Siding, and Insulation Material Merchant Wholesalers ",Lumber and Other Construction Materials Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Construction Material Merchant Wholesalers ,Lumber and Other Construction Materials Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Photographic Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Office Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Commercial Equipment Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ",Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Ophthalmic Goods Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Professional Equipment and Supplies Merchant Wholesalers ,Professional and Commercial Equipment and Supplies Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Metal Service Centers and Other Metal Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Coal and Other Mineral and Ore Merchant Wholesalers ,Metal and Mineral (except Petroleum) Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ",Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Electronic Parts and Equipment Merchant Wholesalers ,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Hardware Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Refrigeration Equipment and Supplies Merchant Wholesalers ,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Farm and Garden Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Industrial Machinery and Equipment Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Industrial Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Service Establishment Equipment and Supplies Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ,"Machinery, Equipment, and Supplies Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Sporting and Recreational Goods and Supplies Merchant Wholesalers,Miscellaneous Durable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Toy and Hobby Goods and Supplies Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Recyclable Material Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ",Miscellaneous Durable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Miscellaneous Durable Goods Merchant Wholesalers ,Miscellaneous Durable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Printing and Writing Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Stationery and Office Supplies Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Industrial and Personal Service Paper Merchant Wholesalers ,Paper and Paper Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Drugs and Druggists' Sundries Merchant Wholesalers ,Drugs and Druggists' Sundries Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ","Apparel, Piece Goods, and Notions Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Footwear Merchant Wholesalers ,"Apparel, Piece Goods, and Notions Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Clothing and Clothing Accessories Merchant Wholesalers,"Apparel, Piece Goods, and Notions Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+General Line Grocery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Packaged Frozen Food Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Dairy Product (except Dried or Canned) Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Poultry and Poultry Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Confectionery Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Fish and Seafood Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Meat and Meat Product Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Fresh Fruit and Vegetable Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Grocery and Related Products Merchant Wholesalers ,Grocery and Related Product Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Grain and Field Bean Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Livestock Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Farm Product Raw Material Merchant Wholesalers ,Farm Product Raw Material Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Chemical and Allied Products Merchant Wholesalers ,Chemical and Allied Products Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Petroleum Bulk Stations and Terminals ,Petroleum and Petroleum Products Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ,Petroleum and Petroleum Products Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Beer and Ale Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Wine and Distilled Alcoholic Beverage Merchant Wholesalers ,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers ",NAICS Industry,2022 NAICS,Yes
+Farm Supplies Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Book, Periodical, and Newspaper Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Tobacco Product and Electronic Cigarette Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+"Paint, Varnish, and Supplies Merchant Wholesalers ",Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Other Miscellaneous Nondurable Goods Merchant Wholesalers ,Miscellaneous Nondurable Goods Merchant Wholesalers ,NAICS Industry,2022 NAICS,Yes
+Wholesale Trade Agents and Brokers ,Wholesale Trade Agents and Brokers ,NAICS Industry,2022 NAICS,Yes
+New Car Dealers ,Automobile Dealers ,NAICS Industry,2022 NAICS,Yes
+Used Car Dealers ,Automobile Dealers ,NAICS Industry,2022 NAICS,Yes
+Recreational Vehicle Dealers ,Other Motor Vehicle Dealers ,NAICS Industry,2022 NAICS,Yes
+"Motorcycle, Boat, and Other Motor Vehicle Dealers ",Other Motor Vehicle Dealers ,NAICS Industry,2022 NAICS,Yes
+Automotive Parts and Accessories Retailers ,"Automotive Parts, Accessories, and Tire Retailers ",NAICS Industry,2022 NAICS,Yes
+Tire Dealers ,"Automotive Parts, Accessories, and Tire Retailers ",NAICS Industry,2022 NAICS,Yes
+Home Centers ,Building Material and Supplies Dealers ,NAICS Industry,2022 NAICS,Yes
+Paint and Wallpaper Retailers ,Building Material and Supplies Dealers ,NAICS Industry,2022 NAICS,Yes
+Hardware Retailers ,Building Material and Supplies Dealers ,NAICS Industry,2022 NAICS,Yes
+Other Building Material Dealers ,Building Material and Supplies Dealers ,NAICS Industry,2022 NAICS,Yes
+Outdoor Power Equipment Retailers ,Lawn and Garden Equipment and Supplies Retailers ,NAICS Industry,2022 NAICS,Yes
+"Nursery, Garden Center, and Farm Supply Retailers ",Lawn and Garden Equipment and Supplies Retailers ,NAICS Industry,2022 NAICS,Yes
+Supermarkets and Other Grocery Retailers (except Convenience Retailers) ,Grocery and Convenience Retailers ,NAICS Industry,2022 NAICS,Yes
+Convenience Retailers and Vending Machine Operators ,Grocery and Convenience Retailers ,NAICS Industry,2022 NAICS,Yes
+Fruit and Vegetable Retailers ,Specialty Food Retailers ,NAICS Industry,2022 NAICS,Yes
+Meat Retailers ,Specialty Food Retailers ,NAICS Industry,2022 NAICS,Yes
+Fish and Seafood Retailers ,Specialty Food Retailers ,NAICS Industry,2022 NAICS,Yes
+Other Specialty Food Retailers ,Specialty Food Retailers ,NAICS Industry,2022 NAICS,Yes
+"Beer, Wine, and Liquor Retailers ","Beer, Wine, and Liquor Retailers ",NAICS Industry,2022 NAICS,Yes
+Furniture Retailers ,Furniture and Home Furnishings Retailers ,NAICS Industry,2022 NAICS,Yes
+Home Furnishings Retailers ,Furniture and Home Furnishings Retailers ,NAICS Industry,2022 NAICS,Yes
+Electronics and Appliance Retailers ,Electronics and Appliance Retailers ,NAICS Industry,2022 NAICS,Yes
+Department Stores ,Department Stores ,NAICS Industry,2022 NAICS,Yes
+"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ","Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ",NAICS Industry,2022 NAICS,Yes
+Pharmacies and Drug Retailers ,Health and Personal Care Retailers ,NAICS Industry,2022 NAICS,Yes
+"Cosmetics, Beauty Supplies, and Perfume Retailers ",Health and Personal Care Retailers ,NAICS Industry,2022 NAICS,Yes
+Optical Goods Retailers ,Health and Personal Care Retailers ,NAICS Industry,2022 NAICS,Yes
+Other Health and Personal Care Retailers ,Health and Personal Care Retailers ,NAICS Industry,2022 NAICS,Yes
+Gasoline Stations with Convenience Stores ,Gasoline Stations ,NAICS Industry,2022 NAICS,Yes
+Other Gasoline Stations ,Gasoline Stations ,NAICS Industry,2022 NAICS,Yes
+Fuel Dealers,Fuel Dealers,NAICS Industry,2022 NAICS,Yes
+Clothing and Clothing Accessories Retailers ,Clothing and Clothing Accessories Retailers ,NAICS Industry,2022 NAICS,Yes
+Shoe Retailers ,Shoe Retailers ,NAICS Industry,2022 NAICS,Yes
+Jewelry Retailers ,"Jewelry, Luggage, and Leather Goods Retailers ",NAICS Industry,2022 NAICS,Yes
+Luggage and Leather Goods Retailers ,"Jewelry, Luggage, and Leather Goods Retailers ",NAICS Industry,2022 NAICS,Yes
+Sporting Goods Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers ",NAICS Industry,2022 NAICS,Yes
+"Hobby, Toy, and Game Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers ",NAICS Industry,2022 NAICS,Yes
+"Sewing, Needlework, and Piece Goods Retailers ","Sporting Goods, Hobby, and Musical Instrument Retailers ",NAICS Industry,2022 NAICS,Yes
+Musical Instrument and Supplies Retailers ,"Sporting Goods, Hobby, and Musical Instrument Retailers ",NAICS Industry,2022 NAICS,Yes
+Book Retailers and News Dealers ,Book Retailers and News Dealers ,NAICS Industry,2022 NAICS,Yes
+Florists ,Florists ,NAICS Industry,2022 NAICS,Yes
+Office Supplies and Stationery Retailers ,"Office Supplies, Stationery, and Gift Retailers ",NAICS Industry,2022 NAICS,Yes
+"Gift, Novelty, and Souvenir Retailers ","Office Supplies, Stationery, and Gift Retailers ",NAICS Industry,2022 NAICS,Yes
+Used Merchandise Retailers ,Used Merchandise Retailers ,NAICS Industry,2022 NAICS,Yes
+Pet and Pet Supplies Retailers ,Other Miscellaneous Retailers ,NAICS Industry,2022 NAICS,Yes
+Art Dealers ,Other Miscellaneous Retailers ,NAICS Industry,2022 NAICS,Yes
+Manufactured (Mobile) Home Dealers ,Other Miscellaneous Retailers ,NAICS Industry,2022 NAICS,Yes
+All Other Miscellaneous Retailers ,Other Miscellaneous Retailers ,NAICS Industry,2022 NAICS,Yes
+Scheduled Air Transportation,Scheduled Air Transportation,NAICS Industry,2022 NAICS,Yes
+Nonscheduled Air Transportation,Nonscheduled Air Transportation,NAICS Industry,2022 NAICS,Yes
+Rail Transportation,Rail Transportation,NAICS Industry,2022 NAICS,Yes
+"Deep Sea, Coastal, and Great Lakes Water Transportation","Deep Sea, Coastal, and Great Lakes Water Transportation",NAICS Industry,2022 NAICS,Yes
+Inland Water Transportation,Inland Water Transportation,NAICS Industry,2022 NAICS,Yes
+"General Freight Trucking, Local",General Freight Trucking,NAICS Industry,2022 NAICS,Yes
+"General Freight Trucking, Long-Distance",General Freight Trucking,NAICS Industry,2022 NAICS,Yes
+Used Household and Office Goods Moving,Specialized Freight Trucking,NAICS Industry,2022 NAICS,Yes
+"Specialized Freight (except Used Goods) Trucking, Local",Specialized Freight Trucking,NAICS Industry,2022 NAICS,Yes
+"Specialized Freight (except Used Goods) Trucking, Long-Distance",Specialized Freight Trucking,NAICS Industry,2022 NAICS,Yes
+Urban Transit Systems,Urban Transit Systems,NAICS Industry,2022 NAICS,Yes
+Interurban and Rural Bus Transportation,Interurban and Rural Bus Transportation,NAICS Industry,2022 NAICS,Yes
+Taxi and Ridesharing Services,Taxi and Limousine Service,NAICS Industry,2022 NAICS,Yes
+Limousine Service,Taxi and Limousine Service,NAICS Industry,2022 NAICS,Yes
+School and Employee Bus Transportation,School and Employee Bus Transportation,NAICS Industry,2022 NAICS,Yes
+Charter Bus Industry,Charter Bus Industry,NAICS Industry,2022 NAICS,Yes
+Other Transit and Ground Passenger Transportation,Other Transit and Ground Passenger Transportation,NAICS Industry,2022 NAICS,Yes
+Pipeline Transportation of Crude Oil,Pipeline Transportation of Crude Oil,NAICS Industry,2022 NAICS,Yes
+Pipeline Transportation of Natural Gas,Pipeline Transportation of Natural Gas,NAICS Industry,2022 NAICS,Yes
+Pipeline Transportation of Refined Petroleum Products,Other Pipeline Transportation,NAICS Industry,2022 NAICS,Yes
+All Other Pipeline Transportation,Other Pipeline Transportation,NAICS Industry,2022 NAICS,Yes
+"Scenic and Sightseeing Transportation, Land","Scenic and Sightseeing Transportation, Land",NAICS Industry,2022 NAICS,Yes
+"Scenic and Sightseeing Transportation, Water","Scenic and Sightseeing Transportation, Water",NAICS Industry,2022 NAICS,Yes
+"Scenic and Sightseeing Transportation, Other","Scenic and Sightseeing Transportation, Other",NAICS Industry,2022 NAICS,Yes
+Airport Operations,Support Activities for Air Transportation,NAICS Industry,2022 NAICS,Yes
+Other Support Activities for Air Transportation,Support Activities for Air Transportation,NAICS Industry,2022 NAICS,Yes
+Support Activities for Rail Transportation,Support Activities for Rail Transportation,NAICS Industry,2022 NAICS,Yes
+Port and Harbor Operations,Support Activities for Water Transportation,NAICS Industry,2022 NAICS,Yes
+Marine Cargo Handling,Support Activities for Water Transportation,NAICS Industry,2022 NAICS,Yes
+Navigational Services to Shipping,Support Activities for Water Transportation,NAICS Industry,2022 NAICS,Yes
+Other Support Activities for Water Transportation,Support Activities for Water Transportation,NAICS Industry,2022 NAICS,Yes
+Motor Vehicle Towing,Support Activities for Road Transportation,NAICS Industry,2022 NAICS,Yes
+Other Support Activities for Road Transportation,Support Activities for Road Transportation,NAICS Industry,2022 NAICS,Yes
+Freight Transportation Arrangement,Freight Transportation Arrangement,NAICS Industry,2022 NAICS,Yes
+Other Support Activities for Transportation,Other Support Activities for Transportation,NAICS Industry,2022 NAICS,Yes
+Postal Service,Postal Service,NAICS Industry,2022 NAICS,Yes
+Couriers and Express Delivery Services,Couriers and Express Delivery Services,NAICS Industry,2022 NAICS,Yes
+Local Messengers and Local Delivery,Local Messengers and Local Delivery,NAICS Industry,2022 NAICS,Yes
+General Warehousing and Storage,Warehousing and Storage,NAICS Industry,2022 NAICS,Yes
+Refrigerated Warehousing and Storage,Warehousing and Storage,NAICS Industry,2022 NAICS,Yes
+Farm Product Warehousing and Storage,Warehousing and Storage,NAICS Industry,2022 NAICS,Yes
+Other Warehousing and Storage,Warehousing and Storage,NAICS Industry,2022 NAICS,Yes
+Motion Picture and Video Production,Motion Picture and Video Industries,NAICS Industry,2022 NAICS,Yes
+Motion Picture and Video Distribution,Motion Picture and Video Industries,NAICS Industry,2022 NAICS,Yes
+Motion Picture and Video Exhibition,Motion Picture and Video Industries,NAICS Industry,2022 NAICS,Yes
+Postproduction Services and Other Motion Picture and Video Industries,Motion Picture and Video Industries,NAICS Industry,2022 NAICS,Yes
+Music Publishers,Sound Recording Industries,NAICS Industry,2022 NAICS,Yes
+Sound Recording Studios,Sound Recording Industries,NAICS Industry,2022 NAICS,Yes
+Record Production and Distribution,Sound Recording Industries,NAICS Industry,2022 NAICS,Yes
+Other Sound Recording Industries,Sound Recording Industries,NAICS Industry,2022 NAICS,Yes
+Newspaper Publishers,"Newspaper, Periodical, Book, and Directory Publishers",NAICS Industry,2022 NAICS,Yes
+Periodical Publishers,"Newspaper, Periodical, Book, and Directory Publishers",NAICS Industry,2022 NAICS,Yes
+Book Publishers,"Newspaper, Periodical, Book, and Directory Publishers",NAICS Industry,2022 NAICS,Yes
+Directory and Mailing List Publishers,"Newspaper, Periodical, Book, and Directory Publishers",NAICS Industry,2022 NAICS,Yes
+Other Publishers,"Newspaper, Periodical, Book, and Directory Publishers",NAICS Industry,2022 NAICS,Yes
+Software Publishers,Software Publishers,NAICS Industry,2022 NAICS,Yes
+Radio Broadcasting Stations,Radio and Television Broadcasting Stations,NAICS Industry,2022 NAICS,Yes
+Television Broadcasting Stations,Radio and Television Broadcasting Stations,NAICS Industry,2022 NAICS,Yes
+"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers","Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",NAICS Industry,2022 NAICS,Yes
+Wired and Wireless Telecommunications Carriers (except Satellite),Wired and Wireless Telecommunications (except Satellite),NAICS Industry,2022 NAICS,Yes
+Telecommunications Resellers and Agents for Wireless Telecommunication Services,Wired and Wireless Telecommunications (except Satellite),NAICS Industry,2022 NAICS,Yes
+Satellite Telecommunications,Satellite Telecommunications,NAICS Industry,2022 NAICS,Yes
+All Other Telecommunications,All Other Telecommunications,NAICS Industry,2022 NAICS,Yes
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",NAICS Industry,2022 NAICS,Yes
+Libraries and Archives,"Web Search Portals, Libraries, Archives, and Other Information Services",NAICS Industry,2022 NAICS,Yes
+Web Search Portals and All Other Information Services,"Web Search Portals, Libraries, Archives, and Other Information Services",NAICS Industry,2022 NAICS,Yes
+Monetary Authorities-Central Bank,Monetary Authorities-Central Bank,NAICS Industry,2022 NAICS,Yes
+Commercial Banking ,Depository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Credit Unions ,Depository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Savings Institutions and Other Depository Credit Intermediation ,Depository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Credit Card Issuing ,Nondepository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Sales Financing ,Nondepository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Other Nondepository Credit Intermediation ,Nondepository Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Mortgage and Nonmortgage Loan Brokers ,Activities Related to Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",Activities Related to Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Other Activities Related to Credit Intermediation ,Activities Related to Credit Intermediation ,NAICS Industry,2022 NAICS,Yes
+Investment Banking and Securities Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage,NAICS Industry,2022 NAICS,Yes
+Commodity Contracts Intermediation ,Securities and Commodity Contracts Intermediation and Brokerage,NAICS Industry,2022 NAICS,Yes
+Securities and Commodity Exchanges,Securities and Commodity Exchanges,NAICS Industry,2022 NAICS,Yes
+Miscellaneous Intermediation ,Other Financial Investment Activities,NAICS Industry,2022 NAICS,Yes
+Portfolio Management and Investment Advice ,Other Financial Investment Activities,NAICS Industry,2022 NAICS,Yes
+All Other Financial Investment Activities ,Other Financial Investment Activities,NAICS Industry,2022 NAICS,Yes
+"Direct Life, Health, and Medical Insurance Carriers ",Insurance Carriers,NAICS Industry,2022 NAICS,Yes
+"Direct Insurance (except Life, Health, and Medical) Carriers ",Insurance Carriers,NAICS Industry,2022 NAICS,Yes
+Reinsurance Carriers ,Insurance Carriers,NAICS Industry,2022 NAICS,Yes
+Insurance Agencies and Brokerages ,"Agencies, Brokerages, and Other Insurance Related Activities",NAICS Industry,2022 NAICS,Yes
+Other Insurance Related Activities ,"Agencies, Brokerages, and Other Insurance Related Activities",NAICS Industry,2022 NAICS,Yes
+Pension Funds ,Insurance and Employee Benefit Funds ,NAICS Industry,2022 NAICS,Yes
+Health and Welfare Funds ,Insurance and Employee Benefit Funds ,NAICS Industry,2022 NAICS,Yes
+Other Insurance Funds ,Insurance and Employee Benefit Funds ,NAICS Industry,2022 NAICS,Yes
+Open-End Investment Funds ,Other Investment Pools and Funds,NAICS Industry,2022 NAICS,Yes
+"Trusts, Estates, and Agency Accounts ",Other Investment Pools and Funds,NAICS Industry,2022 NAICS,Yes
+Other Financial Vehicles ,Other Investment Pools and Funds,NAICS Industry,2022 NAICS,Yes
+Lessors of Residential Buildings and Dwellings ,Lessors of Real Estate,NAICS Industry,2022 NAICS,Yes
+Lessors of Nonresidential Buildings (except Miniwarehouses) ,Lessors of Real Estate,NAICS Industry,2022 NAICS,Yes
+Lessors of Miniwarehouses and Self-Storage Units ,Lessors of Real Estate,NAICS Industry,2022 NAICS,Yes
+Lessors of Other Real Estate Property ,Lessors of Real Estate,NAICS Industry,2022 NAICS,Yes
+Offices of Real Estate Agents and Brokers,Offices of Real Estate Agents and Brokers,NAICS Industry,2022 NAICS,Yes
+Real Estate Property Managers ,Activities Related to Real Estate,NAICS Industry,2022 NAICS,Yes
+Offices of Real Estate Appraisers ,Activities Related to Real Estate,NAICS Industry,2022 NAICS,Yes
+Other Activities Related to Real Estate ,Activities Related to Real Estate,NAICS Industry,2022 NAICS,Yes
+Passenger Car Rental and Leasing,Automotive Equipment Rental and Leasing,NAICS Industry,2022 NAICS,Yes
+"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",Automotive Equipment Rental and Leasing,NAICS Industry,2022 NAICS,Yes
+Consumer Electronics and Appliances Rental,Consumer Goods Rental,NAICS Industry,2022 NAICS,Yes
+Other Consumer Goods Rental ,Consumer Goods Rental,NAICS Industry,2022 NAICS,Yes
+General Rental Centers,General Rental Centers,NAICS Industry,2022 NAICS,Yes
+"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing",Commercial and Industrial Machinery and Equipment Rental and Leasing,NAICS Industry,2022 NAICS,Yes
+Office Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing,NAICS Industry,2022 NAICS,Yes
+Other Commercial and Industrial Machinery and Equipment Rental and Leasing,Commercial and Industrial Machinery and Equipment Rental and Leasing,NAICS Industry,2022 NAICS,Yes
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),NAICS Industry,2022 NAICS,Yes
+Offices of Lawyers,Legal Services,NAICS Industry,2022 NAICS,Yes
+Offices of Notaries,Legal Services,NAICS Industry,2022 NAICS,Yes
+Other Legal Services,Legal Services,NAICS Industry,2022 NAICS,Yes
+"Accounting, Tax Preparation, Bookkeeping, and Payroll Services","Accounting, Tax Preparation, Bookkeeping, and Payroll Services",NAICS Industry,2022 NAICS,Yes
+Architectural Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Landscape Architectural Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Engineering Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Drafting Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Building Inspection Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Geophysical Surveying and Mapping Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Surveying and Mapping (except Geophysical) Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Testing Laboratories and Services,"Architectural, Engineering, and Related Services",NAICS Industry,2022 NAICS,Yes
+Interior Design Services,Specialized Design Services,NAICS Industry,2022 NAICS,Yes
+Industrial Design Services,Specialized Design Services,NAICS Industry,2022 NAICS,Yes
+Graphic Design Services,Specialized Design Services,NAICS Industry,2022 NAICS,Yes
+Other Specialized Design Services,Specialized Design Services,NAICS Industry,2022 NAICS,Yes
+Computer Systems Design and Related Services,Computer Systems Design and Related Services,NAICS Industry,2022 NAICS,Yes
+Management Consulting Services,"Management, Scientific, and Technical Consulting Services",NAICS Industry,2022 NAICS,Yes
+Environmental Consulting Services,"Management, Scientific, and Technical Consulting Services",NAICS Industry,2022 NAICS,Yes
+Other Scientific and Technical Consulting Services,"Management, Scientific, and Technical Consulting Services",NAICS Industry,2022 NAICS,Yes
+"Research and Development in the Physical, Engineering, and Life Sciences",Scientific Research and Development Services,NAICS Industry,2022 NAICS,Yes
+Research and Development in the Social Sciences and Humanities,Scientific Research and Development Services,NAICS Industry,2022 NAICS,Yes
+Advertising Agencies,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Public Relations Agencies,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Media Buying Agencies,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Media Representatives,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Indoor and Outdoor Display Advertising,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Direct Mail Advertising,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Advertising Material Distribution Services,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Other Services Related to Advertising,"Advertising, Public Relations, and Related Services",NAICS Industry,2022 NAICS,Yes
+Marketing Research and Public Opinion Polling,"Other Professional, Scientific, and Technical Services",NAICS Industry,2022 NAICS,Yes
+Photographic Services,"Other Professional, Scientific, and Technical Services",NAICS Industry,2022 NAICS,Yes
+Translation and Interpretation Services,"Other Professional, Scientific, and Technical Services",NAICS Industry,2022 NAICS,Yes
+Veterinary Services,"Other Professional, Scientific, and Technical Services",NAICS Industry,2022 NAICS,Yes
+"All Other Professional, Scientific, and Technical Services","Other Professional, Scientific, and Technical Services",NAICS Industry,2022 NAICS,Yes
+Management of Companies and Enterprises,Management of Companies and Enterprises,NAICS Industry,2022 NAICS,Yes
+Office Administrative Services,Office Administrative Services,NAICS Industry,2022 NAICS,Yes
+Facilities Support Services,Facilities Support Services,NAICS Industry,2022 NAICS,Yes
+Employment Placement Agencies and Executive Search Services,Employment Services,NAICS Industry,2022 NAICS,Yes
+Temporary Help Services,Employment Services,NAICS Industry,2022 NAICS,Yes
+Professional Employer Organizations,Employment Services,NAICS Industry,2022 NAICS,Yes
+Document Preparation Services,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Telephone Call Centers,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Business Service Centers,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Collection Agencies,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Credit Bureaus,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Other Business Support Services,Business Support Services,NAICS Industry,2022 NAICS,Yes
+Travel Agencies,Travel Arrangement and Reservation Services,NAICS Industry,2022 NAICS,Yes
+Tour Operators,Travel Arrangement and Reservation Services,NAICS Industry,2022 NAICS,Yes
+Other Travel Arrangement and Reservation Services,Travel Arrangement and Reservation Services,NAICS Industry,2022 NAICS,Yes
+"Investigation, Guard, and Armored Car Services",Investigation and Security Services,NAICS Industry,2022 NAICS,Yes
+Security Systems Services,Investigation and Security Services,NAICS Industry,2022 NAICS,Yes
+Exterminating and Pest Control Services,Services to Buildings and Dwellings,NAICS Industry,2022 NAICS,Yes
+Janitorial Services,Services to Buildings and Dwellings,NAICS Industry,2022 NAICS,Yes
+Landscaping Services,Services to Buildings and Dwellings,NAICS Industry,2022 NAICS,Yes
+Carpet and Upholstery Cleaning Services,Services to Buildings and Dwellings,NAICS Industry,2022 NAICS,Yes
+Other Services to Buildings and Dwellings,Services to Buildings and Dwellings,NAICS Industry,2022 NAICS,Yes
+Packaging and Labeling Services,Other Support Services,NAICS Industry,2022 NAICS,Yes
+Convention and Trade Show Organizers,Other Support Services,NAICS Industry,2022 NAICS,Yes
+All Other Support Services,Other Support Services,NAICS Industry,2022 NAICS,Yes
+Waste Collection ,Waste Collection ,NAICS Industry,2022 NAICS,Yes
+Waste Treatment and Disposal ,Waste Treatment and Disposal ,NAICS Industry,2022 NAICS,Yes
+Remediation Services ,Remediation and Other Waste Management Services ,NAICS Industry,2022 NAICS,Yes
+Materials Recovery Facilities ,Remediation and Other Waste Management Services ,NAICS Industry,2022 NAICS,Yes
+All Other Waste Management Services ,Remediation and Other Waste Management Services ,NAICS Industry,2022 NAICS,Yes
+Elementary and Secondary Schools ,Elementary and Secondary Schools,NAICS Industry,2022 NAICS,Yes
+Junior Colleges,Junior Colleges,NAICS Industry,2022 NAICS,Yes
+"Colleges, Universities, and Professional Schools","Colleges, Universities, and Professional Schools",NAICS Industry,2022 NAICS,Yes
+Business and Secretarial Schools,Business Schools and Computer and Management Training,NAICS Industry,2022 NAICS,Yes
+Computer Training,Business Schools and Computer and Management Training,NAICS Industry,2022 NAICS,Yes
+Professional and Management Development Training,Business Schools and Computer and Management Training,NAICS Industry,2022 NAICS,Yes
+Technical and Trade Schools,Technical and Trade Schools ,NAICS Industry,2022 NAICS,Yes
+Fine Arts Schools,Other Schools and Instruction,NAICS Industry,2022 NAICS,Yes
+Sports and Recreation Instruction,Other Schools and Instruction,NAICS Industry,2022 NAICS,Yes
+Language Schools,Other Schools and Instruction,NAICS Industry,2022 NAICS,Yes
+All Other Schools and Instruction,Other Schools and Instruction,NAICS Industry,2022 NAICS,Yes
+Educational Support Services,Educational Support Services,NAICS Industry,2022 NAICS,Yes
+Offices of Physicians,Offices of Physicians,NAICS Industry,2022 NAICS,Yes
+Offices of Dentists,Offices of Dentists,NAICS Industry,2022 NAICS,Yes
+Offices of Chiropractors,Offices of Other Health Practitioners,NAICS Industry,2022 NAICS,Yes
+Offices of Optometrists,Offices of Other Health Practitioners,NAICS Industry,2022 NAICS,Yes
+Offices of Mental Health Practitioners (except Physicians),Offices of Other Health Practitioners,NAICS Industry,2022 NAICS,Yes
+"Offices of Physical, Occupational and Speech Therapists, and Audiologists",Offices of Other Health Practitioners,NAICS Industry,2022 NAICS,Yes
+Offices of All Other Health Practitioners,Offices of Other Health Practitioners,NAICS Industry,2022 NAICS,Yes
+Family Planning Centers,Outpatient Care Centers,NAICS Industry,2022 NAICS,Yes
+Outpatient Mental Health and Substance Abuse Centers,Outpatient Care Centers,NAICS Industry,2022 NAICS,Yes
+Other Outpatient Care Centers,Outpatient Care Centers,NAICS Industry,2022 NAICS,Yes
+Medical and Diagnostic Laboratories,Medical and Diagnostic Laboratories,NAICS Industry,2022 NAICS,Yes
+Home Health Care Services,Home Health Care Services,NAICS Industry,2022 NAICS,Yes
+Ambulance Services,Other Ambulatory Health Care Services,NAICS Industry,2022 NAICS,Yes
+All Other Ambulatory Health Care Services,Other Ambulatory Health Care Services,NAICS Industry,2022 NAICS,Yes
+General Medical and Surgical Hospitals,General Medical and Surgical Hospitals,NAICS Industry,2022 NAICS,Yes
+Psychiatric and Substance Abuse Hospitals,Psychiatric and Substance Abuse Hospitals,NAICS Industry,2022 NAICS,Yes
+Specialty (except Psychiatric and Substance Abuse) Hospitals,Specialty (except Psychiatric and Substance Abuse) Hospitals,NAICS Industry,2022 NAICS,Yes
+Nursing Care Facilities (Skilled Nursing Facilities),Nursing Care Facilities (Skilled Nursing Facilities),NAICS Industry,2022 NAICS,Yes
+Residential Intellectual and Developmental Disability Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",NAICS Industry,2022 NAICS,Yes
+Residential Mental Health and Substance Abuse Facilities,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",NAICS Industry,2022 NAICS,Yes
+Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,NAICS Industry,2022 NAICS,Yes
+Other Residential Care Facilities,Other Residential Care Facilities,NAICS Industry,2022 NAICS,Yes
+Child and Youth Services,Individual and Family Services,NAICS Industry,2022 NAICS,Yes
+Services for the Elderly and Persons with Disabilities,Individual and Family Services,NAICS Industry,2022 NAICS,Yes
+Other Individual and Family Services,Individual and Family Services,NAICS Industry,2022 NAICS,Yes
+Community Food Services,"Community Food and Housing, and Emergency and Other Relief Services",NAICS Industry,2022 NAICS,Yes
+Community Housing Services,"Community Food and Housing, and Emergency and Other Relief Services",NAICS Industry,2022 NAICS,Yes
+Emergency and Other Relief Services,"Community Food and Housing, and Emergency and Other Relief Services",NAICS Industry,2022 NAICS,Yes
+Vocational Rehabilitation Services,Vocational Rehabilitation Services,NAICS Industry,2022 NAICS,Yes
+Child Care Services,Child Care Services,NAICS Industry,2022 NAICS,Yes
+Theater Companies and Dinner Theaters,Performing Arts Companies,NAICS Industry,2022 NAICS,Yes
+Dance Companies,Performing Arts Companies,NAICS Industry,2022 NAICS,Yes
+Musical Groups and Artists,Performing Arts Companies,NAICS Industry,2022 NAICS,Yes
+Other Performing Arts Companies,Performing Arts Companies,NAICS Industry,2022 NAICS,Yes
+Spectator Sports,Spectator Sports,NAICS Industry,2022 NAICS,Yes
+"Promoters of Performing Arts, Sports, and Similar Events with Facilities","Promoters of Performing Arts, Sports, and Similar Events",NAICS Industry,2022 NAICS,Yes
+"Promoters of Performing Arts, Sports, and Similar Events without Facilities","Promoters of Performing Arts, Sports, and Similar Events",NAICS Industry,2022 NAICS,Yes
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",NAICS Industry,2022 NAICS,Yes
+"Independent Artists, Writers, and Performers","Independent Artists, Writers, and Performers",NAICS Industry,2022 NAICS,Yes
+Museums,"Museums, Historical Sites, and Similar Institutions",NAICS Industry,2022 NAICS,Yes
+Historical Sites,"Museums, Historical Sites, and Similar Institutions",NAICS Industry,2022 NAICS,Yes
+Zoos and Botanical Gardens,"Museums, Historical Sites, and Similar Institutions",NAICS Industry,2022 NAICS,Yes
+Nature Parks and Other Similar Institutions,"Museums, Historical Sites, and Similar Institutions",NAICS Industry,2022 NAICS,Yes
+Amusement and Theme Parks,Amusement Parks and Arcades,NAICS Industry,2022 NAICS,Yes
+Amusement Arcades,Amusement Parks and Arcades,NAICS Industry,2022 NAICS,Yes
+Casinos (except Casino Hotels),Gambling Industries,NAICS Industry,2022 NAICS,Yes
+Other Gambling Industries,Gambling Industries,NAICS Industry,2022 NAICS,Yes
+Golf Courses and Country Clubs,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+Skiing Facilities,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+Marinas,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+Fitness and Recreational Sports Centers,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+Bowling Centers,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+All Other Amusement and Recreation Industries,Other Amusement and Recreation Industries,NAICS Industry,2022 NAICS,Yes
+Hotels (except Casino Hotels) and Motels,Traveler Accommodation,NAICS Industry,2022 NAICS,Yes
+Casino Hotels,Traveler Accommodation,NAICS Industry,2022 NAICS,Yes
+Other Traveler Accommodation,Traveler Accommodation,NAICS Industry,2022 NAICS,Yes
+RV (Recreational Vehicle) Parks and Recreational Camps,RV (Recreational Vehicle) Parks and Recreational Camps,NAICS Industry,2022 NAICS,Yes
+"Rooming and Boarding Houses, Dormitories, and Workers' Camps","Rooming and Boarding Houses, Dormitories, and Workers' Camps",NAICS Industry,2022 NAICS,Yes
+Food Service Contractors,Special Food Services,NAICS Industry,2022 NAICS,Yes
+Caterers,Special Food Services,NAICS Industry,2022 NAICS,Yes
+Mobile Food Services,Special Food Services,NAICS Industry,2022 NAICS,Yes
+Drinking Places (Alcoholic Beverages),Drinking Places (Alcoholic Beverages),NAICS Industry,2022 NAICS,Yes
+Restaurants and Other Eating Places,Restaurants and Other Eating Places,NAICS Industry,2022 NAICS,Yes
+Automotive Mechanical and Electrical Repair and Maintenance,Automotive Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+"Automotive Body, Paint, Interior, and Glass Repair",Automotive Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Other Automotive Repair and Maintenance,Automotive Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Electronic and Precision Equipment Repair and Maintenance,Electronic and Precision Equipment Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Home and Garden Equipment and Appliance Repair and Maintenance,Personal and Household Goods Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Reupholstery and Furniture Repair,Personal and Household Goods Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Footwear and Leather Goods Repair,Personal and Household Goods Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+Other Personal and Household Goods Repair and Maintenance,Personal and Household Goods Repair and Maintenance,NAICS Industry,2022 NAICS,Yes
+"Hair, Nail, and Skin Care Services ",Personal Care Services ,NAICS Industry,2022 NAICS,Yes
+Other Personal Care Services ,Personal Care Services ,NAICS Industry,2022 NAICS,Yes
+Funeral Homes and Funeral Services ,Death Care Services ,NAICS Industry,2022 NAICS,Yes
+Cemeteries and Crematories ,Death Care Services ,NAICS Industry,2022 NAICS,Yes
+Coin-Operated Laundries and Drycleaners ,Drycleaning and Laundry Services ,NAICS Industry,2022 NAICS,Yes
+Drycleaning and Laundry Services (except Coin-Operated) ,Drycleaning and Laundry Services ,NAICS Industry,2022 NAICS,Yes
+Linen and Uniform Supply ,Drycleaning and Laundry Services ,NAICS Industry,2022 NAICS,Yes
+Pet Care (except Veterinary) Services ,Other Personal Services ,NAICS Industry,2022 NAICS,Yes
+Photofinishing ,Other Personal Services ,NAICS Industry,2022 NAICS,Yes
+Parking Lots and Garages ,Other Personal Services ,NAICS Industry,2022 NAICS,Yes
+All Other Personal Services ,Other Personal Services ,NAICS Industry,2022 NAICS,Yes
+Religious Organizations ,Religious Organizations ,NAICS Industry,2022 NAICS,Yes
+Grantmaking and Giving Services ,Grantmaking and Giving Services ,NAICS Industry,2022 NAICS,Yes
+Social Advocacy Organizations ,Social Advocacy Organizations ,NAICS Industry,2022 NAICS,Yes
+Civic and Social Organizations ,Civic and Social Organizations ,NAICS Industry,2022 NAICS,Yes
+Business Associations ,"Business, Professional, Labor, Political, and Similar Organizations ",NAICS Industry,2022 NAICS,Yes
+Professional Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",NAICS Industry,2022 NAICS,Yes
+Labor Unions and Similar Labor Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",NAICS Industry,2022 NAICS,Yes
+Political Organizations ,"Business, Professional, Labor, Political, and Similar Organizations ",NAICS Industry,2022 NAICS,Yes
+"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ","Business, Professional, Labor, Political, and Similar Organizations ",NAICS Industry,2022 NAICS,Yes
+Private Households,Private Households,NAICS Industry,2022 NAICS,Yes
+Executive Offices ,"Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+Legislative Bodies ,"Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+Public Finance Activities ,"Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+"Executive and Legislative Offices, Combined ","Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+American Indian and Alaska Native Tribal Governments ,"Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+Other General Government Support ,"Executive, Legislative, and Other General Government Support ",NAICS Industry,2022 NAICS,Yes
+Courts ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Police Protection ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Legal Counsel and Prosecution ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Correctional Institutions ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Parole Offices and Probation Offices ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Fire Protection ,"Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+"Other Justice, Public Order, and Safety Activities ","Justice, Public Order, and Safety Activities ",NAICS Industry,2022 NAICS,Yes
+Administration of Education Programs ,Administration of Human Resource Programs ,NAICS Industry,2022 NAICS,Yes
+Administration of Public Health Programs ,Administration of Human Resource Programs ,NAICS Industry,2022 NAICS,Yes
+"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ",Administration of Human Resource Programs ,NAICS Industry,2022 NAICS,Yes
+Administration of Veterans' Affairs ,Administration of Human Resource Programs ,NAICS Industry,2022 NAICS,Yes
+Administration of Air and Water Resource and Solid Waste Management Programs ,Administration of Environmental Quality Programs ,NAICS Industry,2022 NAICS,Yes
+Administration of Conservation Programs ,Administration of Environmental Quality Programs ,NAICS Industry,2022 NAICS,Yes
+Administration of Housing Programs ,"Administration of Housing Programs, Urban Planning, and Community Development ",NAICS Industry,2022 NAICS,Yes
+Administration of Urban Planning and Community and Rural Development ,"Administration of Housing Programs, Urban Planning, and Community Development ",NAICS Industry,2022 NAICS,Yes
+Administration of General Economic Programs ,Administration of Economic Programs ,NAICS Industry,2022 NAICS,Yes
+Regulation and Administration of Transportation Programs ,Administration of Economic Programs ,NAICS Industry,2022 NAICS,Yes
+"Regulation and Administration of Communications, Electric, Gas, and Other Utilities ",Administration of Economic Programs ,NAICS Industry,2022 NAICS,Yes
+Regulation of Agricultural Marketing and Commodities ,Administration of Economic Programs ,NAICS Industry,2022 NAICS,Yes
+"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ",Administration of Economic Programs ,NAICS Industry,2022 NAICS,Yes
+Space Research and Technology ,Space Research and Technology ,NAICS Industry,2022 NAICS,Yes
+National Security ,National Security and International Affairs ,NAICS Industry,2022 NAICS,Yes
+International Affairs ,National Security and International Affairs ,NAICS Industry,2022 NAICS,Yes
