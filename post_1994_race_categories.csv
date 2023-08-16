@@ -1,6 +1,6 @@
-name,concept_name,parent,source,standard_semantic_hierarchy
-White,Post-1994 Race Categories,White,Post-1994 Race Standards,No
-Black,Post-1994 Race Categories,Black,Post-1994 Race Standards,No
-American Indian or Alaska Native,Post-1994 Race Categories,Other,Post-1994 Race Standards,No
-Asian or Pacific Islander,Post-1994 Race Categories,Other,Post-1994 Race Standards,No
-Other,Post-1994 Race Categories,Other,Post-1994 Race Standards,No
+name,concept_name,parent,source,standard_semantic_hierarchy,fk_pre_1994
+White,Post-1994 Race Categories,None,Post-1994 Race Standards,No,White
+Black,Post-1994 Race Categories,None,Post-1994 Race Standards,No,Black
+American Indian or Alaska Native,Post-1994 Race Categories,None,Post-1994 Race Standards,No,Other
+Asian or Pacific Islander,Post-1994 Race Categories,None,Post-1994 Race Standards,No,Other
+Other,Post-1994 Race Categories,None,Post-1994 Race Standards,No,Other
