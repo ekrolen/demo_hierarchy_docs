@@ -1,15 +1,22 @@
-race_ethnicity_second_level,fk_race,fk_ethnicity
-"White, Hispanic",White,Hispanic
-"White, Non-Hispanic",White,Non-Hispanic
-"Black or African American, Hispanic",Black or African American,Hispanic
-"Black or African American, Non-Hispanic",Black or African American,Non-Hispanic
-"American Indian or Alaska Native, Hispanic",American Indian or Alaska Native,Hispanic
-"American Indian or Alaska Native, Non-Hispanic",American Indian or Alaska Native,Non-Hispanic
-"Asian, Hispanic",Asian,Hispanic
-"Asian, Non-Hispanic",Asian,Non-Hispanic
-"Native Hawaiian or Pacific Islander, Hispanic",Native Hawaiian or Pacific Islander,Hispanic
-"Native Hawaiian or Pacific Islander, Non-Hispanic",Native Hawaiian or Pacific Islander,Non-Hispanic
-"Other, Hispanic",Other,Hispanic
-"Other, Non-Hispanic",Other,Non-Hispanic
-"Undisclosed, Hispanic",Undisclosed,Hispanic
-"Undisclosed, Non-Hispanic",Undisclosed,Non-Hispanic
+name,concept_name,parent,source,standard_semantic_hierarchy,fk_race,fk_ethnicity
+"White, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,White,Hispanic
+"White, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,White,Non-Hispanic
+"White, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,White,Undisclosed
+"Black or African American, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Black or African American,Hispanic
+"Black or African American, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Black or African American,Non-Hispanic
+"Black or African American, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Black or African American,Undisclosed
+"American Indian or Alaska Native, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,American Indian or Alaska Native,Hispanic
+"American Indian or Alaska Native, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,American Indian or Alaska Native,Non-Hispanic
+"American Indian or Alaska Native, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,American Indian or Alaska Native,Undisclosed
+"Asian, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Asian,Hispanic
+"Asian, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Asian,Non-Hispanic
+"Asian, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Asian,Undisclosed
+"Native Hawaiian or Pacific Islander, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Native Hawaiian or Pacific Islander,Hispanic
+"Native Hawaiian or Pacific Islander, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Native Hawaiian or Pacific Islander,Non-Hispanic
+"Native Hawaiian or Pacific Islander, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Native Hawaiian or Pacific Islander,Undisclosed
+"Other, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Other,Hispanic
+"Other, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Other,Non-Hispanic
+"Other, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Other,Undisclosed
+"Undisclosed, Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Undisclosed,Hispanic
+"Undisclosed, Non-Hispanic",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Undisclosed,Non-Hispanic
+"Undisclosed, Undisclosed",Kinds of Race/Ethnicities,Race/Ethnicity,ACS and CPS,No,Undisclosed,Undisclosed

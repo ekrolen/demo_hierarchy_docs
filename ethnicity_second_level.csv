@@ -1,2 +1,2 @@
-ethnicity_second_level,parent,source
-Hispanic or Latino Ethnicity,Ethnicity,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+Hispanic or Latino Ethnicity,Kind of Ethnicity,Ethnicity,ACS and CPS,Yes

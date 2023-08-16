@@ -1,3 +1,4 @@
-ethnicity_third_level,parent,source
-Hispanic,Hispanic or Latino Ethnicity,Standard Semantic Hierarchy
-Non-Hispanic,Hispanic or Latino Ethnicity,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+Hispanic,Hispanic or Latino Ethnicity Options,Hispanic or Latino Ethnicity,ACS and CPS,Yes
+Non-Hispanic,Hispanic or Latino Ethnicity Options,Hispanic or Latino Ethnicity,ACS and CPS,Yes
+Undisclosed,Hispanic or Latino Ethnicity Options,Hispanic or Latino Ethnicity,ACS and CPS,Yes

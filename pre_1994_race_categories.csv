@@ -1,4 +1,4 @@
-races,source
-White,Pre-1994 Race Standards
-Black,Pre-1994 Race Standards
-Other,Pre-1994 Race Standards
+name,concept_name,parent,source,standard_semantic_hierarchy
+White,Pre-1994 Race Categories,None,Pre-1994 Race Standards,No
+Black,Pre-1994 Race Categories,None,Pre-1994 Race Standards,No
+Other,Pre-1994 Race Categories,None,Pre-1994 Race Standards,No

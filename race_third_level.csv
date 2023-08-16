@@ -1,37 +1,37 @@
-race_third_level,parent,source
-German,White,Standard Semantic Hierarchy
-Irish,White,Standard Semantic Hierarchy
-English,White,Standard Semantic Hierarchy
-Italian,White,Standard Semantic Hierarchy
-Lebanese,White,Standard Semantic Hierarchy
-Egyptian,White,Standard Semantic Hierarchy
-Other White,White,Standard Semantic Hierarchy
-African American,Black or African American,Standard Semantic Hierarchy
-Jamaican,Black or African American,Standard Semantic Hierarchy
-Haitian,Black or African American,Standard Semantic Hierarchy
-Nigerian,Black or African American,Standard Semantic Hierarchy
-Ethiopian,Black or African American,Standard Semantic Hierarchy
-Somali,Black or African American,Standard Semantic Hierarchy
-Other Black or African American,Black or African American,Standard Semantic Hierarchy
-Navajo Nation,American Indian or Alaska Native,Standard Semantic Hierarchy
-Blackfeet Tribe,American Indian or Alaska Native,Standard Semantic Hierarchy
-Mayan,American Indian or Alaska Native,Standard Semantic Hierarchy
-Aztec,American Indian or Alaska Native,Standard Semantic Hierarchy
-Native Village of Barrow Inupiat Traditional Government,American Indian or Alaska Native,Standard Semantic Hierarchy
-Nome Eskimo Community,American Indian or Alaska Native,Standard Semantic Hierarchy
-Other American Indian or Alaska Native,American Indian or Alaska Native,Standard Semantic Hierarchy
-Asian Indian,Asian,Standard Semantic Hierarchy
-Chinese,Asian,Standard Semantic Hierarchy
-Filipino,Asian,Standard Semantic Hierarchy
-Japanese,Asian,Standard Semantic Hierarchy
-Korean,Asian,Standard Semantic Hierarchy
-Vietnamese,Asian,Standard Semantic Hierarchy
-Other Asian,Asian,Standard Semantic Hierarchy
-Native Hawaiian,Native Hawaiian or Pacific Islander,Standard Semantic Hierarchy
-Guamanian,Native Hawaiian or Pacific Islander,Standard Semantic Hierarchy
-Chamorro,Native Hawaiian or Pacific Islander,Standard Semantic Hierarchy
-Samoan,Native Hawaiian or Pacific Islander,Standard Semantic Hierarchy
-Other Pacific Islander,Native Hawaiian or Pacific Islander,Standard Semantic Hierarchy
-Two or More Races,Other,Standard Semantic Hierarchy
-Other,Other,Standard Semantic Hierarchy
-Undisclosed,Undisclosed,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+German,Race Details,White,ACS and CPS,Yes
+Irish,Race Details,White,ACS and CPS,Yes
+English,Race Details,White,ACS and CPS,Yes
+Italian,Race Details,White,ACS and CPS,Yes
+Lebanese,Race Details,White,ACS and CPS,Yes
+Egyptian,Race Details,White,ACS and CPS,Yes
+Other White,Race Details,White,ACS and CPS,Yes
+African American,Race Details,Black or African American,ACS and CPS,Yes
+Jamaican,Race Details,Black or African American,ACS and CPS,Yes
+Haitian,Race Details,Black or African American,ACS and CPS,Yes
+Nigerian,Race Details,Black or African American,ACS and CPS,Yes
+Ethiopian,Race Details,Black or African American,ACS and CPS,Yes
+Somali,Race Details,Black or African American,ACS and CPS,Yes
+Other Black or African American,Race Details,Black or African American,ACS and CPS,Yes
+Navajo Nation,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Blackfeet Tribe,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Mayan,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Aztec,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Native Village of Barrow Inupiat Traditional Government,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Nome Eskimo Community,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Other American Indian or Alaska Native,Race Details,American Indian or Alaska Native,ACS and CPS,Yes
+Asian Indian,Race Details,Asian,ACS and CPS,Yes
+Chinese,Race Details,Asian,ACS and CPS,Yes
+Filipino,Race Details,Asian,ACS and CPS,Yes
+Japanese,Race Details,Asian,ACS and CPS,Yes
+Korean,Race Details,Asian,ACS and CPS,Yes
+Vietnamese,Race Details,Asian,ACS and CPS,Yes
+Other Asian,Race Details,Asian,ACS and CPS,Yes
+Native Hawaiian,Race Details,Native Hawaiian or Pacific Islander,ACS and CPS,Yes
+Guamanian,Race Details,Native Hawaiian or Pacific Islander,ACS and CPS,Yes
+Chamorro,Race Details,Native Hawaiian or Pacific Islander,ACS and CPS,Yes
+Samoan,Race Details,Native Hawaiian or Pacific Islander,ACS and CPS,Yes
+Other Pacific Islander,Race Details,Native Hawaiian or Pacific Islander,ACS and CPS,Yes
+Two or More Races,Race Details,Other,ACS and CPS,Yes
+Other,Race Details,Other,ACS and CPS,Yes
+Undisclosed,Race Details,Undisclosed,ACS and CPS,Yes

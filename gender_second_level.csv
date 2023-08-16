@@ -1,6 +1,6 @@
-gender_second_level,parent,source
-Female,Gender,Standard Semantic Hierarchy
-Male,Gender,Standard Semantic Hierarchy
-Transgender,Gender,Standard Semantic Hierarchy
-None of these,Gender,Standard Semantic Hierarchy
-Unreported,Gender,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+Female,Genders,Gender,2021 Census,Yes
+Male,Genders,Gender,2021 Census,Yes
+Transgender,Genders,Gender,2021 Census,Yes
+None of these,Genders,Gender,2021 Census,Yes
+Undisclosed,Genders,Gender,2021 Census,Yes

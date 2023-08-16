@@ -1,8 +1,8 @@
-race_second_level,parent,source,pre_1994,post_1994
-White,Race,Standard Semantic Hierarchy,White,White
-Black or African American,Race,Standard Semantic Hierarchy,Black,Black
-American Indian or Alaska Native,Race,Standard Semantic Hierarchy,Other,American Indian or Alaska Native
-Asian,Race,Standard Semantic Hierarchy,Other,Asian or Pacific Islander
-Native Hawaiian or Pacific Islander,Race,Standard Semantic Hierarchy,Other,Asian or Pacific Islander
-Other,Race,Standard Semantic Hierarchy,Other,Other
-Undisclosed,Race,Standard Semantic Hierarchy,Other,Other
+name,concept_name,parent,source,standard_semantic_hierarchy,fk_pre_1994,fk_post_1994
+White,Races,Race,ACS and CPS,Yes,White,White
+Black or African American,Races,Race,ACS and CPS,Yes,Black,Black
+American Indian or Alaska Native,Races,Race,ACS and CPS,Yes,Other,American Indian or Alaska Native
+Asian,Races,Race,ACS and CPS,Yes,Other,Asian or Pacific Islander
+Native Hawaiian or Pacific Islander,Races,Race,ACS and CPS,Yes,Other,Asian or Pacific Islander
+Other,Races,Race,ACS and CPS,Yes,Other,Other
+Undisclosed,Races,Race,ACS and CPS,Yes,Other,Other

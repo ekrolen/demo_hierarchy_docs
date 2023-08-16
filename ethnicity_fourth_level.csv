@@ -1,5 +1,5 @@
-ethnicity_fourth_level,parent,source
-"Mexican, Mexican American, or Chicano",Hispanic,Standard Semantic Hierarchy
-Puerto Rican,Hispanic,Standard Semantic Hierarchy
-Cuban or Cuban American,Hispanic,Standard Semantic Hierarchy
-Other,Hispanic,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+"Mexican, Mexican American, or Chicano",Hispanic Details,Hispanic,ACS and CPS,Yes
+Puerto Rican,Hispanic Details,Hispanic,ACS and CPS,Yes
+Cuban or Cuban American,Hispanic Details,Hispanic,ACS and CPS,Yes
+Other,Hispanic Details,Hispanic,ACS and CPS,Yes

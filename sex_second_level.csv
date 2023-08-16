@@ -1,5 +1,4 @@
-sex_second_level,parent,source
-Female,Sex,Standard Semantic Hierarchy
-Male,Sex,Standard Semantic Hierarchy
-Intersex,Sex,Standard Semantic Hierarchy
-Unreported,Sex,Standard Semantic Hierarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
+Female,Sexes,Sex,ACS and CPS,Yes
+Male,Sexes,Sex,ACS and CPS,Yes
+Undisclosed,Sexes,Sex,ACS and CPS,Yes
