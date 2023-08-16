@@ -1,0 +1,12 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+Mountain Division,West Region,Census Division,2023 GNIS,Yes
+West South Central Division,South Region,Census Division,2023 GNIS,Yes
+East South Central Division,South Region,Census Division,2023 GNIS,Yes
+South Atlantic Division,South Region,Census Division,2023 GNIS,Yes
+Pacific Division,West Region,Census Division,2023 GNIS,Yes
+East North Central Division,Midwest Region,Census Division,2023 GNIS,Yes
+West North Central Division,Midwest Region,Census Division,2023 GNIS,Yes
+New England Division,Northeast Region,Census Division,2023 GNIS,Yes
+Middle Atlantic Division,Northeast Region,Census Division,2023 GNIS,Yes
+Island Areas,Island Areas,Census Division,2023 GNIS,Yes
+N/A,N/A,Census Division,2023 GNIS,Yes

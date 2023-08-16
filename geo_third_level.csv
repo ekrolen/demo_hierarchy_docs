@@ -1,0 +1,8 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+West Region,United States,Census Region,2023 GNIS,Yes
+South Region,United States,Census Region,2023 GNIS,Yes
+Midwest Region,United States,Census Region,2023 GNIS,Yes
+Northeast Region,United States,Census Region,2023 GNIS,Yes
+Island Areas,United States,Census Region,2023 GNIS,Yes
+N/A,Canada,Census Region,2023 GNIS,Yes
+N/A,Mexico,Census Region,2023 GNIS,Yes

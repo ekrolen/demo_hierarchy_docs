@@ -1,0 +1,4 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+United States,Geography,Census Region,2023 GNIS,Yes
+Canada,Geography,Census Region,2023 GNIS,Yes
+Mexico,Geography,Census Region,2023 GNIS,Yes
