@@ -1,4 +1,4 @@
-name,concept_name,parent,source,standard_semantic_heirarchy
+name,concept_name,parent,source,standard_semantic_hierarchy
 Sex,Top Level Demographic Fields,None,ACS and CPS,Yes
 Race,Top Level Demographic Fields,None,ACS and CPS,Yes
 Ethnicity,Top Level Demographic Fields,None,ACS and CPS,Yes
