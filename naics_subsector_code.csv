@@ -1,0 +1,97 @@
+fk_subsector,code,concept_name,source,standard_semantic_hierarchy
+Crop Production,111,NAICS Subsector Code,2022 NAICS,No
+Animal Production and Aquaculture,112,NAICS Subsector Code,2022 NAICS,No
+Forestry and Logging,113,NAICS Subsector Code,2022 NAICS,No
+"Fishing, Hunting and Trapping",114,NAICS Subsector Code,2022 NAICS,No
+Support Activities for Agriculture and Forestry,115,NAICS Subsector Code,2022 NAICS,No
+Oil and Gas Extraction,211,NAICS Subsector Code,2022 NAICS,No
+Mining (except Oil and Gas),212,NAICS Subsector Code,2022 NAICS,No
+Support Activities for Mining,213,NAICS Subsector Code,2022 NAICS,No
+Utilities ,221,NAICS Subsector Code,2022 NAICS,No
+Construction of Buildings,236,NAICS Subsector Code,2022 NAICS,No
+Heavy and Civil Engineering Construction,237,NAICS Subsector Code,2022 NAICS,No
+Specialty Trade Contractors,238,NAICS Subsector Code,2022 NAICS,No
+Food Manufacturing,311,NAICS Subsector Code,2022 NAICS,No
+Beverage and Tobacco Product Manufacturing,312,NAICS Subsector Code,2022 NAICS,No
+Textile Mills,313,NAICS Subsector Code,2022 NAICS,No
+Textile Product Mills,314,NAICS Subsector Code,2022 NAICS,No
+Apparel Manufacturing,315,NAICS Subsector Code,2022 NAICS,No
+Leather and Allied Product Manufacturing,316,NAICS Subsector Code,2022 NAICS,No
+Wood Product Manufacturing,321,NAICS Subsector Code,2022 NAICS,No
+Paper Manufacturing,322,NAICS Subsector Code,2022 NAICS,No
+Printing and Related Support Activities,323,NAICS Subsector Code,2022 NAICS,No
+Petroleum and Coal Products Manufacturing,324,NAICS Subsector Code,2022 NAICS,No
+Chemical Manufacturing,325,NAICS Subsector Code,2022 NAICS,No
+Plastics and Rubber Products Manufacturing,326,NAICS Subsector Code,2022 NAICS,No
+Nonmetallic Mineral Product Manufacturing,327,NAICS Subsector Code,2022 NAICS,No
+Primary Metal Manufacturing,331,NAICS Subsector Code,2022 NAICS,No
+Fabricated Metal Product Manufacturing,332,NAICS Subsector Code,2022 NAICS,No
+Machinery Manufacturing,333,NAICS Subsector Code,2022 NAICS,No
+Computer and Electronic Product Manufacturing,334,NAICS Subsector Code,2022 NAICS,No
+"Electrical Equipment, Appliance, and Component Manufacturing",335,NAICS Subsector Code,2022 NAICS,No
+Transportation Equipment Manufacturing,336,NAICS Subsector Code,2022 NAICS,No
+Furniture and Related Product Manufacturing,337,NAICS Subsector Code,2022 NAICS,No
+Miscellaneous Manufacturing,339,NAICS Subsector Code,2022 NAICS,No
+"Merchant Wholesalers, Durable Goods ",423,NAICS Subsector Code,2022 NAICS,No
+"Merchant Wholesalers, Nondurable Goods ",424,NAICS Subsector Code,2022 NAICS,No
+Wholesale Trade Agents and Brokers ,425,NAICS Subsector Code,2022 NAICS,No
+Motor Vehicle and Parts Dealers ,441,NAICS Subsector Code,2022 NAICS,No
+Building Material and Garden Equipment and Supplies Dealers ,444,NAICS Subsector Code,2022 NAICS,No
+Food and Beverage Retailers ,445,NAICS Subsector Code,2022 NAICS,No
+"Furniture, Home Furnishings, Electronics, and Appliance Retailers ",449,NAICS Subsector Code,2022 NAICS,No
+General Merchandise Retailers ,455,NAICS Subsector Code,2022 NAICS,No
+Health and Personal Care Retailers ,456,NAICS Subsector Code,2022 NAICS,No
+Gasoline Stations and Fuel Dealers ,457,NAICS Subsector Code,2022 NAICS,No
+"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers ",458,NAICS Subsector Code,2022 NAICS,No
+"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers ",459,NAICS Subsector Code,2022 NAICS,No
+Air Transportation,481,NAICS Subsector Code,2022 NAICS,No
+Rail Transportation,482,NAICS Subsector Code,2022 NAICS,No
+Water Transportation,483,NAICS Subsector Code,2022 NAICS,No
+Truck Transportation,484,NAICS Subsector Code,2022 NAICS,No
+Transit and Ground Passenger Transportation,485,NAICS Subsector Code,2022 NAICS,No
+Pipeline Transportation,486,NAICS Subsector Code,2022 NAICS,No
+Scenic and Sightseeing Transportation,487,NAICS Subsector Code,2022 NAICS,No
+Support Activities for Transportation,488,NAICS Subsector Code,2022 NAICS,No
+Postal Service,491,NAICS Subsector Code,2022 NAICS,No
+Couriers and Messengers,492,NAICS Subsector Code,2022 NAICS,No
+Warehousing and Storage,493,NAICS Subsector Code,2022 NAICS,No
+Motion Picture and Sound Recording Industries,512,NAICS Subsector Code,2022 NAICS,No
+Publishing Industries,513,NAICS Subsector Code,2022 NAICS,No
+Broadcasting and Content Providers,516,NAICS Subsector Code,2022 NAICS,No
+Telecommunications,517,NAICS Subsector Code,2022 NAICS,No
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",518,NAICS Subsector Code,2022 NAICS,No
+"Web Search Portals, Libraries, Archives, and Other Information Services",519,NAICS Subsector Code,2022 NAICS,No
+Monetary Authorities-Central Bank,521,NAICS Subsector Code,2022 NAICS,No
+Credit Intermediation and Related Activities,522,NAICS Subsector Code,2022 NAICS,No
+"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",523,NAICS Subsector Code,2022 NAICS,No
+Insurance Carriers and Related Activities,524,NAICS Subsector Code,2022 NAICS,No
+"Funds, Trusts, and Other Financial Vehicles ",525,NAICS Subsector Code,2022 NAICS,No
+Real Estate,531,NAICS Subsector Code,2022 NAICS,No
+Rental and Leasing Services,532,NAICS Subsector Code,2022 NAICS,No
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),533,NAICS Subsector Code,2022 NAICS,No
+"Professional, Scientific, and Technical Services",541,NAICS Subsector Code,2022 NAICS,No
+Management of Companies and Enterprises,551,NAICS Subsector Code,2022 NAICS,No
+Administrative and Support Services,561,NAICS Subsector Code,2022 NAICS,No
+Waste Management and Remediation Services,562,NAICS Subsector Code,2022 NAICS,No
+Educational Services,611,NAICS Subsector Code,2022 NAICS,No
+Ambulatory Health Care Services,621,NAICS Subsector Code,2022 NAICS,No
+Hospitals,622,NAICS Subsector Code,2022 NAICS,No
+Nursing and Residential Care Facilities,623,NAICS Subsector Code,2022 NAICS,No
+Social Assistance,624,NAICS Subsector Code,2022 NAICS,No
+"Performing Arts, Spectator Sports, and Related Industries",711,NAICS Subsector Code,2022 NAICS,No
+"Museums, Historical Sites, and Similar Institutions",712,NAICS Subsector Code,2022 NAICS,No
+"Amusement, Gambling, and Recreation Industries",713,NAICS Subsector Code,2022 NAICS,No
+Accommodation,721,NAICS Subsector Code,2022 NAICS,No
+Food Services and Drinking Places,722,NAICS Subsector Code,2022 NAICS,No
+Repair and Maintenance,811,NAICS Subsector Code,2022 NAICS,No
+Personal and Laundry Services,812,NAICS Subsector Code,2022 NAICS,No
+"Religious, Grantmaking, Civic, Professional, and Similar Organizations",813,NAICS Subsector Code,2022 NAICS,No
+Private Households,814,NAICS Subsector Code,2022 NAICS,No
+"Executive, Legislative, and Other General Government Support ",921,NAICS Subsector Code,2022 NAICS,No
+"Justice, Public Order, and Safety Activities ",922,NAICS Subsector Code,2022 NAICS,No
+Administration of Human Resource Programs ,923,NAICS Subsector Code,2022 NAICS,No
+Administration of Environmental Quality Programs ,924,NAICS Subsector Code,2022 NAICS,No
+"Administration of Housing Programs, Urban Planning, and Community Development ",925,NAICS Subsector Code,2022 NAICS,No
+Administration of Economic Programs ,926,NAICS Subsector Code,2022 NAICS,No
+Space Research and Technology ,927,NAICS Subsector Code,2022 NAICS,No
+National Security and International Affairs ,928,NAICS Subsector Code,2022 NAICS,No

@@ -1,0 +1,25 @@
+fk_sector,code,concept_name,source,standard_semantic_hierarchy
+"Agriculture, Forestry, Fishing and Hunting",11,NAICS Sector Code,2022 NAICS,No
+"Mining, Quarrying, and Oil and Gas Extraction",21,NAICS Sector Code,2022 NAICS,No
+Utilities,22,NAICS Sector Code,2022 NAICS,No
+Construction,23,NAICS Sector Code,2022 NAICS,No
+Manufacturing,31,NAICS Sector Code,2022 NAICS,No
+Manufacturing,32,NAICS Sector Code,2022 NAICS,No
+Manufacturing,33,NAICS Sector Code,2022 NAICS,No
+Wholesale Trade,42,NAICS Sector Code,2022 NAICS,No
+Retail Trade,44,NAICS Sector Code,2022 NAICS,No
+Retail Trade,45,NAICS Sector Code,2022 NAICS,No
+Transportation and Warehousing,48,NAICS Sector Code,2022 NAICS,No
+Transportation and Warehousing,49,NAICS Sector Code,2022 NAICS,No
+Information,51,NAICS Sector Code,2022 NAICS,No
+Finance and Insurance,52,NAICS Sector Code,2022 NAICS,No
+Real Estate and Rental and Leasing,53,NAICS Sector Code,2022 NAICS,No
+"Professional, Scientific, and Technical Services",54,NAICS Sector Code,2022 NAICS,No
+Management of Companies and Enterprises,55,NAICS Sector Code,2022 NAICS,No
+Administrative and Support and Waste Management and Remediation Services,56,NAICS Sector Code,2022 NAICS,No
+Educational Services,61,NAICS Sector Code,2022 NAICS,No
+Health Care and Social Assistance,62,NAICS Sector Code,2022 NAICS,No
+"Arts, Entertainment, and Recreation",71,NAICS Sector Code,2022 NAICS,No
+Accommodation and Food Services,72,NAICS Sector Code,2022 NAICS,No
+Other Services (except Public Administration),81,NAICS Sector Code,2022 NAICS,No
+Public Administration,92,NAICS Sector Code,2022 NAICS,No

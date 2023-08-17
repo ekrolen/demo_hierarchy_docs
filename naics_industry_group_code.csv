@@ -1,0 +1,309 @@
+fk_industry_group,code,concept_name,source,standard_semantic_hierarchy
+Oilseed and Grain Farming,1111,NAICS Industry Group Code,2022 NAICS,No
+Vegetable and Melon Farming,1112,NAICS Industry Group Code,2022 NAICS,No
+Fruit and Tree Nut Farming,1113,NAICS Industry Group Code,2022 NAICS,No
+"Greenhouse, Nursery, and Floriculture Production",1114,NAICS Industry Group Code,2022 NAICS,No
+Other Crop Farming,1119,NAICS Industry Group Code,2022 NAICS,No
+Cattle Ranching and Farming,1121,NAICS Industry Group Code,2022 NAICS,No
+Hog and Pig Farming,1122,NAICS Industry Group Code,2022 NAICS,No
+Poultry and Egg Production,1123,NAICS Industry Group Code,2022 NAICS,No
+Sheep and Goat Farming,1124,NAICS Industry Group Code,2022 NAICS,No
+Aquaculture,1125,NAICS Industry Group Code,2022 NAICS,No
+Other Animal Production,1129,NAICS Industry Group Code,2022 NAICS,No
+Timber Tract Operations,1131,NAICS Industry Group Code,2022 NAICS,No
+Forest Nurseries and Gathering of Forest Products,1132,NAICS Industry Group Code,2022 NAICS,No
+Logging,1133,NAICS Industry Group Code,2022 NAICS,No
+Fishing,1141,NAICS Industry Group Code,2022 NAICS,No
+Hunting and Trapping,1142,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Crop Production,1151,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Animal Production,1152,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Forestry,1153,NAICS Industry Group Code,2022 NAICS,No
+Oil and Gas Extraction,2111,NAICS Industry Group Code,2022 NAICS,No
+Coal Mining,2121,NAICS Industry Group Code,2022 NAICS,No
+Metal Ore Mining,2122,NAICS Industry Group Code,2022 NAICS,No
+Nonmetallic Mineral Mining and Quarrying,2123,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Mining,2131,NAICS Industry Group Code,2022 NAICS,No
+"Electric Power Generation, Transmission and Distribution",2211,NAICS Industry Group Code,2022 NAICS,No
+Natural Gas Distribution ,2212,NAICS Industry Group Code,2022 NAICS,No
+"Water, Sewage and Other Systems ",2213,NAICS Industry Group Code,2022 NAICS,No
+Residential Building Construction,2361,NAICS Industry Group Code,2022 NAICS,No
+Nonresidential Building Construction,2362,NAICS Industry Group Code,2022 NAICS,No
+Utility System Construction,2371,NAICS Industry Group Code,2022 NAICS,No
+Land Subdivision,2372,NAICS Industry Group Code,2022 NAICS,No
+"Highway, Street, and Bridge Construction",2373,NAICS Industry Group Code,2022 NAICS,No
+Other Heavy and Civil Engineering Construction,2379,NAICS Industry Group Code,2022 NAICS,No
+"Foundation, Structure, and Building Exterior Contractors",2381,NAICS Industry Group Code,2022 NAICS,No
+Building Equipment Contractors,2382,NAICS Industry Group Code,2022 NAICS,No
+Building Finishing Contractors,2383,NAICS Industry Group Code,2022 NAICS,No
+Other Specialty Trade Contractors,2389,NAICS Industry Group Code,2022 NAICS,No
+Animal Food Manufacturing,3111,NAICS Industry Group Code,2022 NAICS,No
+Grain and Oilseed Milling,3112,NAICS Industry Group Code,2022 NAICS,No
+Sugar and Confectionery Product Manufacturing,3113,NAICS Industry Group Code,2022 NAICS,No
+Fruit and Vegetable Preserving and Specialty Food Manufacturing,3114,NAICS Industry Group Code,2022 NAICS,No
+Dairy Product Manufacturing,3115,NAICS Industry Group Code,2022 NAICS,No
+Animal Slaughtering and Processing,3116,NAICS Industry Group Code,2022 NAICS,No
+Seafood Product Preparation and Packaging,3117,NAICS Industry Group Code,2022 NAICS,No
+Bakeries and Tortilla Manufacturing,3118,NAICS Industry Group Code,2022 NAICS,No
+Other Food Manufacturing,3119,NAICS Industry Group Code,2022 NAICS,No
+Beverage Manufacturing,3121,NAICS Industry Group Code,2022 NAICS,No
+Tobacco Manufacturing,3122,NAICS Industry Group Code,2022 NAICS,No
+"Fiber, Yarn, and Thread Mills",3131,NAICS Industry Group Code,2022 NAICS,No
+Fabric Mills,3132,NAICS Industry Group Code,2022 NAICS,No
+Textile and Fabric Finishing and Fabric Coating Mills,3133,NAICS Industry Group Code,2022 NAICS,No
+Textile Furnishings Mills,3141,NAICS Industry Group Code,2022 NAICS,No
+Other Textile Product Mills,3149,NAICS Industry Group Code,2022 NAICS,No
+Apparel Knitting Mills,3151,NAICS Industry Group Code,2022 NAICS,No
+Cut and Sew Apparel Manufacturing,3152,NAICS Industry Group Code,2022 NAICS,No
+Apparel Accessories and Other Apparel Manufacturing,3159,NAICS Industry Group Code,2022 NAICS,No
+Leather and Hide Tanning and Finishing,3161,NAICS Industry Group Code,2022 NAICS,No
+Footwear Manufacturing,3162,NAICS Industry Group Code,2022 NAICS,No
+Other Leather and Allied Product Manufacturing,3169,NAICS Industry Group Code,2022 NAICS,No
+Sawmills and Wood Preservation,3211,NAICS Industry Group Code,2022 NAICS,No
+"Veneer, Plywood, and Engineered Wood Product Manufacturing",3212,NAICS Industry Group Code,2022 NAICS,No
+Other Wood Product Manufacturing,3219,NAICS Industry Group Code,2022 NAICS,No
+"Pulp, Paper, and Paperboard Mills",3221,NAICS Industry Group Code,2022 NAICS,No
+Converted Paper Product Manufacturing,3222,NAICS Industry Group Code,2022 NAICS,No
+Printing and Related Support Activities,3231,NAICS Industry Group Code,2022 NAICS,No
+Petroleum and Coal Products Manufacturing,3241,NAICS Industry Group Code,2022 NAICS,No
+Basic Chemical Manufacturing,3251,NAICS Industry Group Code,2022 NAICS,No
+"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",3252,NAICS Industry Group Code,2022 NAICS,No
+"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",3253,NAICS Industry Group Code,2022 NAICS,No
+Pharmaceutical and Medicine Manufacturing,3254,NAICS Industry Group Code,2022 NAICS,No
+"Paint, Coating, and Adhesive Manufacturing",3255,NAICS Industry Group Code,2022 NAICS,No
+"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",3256,NAICS Industry Group Code,2022 NAICS,No
+Other Chemical Product and Preparation Manufacturing,3259,NAICS Industry Group Code,2022 NAICS,No
+Plastics Product Manufacturing,3261,NAICS Industry Group Code,2022 NAICS,No
+Rubber Product Manufacturing,3262,NAICS Industry Group Code,2022 NAICS,No
+Clay Product and Refractory Manufacturing,3271,NAICS Industry Group Code,2022 NAICS,No
+Glass and Glass Product Manufacturing,3272,NAICS Industry Group Code,2022 NAICS,No
+Cement and Concrete Product Manufacturing,3273,NAICS Industry Group Code,2022 NAICS,No
+Lime and Gypsum Product Manufacturing,3274,NAICS Industry Group Code,2022 NAICS,No
+Other Nonmetallic Mineral Product Manufacturing,3279,NAICS Industry Group Code,2022 NAICS,No
+Iron and Steel Mills and Ferroalloy Manufacturing,3311,NAICS Industry Group Code,2022 NAICS,No
+Steel Product Manufacturing from Purchased Steel,3312,NAICS Industry Group Code,2022 NAICS,No
+Alumina and Aluminum Production and Processing,3313,NAICS Industry Group Code,2022 NAICS,No
+Nonferrous Metal (except Aluminum) Production and Processing,3314,NAICS Industry Group Code,2022 NAICS,No
+Foundries,3315,NAICS Industry Group Code,2022 NAICS,No
+Forging and Stamping,3321,NAICS Industry Group Code,2022 NAICS,No
+Cutlery and Handtool Manufacturing,3322,NAICS Industry Group Code,2022 NAICS,No
+Architectural and Structural Metals Manufacturing,3323,NAICS Industry Group Code,2022 NAICS,No
+"Boiler, Tank, and Shipping Container Manufacturing",3324,NAICS Industry Group Code,2022 NAICS,No
+Hardware Manufacturing,3325,NAICS Industry Group Code,2022 NAICS,No
+Spring and Wire Product Manufacturing,3326,NAICS Industry Group Code,2022 NAICS,No
+"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",3327,NAICS Industry Group Code,2022 NAICS,No
+"Coating, Engraving, Heat Treating, and Allied Activities",3328,NAICS Industry Group Code,2022 NAICS,No
+Other Fabricated Metal Product Manufacturing,3329,NAICS Industry Group Code,2022 NAICS,No
+"Agriculture, Construction, and Mining Machinery Manufacturing",3331,NAICS Industry Group Code,2022 NAICS,No
+Industrial Machinery Manufacturing,3332,NAICS Industry Group Code,2022 NAICS,No
+Commercial and Service Industry Machinery Manufacturing,3333,NAICS Industry Group Code,2022 NAICS,No
+"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",3334,NAICS Industry Group Code,2022 NAICS,No
+Metalworking Machinery Manufacturing,3335,NAICS Industry Group Code,2022 NAICS,No
+"Engine, Turbine, and Power Transmission Equipment Manufacturing",3336,NAICS Industry Group Code,2022 NAICS,No
+Other General Purpose Machinery Manufacturing,3339,NAICS Industry Group Code,2022 NAICS,No
+Computer and Peripheral Equipment Manufacturing,3341,NAICS Industry Group Code,2022 NAICS,No
+Communications Equipment Manufacturing,3342,NAICS Industry Group Code,2022 NAICS,No
+Audio and Video Equipment Manufacturing,3343,NAICS Industry Group Code,2022 NAICS,No
+Semiconductor and Other Electronic Component Manufacturing,3344,NAICS Industry Group Code,2022 NAICS,No
+"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",3345,NAICS Industry Group Code,2022 NAICS,No
+Manufacturing and Reproducing Magnetic and Optical Media,3346,NAICS Industry Group Code,2022 NAICS,No
+Electric Lighting Equipment Manufacturing,3351,NAICS Industry Group Code,2022 NAICS,No
+Household Appliance Manufacturing,3352,NAICS Industry Group Code,2022 NAICS,No
+Electrical Equipment Manufacturing,3353,NAICS Industry Group Code,2022 NAICS,No
+Other Electrical Equipment and Component Manufacturing,3359,NAICS Industry Group Code,2022 NAICS,No
+Motor Vehicle Manufacturing,3361,NAICS Industry Group Code,2022 NAICS,No
+Motor Vehicle Body and Trailer Manufacturing,3362,NAICS Industry Group Code,2022 NAICS,No
+Motor Vehicle Parts Manufacturing,3363,NAICS Industry Group Code,2022 NAICS,No
+Aerospace Product and Parts Manufacturing,3364,NAICS Industry Group Code,2022 NAICS,No
+Railroad Rolling Stock Manufacturing,3365,NAICS Industry Group Code,2022 NAICS,No
+Ship and Boat Building,3366,NAICS Industry Group Code,2022 NAICS,No
+Other Transportation Equipment Manufacturing,3369,NAICS Industry Group Code,2022 NAICS,No
+Household and Institutional Furniture and Kitchen Cabinet Manufacturing,3371,NAICS Industry Group Code,2022 NAICS,No
+Office Furniture (including Fixtures) Manufacturing,3372,NAICS Industry Group Code,2022 NAICS,No
+Other Furniture Related Product Manufacturing,3379,NAICS Industry Group Code,2022 NAICS,No
+Medical Equipment and Supplies Manufacturing,3391,NAICS Industry Group Code,2022 NAICS,No
+Other Miscellaneous Manufacturing,3399,NAICS Industry Group Code,2022 NAICS,No
+Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers ,4231,NAICS Industry Group Code,2022 NAICS,No
+Furniture and Home Furnishing Merchant Wholesalers ,4232,NAICS Industry Group Code,2022 NAICS,No
+Lumber and Other Construction Materials Merchant Wholesalers ,4233,NAICS Industry Group Code,2022 NAICS,No
+Professional and Commercial Equipment and Supplies Merchant Wholesalers ,4234,NAICS Industry Group Code,2022 NAICS,No
+Metal and Mineral (except Petroleum) Merchant Wholesalers ,4235,NAICS Industry Group Code,2022 NAICS,No
+Household Appliances and Electrical and Electronic Goods Merchant Wholesalers ,4236,NAICS Industry Group Code,2022 NAICS,No
+"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers ",4237,NAICS Industry Group Code,2022 NAICS,No
+"Machinery, Equipment, and Supplies Merchant Wholesalers ",4238,NAICS Industry Group Code,2022 NAICS,No
+Miscellaneous Durable Goods Merchant Wholesalers ,4239,NAICS Industry Group Code,2022 NAICS,No
+Paper and Paper Product Merchant Wholesalers ,4241,NAICS Industry Group Code,2022 NAICS,No
+Drugs and Druggists' Sundries Merchant Wholesalers ,4242,NAICS Industry Group Code,2022 NAICS,No
+"Apparel, Piece Goods, and Notions Merchant Wholesalers ",4243,NAICS Industry Group Code,2022 NAICS,No
+Grocery and Related Product Merchant Wholesalers ,4244,NAICS Industry Group Code,2022 NAICS,No
+Farm Product Raw Material Merchant Wholesalers ,4245,NAICS Industry Group Code,2022 NAICS,No
+Chemical and Allied Products Merchant Wholesalers ,4246,NAICS Industry Group Code,2022 NAICS,No
+Petroleum and Petroleum Products Merchant Wholesalers ,4247,NAICS Industry Group Code,2022 NAICS,No
+"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers ",4248,NAICS Industry Group Code,2022 NAICS,No
+Miscellaneous Nondurable Goods Merchant Wholesalers ,4249,NAICS Industry Group Code,2022 NAICS,No
+Wholesale Trade Agents and Brokers ,4251,NAICS Industry Group Code,2022 NAICS,No
+Automobile Dealers ,4411,NAICS Industry Group Code,2022 NAICS,No
+Other Motor Vehicle Dealers ,4412,NAICS Industry Group Code,2022 NAICS,No
+"Automotive Parts, Accessories, and Tire Retailers ",4413,NAICS Industry Group Code,2022 NAICS,No
+Building Material and Supplies Dealers ,4441,NAICS Industry Group Code,2022 NAICS,No
+Lawn and Garden Equipment and Supplies Retailers ,4442,NAICS Industry Group Code,2022 NAICS,No
+Grocery and Convenience Retailers ,4451,NAICS Industry Group Code,2022 NAICS,No
+Specialty Food Retailers ,4452,NAICS Industry Group Code,2022 NAICS,No
+"Beer, Wine, and Liquor Retailers ",4453,NAICS Industry Group Code,2022 NAICS,No
+Furniture and Home Furnishings Retailers ,4491,NAICS Industry Group Code,2022 NAICS,No
+Electronics and Appliance Retailers ,4492,NAICS Industry Group Code,2022 NAICS,No
+Department Stores ,4551,NAICS Industry Group Code,2022 NAICS,No
+"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers ",4552,NAICS Industry Group Code,2022 NAICS,No
+Health and Personal Care Retailers ,4561,NAICS Industry Group Code,2022 NAICS,No
+Gasoline Stations ,4571,NAICS Industry Group Code,2022 NAICS,No
+Fuel Dealers,4572,NAICS Industry Group Code,2022 NAICS,No
+Clothing and Clothing Accessories Retailers ,4581,NAICS Industry Group Code,2022 NAICS,No
+Shoe Retailers ,4582,NAICS Industry Group Code,2022 NAICS,No
+"Jewelry, Luggage, and Leather Goods Retailers ",4583,NAICS Industry Group Code,2022 NAICS,No
+"Sporting Goods, Hobby, and Musical Instrument Retailers ",4591,NAICS Industry Group Code,2022 NAICS,No
+Book Retailers and News Dealers ,4592,NAICS Industry Group Code,2022 NAICS,No
+Florists ,4593,NAICS Industry Group Code,2022 NAICS,No
+"Office Supplies, Stationery, and Gift Retailers ",4594,NAICS Industry Group Code,2022 NAICS,No
+Used Merchandise Retailers ,4595,NAICS Industry Group Code,2022 NAICS,No
+Other Miscellaneous Retailers ,4599,NAICS Industry Group Code,2022 NAICS,No
+Scheduled Air Transportation,4811,NAICS Industry Group Code,2022 NAICS,No
+Nonscheduled Air Transportation,4812,NAICS Industry Group Code,2022 NAICS,No
+Rail Transportation,4821,NAICS Industry Group Code,2022 NAICS,No
+"Deep Sea, Coastal, and Great Lakes Water Transportation",4831,NAICS Industry Group Code,2022 NAICS,No
+Inland Water Transportation,4832,NAICS Industry Group Code,2022 NAICS,No
+General Freight Trucking,4841,NAICS Industry Group Code,2022 NAICS,No
+Specialized Freight Trucking,4842,NAICS Industry Group Code,2022 NAICS,No
+Urban Transit Systems,4851,NAICS Industry Group Code,2022 NAICS,No
+Interurban and Rural Bus Transportation,4852,NAICS Industry Group Code,2022 NAICS,No
+Taxi and Limousine Service,4853,NAICS Industry Group Code,2022 NAICS,No
+School and Employee Bus Transportation,4854,NAICS Industry Group Code,2022 NAICS,No
+Charter Bus Industry,4855,NAICS Industry Group Code,2022 NAICS,No
+Other Transit and Ground Passenger Transportation,4859,NAICS Industry Group Code,2022 NAICS,No
+Pipeline Transportation of Crude Oil,4861,NAICS Industry Group Code,2022 NAICS,No
+Pipeline Transportation of Natural Gas,4862,NAICS Industry Group Code,2022 NAICS,No
+Other Pipeline Transportation,4869,NAICS Industry Group Code,2022 NAICS,No
+"Scenic and Sightseeing Transportation, Land",4871,NAICS Industry Group Code,2022 NAICS,No
+"Scenic and Sightseeing Transportation, Water",4872,NAICS Industry Group Code,2022 NAICS,No
+"Scenic and Sightseeing Transportation, Other",4879,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Air Transportation,4881,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Rail Transportation,4882,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Water Transportation,4883,NAICS Industry Group Code,2022 NAICS,No
+Support Activities for Road Transportation,4884,NAICS Industry Group Code,2022 NAICS,No
+Freight Transportation Arrangement,4885,NAICS Industry Group Code,2022 NAICS,No
+Other Support Activities for Transportation,4889,NAICS Industry Group Code,2022 NAICS,No
+Postal Service,4911,NAICS Industry Group Code,2022 NAICS,No
+Couriers and Express Delivery Services,4921,NAICS Industry Group Code,2022 NAICS,No
+Local Messengers and Local Delivery,4922,NAICS Industry Group Code,2022 NAICS,No
+Warehousing and Storage,4931,NAICS Industry Group Code,2022 NAICS,No
+Motion Picture and Video Industries,5121,NAICS Industry Group Code,2022 NAICS,No
+Sound Recording Industries,5122,NAICS Industry Group Code,2022 NAICS,No
+"Newspaper, Periodical, Book, and Directory Publishers",5131,NAICS Industry Group Code,2022 NAICS,No
+Software Publishers,5132,NAICS Industry Group Code,2022 NAICS,No
+Radio and Television Broadcasting Stations,5161,NAICS Industry Group Code,2022 NAICS,No
+"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",5162,NAICS Industry Group Code,2022 NAICS,No
+Wired and Wireless Telecommunications (except Satellite),5171,NAICS Industry Group Code,2022 NAICS,No
+Satellite Telecommunications,5174,NAICS Industry Group Code,2022 NAICS,No
+All Other Telecommunications,5178,NAICS Industry Group Code,2022 NAICS,No
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",5182,NAICS Industry Group Code,2022 NAICS,No
+"Web Search Portals, Libraries, Archives, and Other Information Services",5192,NAICS Industry Group Code,2022 NAICS,No
+Monetary Authorities-Central Bank,5211,NAICS Industry Group Code,2022 NAICS,No
+Depository Credit Intermediation ,5221,NAICS Industry Group Code,2022 NAICS,No
+Nondepository Credit Intermediation ,5222,NAICS Industry Group Code,2022 NAICS,No
+Activities Related to Credit Intermediation ,5223,NAICS Industry Group Code,2022 NAICS,No
+Securities and Commodity Contracts Intermediation and Brokerage,5231,NAICS Industry Group Code,2022 NAICS,No
+Securities and Commodity Exchanges,5232,NAICS Industry Group Code,2022 NAICS,No
+Other Financial Investment Activities,5239,NAICS Industry Group Code,2022 NAICS,No
+Insurance Carriers,5241,NAICS Industry Group Code,2022 NAICS,No
+"Agencies, Brokerages, and Other Insurance Related Activities",5242,NAICS Industry Group Code,2022 NAICS,No
+Insurance and Employee Benefit Funds ,5251,NAICS Industry Group Code,2022 NAICS,No
+Other Investment Pools and Funds,5259,NAICS Industry Group Code,2022 NAICS,No
+Lessors of Real Estate,5311,NAICS Industry Group Code,2022 NAICS,No
+Offices of Real Estate Agents and Brokers,5312,NAICS Industry Group Code,2022 NAICS,No
+Activities Related to Real Estate,5313,NAICS Industry Group Code,2022 NAICS,No
+Automotive Equipment Rental and Leasing,5321,NAICS Industry Group Code,2022 NAICS,No
+Consumer Goods Rental,5322,NAICS Industry Group Code,2022 NAICS,No
+General Rental Centers,5323,NAICS Industry Group Code,2022 NAICS,No
+Commercial and Industrial Machinery and Equipment Rental and Leasing,5324,NAICS Industry Group Code,2022 NAICS,No
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),5331,NAICS Industry Group Code,2022 NAICS,No
+Legal Services,5411,NAICS Industry Group Code,2022 NAICS,No
+"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",5412,NAICS Industry Group Code,2022 NAICS,No
+"Architectural, Engineering, and Related Services",5413,NAICS Industry Group Code,2022 NAICS,No
+Specialized Design Services,5414,NAICS Industry Group Code,2022 NAICS,No
+Computer Systems Design and Related Services,5415,NAICS Industry Group Code,2022 NAICS,No
+"Management, Scientific, and Technical Consulting Services",5416,NAICS Industry Group Code,2022 NAICS,No
+Scientific Research and Development Services,5417,NAICS Industry Group Code,2022 NAICS,No
+"Advertising, Public Relations, and Related Services",5418,NAICS Industry Group Code,2022 NAICS,No
+"Other Professional, Scientific, and Technical Services",5419,NAICS Industry Group Code,2022 NAICS,No
+Management of Companies and Enterprises,5511,NAICS Industry Group Code,2022 NAICS,No
+Office Administrative Services,5611,NAICS Industry Group Code,2022 NAICS,No
+Facilities Support Services,5612,NAICS Industry Group Code,2022 NAICS,No
+Employment Services,5613,NAICS Industry Group Code,2022 NAICS,No
+Business Support Services,5614,NAICS Industry Group Code,2022 NAICS,No
+Travel Arrangement and Reservation Services,5615,NAICS Industry Group Code,2022 NAICS,No
+Investigation and Security Services,5616,NAICS Industry Group Code,2022 NAICS,No
+Services to Buildings and Dwellings,5617,NAICS Industry Group Code,2022 NAICS,No
+Other Support Services,5619,NAICS Industry Group Code,2022 NAICS,No
+Waste Collection ,5621,NAICS Industry Group Code,2022 NAICS,No
+Waste Treatment and Disposal ,5622,NAICS Industry Group Code,2022 NAICS,No
+Remediation and Other Waste Management Services ,5629,NAICS Industry Group Code,2022 NAICS,No
+Elementary and Secondary Schools,6111,NAICS Industry Group Code,2022 NAICS,No
+Junior Colleges,6112,NAICS Industry Group Code,2022 NAICS,No
+"Colleges, Universities, and Professional Schools",6113,NAICS Industry Group Code,2022 NAICS,No
+Business Schools and Computer and Management Training,6114,NAICS Industry Group Code,2022 NAICS,No
+Technical and Trade Schools ,6115,NAICS Industry Group Code,2022 NAICS,No
+Other Schools and Instruction,6116,NAICS Industry Group Code,2022 NAICS,No
+Educational Support Services,6117,NAICS Industry Group Code,2022 NAICS,No
+Offices of Physicians,6211,NAICS Industry Group Code,2022 NAICS,No
+Offices of Dentists,6212,NAICS Industry Group Code,2022 NAICS,No
+Offices of Other Health Practitioners,6213,NAICS Industry Group Code,2022 NAICS,No
+Outpatient Care Centers,6214,NAICS Industry Group Code,2022 NAICS,No
+Medical and Diagnostic Laboratories,6215,NAICS Industry Group Code,2022 NAICS,No
+Home Health Care Services,6216,NAICS Industry Group Code,2022 NAICS,No
+Other Ambulatory Health Care Services,6219,NAICS Industry Group Code,2022 NAICS,No
+General Medical and Surgical Hospitals,6221,NAICS Industry Group Code,2022 NAICS,No
+Psychiatric and Substance Abuse Hospitals,6222,NAICS Industry Group Code,2022 NAICS,No
+Specialty (except Psychiatric and Substance Abuse) Hospitals,6223,NAICS Industry Group Code,2022 NAICS,No
+Nursing Care Facilities (Skilled Nursing Facilities),6231,NAICS Industry Group Code,2022 NAICS,No
+"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",6232,NAICS Industry Group Code,2022 NAICS,No
+Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,6233,NAICS Industry Group Code,2022 NAICS,No
+Other Residential Care Facilities,6239,NAICS Industry Group Code,2022 NAICS,No
+Individual and Family Services,6241,NAICS Industry Group Code,2022 NAICS,No
+"Community Food and Housing, and Emergency and Other Relief Services",6242,NAICS Industry Group Code,2022 NAICS,No
+Vocational Rehabilitation Services,6243,NAICS Industry Group Code,2022 NAICS,No
+Child Care Services,6244,NAICS Industry Group Code,2022 NAICS,No
+Performing Arts Companies,7111,NAICS Industry Group Code,2022 NAICS,No
+Spectator Sports,7112,NAICS Industry Group Code,2022 NAICS,No
+"Promoters of Performing Arts, Sports, and Similar Events",7113,NAICS Industry Group Code,2022 NAICS,No
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",7114,NAICS Industry Group Code,2022 NAICS,No
+"Independent Artists, Writers, and Performers",7115,NAICS Industry Group Code,2022 NAICS,No
+"Museums, Historical Sites, and Similar Institutions",7121,NAICS Industry Group Code,2022 NAICS,No
+Amusement Parks and Arcades,7131,NAICS Industry Group Code,2022 NAICS,No
+Gambling Industries,7132,NAICS Industry Group Code,2022 NAICS,No
+Other Amusement and Recreation Industries,7139,NAICS Industry Group Code,2022 NAICS,No
+Traveler Accommodation,7211,NAICS Industry Group Code,2022 NAICS,No
+RV (Recreational Vehicle) Parks and Recreational Camps,7212,NAICS Industry Group Code,2022 NAICS,No
+"Rooming and Boarding Houses, Dormitories, and Workers' Camps",7213,NAICS Industry Group Code,2022 NAICS,No
+Special Food Services,7223,NAICS Industry Group Code,2022 NAICS,No
+Drinking Places (Alcoholic Beverages),7224,NAICS Industry Group Code,2022 NAICS,No
+Restaurants and Other Eating Places,7225,NAICS Industry Group Code,2022 NAICS,No
+Automotive Repair and Maintenance,8111,NAICS Industry Group Code,2022 NAICS,No
+Electronic and Precision Equipment Repair and Maintenance,8112,NAICS Industry Group Code,2022 NAICS,No
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,8113,NAICS Industry Group Code,2022 NAICS,No
+Personal and Household Goods Repair and Maintenance,8114,NAICS Industry Group Code,2022 NAICS,No
+Personal Care Services ,8121,NAICS Industry Group Code,2022 NAICS,No
+Death Care Services ,8122,NAICS Industry Group Code,2022 NAICS,No
+Drycleaning and Laundry Services ,8123,NAICS Industry Group Code,2022 NAICS,No
+Other Personal Services ,8129,NAICS Industry Group Code,2022 NAICS,No
+Religious Organizations ,8131,NAICS Industry Group Code,2022 NAICS,No
+Grantmaking and Giving Services ,8132,NAICS Industry Group Code,2022 NAICS,No
+Social Advocacy Organizations ,8133,NAICS Industry Group Code,2022 NAICS,No
+Civic and Social Organizations ,8134,NAICS Industry Group Code,2022 NAICS,No
+"Business, Professional, Labor, Political, and Similar Organizations ",8139,NAICS Industry Group Code,2022 NAICS,No
+Private Households,8141,NAICS Industry Group Code,2022 NAICS,No
+"Executive, Legislative, and Other General Government Support ",9211,NAICS Industry Group Code,2022 NAICS,No
+"Justice, Public Order, and Safety Activities ",9221,NAICS Industry Group Code,2022 NAICS,No
+Administration of Human Resource Programs ,9231,NAICS Industry Group Code,2022 NAICS,No
+Administration of Environmental Quality Programs ,9241,NAICS Industry Group Code,2022 NAICS,No
+"Administration of Housing Programs, Urban Planning, and Community Development ",9251,NAICS Industry Group Code,2022 NAICS,No
+Administration of Economic Programs ,9261,NAICS Industry Group Code,2022 NAICS,No
+Space Research and Technology ,9271,NAICS Industry Group Code,2022 NAICS,No
+National Security and International Affairs ,9281,NAICS Industry Group Code,2022 NAICS,No
