@@ -1,0 +1,460 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+Chief Executives,Top Executives,Broad Occupation,2018 SOC,Yes
+General and Operations Managers,Top Executives,Broad Occupation,2018 SOC,Yes
+Legislators,Top Executives,Broad Occupation,2018 SOC,Yes
+Advertising and Promotions Managers,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",Broad Occupation,2018 SOC,Yes
+Marketing and Sales Managers,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",Broad Occupation,2018 SOC,Yes
+Public Relations and Fundraising Managers,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",Broad Occupation,2018 SOC,Yes
+Administrative Services and Facilities Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Computer and Information Systems Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Financial Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Industrial Production Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Purchasing Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+"Transportation, Storage, and Distribution Managers",Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Compensation and Benefits Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Human Resources Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+Training and Development Managers,Operations Specialties Managers,Broad Occupation,2018 SOC,Yes
+"Farmers, Ranchers, and Other Agricultural Managers",Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Construction Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Education and Childcare Administrators,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Architectural and Engineering Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Food Service Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Entertainment and Recreation Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Lodging Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Medical and Health Services Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Natural Sciences Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Postmasters and Mail Superintendents,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+"Property, Real Estate, and Community Association Managers",Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Social and Community Service Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Emergency Management Directors,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Personal Service Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Managers,Other Management Occupations,Broad Occupation,2018 SOC,Yes
+"Agents and Business Managers of Artists, Performers, and Athletes",Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Buyers and Purchasing Agents,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+"Claims Adjusters, Appraisers, Examiners, and Investigators",Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Compliance Officers,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Cost Estimators,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Human Resources Workers,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Logisticians and Project Management Specialists,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Management Analysts,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+"Meeting, Convention, and Event Planners",Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Fundraisers,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+"Compensation, Benefits, and Job Analysis Specialists",Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Training and Development Specialists,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Market Research Analysts and Marketing Specialists,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Miscellaneous Business Operations Specialists,Business Operations Specialists,Broad Occupation,2018 SOC,Yes
+Accountants and Auditors,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Property Appraisers and Assessors,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Budget Analysts,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Credit Analysts,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Financial Analysts and Advisors,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Financial Examiners,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Credit Counselors and Loan Officers,Financial Specialists,Broad Occupation,2018 SOC,Yes
+"Tax Examiners, Collectors and Preparers, and Revenue Agents",Financial Specialists,Broad Occupation,2018 SOC,Yes
+Miscellaneous Financial Specialists,Financial Specialists,Broad Occupation,2018 SOC,Yes
+Computer and Information Analysts,Computer Occupations,Broad Occupation,2018 SOC,Yes
+Computer and Information Research Scientists,Computer Occupations,Broad Occupation,2018 SOC,Yes
+Computer Support Specialists,Computer Occupations,Broad Occupation,2018 SOC,Yes
+Database and Network Administrators and Architects,Computer Occupations,Broad Occupation,2018 SOC,Yes
+"Software and Web Developers, Programmers, and Testers",Computer Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Computer Occupations,Computer Occupations,Broad Occupation,2018 SOC,Yes
+Actuaries,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+Mathematicians,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+Operations Research Analysts,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+Statisticians,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+Data Scientists,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Mathematical Science Occupations,Mathematical Science Occupations,Broad Occupation,2018 SOC,Yes
+"Architects, Except Naval","Architects, Surveyors, and Cartographers",Broad Occupation,2018 SOC,Yes
+"Surveyors, Cartographers, and Photogrammetrists","Architects, Surveyors, and Cartographers",Broad Occupation,2018 SOC,Yes
+Aerospace Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Agricultural Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Bioengineers and Biomedical Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Chemical Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Civil Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Computer Hardware Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Electrical and Electronics Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Environmental Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+"Industrial Engineers, Including Health and Safety",Engineers,Broad Occupation,2018 SOC,Yes
+Marine Engineers and Naval Architects,Engineers,Broad Occupation,2018 SOC,Yes
+Materials Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Mechanical Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+"Mining and Geological Engineers, Including Mining Safety Engineers",Engineers,Broad Occupation,2018 SOC,Yes
+Nuclear Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Petroleum Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Engineers,Engineers,Broad Occupation,2018 SOC,Yes
+Drafters,"Drafters, Engineering Technicians, and Mapping Technicians",Broad Occupation,2018 SOC,Yes
+"Engineering Technologists and Technicians, Except Drafters","Drafters, Engineering Technicians, and Mapping Technicians",Broad Occupation,2018 SOC,Yes
+Surveying and Mapping Technicians,"Drafters, Engineering Technicians, and Mapping Technicians",Broad Occupation,2018 SOC,Yes
+Agricultural and Food Scientists,Life Scientists,Broad Occupation,2018 SOC,Yes
+Biological Scientists,Life Scientists,Broad Occupation,2018 SOC,Yes
+Conservation Scientists and Foresters,Life Scientists,Broad Occupation,2018 SOC,Yes
+Medical Scientists,Life Scientists,Broad Occupation,2018 SOC,Yes
+Miscellaneous Life Scientists,Life Scientists,Broad Occupation,2018 SOC,Yes
+Astronomers and Physicists,Physical Scientists,Broad Occupation,2018 SOC,Yes
+Atmospheric and Space Scientists,Physical Scientists,Broad Occupation,2018 SOC,Yes
+Chemists and Materials Scientists,Physical Scientists,Broad Occupation,2018 SOC,Yes
+Environmental Scientists and Geoscientists,Physical Scientists,Broad Occupation,2018 SOC,Yes
+Miscellaneous Physical Scientists,Physical Scientists,Broad Occupation,2018 SOC,Yes
+Economists,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Survey Researchers,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Psychologists,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Sociologists,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Urban and Regional Planners,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Social Scientists and Related Workers,Social Scientists and Related Workers,Broad Occupation,2018 SOC,Yes
+Agricultural and Food Science Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Biological Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Chemical Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Environmental Science and Geoscience Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Nuclear Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Social Science Research Assistants,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Forest and Conservation Technicians,"Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Life, Physical, and Social Science Technicians","Life, Physical, and Social Science Technicians",Broad Occupation,2018 SOC,Yes
+Occupational Health and Safety Specialists and Technicians,Occupational Health and Safety Specialists and Technicians,Broad Occupation,2018 SOC,Yes
+Counselors,"Counselors, Social Workers, and Other Community and Social Service Specialists",Broad Occupation,2018 SOC,Yes
+Social Workers,"Counselors, Social Workers, and Other Community and Social Service Specialists",Broad Occupation,2018 SOC,Yes
+Miscellaneous Community and Social Service Specialists,"Counselors, Social Workers, and Other Community and Social Service Specialists",Broad Occupation,2018 SOC,Yes
+Clergy,Religious Workers,Broad Occupation,2018 SOC,Yes
+"Directors, Religious Activities and Education",Religious Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Religious Workers,Religious Workers,Broad Occupation,2018 SOC,Yes
+Lawyers and Judicial Law Clerks,"Lawyers, Judges, and Related Workers",Broad Occupation,2018 SOC,Yes
+"Judges, Magistrates, and Other Judicial Workers","Lawyers, Judges, and Related Workers",Broad Occupation,2018 SOC,Yes
+Paralegals and Legal Assistants,Legal Support Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Legal Support Workers,Legal Support Workers,Broad Occupation,2018 SOC,Yes
+"Business Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Math and Computer Science Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Engineering and Architecture Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Life Sciences Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Physical Sciences Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Social Sciences Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Health Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Education and Library Science Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Law, Criminal Justice, and Social Work Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+"Arts, Communications, History, and Humanities Teachers, Postsecondary",Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Postsecondary Teachers,Postsecondary Teachers,Broad Occupation,2018 SOC,Yes
+Preschool and Kindergarten Teachers,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",Broad Occupation,2018 SOC,Yes
+Elementary and Middle School Teachers,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",Broad Occupation,2018 SOC,Yes
+Secondary School Teachers,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",Broad Occupation,2018 SOC,Yes
+Special Education Teachers,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",Broad Occupation,2018 SOC,Yes
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",Other Teachers and Instructors,Broad Occupation,2018 SOC,Yes
+Self-Enrichment Teachers,Other Teachers and Instructors,Broad Occupation,2018 SOC,Yes
+"Substitute Teachers, Short-Term",Other Teachers and Instructors,Broad Occupation,2018 SOC,Yes
+Tutors,Other Teachers and Instructors,Broad Occupation,2018 SOC,Yes
+Miscellaneous Teachers and Instructors,Other Teachers and Instructors,Broad Occupation,2018 SOC,Yes
+"Archivists, Curators, and Museum Technicians","Librarians, Curators, and Archivists",Broad Occupation,2018 SOC,Yes
+Librarians and Media Collections Specialists,"Librarians, Curators, and Archivists",Broad Occupation,2018 SOC,Yes
+Library Technicians,"Librarians, Curators, and Archivists",Broad Occupation,2018 SOC,Yes
+Farm and Home Management Educators,Other Educational Instruction and Library Occupations,Broad Occupation,2018 SOC,Yes
+Instructional Coordinators,Other Educational Instruction and Library Occupations,Broad Occupation,2018 SOC,Yes
+Teaching Assistants,Other Educational Instruction and Library Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Educational Instruction and Library Workers,Other Educational Instruction and Library Occupations,Broad Occupation,2018 SOC,Yes
+Artists and Related Workers,Art and Design Workers,Broad Occupation,2018 SOC,Yes
+Designers,Art and Design Workers,Broad Occupation,2018 SOC,Yes
+"Actors, Producers, and Directors","Entertainers and Performers, Sports and Related Workers",Broad Occupation,2018 SOC,Yes
+"Athletes, Coaches, Umpires, and Related Workers","Entertainers and Performers, Sports and Related Workers",Broad Occupation,2018 SOC,Yes
+Dancers and Choreographers,"Entertainers and Performers, Sports and Related Workers",Broad Occupation,2018 SOC,Yes
+"Musicians, Singers, and Related Workers","Entertainers and Performers, Sports and Related Workers",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Entertainers and Performers, Sports and Related Workers","Entertainers and Performers, Sports and Related Workers",Broad Occupation,2018 SOC,Yes
+Broadcast Announcers and Radio Disc Jockeys,Media and Communication Workers,Broad Occupation,2018 SOC,Yes
+"News Analysts, Reporters and Journalists",Media and Communication Workers,Broad Occupation,2018 SOC,Yes
+Public Relations Specialists,Media and Communication Workers,Broad Occupation,2018 SOC,Yes
+Writers and Editors,Media and Communication Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Media and Communication Workers,Media and Communication Workers,Broad Occupation,2018 SOC,Yes
+"Broadcast, Sound, and Lighting Technicians",Media and Communication Equipment Workers,Broad Occupation,2018 SOC,Yes
+Photographers,Media and Communication Equipment Workers,Broad Occupation,2018 SOC,Yes
+"Television, Video, and Film Camera Operators and Editors",Media and Communication Equipment Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Media and Communication Equipment Workers,Media and Communication Equipment Workers,Broad Occupation,2018 SOC,Yes
+Chiropractors,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Dentists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Dietitians and Nutritionists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Optometrists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Pharmacists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Physician Assistants,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Podiatrists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Therapists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Veterinarians,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Registered Nurses,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Nurse Anesthetists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Nurse Midwives,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Nurse Practitioners,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Audiologists,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Physicians,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Surgeons,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Miscellaneous Healthcare Diagnosing or Treating Practitioners,Healthcare Diagnosing or Treating Practitioners,Broad Occupation,2018 SOC,Yes
+Clinical Laboratory Technologists and Technicians,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Diagnostic Related Technologists and Technicians,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Emergency Medical Technicians and Paramedics,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Health Practitioner Support Technologists and Technicians,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Licensed Practical and Licensed Vocational Nurses,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Medical Records Specialists,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+"Opticians, Dispensing",Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Miscellaneous Health Technologists and Technicians,Health Technologists and Technicians,Broad Occupation,2018 SOC,Yes
+Health Information Technologists and Medical Registrars,Other Healthcare Practitioners and Technical Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Health Practitioners and Technical Workers,Other Healthcare Practitioners and Technical Occupations,Broad Occupation,2018 SOC,Yes
+Home Health and Personal Care Aides,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",Broad Occupation,2018 SOC,Yes
+"Nursing Assistants, Orderlies, and Psychiatric Aides","Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",Broad Occupation,2018 SOC,Yes
+Occupational Therapy Assistants and Aides,Occupational Therapy and Physical Therapist Assistants and Aides,Broad Occupation,2018 SOC,Yes
+Physical Therapist Assistants and Aides,Occupational Therapy and Physical Therapist Assistants and Aides,Broad Occupation,2018 SOC,Yes
+Massage Therapists,Other Healthcare Support Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Healthcare Support Occupations,Other Healthcare Support Occupations,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Law Enforcement Workers,Supervisors of Protective Service Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Firefighting and Prevention Workers,Supervisors of Protective Service Workers,Broad Occupation,2018 SOC,Yes
+"Miscellaneous First-Line Supervisors, Protective Service Workers",Supervisors of Protective Service Workers,Broad Occupation,2018 SOC,Yes
+Firefighters,Firefighting and Prevention Workers,Broad Occupation,2018 SOC,Yes
+Fire Inspectors,Firefighting and Prevention Workers,Broad Occupation,2018 SOC,Yes
+"Bailiffs, Correctional Officers, and Jailers",Law Enforcement Workers,Broad Occupation,2018 SOC,Yes
+Detectives and Criminal Investigators,Law Enforcement Workers,Broad Occupation,2018 SOC,Yes
+Fish and Game Wardens,Law Enforcement Workers,Broad Occupation,2018 SOC,Yes
+Parking Enforcement Workers,Law Enforcement Workers,Broad Occupation,2018 SOC,Yes
+Police Officers,Law Enforcement Workers,Broad Occupation,2018 SOC,Yes
+Animal Control Workers,Other Protective Service Workers,Broad Occupation,2018 SOC,Yes
+Private Detectives and Investigators,Other Protective Service Workers,Broad Occupation,2018 SOC,Yes
+Security Guards and Gambling Surveillance Officers,Other Protective Service Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Protective Service Workers,Other Protective Service Workers,Broad Occupation,2018 SOC,Yes
+Supervisors of Food Preparation and Serving Workers,Supervisors of Food Preparation and Serving Workers,Broad Occupation,2018 SOC,Yes
+Cooks,Cooks and Food Preparation Workers,Broad Occupation,2018 SOC,Yes
+Food Preparation Workers,Cooks and Food Preparation Workers,Broad Occupation,2018 SOC,Yes
+Bartenders,Food and Beverage Serving Workers,Broad Occupation,2018 SOC,Yes
+Fast Food and Counter Workers,Food and Beverage Serving Workers,Broad Occupation,2018 SOC,Yes
+Waiters and Waitresses,Food and Beverage Serving Workers,Broad Occupation,2018 SOC,Yes
+"Food Servers, Nonrestaurant",Food and Beverage Serving Workers,Broad Occupation,2018 SOC,Yes
+Dining Room and Cafeteria Attendants and Bartender Helpers,Other Food Preparation and Serving Related Workers,Broad Occupation,2018 SOC,Yes
+Dishwashers,Other Food Preparation and Serving Related Workers,Broad Occupation,2018 SOC,Yes
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Other Food Preparation and Serving Related Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Food Preparation and Serving Related Workers,Other Food Preparation and Serving Related Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers,Supervisors of Building and Grounds Cleaning and Maintenance Workers,Broad Occupation,2018 SOC,Yes
+Building Cleaning Workers,Building Cleaning and Pest Control Workers,Broad Occupation,2018 SOC,Yes
+Pest Control Workers,Building Cleaning and Pest Control Workers,Broad Occupation,2018 SOC,Yes
+Grounds Maintenance Workers,Grounds Maintenance Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Entertainment and Recreation Workers,Supervisors of Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Personal Service Workers,Supervisors of Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Animal Trainers,Animal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Animal Caretakers,Animal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Gambling Services Workers,Entertainment Attendants and Related Workers,Broad Occupation,2018 SOC,Yes
+Motion Picture Projectionists,Entertainment Attendants and Related Workers,Broad Occupation,2018 SOC,Yes
+"Ushers, Lobby Attendants, and Ticket Takers",Entertainment Attendants and Related Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Entertainment Attendants and Related Workers,Entertainment Attendants and Related Workers,Broad Occupation,2018 SOC,Yes
+Embalmers and Crematory Operators,Funeral Service Workers,Broad Occupation,2018 SOC,Yes
+Funeral Attendants,Funeral Service Workers,Broad Occupation,2018 SOC,Yes
+"Morticians, Undertakers, and Funeral Arrangers",Funeral Service Workers,Broad Occupation,2018 SOC,Yes
+"Barbers, Hairdressers, Hairstylists and Cosmetologists",Personal Appearance Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Personal Appearance Workers,Personal Appearance Workers,Broad Occupation,2018 SOC,Yes
+"Baggage Porters, Bellhops, and Concierges","Baggage Porters, Bellhops, and Concierges",Broad Occupation,2018 SOC,Yes
+Tour and Travel Guides,Tour and Travel Guides,Broad Occupation,2018 SOC,Yes
+Childcare Workers,Other Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Recreation and Fitness Workers,Other Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Residential Advisors,Other Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Personal Care and Service Workers,Other Personal Care and Service Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Sales Workers,Supervisors of Sales Workers,Broad Occupation,2018 SOC,Yes
+Cashiers,Retail Sales Workers,Broad Occupation,2018 SOC,Yes
+Counter and Rental Clerks and Parts Salespersons,Retail Sales Workers,Broad Occupation,2018 SOC,Yes
+Retail Salespersons,Retail Sales Workers,Broad Occupation,2018 SOC,Yes
+Advertising Sales Agents,"Sales Representatives, Services",Broad Occupation,2018 SOC,Yes
+Insurance Sales Agents,"Sales Representatives, Services",Broad Occupation,2018 SOC,Yes
+"Securities, Commodities, and Financial Services Sales Agents","Sales Representatives, Services",Broad Occupation,2018 SOC,Yes
+Travel Agents,"Sales Representatives, Services",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Sales Representatives, Services","Sales Representatives, Services",Broad Occupation,2018 SOC,Yes
+"Sales Representatives, Wholesale and Manufacturing","Sales Representatives, Wholesale and Manufacturing",Broad Occupation,2018 SOC,Yes
+"Models, Demonstrators, and Product Promoters",Other Sales and Related Workers,Broad Occupation,2018 SOC,Yes
+Real Estate Brokers and Sales Agents,Other Sales and Related Workers,Broad Occupation,2018 SOC,Yes
+Sales Engineers,Other Sales and Related Workers,Broad Occupation,2018 SOC,Yes
+Telemarketers,Other Sales and Related Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Sales and Related Workers,Other Sales and Related Workers,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Office and Administrative Support Workers,Supervisors of Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+"Switchboard Operators, Including Answering Service",Communications Equipment Operators,Broad Occupation,2018 SOC,Yes
+Telephone Operators,Communications Equipment Operators,Broad Occupation,2018 SOC,Yes
+Miscellaneous Communications Equipment Operators,Communications Equipment Operators,Broad Occupation,2018 SOC,Yes
+Bill and Account Collectors,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Billing and Posting Clerks,Financial Clerks,Broad Occupation,2018 SOC,Yes
+"Bookkeeping, Accounting, and Auditing Clerks",Financial Clerks,Broad Occupation,2018 SOC,Yes
+Gambling Cage Workers,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Payroll and Timekeeping Clerks,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Procurement Clerks,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Tellers,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Miscellaneous Financial Clerks,Financial Clerks,Broad Occupation,2018 SOC,Yes
+Brokerage Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Correspondence Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Court, Municipal, and License Clerks",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Credit Authorizers, Checkers, and Clerks",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Customer Service Representatives,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Eligibility Interviewers, Government Programs",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+File Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Hotel, Motel, and Resort Desk Clerks",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Interviewers, Except Eligibility and Loan",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Library Assistants, Clerical",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Loan Interviewers and Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+New Accounts Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Order Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+"Human Resources Assistants, Except Payroll and Timekeeping",Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Receptionists and Information Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Reservation and Transportation Ticket Agents and Travel Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Miscellaneous Information and Record Clerks,Information and Record Clerks,Broad Occupation,2018 SOC,Yes
+Cargo and Freight Agents,"Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+Couriers and Messengers,"Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+Dispatchers,"Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+"Meter Readers, Utilities","Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+Postal Service Workers,"Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+"Production, Planning, and Expediting Clerks","Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+"Shipping, Receiving, and Inventory Clerks","Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Material Recording, Scheduling, Dispatching, and Distributing Workers",Broad Occupation,2018 SOC,Yes
+Secretaries and Administrative Assistants,Secretaries and Administrative Assistants,Broad Occupation,2018 SOC,Yes
+Data Entry and Information Processing Workers,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+Desktop Publishers,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+Insurance Claims and Policy Processing Clerks,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+"Mail Clerks and Mail Machine Operators, Except Postal Service",Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+"Office Clerks, General",Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+"Office Machine Operators, Except Computer",Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+Proofreaders and Copy Markers,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+Statistical Assistants,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Office and Administrative Support Workers,Other Office and Administrative Support Workers,Broad Occupation,2018 SOC,Yes
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Supervisors of Farming, Fishing, and Forestry Workers",Broad Occupation,2018 SOC,Yes
+Agricultural Inspectors,Agricultural Workers,Broad Occupation,2018 SOC,Yes
+Animal Breeders,Agricultural Workers,Broad Occupation,2018 SOC,Yes
+"Graders and Sorters, Agricultural Products",Agricultural Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Agricultural Workers,Agricultural Workers,Broad Occupation,2018 SOC,Yes
+Fishing and Hunting Workers,Fishing and Hunting Workers,Broad Occupation,2018 SOC,Yes
+Forest and Conservation Workers,"Forest, Conservation, and Logging Workers",Broad Occupation,2018 SOC,Yes
+Logging Workers,"Forest, Conservation, and Logging Workers",Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Construction Trades and Extraction Workers,Supervisors of Construction and Extraction Workers,Broad Occupation,2018 SOC,Yes
+Boilermakers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Brickmasons, Blockmasons, and Stonemasons",Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Carpenters,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Carpet, Floor, and Tile Installers and Finishers",Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Cement Masons, Concrete Finishers, and Terrazzo Workers",Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Construction Laborers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Construction Equipment Operators,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Drywall Installers, Ceiling Tile Installers, and Tapers",Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Electricians,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Glaziers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Insulation Workers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Painters and Paperhangers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Plasterers and Stucco Masons,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Reinforcing Iron and Rebar Workers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Roofers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Sheet Metal Workers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Structural Iron and Steel Workers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+Solar Photovoltaic Installers,Construction Trades Workers,Broad Occupation,2018 SOC,Yes
+"Helpers, Construction Trades","Helpers, Construction Trades",Broad Occupation,2018 SOC,Yes
+Construction and Building Inspectors,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Elevator and Escalator Installers and Repairers,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Fence Erectors,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Hazardous Materials Removal Workers,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Highway Maintenance Workers,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Rail-Track Laying and Maintenance Equipment Operators,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Septic Tank Servicers and Sewer Pipe Cleaners,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Construction and Related Workers,Other Construction and Related Workers,Broad Occupation,2018 SOC,Yes
+"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",Extraction Workers,Broad Occupation,2018 SOC,Yes
+Surface Mining Machine Operators and Earth Drillers,Extraction Workers,Broad Occupation,2018 SOC,Yes
+"Explosives Workers, Ordnance Handling Experts, and Blasters",Extraction Workers,Broad Occupation,2018 SOC,Yes
+Underground Mining Machine Operators,Extraction Workers,Broad Occupation,2018 SOC,Yes
+"Rock Splitters, Quarry",Extraction Workers,Broad Occupation,2018 SOC,Yes
+"Roustabouts, Oil and Gas",Extraction Workers,Broad Occupation,2018 SOC,Yes
+Helpers--Extraction Workers,Extraction Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Extraction Workers,Extraction Workers,Broad Occupation,2018 SOC,Yes
+"First-Line Supervisors of Mechanics, Installers, and Repairers","Supervisors of Installation, Maintenance, and Repair Workers",Broad Occupation,2018 SOC,Yes
+"Computer, Automated Teller, and Office Machine Repairers","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Radio and Telecommunications Equipment Installers and Repairers,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Aircraft Mechanics and Service Technicians,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Automotive Technicians and Repairers,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Bus and Truck Mechanics and Diesel Engine Specialists,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Small Engine Mechanics,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Broad Occupation,2018 SOC,Yes
+Control and Valve Installers and Repairers,"Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+Home Appliance Repairers,"Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+"Industrial Machinery Installation, Repair, and Maintenance Workers","Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+Line Installers and Repairers,"Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+Precision Instrument and Equipment Repairers,"Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+"Maintenance and Repair Workers, General","Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+Wind Turbine Service Technicians,"Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Installation, Maintenance, and Repair Workers","Other Installation, Maintenance, and Repair Occupations",Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Production and Operating Workers,Supervisors of Production Workers,Broad Occupation,2018 SOC,Yes
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+"Electrical, Electronics, and Electromechanical Assemblers",Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Engine and Other Machine Assemblers,Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Structural Metal Fabricators and Fitters,Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Fiberglass Laminators and Fabricators,Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Timing Device Assemblers and Adjusters,Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Miscellaneous Assemblers and Fabricators,Assemblers and Fabricators,Broad Occupation,2018 SOC,Yes
+Bakers,Food Processing Workers,Broad Occupation,2018 SOC,Yes
+"Butchers and Other Meat, Poultry, and Fish Processing Workers",Food Processing Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Food Processing Workers,Food Processing Workers,Broad Occupation,2018 SOC,Yes
+"Forming Machine Setters, Operators, and Tenders, Metal and Plastic",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+Machinists,Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Metal Furnace Operators, Tenders, Pourers, and Casters",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Model Makers and Patternmakers, Metal and Plastic",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+Tool and Die Makers,Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+"Welding, Soldering, and Brazing Workers",Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Metal Workers and Plastic Workers,Metal Workers and Plastic Workers,Broad Occupation,2018 SOC,Yes
+Printing Workers,Printing Workers,Broad Occupation,2018 SOC,Yes
+Laundry and Dry-Cleaning Workers,"Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+"Pressers, Textile, Garment, and Related Materials","Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+Sewing Machine Operators,"Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+Shoe and Leather Workers,"Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+"Tailors, Dressmakers, and Sewers","Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+"Textile Machine Setters, Operators, and Tenders","Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+"Miscellaneous Textile, Apparel, and Furnishings Workers","Textile, Apparel, and Furnishings Workers",Broad Occupation,2018 SOC,Yes
+Cabinetmakers and Bench Carpenters,Woodworkers,Broad Occupation,2018 SOC,Yes
+Furniture Finishers,Woodworkers,Broad Occupation,2018 SOC,Yes
+"Model Makers and Patternmakers, Wood",Woodworkers,Broad Occupation,2018 SOC,Yes
+"Woodworking Machine Setters, Operators, and Tenders",Woodworkers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Woodworkers,Woodworkers,Broad Occupation,2018 SOC,Yes
+"Power Plant Operators, Distributors, and Dispatchers",Plant and System Operators,Broad Occupation,2018 SOC,Yes
+Stationary Engineers and Boiler Operators,Plant and System Operators,Broad Occupation,2018 SOC,Yes
+Water and Wastewater Treatment Plant and System Operators,Plant and System Operators,Broad Occupation,2018 SOC,Yes
+Miscellaneous Plant and System Operators,Plant and System Operators,Broad Occupation,2018 SOC,Yes
+"Chemical Processing Machine Setters, Operators, and Tenders",Other Production Occupations,Broad Occupation,2018 SOC,Yes
+"Crushing, Grinding, Polishing, Mixing, and Blending Workers",Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Cutting Workers,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Other Production Occupations,Broad Occupation,2018 SOC,Yes
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Other Production Occupations,Broad Occupation,2018 SOC,Yes
+"Inspectors, Testers, Sorters, Samplers, and Weighers",Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Jewelers and Precious Stone and Metal Workers,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Packaging and Filling Machine Operators and Tenders,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Painting Workers,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Semiconductor Processing Technicians,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Photographic Process Workers and Processing Machine Operators,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Computer Numerically Controlled Tool Operators and Programmers,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+Miscellaneous Production Workers,Other Production Occupations,Broad Occupation,2018 SOC,Yes
+First-Line Supervisors of Transportation and Material Moving Workers,Supervisors of Transportation and Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Aircraft Pilots and Flight Engineers,Air Transportation Workers,Broad Occupation,2018 SOC,Yes
+Air Traffic Controllers and Airfield Operations Specialists,Air Transportation Workers,Broad Occupation,2018 SOC,Yes
+Flight Attendants,Air Transportation Workers,Broad Occupation,2018 SOC,Yes
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Motor Vehicle Operators,Broad Occupation,2018 SOC,Yes
+Driver/Sales Workers and Truck Drivers,Motor Vehicle Operators,Broad Occupation,2018 SOC,Yes
+Passenger Vehicle Drivers,Motor Vehicle Operators,Broad Occupation,2018 SOC,Yes
+Miscellaneous Motor Vehicle Operators,Motor Vehicle Operators,Broad Occupation,2018 SOC,Yes
+Locomotive Engineers and Operators,Rail Transportation Workers,Broad Occupation,2018 SOC,Yes
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Rail Transportation Workers,Broad Occupation,2018 SOC,Yes
+Railroad Conductors and Yardmasters,Rail Transportation Workers,Broad Occupation,2018 SOC,Yes
+Subway and Streetcar Operators,Rail Transportation Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Rail Transportation Workers,Rail Transportation Workers,Broad Occupation,2018 SOC,Yes
+Sailors and Marine Oilers,Water Transportation Workers,Broad Occupation,2018 SOC,Yes
+Ship and Boat Captains and Operators,Water Transportation Workers,Broad Occupation,2018 SOC,Yes
+Ship Engineers,Water Transportation Workers,Broad Occupation,2018 SOC,Yes
+Bridge and Lock Tenders,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Parking Attendants,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Transportation Service Attendants,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Traffic Technicians,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Transportation Inspectors,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Passenger Attendants,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Transportation Workers,Other Transportation Workers,Broad Occupation,2018 SOC,Yes
+Conveyor Operators and Tenders,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Crane and Tower Operators,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Dredge Operators,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Hoist and Winch Operators,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Industrial Truck and Tractor Operators,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Laborers and Material Movers,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Pumping Station Operators,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Refuse and Recyclable Material Collectors,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+"Tank Car, Truck, and Ship Loaders",Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Miscellaneous Material Moving Workers,Material Moving Workers,Broad Occupation,2018 SOC,Yes
+Military Officer Special and Tactical Operations Leaders,Military Officer Special and Tactical Operations Leaders,Broad Occupation,2018 SOC,Yes
+First-Line Enlisted Military Supervisors,First-Line Enlisted Military Supervisors,Broad Occupation,2018 SOC,Yes
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,Broad Occupation,2018 SOC,Yes

@@ -1,0 +1,7 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+"Management, Business, Science, and Arts Occupations ",SOC,High-Level Occupation Aggregation,2018 SOC,Yes
+Service Occupations,SOC,High-Level Occupation Aggregation,2018 SOC,Yes
+Sales and Office Occupations,SOC,High-Level Occupation Aggregation,2018 SOC,Yes
+"Natural Resources, Construction, and Maintenance Occupations",SOC,High-Level Occupation Aggregation,2018 SOC,Yes
+"Production, Transportation, and Material Moving Occupations",SOC,High-Level Occupation Aggregation,2018 SOC,Yes
+Military Specific Occupations,SOC,High-Level Occupation Aggregation,2018 SOC,Yes

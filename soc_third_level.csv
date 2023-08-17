@@ -1,0 +1,14 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+"Management, Business, and Financial Occupations","Management, Business, Science, and Arts Occupations ",Intermediate Occupation Aggregation,2018 SOC,Yes
+"Computer, Engineering, and Science Occupations ","Management, Business, Science, and Arts Occupations ",Intermediate Occupation Aggregation,2018 SOC,Yes
+"Education, Legal, Community Service, Arts, and Media Occupations ","Management, Business, Science, and Arts Occupations ",Intermediate Occupation Aggregation,2018 SOC,Yes
+Healthcare Practitioners and Technical Occupations ,"Management, Business, Science, and Arts Occupations ",Intermediate Occupation Aggregation,2018 SOC,Yes
+Service Occupations ,Service Occupations,Intermediate Occupation Aggregation,2018 SOC,Yes
+Sales and Related Occupations ,Sales and Office Occupations,Intermediate Occupation Aggregation,2018 SOC,Yes
+Office and Administrative Support Occupations ,Sales and Office Occupations,Intermediate Occupation Aggregation,2018 SOC,Yes
+"Farming, Fishing, and Forestry Occupations ","Natural Resources, Construction, and Maintenance Occupations",Intermediate Occupation Aggregation,2018 SOC,Yes
+Construction and Extraction Occupations ,"Natural Resources, Construction, and Maintenance Occupations",Intermediate Occupation Aggregation,2018 SOC,Yes
+"Installation, Maintenance, and Repair Occupations ","Natural Resources, Construction, and Maintenance Occupations",Intermediate Occupation Aggregation,2018 SOC,Yes
+Production Occupations ,"Production, Transportation, and Material Moving Occupations",Intermediate Occupation Aggregation,2018 SOC,Yes
+Transportation and Material Moving Occupations,"Production, Transportation, and Material Moving Occupations",Intermediate Occupation Aggregation,2018 SOC,Yes
+Military Specific Occupations,Military Specific Occupations,Intermediate Occupation Aggregation,2018 SOC,Yes

@@ -1,0 +1,24 @@
+name,parent,concept_name,source,standard_semantic_hierarchy
+Management Occupations,"Management, Business, and Financial Occupations",Major Group,2018 SOC,Yes
+Business and Financial Operations Occupations,"Management, Business, and Financial Occupations",Major Group,2018 SOC,Yes
+Computer and Mathematical Occupations,"Computer, Engineering, and Science Occupations ",Major Group,2018 SOC,Yes
+Architecture and Engineering Occupations,"Computer, Engineering, and Science Occupations ",Major Group,2018 SOC,Yes
+"Life, Physical, and Social Science Occupations","Computer, Engineering, and Science Occupations ",Major Group,2018 SOC,Yes
+Community and Social Service Occupations,"Education, Legal, Community Service, Arts, and Media Occupations ",Major Group,2018 SOC,Yes
+Legal Occupations,"Education, Legal, Community Service, Arts, and Media Occupations ",Major Group,2018 SOC,Yes
+Educational Instruction and Library Occupations,"Education, Legal, Community Service, Arts, and Media Occupations ",Major Group,2018 SOC,Yes
+"Arts, Design, Entertainment, Sports, and Media Occupations","Education, Legal, Community Service, Arts, and Media Occupations ",Major Group,2018 SOC,Yes
+Healthcare Practitioners and Technical Occupations,Healthcare Practitioners and Technical Occupations ,Major Group,2018 SOC,Yes
+Healthcare Support Occupations,Service Occupations ,Major Group,2018 SOC,Yes
+Protective Service Occupations,Service Occupations ,Major Group,2018 SOC,Yes
+Food Preparation and Serving Related Occupations,Service Occupations ,Major Group,2018 SOC,Yes
+Building and Grounds Cleaning and Maintenance Occupations,Service Occupations ,Major Group,2018 SOC,Yes
+Personal Care and Service Occupations,Service Occupations ,Major Group,2018 SOC,Yes
+Sales and Related Occupations,Sales and Related Occupations ,Major Group,2018 SOC,Yes
+Office and Administrative Support Occupations,Office and Administrative Support Occupations ,Major Group,2018 SOC,Yes
+"Farming, Fishing, and Forestry Occupations","Farming, Fishing, and Forestry Occupations ",Major Group,2018 SOC,Yes
+Construction and Extraction Occupations,Construction and Extraction Occupations ,Major Group,2018 SOC,Yes
+"Installation, Maintenance, and Repair Occupations","Installation, Maintenance, and Repair Occupations ",Major Group,2018 SOC,Yes
+Production Occupations,Production Occupations ,Major Group,2018 SOC,Yes
+Transportation and Material Moving Occupations,Transportation and Material Moving Occupations,Major Group,2018 SOC,Yes
+Military Specific Occupations,Military Specific Occupations,Major Group,2018 SOC,Yes
