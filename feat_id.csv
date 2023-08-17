@@ -1,0 +1,3324 @@
+code,fk_name,parent,concept_name,source,standard_semantic_hierarchy
+23901,"Yuma, AZ",None,Feature ID,2023 GNIS,No
+25441,"Apache, AZ",None,Feature ID,2023 GNIS,No
+25442,"Cochise, AZ",None,Feature ID,2023 GNIS,No
+25443,"Coconino, AZ",None,Feature ID,2023 GNIS,No
+25444,"Graham, AZ",None,Feature ID,2023 GNIS,No
+25445,"Mohave, AZ",None,Feature ID,2023 GNIS,No
+25446,"Pima, AZ",None,Feature ID,2023 GNIS,No
+25447,"Pinal, AZ",None,Feature ID,2023 GNIS,No
+37026,"Maricopa, AZ",None,Feature ID,2023 GNIS,No
+40471,"Gila, AZ",None,Feature ID,2023 GNIS,No
+40472,"Santa Cruz, AZ",None,Feature ID,2023 GNIS,No
+42807,"Greenlee, AZ",None,Feature ID,2023 GNIS,No
+42808,"Navajo, AZ",None,Feature ID,2023 GNIS,No
+42809,"Yavapai, AZ",None,Feature ID,2023 GNIS,No
+43540,"La Paz, AZ",None,Feature ID,2023 GNIS,No
+63755,"Arkansas, AR",None,Feature ID,2023 GNIS,No
+63756,"Ashley, AR",None,Feature ID,2023 GNIS,No
+63757,"Bradley, AR",None,Feature ID,2023 GNIS,No
+63758,"Calhoun, AR",None,Feature ID,2023 GNIS,No
+63759,"Clay, AR",None,Feature ID,2023 GNIS,No
+63760,"Cleveland, AR",None,Feature ID,2023 GNIS,No
+63761,"Columbia, AR",None,Feature ID,2023 GNIS,No
+66845,"Clark, AR",None,Feature ID,2023 GNIS,No
+66846,"Conway, AR",None,Feature ID,2023 GNIS,No
+66847,"Craighead, AR",None,Feature ID,2023 GNIS,No
+66848,"Cross, AR",None,Feature ID,2023 GNIS,No
+66849,"Dallas, AR",None,Feature ID,2023 GNIS,No
+66850,"Desha, AR",None,Feature ID,2023 GNIS,No
+66851,"Drew, AR",None,Feature ID,2023 GNIS,No
+66852,"Faulkner, AR",None,Feature ID,2023 GNIS,No
+66853,"Franklin, AR",None,Feature ID,2023 GNIS,No
+66854,"Fulton, AR",None,Feature ID,2023 GNIS,No
+66855,"Garland, AR",None,Feature ID,2023 GNIS,No
+66856,"Grant, AR",None,Feature ID,2023 GNIS,No
+66857,"Greene, AR",None,Feature ID,2023 GNIS,No
+66858,"Hempstead, AR",None,Feature ID,2023 GNIS,No
+66859,"Hot Spring, AR",None,Feature ID,2023 GNIS,No
+66860,"Izard, AR",None,Feature ID,2023 GNIS,No
+66861,"Jackson, AR",None,Feature ID,2023 GNIS,No
+66862,"Jefferson, AR",None,Feature ID,2023 GNIS,No
+66863,"Johnson, AR",None,Feature ID,2023 GNIS,No
+66864,"Lafayette, AR",None,Feature ID,2023 GNIS,No
+66865,"Lawrence, AR",None,Feature ID,2023 GNIS,No
+66866,"Lee, AR",None,Feature ID,2023 GNIS,No
+66872,"Howard, AR",None,Feature ID,2023 GNIS,No
+66873,"Lincoln, AR",None,Feature ID,2023 GNIS,No
+66874,"Little River, AR",None,Feature ID,2023 GNIS,No
+66975,"Carroll, AR",None,Feature ID,2023 GNIS,No
+66983,"Cleburne, AR",None,Feature ID,2023 GNIS,No
+67102,"Saline, AR",None,Feature ID,2023 GNIS,No
+68085,Arkansas,None,Feature ID,2023 GNIS,No
+69160,"Chicot, AR",None,Feature ID,2023 GNIS,No
+69161,"Crawford, AR",None,Feature ID,2023 GNIS,No
+69162,"Crittenden, AR",None,Feature ID,2023 GNIS,No
+69163,"Independence, AR",None,Feature ID,2023 GNIS,No
+69164,"Lonoke, AR",None,Feature ID,2023 GNIS,No
+69165,"Madison, AR",None,Feature ID,2023 GNIS,No
+69166,"Miller, AR",None,Feature ID,2023 GNIS,No
+69167,"Monroe, AR",None,Feature ID,2023 GNIS,No
+69168,"Montgomery, AR",None,Feature ID,2023 GNIS,No
+69169,"Nevada, AR",None,Feature ID,2023 GNIS,No
+69170,"Ouachita, AR",None,Feature ID,2023 GNIS,No
+69171,"Perry, AR",None,Feature ID,2023 GNIS,No
+69172,"Phillips, AR",None,Feature ID,2023 GNIS,No
+69173,"Pike, AR",None,Feature ID,2023 GNIS,No
+69174,"Poinsett, AR",None,Feature ID,2023 GNIS,No
+69175,"Polk, AR",None,Feature ID,2023 GNIS,No
+69176,"Prairie, AR",None,Feature ID,2023 GNIS,No
+69177,"Pulaski, AR",None,Feature ID,2023 GNIS,No
+69178,"Randolph, AR",None,Feature ID,2023 GNIS,No
+69179,"Scott, AR",None,Feature ID,2023 GNIS,No
+69180,"Searcy, AR",None,Feature ID,2023 GNIS,No
+69181,"Sebastian, AR",None,Feature ID,2023 GNIS,No
+69182,"Sevier, AR",None,Feature ID,2023 GNIS,No
+69183,"Sharp, AR",None,Feature ID,2023 GNIS,No
+69895,"Baxter, AR",None,Feature ID,2023 GNIS,No
+69896,"Benton, AR",None,Feature ID,2023 GNIS,No
+69897,"Boone, AR",None,Feature ID,2023 GNIS,No
+69898,"Marion, AR",None,Feature ID,2023 GNIS,No
+69899,"Mississippi, AR",None,Feature ID,2023 GNIS,No
+69900,"Newton, AR",None,Feature ID,2023 GNIS,No
+69901,"Pope, AR",None,Feature ID,2023 GNIS,No
+69902,"Stone, AR",None,Feature ID,2023 GNIS,No
+69903,"Union, AR",None,Feature ID,2023 GNIS,No
+69904,"Van Buren, AR",None,Feature ID,2023 GNIS,No
+69905,"Washington, AR",None,Feature ID,2023 GNIS,No
+69906,"White, AR",None,Feature ID,2023 GNIS,No
+69907,"Woodruff, AR",None,Feature ID,2023 GNIS,No
+69908,"Yell, AR",None,Feature ID,2023 GNIS,No
+82850,"Logan, AR",None,Feature ID,2023 GNIS,No
+83331,"St. Francis, AR",None,Feature ID,2023 GNIS,No
+161526,"Autauga, AL",None,Feature ID,2023 GNIS,No
+161527,"Baldwin, AL",None,Feature ID,2023 GNIS,No
+161528,"Barbour, AL",None,Feature ID,2023 GNIS,No
+161529,"Bibb, AL",None,Feature ID,2023 GNIS,No
+161530,"Blount, AL",None,Feature ID,2023 GNIS,No
+161531,"Bullock, AL",None,Feature ID,2023 GNIS,No
+161532,"Butler, AL",None,Feature ID,2023 GNIS,No
+161533,"Calhoun, AL",None,Feature ID,2023 GNIS,No
+161534,"Chambers, AL",None,Feature ID,2023 GNIS,No
+161535,"Cherokee, AL",None,Feature ID,2023 GNIS,No
+161536,"Chilton, AL",None,Feature ID,2023 GNIS,No
+161537,"Choctaw, AL",None,Feature ID,2023 GNIS,No
+161538,"Clarke, AL",None,Feature ID,2023 GNIS,No
+161539,"Clay, AL",None,Feature ID,2023 GNIS,No
+161540,"Cleburne, AL",None,Feature ID,2023 GNIS,No
+161541,"Coffee, AL",None,Feature ID,2023 GNIS,No
+161542,"Colbert, AL",None,Feature ID,2023 GNIS,No
+161543,"Conecuh, AL",None,Feature ID,2023 GNIS,No
+161544,"Coosa, AL",None,Feature ID,2023 GNIS,No
+161545,"Covington, AL",None,Feature ID,2023 GNIS,No
+161546,"Crenshaw, AL",None,Feature ID,2023 GNIS,No
+161547,"Cullman, AL",None,Feature ID,2023 GNIS,No
+161548,"Dale, AL",None,Feature ID,2023 GNIS,No
+161549,"Dallas, AL",None,Feature ID,2023 GNIS,No
+161550,"DeKalb, AL",None,Feature ID,2023 GNIS,No
+161551,"Elmore, AL",None,Feature ID,2023 GNIS,No
+161552,"Escambia, AL",None,Feature ID,2023 GNIS,No
+161553,"Etowah, AL",None,Feature ID,2023 GNIS,No
+161554,"Fayette, AL",None,Feature ID,2023 GNIS,No
+161555,"Franklin, AL",None,Feature ID,2023 GNIS,No
+161556,"Geneva, AL",None,Feature ID,2023 GNIS,No
+161557,"Greene, AL",None,Feature ID,2023 GNIS,No
+161558,"Hale, AL",None,Feature ID,2023 GNIS,No
+161559,"Henry, AL",None,Feature ID,2023 GNIS,No
+161560,"Houston, AL",None,Feature ID,2023 GNIS,No
+161561,"Jackson, AL",None,Feature ID,2023 GNIS,No
+161562,"Jefferson, AL",None,Feature ID,2023 GNIS,No
+161563,"Lamar, AL",None,Feature ID,2023 GNIS,No
+161564,"Lauderdale, AL",None,Feature ID,2023 GNIS,No
+161565,"Lawrence, AL",None,Feature ID,2023 GNIS,No
+161566,"Lee, AL",None,Feature ID,2023 GNIS,No
+161567,"Limestone, AL",None,Feature ID,2023 GNIS,No
+161568,"Lowndes, AL",None,Feature ID,2023 GNIS,No
+161569,"Macon, AL",None,Feature ID,2023 GNIS,No
+161570,"Madison, AL",None,Feature ID,2023 GNIS,No
+161572,"Marengo, AL",None,Feature ID,2023 GNIS,No
+161573,"Marion, AL",None,Feature ID,2023 GNIS,No
+161574,"Marshall, AL",None,Feature ID,2023 GNIS,No
+161575,"Mobile, AL",None,Feature ID,2023 GNIS,No
+161576,"Monroe, AL",None,Feature ID,2023 GNIS,No
+161577,"Montgomery, AL",None,Feature ID,2023 GNIS,No
+161578,"Morgan, AL",None,Feature ID,2023 GNIS,No
+161579,"Perry, AL",None,Feature ID,2023 GNIS,No
+161580,"Pickens, AL",None,Feature ID,2023 GNIS,No
+161581,"Pike, AL",None,Feature ID,2023 GNIS,No
+161582,"Randolph, AL",None,Feature ID,2023 GNIS,No
+161583,"Russell, AL",None,Feature ID,2023 GNIS,No
+161584,"Shelby, AL",None,Feature ID,2023 GNIS,No
+161585,"Sumter, AL",None,Feature ID,2023 GNIS,No
+161586,"Talladega, AL",None,Feature ID,2023 GNIS,No
+161587,"Tallapoosa, AL",None,Feature ID,2023 GNIS,No
+161588,"Tuscaloosa, AL",None,Feature ID,2023 GNIS,No
+161589,"Walker, AL",None,Feature ID,2023 GNIS,No
+161590,"Washington, AL",None,Feature ID,2023 GNIS,No
+161591,"Wilcox, AL",None,Feature ID,2023 GNIS,No
+161592,"Winston, AL",None,Feature ID,2023 GNIS,No
+164997,"St. Clair, AL",None,Feature ID,2023 GNIS,No
+198116,"Adams, CO",None,Feature ID,2023 GNIS,No
+198117,"Alamosa, CO",None,Feature ID,2023 GNIS,No
+198118,"Arapahoe, CO",None,Feature ID,2023 GNIS,No
+198119,"Archuleta, CO",None,Feature ID,2023 GNIS,No
+198120,"Baca, CO",None,Feature ID,2023 GNIS,No
+198121,"Bent, CO",None,Feature ID,2023 GNIS,No
+198122,"Boulder, CO",None,Feature ID,2023 GNIS,No
+198123,"Chaffee, CO",None,Feature ID,2023 GNIS,No
+198124,"Cheyenne, CO",None,Feature ID,2023 GNIS,No
+198125,"Clear Creek, CO",None,Feature ID,2023 GNIS,No
+198126,"Conejos, CO",None,Feature ID,2023 GNIS,No
+198127,"Costilla, CO",None,Feature ID,2023 GNIS,No
+198128,"Crowley, CO",None,Feature ID,2023 GNIS,No
+198129,"Custer, CO",None,Feature ID,2023 GNIS,No
+198130,"Delta, CO",None,Feature ID,2023 GNIS,No
+198131,"Denver, CO",None,Feature ID,2023 GNIS,No
+198132,"Dolores, CO",None,Feature ID,2023 GNIS,No
+198133,"Douglas, CO",None,Feature ID,2023 GNIS,No
+198134,"Eagle, CO",None,Feature ID,2023 GNIS,No
+198135,"El Paso, CO",None,Feature ID,2023 GNIS,No
+198136,"Elbert, CO",None,Feature ID,2023 GNIS,No
+198137,"Fremont, CO",None,Feature ID,2023 GNIS,No
+198138,"Garfield, CO",None,Feature ID,2023 GNIS,No
+198139,"Gilpin, CO",None,Feature ID,2023 GNIS,No
+198140,"Grand, CO",None,Feature ID,2023 GNIS,No
+198141,"Gunnison, CO",None,Feature ID,2023 GNIS,No
+198142,"Hinsdale, CO",None,Feature ID,2023 GNIS,No
+198143,"Huerfano, CO",None,Feature ID,2023 GNIS,No
+198144,"Jackson, CO",None,Feature ID,2023 GNIS,No
+198145,"Jefferson, CO",None,Feature ID,2023 GNIS,No
+198146,"Kiowa, CO",None,Feature ID,2023 GNIS,No
+198147,"Kit Carson, CO",None,Feature ID,2023 GNIS,No
+198148,"La Plata, CO",None,Feature ID,2023 GNIS,No
+198149,"Lake, CO",None,Feature ID,2023 GNIS,No
+198150,"Larimer, CO",None,Feature ID,2023 GNIS,No
+198151,"Las Animas, CO",None,Feature ID,2023 GNIS,No
+198152,"Lincoln, CO",None,Feature ID,2023 GNIS,No
+198153,"Logan, CO",None,Feature ID,2023 GNIS,No
+198154,"Mesa, CO",None,Feature ID,2023 GNIS,No
+198155,"Mineral, CO",None,Feature ID,2023 GNIS,No
+198156,"Moffat, CO",None,Feature ID,2023 GNIS,No
+198157,"Montezuma, CO",None,Feature ID,2023 GNIS,No
+198158,"Montrose, CO",None,Feature ID,2023 GNIS,No
+198159,"Morgan, CO",None,Feature ID,2023 GNIS,No
+198160,"Otero, CO",None,Feature ID,2023 GNIS,No
+198161,"Ouray, CO",None,Feature ID,2023 GNIS,No
+198162,"Park, CO",None,Feature ID,2023 GNIS,No
+198163,"Phillips, CO",None,Feature ID,2023 GNIS,No
+198164,"Pitkin, CO",None,Feature ID,2023 GNIS,No
+198165,"Prowers, CO",None,Feature ID,2023 GNIS,No
+198166,"Pueblo, CO",None,Feature ID,2023 GNIS,No
+198167,"Rio Blanco, CO",None,Feature ID,2023 GNIS,No
+198168,"Rio Grande, CO",None,Feature ID,2023 GNIS,No
+198169,"Routt, CO",None,Feature ID,2023 GNIS,No
+198170,"Saguache, CO",None,Feature ID,2023 GNIS,No
+198171,"San Juan, CO",None,Feature ID,2023 GNIS,No
+198172,"San Miguel, CO",None,Feature ID,2023 GNIS,No
+198173,"Sedgwick, CO",None,Feature ID,2023 GNIS,No
+198174,"Summit, CO",None,Feature ID,2023 GNIS,No
+198175,"Teller, CO",None,Feature ID,2023 GNIS,No
+198176,"Washington, CO",None,Feature ID,2023 GNIS,No
+198177,"Weld, CO",None,Feature ID,2023 GNIS,No
+198178,"Yuma, CO",None,Feature ID,2023 GNIS,No
+217269,"Sussex, DE",None,Feature ID,2023 GNIS,No
+217270,"New Castle, DE",None,Feature ID,2023 GNIS,No
+217271,"Kent, DE",None,Feature ID,2023 GNIS,No
+277273,"El Dorado, CA",None,Feature ID,2023 GNIS,No
+277274,"Fresno, CA",None,Feature ID,2023 GNIS,No
+277275,"Glenn, CA",None,Feature ID,2023 GNIS,No
+277277,"Imperial, CA",None,Feature ID,2023 GNIS,No
+277280,"Kings, CA",None,Feature ID,2023 GNIS,No
+277281,"Lake, CA",None,Feature ID,2023 GNIS,No
+277283,"Los Angeles, CA",None,Feature ID,2023 GNIS,No
+277284,"Madera, CA",None,Feature ID,2023 GNIS,No
+277285,"Marin, CA",None,Feature ID,2023 GNIS,No
+277286,"Mariposa, CA",None,Feature ID,2023 GNIS,No
+277287,"Mendocino, CA",None,Feature ID,2023 GNIS,No
+277288,"Merced, CA",None,Feature ID,2023 GNIS,No
+277289,"Modoc, CA",None,Feature ID,2023 GNIS,No
+277290,"Mono, CA",None,Feature ID,2023 GNIS,No
+277291,"Monterey, CA",None,Feature ID,2023 GNIS,No
+277292,"Napa, CA",None,Feature ID,2023 GNIS,No
+277294,"Orange, CA",None,Feature ID,2023 GNIS,No
+277295,"Placer, CA",None,Feature ID,2023 GNIS,No
+277296,"Plumas, CA",None,Feature ID,2023 GNIS,No
+277297,"Riverside, CA",None,Feature ID,2023 GNIS,No
+277298,"Sacramento, CA",None,Feature ID,2023 GNIS,No
+277299,"San Benito, CA",None,Feature ID,2023 GNIS,No
+277300,"San Bernardino, CA",None,Feature ID,2023 GNIS,No
+277301,"San Diego, CA",None,Feature ID,2023 GNIS,No
+277302,"San Francisco, CA",None,Feature ID,2023 GNIS,No
+277303,"San Joaquin, CA",None,Feature ID,2023 GNIS,No
+277304,"San Luis Obispo, CA",None,Feature ID,2023 GNIS,No
+277305,"San Mateo, CA",None,Feature ID,2023 GNIS,No
+277306,"Santa Barbara, CA",None,Feature ID,2023 GNIS,No
+277307,"Santa Clara, CA",None,Feature ID,2023 GNIS,No
+277308,"Santa Cruz, CA",None,Feature ID,2023 GNIS,No
+277310,"Sierra, CA",None,Feature ID,2023 GNIS,No
+277311,"Siskiyou, CA",None,Feature ID,2023 GNIS,No
+277312,"Solano, CA",None,Feature ID,2023 GNIS,No
+277314,"Stanislaus, CA",None,Feature ID,2023 GNIS,No
+277315,"Sutter, CA",None,Feature ID,2023 GNIS,No
+277317,"Trinity, CA",None,Feature ID,2023 GNIS,No
+277318,"Tulare, CA",None,Feature ID,2023 GNIS,No
+277319,"Tuolumne, CA",None,Feature ID,2023 GNIS,No
+277320,"Ventura, CA",None,Feature ID,2023 GNIS,No
+277321,"Yolo, CA",None,Feature ID,2023 GNIS,No
+277322,"Yuba, CA",None,Feature ID,2023 GNIS,No
+293656,"Duval, FL",None,Feature ID,2023 GNIS,No
+294452,"DeSoto, FL",None,Feature ID,2023 GNIS,No
+294478,Florida,None,Feature ID,2023 GNIS,No
+295724,"Levy, FL",None,Feature ID,2023 GNIS,No
+295725,"Dixie, FL",None,Feature ID,2023 GNIS,No
+295726,"Clay, FL",None,Feature ID,2023 GNIS,No
+295727,"Walton, FL",None,Feature ID,2023 GNIS,No
+295728,"Taylor, FL",None,Feature ID,2023 GNIS,No
+295729,"Suwannee, FL",None,Feature ID,2023 GNIS,No
+295730,"Nassau, FL",None,Feature ID,2023 GNIS,No
+295731,"Madison, FL",None,Feature ID,2023 GNIS,No
+295732,"Lafayette, FL",None,Feature ID,2023 GNIS,No
+295733,"Jefferson, FL",None,Feature ID,2023 GNIS,No
+295734,"Jackson, FL",None,Feature ID,2023 GNIS,No
+295735,"Holmes, FL",None,Feature ID,2023 GNIS,No
+295736,"Hamilton, FL",None,Feature ID,2023 GNIS,No
+295737,"Escambia, FL",None,Feature ID,2023 GNIS,No
+295738,"Bay, FL",None,Feature ID,2023 GNIS,No
+295739,"Pasco, FL",None,Feature ID,2023 GNIS,No
+295740,"Sumter, FL",None,Feature ID,2023 GNIS,No
+295741,"Sarasota, FL",None,Feature ID,2023 GNIS,No
+295742,"Charlotte, FL",None,Feature ID,2023 GNIS,No
+295743,"Glades, FL",None,Feature ID,2023 GNIS,No
+295744,"Manatee, FL",None,Feature ID,2023 GNIS,No
+295745,"Pinellas, FL",None,Feature ID,2023 GNIS,No
+295746,"Hardee, FL",None,Feature ID,2023 GNIS,No
+295747,"Polk, FL",None,Feature ID,2023 GNIS,No
+295748,"Osceola, FL",None,Feature ID,2023 GNIS,No
+295749,"Brevard, FL",None,Feature ID,2023 GNIS,No
+295750,"Orange, FL",None,Feature ID,2023 GNIS,No
+295751,"Hernando, FL",None,Feature ID,2023 GNIS,No
+295752,"Citrus, FL",None,Feature ID,2023 GNIS,No
+295753,"Broward, FL",None,Feature ID,2023 GNIS,No
+295754,"Collier, FL",None,Feature ID,2023 GNIS,No
+295755,"Miami-Dade, FL",None,Feature ID,2023 GNIS,No
+295756,"Highlands, FL",None,Feature ID,2023 GNIS,No
+295757,"Hillsborough, FL",None,Feature ID,2023 GNIS,No
+295758,"Lee, FL",None,Feature ID,2023 GNIS,No
+295759,"Monroe, FL",None,Feature ID,2023 GNIS,No
+295760,"Okeechobee, FL",None,Feature ID,2023 GNIS,No
+295761,"Palm Beach, FL",None,Feature ID,2023 GNIS,No
+295762,"Washington, FL",None,Feature ID,2023 GNIS,No
+303633,"Gilchrist, FL",None,Feature ID,2023 GNIS,No
+303634,"Bradford, FL",None,Feature ID,2023 GNIS,No
+303665,"Seminole, FL",None,Feature ID,2023 GNIS,No
+306909,"Columbia, FL",None,Feature ID,2023 GNIS,No
+306910,"Putnam, FL",None,Feature ID,2023 GNIS,No
+306911,"Franklin, FL",None,Feature ID,2023 GNIS,No
+306912,"Wakulla, FL",None,Feature ID,2023 GNIS,No
+306913,"Union, FL",None,Feature ID,2023 GNIS,No
+306914,"Santa Rosa, FL",None,Feature ID,2023 GNIS,No
+306915,"Okaloosa, FL",None,Feature ID,2023 GNIS,No
+306916,"Leon, FL",None,Feature ID,2023 GNIS,No
+306917,"Gulf, FL",None,Feature ID,2023 GNIS,No
+306918,"Gadsden, FL",None,Feature ID,2023 GNIS,No
+306919,"Calhoun, FL",None,Feature ID,2023 GNIS,No
+306920,"Baker, FL",None,Feature ID,2023 GNIS,No
+306921,"Volusia, FL",None,Feature ID,2023 GNIS,No
+306922,"Marion, FL",None,Feature ID,2023 GNIS,No
+307624,"Indian River, FL",None,Feature ID,2023 GNIS,No
+307626,"Hendry, FL",None,Feature ID,2023 GNIS,No
+308371,"St. Johns, FL",None,Feature ID,2023 GNIS,No
+308372,"St. Lucie, FL",None,Feature ID,2023 GNIS,No
+308547,"Flagler, FL",None,Feature ID,2023 GNIS,No
+308548,"Alachua, FL",None,Feature ID,2023 GNIS,No
+308549,"Liberty, FL",None,Feature ID,2023 GNIS,No
+308550,"Martin, FL",None,Feature ID,2023 GNIS,No
+308551,"Lake, FL",None,Feature ID,2023 GNIS,No
+326638,"Berrien, GA",None,Feature ID,2023 GNIS,No
+326650,"Carroll, GA",None,Feature ID,2023 GNIS,No
+326666,"Coweta, GA",None,Feature ID,2023 GNIS,No
+326700,"Harris, GA",None,Feature ID,2023 GNIS,No
+326713,"Lamar, GA",None,Feature ID,2023 GNIS,No
+326719,"Long, GA",None,Feature ID,2023 GNIS,No
+326720,"Lowndes, GA",None,Feature ID,2023 GNIS,No
+326757,"Talbot, GA",None,Feature ID,2023 GNIS,No
+326781,"White, GA",None,Feature ID,2023 GNIS,No
+342832,"Baker, GA",None,Feature ID,2023 GNIS,No
+342852,"Candler, GA",None,Feature ID,2023 GNIS,No
+342918,"Crawford, GA",None,Feature ID,2023 GNIS,No
+342985,"Jenkins, GA",None,Feature ID,2023 GNIS,No
+343073,"Monroe, GA",None,Feature ID,2023 GNIS,No
+343153,"Peach, GA",None,Feature ID,2023 GNIS,No
+343238,"Turner, GA",None,Feature ID,2023 GNIS,No
+343365,"Worth, GA",None,Feature ID,2023 GNIS,No
+343390,"Lee, GA",None,Feature ID,2023 GNIS,No
+343504,"Sumter, GA",None,Feature ID,2023 GNIS,No
+343585,"Polk, GA",None,Feature ID,2023 GNIS,No
+343645,"Mitchell, GA",None,Feature ID,2023 GNIS,No
+343835,"Thomas, GA",None,Feature ID,2023 GNIS,No
+343878,"Cook, GA",None,Feature ID,2023 GNIS,No
+343936,"Colquitt, GA",None,Feature ID,2023 GNIS,No
+344074,"Calhoun, GA",None,Feature ID,2023 GNIS,No
+344088,"Miller, GA",None,Feature ID,2023 GNIS,No
+344090,"Tift, GA",None,Feature ID,2023 GNIS,No
+344107,"Marion, GA",None,Feature ID,2023 GNIS,No
+344129,"Schley, GA",None,Feature ID,2023 GNIS,No
+344156,"Taylor, GA",None,Feature ID,2023 GNIS,No
+344784,"Bacon, GA",None,Feature ID,2023 GNIS,No
+344805,"Clay, GA",None,Feature ID,2023 GNIS,No
+345041,"Early, GA",None,Feature ID,2023 GNIS,No
+345220,"Toombs, GA",None,Feature ID,2023 GNIS,No
+345255,"Baldwin, GA",None,Feature ID,2023 GNIS,No
+345367,"Jones, GA",None,Feature ID,2023 GNIS,No
+345456,"Twiggs, GA",None,Feature ID,2023 GNIS,No
+345499,"Wilcox, GA",None,Feature ID,2023 GNIS,No
+345518,"Brooks, GA",None,Feature ID,2023 GNIS,No
+345642,"Glascock, GA",None,Feature ID,2023 GNIS,No
+345714,"Jefferson, GA",None,Feature ID,2023 GNIS,No
+345784,"Atkinson, GA",None,Feature ID,2023 GNIS,No
+345923,"Evans, GA",None,Feature ID,2023 GNIS,No
+346008,"Morgan, GA",None,Feature ID,2023 GNIS,No
+346144,"Jasper, GA",None,Feature ID,2023 GNIS,No
+346482,"Pike, GA",None,Feature ID,2023 GNIS,No
+346568,"Laurens, GA",None,Feature ID,2023 GNIS,No
+346664,"Johnson, GA",None,Feature ID,2023 GNIS,No
+346759,"Upson, GA",None,Feature ID,2023 GNIS,No
+346824,"Wilkinson, GA",None,Feature ID,2023 GNIS,No
+346892,"Meriwether, GA",None,Feature ID,2023 GNIS,No
+346957,"Macon, GA",None,Feature ID,2023 GNIS,No
+347067,"Heard, GA",None,Feature ID,2023 GNIS,No
+347246,"Putnam, GA",None,Feature ID,2023 GNIS,No
+347360,"Stewart, GA",None,Feature ID,2023 GNIS,No
+347445,"Tattnall, GA",None,Feature ID,2023 GNIS,No
+347451,"Bleckley, GA",None,Feature ID,2023 GNIS,No
+347456,"Coffee, GA",None,Feature ID,2023 GNIS,No
+347465,"Dade, GA",None,Feature ID,2023 GNIS,No
+347505,"Treutlen, GA",None,Feature ID,2023 GNIS,No
+347508,"Emanuel, GA",None,Feature ID,2023 GNIS,No
+347593,"Pulaski, GA",None,Feature ID,2023 GNIS,No
+347654,"Taliaferro, GA",None,Feature ID,2023 GNIS,No
+347777,"Warren, GA",None,Feature ID,2023 GNIS,No
+347828,"Elbert, GA",None,Feature ID,2023 GNIS,No
+347944,"Burke, GA",None,Feature ID,2023 GNIS,No
+348092,"Echols, GA",None,Feature ID,2023 GNIS,No
+348102,"Lanier, GA",None,Feature ID,2023 GNIS,No
+348116,"Dodge, GA",None,Feature ID,2023 GNIS,No
+348209,"Hancock, GA",None,Feature ID,2023 GNIS,No
+348428,"Washington, GA",None,Feature ID,2023 GNIS,No
+348672,"Greene, GA",None,Feature ID,2023 GNIS,No
+348794,"McDuffie, GA",None,Feature ID,2023 GNIS,No
+348865,"Columbia, GA",None,Feature ID,2023 GNIS,No
+349086,"Pierce, GA",None,Feature ID,2023 GNIS,No
+349113,"Appling, GA",None,Feature ID,2023 GNIS,No
+349230,"Banks, GA",None,Feature ID,2023 GNIS,No
+349324,"Franklin, GA",None,Feature ID,2023 GNIS,No
+349570,"Jackson, GA",None,Feature ID,2023 GNIS,No
+349912,"Paulding, GA",None,Feature ID,2023 GNIS,No
+350028,"Stephens, GA",None,Feature ID,2023 GNIS,No
+350204,"Screven, GA",None,Feature ID,2023 GNIS,No
+350219,"Effingham, GA",None,Feature ID,2023 GNIS,No
+350302,"Bulloch, GA",None,Feature ID,2023 GNIS,No
+350496,"Bryan, GA",None,Feature ID,2023 GNIS,No
+350547,"Quitman, GA",None,Feature ID,2023 GNIS,No
+350608,"Wayne, GA",None,Feature ID,2023 GNIS,No
+350637,"Haralson, GA",None,Feature ID,2023 GNIS,No
+351012,"Chattahoochee, GA",None,Feature ID,2023 GNIS,No
+351094,"Fannin, GA",None,Feature ID,2023 GNIS,No
+351252,"Towns, GA",None,Feature ID,2023 GNIS,No
+351259,"Dougherty, GA",None,Feature ID,2023 GNIS,No
+351260,"Gilmer, GA",None,Feature ID,2023 GNIS,No
+351261,"Grady, GA",None,Feature ID,2023 GNIS,No
+351262,"Oglethorpe, GA",None,Feature ID,2023 GNIS,No
+351263,"Seminole, GA",None,Feature ID,2023 GNIS,No
+351264,"Walton, GA",None,Feature ID,2023 GNIS,No
+351265,"Wilkes, GA",None,Feature ID,2023 GNIS,No
+351278,"Wheeler, GA",None,Feature ID,2023 GNIS,No
+351285,"Clinch, GA",None,Feature ID,2023 GNIS,No
+351312,"Dawson, GA",None,Feature ID,2023 GNIS,No
+351383,"Habersham, GA",None,Feature ID,2023 GNIS,No
+351489,"Rabun, GA",None,Feature ID,2023 GNIS,No
+351604,"Bartow, GA",None,Feature ID,2023 GNIS,No
+351605,"Brantley, GA",None,Feature ID,2023 GNIS,No
+351606,"Ben Hill, GA",None,Feature ID,2023 GNIS,No
+351607,"Crisp, GA",None,Feature ID,2023 GNIS,No
+351608,"Dooly, GA",None,Feature ID,2023 GNIS,No
+352213,"Chattooga, GA",None,Feature ID,2023 GNIS,No
+352234,"Decatur, GA",None,Feature ID,2023 GNIS,No
+352238,"Terrell, GA",None,Feature ID,2023 GNIS,No
+352242,"Randolph, GA",None,Feature ID,2023 GNIS,No
+352276,"Montgomery, GA",None,Feature ID,2023 GNIS,No
+352287,"Webster, GA",None,Feature ID,2023 GNIS,No
+352295,"Butts, GA",None,Feature ID,2023 GNIS,No
+352302,"Irwin, GA",None,Feature ID,2023 GNIS,No
+353055,"Spalding, GA",None,Feature ID,2023 GNIS,No
+353193,"Union, GA",None,Feature ID,2023 GNIS,No
+353230,"Catoosa, GA",None,Feature ID,2023 GNIS,No
+353513,"Whitfield, GA",None,Feature ID,2023 GNIS,No
+353665,"Floyd, GA",None,Feature ID,2023 GNIS,No
+354216,"Walker, GA",None,Feature ID,2023 GNIS,No
+356672,"Gordon, GA",None,Feature ID,2023 GNIS,No
+356774,"Oconee, GA",None,Feature ID,2023 GNIS,No
+356886,"McIntosh, GA",None,Feature ID,2023 GNIS,No
+356958,"Telfair, GA",None,Feature ID,2023 GNIS,No
+356976,"Barrow, GA",None,Feature ID,2023 GNIS,No
+357095,"Liberty, GA",None,Feature ID,2023 GNIS,No
+357196,"Lumpkin, GA",None,Feature ID,2023 GNIS,No
+357428,"Muscogee, GA",None,Feature ID,2023 GNIS,No
+357592,"Rockdale, GA",None,Feature ID,2023 GNIS,No
+357722,"Ware, GA",None,Feature ID,2023 GNIS,No
+357747,"Charlton, GA",None,Feature ID,2023 GNIS,No
+358024,"Richmond, GA",None,Feature ID,2023 GNIS,No
+365280,"Hawaii, HI",None,Feature ID,2023 GNIS,No
+365281,"Honolulu, HI",None,Feature ID,2023 GNIS,No
+365282,"Kauai, HI",None,Feature ID,2023 GNIS,No
+365283,"Maui, HI",None,Feature ID,2023 GNIS,No
+394803,"Madison, ID",None,Feature ID,2023 GNIS,No
+394807,"Minidoka, ID",None,Feature ID,2023 GNIS,No
+394896,"Payette, ID",None,Feature ID,2023 GNIS,No
+394951,"Power, ID",None,Feature ID,2023 GNIS,No
+395066,"Ada, ID",None,Feature ID,2023 GNIS,No
+395067,"Adams, ID",None,Feature ID,2023 GNIS,No
+395090,"Bear Lake, ID",None,Feature ID,2023 GNIS,No
+395091,"Bannock, ID",None,Feature ID,2023 GNIS,No
+395157,"Boise, ID",None,Feature ID,2023 GNIS,No
+395158,"Bonner, ID",None,Feature ID,2023 GNIS,No
+395159,"Boundary, ID",None,Feature ID,2023 GNIS,No
+395190,"Benewah, ID",None,Feature ID,2023 GNIS,No
+395406,"Caribou, ID",None,Feature ID,2023 GNIS,No
+395407,"Bonneville, ID",None,Feature ID,2023 GNIS,No
+395408,"Fremont, ID",None,Feature ID,2023 GNIS,No
+395441,"Gooding, ID",None,Feature ID,2023 GNIS,No
+395442,"Gem, ID",None,Feature ID,2023 GNIS,No
+395585,"Franklin, ID",None,Feature ID,2023 GNIS,No
+395613,"Latah, ID",None,Feature ID,2023 GNIS,No
+395622,"Lewis, ID",None,Feature ID,2023 GNIS,No
+395624,"Lincoln, ID",None,Feature ID,2023 GNIS,No
+395661,"Kootenai, ID",None,Feature ID,2023 GNIS,No
+395662,"Jerome, ID",None,Feature ID,2023 GNIS,No
+395696,"Blaine, ID",None,Feature ID,2023 GNIS,No
+395697,"Clearwater, ID",None,Feature ID,2023 GNIS,No
+395698,"Cassia, ID",None,Feature ID,2023 GNIS,No
+395699,"Idaho, ID",None,Feature ID,2023 GNIS,No
+399297,"Teton, ID",None,Feature ID,2023 GNIS,No
+399334,"Twin Falls, ID",None,Feature ID,2023 GNIS,No
+399394,"Nez Perce, ID",None,Feature ID,2023 GNIS,No
+399406,"Canyon, ID",None,Feature ID,2023 GNIS,No
+399408,"Camas, ID",None,Feature ID,2023 GNIS,No
+399751,"Jefferson, ID",None,Feature ID,2023 GNIS,No
+399754,"Lemhi, ID",None,Feature ID,2023 GNIS,No
+399755,"Clark, ID",None,Feature ID,2023 GNIS,No
+399756,"Valley, ID",None,Feature ID,2023 GNIS,No
+399757,"Washington, ID",None,Feature ID,2023 GNIS,No
+399758,"Custer, ID",None,Feature ID,2023 GNIS,No
+399759,"Oneida, ID",None,Feature ID,2023 GNIS,No
+399760,"Owyhee, ID",None,Feature ID,2023 GNIS,No
+400252,"Elmore, ID",None,Feature ID,2023 GNIS,No
+400593,"Bingham, ID",None,Feature ID,2023 GNIS,No
+401703,"Butte, ID",None,Feature ID,2023 GNIS,No
+422190,"DeKalb, IL",None,Feature ID,2023 GNIS,No
+422191,"DuPage, IL",None,Feature ID,2023 GNIS,No
+422247,"LaSalle, IL",None,Feature ID,2023 GNIS,No
+424202,"Adams, IL",None,Feature ID,2023 GNIS,No
+424203,"Alexander, IL",None,Feature ID,2023 GNIS,No
+424204,"Bond, IL",None,Feature ID,2023 GNIS,No
+424205,"Boone, IL",None,Feature ID,2023 GNIS,No
+424206,"Brown, IL",None,Feature ID,2023 GNIS,No
+424207,"Bureau, IL",None,Feature ID,2023 GNIS,No
+424208,"Calhoun, IL",None,Feature ID,2023 GNIS,No
+424209,"Carroll, IL",None,Feature ID,2023 GNIS,No
+424210,"Cass, IL",None,Feature ID,2023 GNIS,No
+424211,"Champaign, IL",None,Feature ID,2023 GNIS,No
+424212,"Christian, IL",None,Feature ID,2023 GNIS,No
+424213,"Clark, IL",None,Feature ID,2023 GNIS,No
+424214,"Clay, IL",None,Feature ID,2023 GNIS,No
+424215,"Clinton, IL",None,Feature ID,2023 GNIS,No
+424216,"Coles, IL",None,Feature ID,2023 GNIS,No
+424218,"Crawford, IL",None,Feature ID,2023 GNIS,No
+424219,"Cumberland, IL",None,Feature ID,2023 GNIS,No
+424222,"Douglas, IL",None,Feature ID,2023 GNIS,No
+424224,"Edgar, IL",None,Feature ID,2023 GNIS,No
+424225,"Edwards, IL",None,Feature ID,2023 GNIS,No
+424226,"Effingham, IL",None,Feature ID,2023 GNIS,No
+424227,"Fayette, IL",None,Feature ID,2023 GNIS,No
+424228,"Ford, IL",None,Feature ID,2023 GNIS,No
+424229,"Franklin, IL",None,Feature ID,2023 GNIS,No
+424230,"Fulton, IL",None,Feature ID,2023 GNIS,No
+424231,"Gallatin, IL",None,Feature ID,2023 GNIS,No
+424232,"Greene, IL",None,Feature ID,2023 GNIS,No
+424233,"Grundy, IL",None,Feature ID,2023 GNIS,No
+424234,"Hamilton, IL",None,Feature ID,2023 GNIS,No
+424235,"Hancock, IL",None,Feature ID,2023 GNIS,No
+424236,"Hardin, IL",None,Feature ID,2023 GNIS,No
+424237,"Henderson, IL",None,Feature ID,2023 GNIS,No
+424238,"Henry, IL",None,Feature ID,2023 GNIS,No
+424239,"Iroquois, IL",None,Feature ID,2023 GNIS,No
+424240,"Jackson, IL",None,Feature ID,2023 GNIS,No
+424241,"Jasper, IL",None,Feature ID,2023 GNIS,No
+424242,"Jefferson, IL",None,Feature ID,2023 GNIS,No
+424243,"Jersey, IL",None,Feature ID,2023 GNIS,No
+424244,"Jo Daviess, IL",None,Feature ID,2023 GNIS,No
+424245,"Johnson, IL",None,Feature ID,2023 GNIS,No
+424246,"Kane, IL",None,Feature ID,2023 GNIS,No
+424247,"Kankakee, IL",None,Feature ID,2023 GNIS,No
+424248,"Kendall, IL",None,Feature ID,2023 GNIS,No
+424249,"Knox, IL",None,Feature ID,2023 GNIS,No
+424252,"Lawrence, IL",None,Feature ID,2023 GNIS,No
+424253,"Lee, IL",None,Feature ID,2023 GNIS,No
+424254,"Livingston, IL",None,Feature ID,2023 GNIS,No
+424255,"Logan, IL",None,Feature ID,2023 GNIS,No
+424256,"Macon, IL",None,Feature ID,2023 GNIS,No
+424257,"Macoupin, IL",None,Feature ID,2023 GNIS,No
+424258,"Madison, IL",None,Feature ID,2023 GNIS,No
+424259,"Marion, IL",None,Feature ID,2023 GNIS,No
+424260,"Marshall, IL",None,Feature ID,2023 GNIS,No
+424261,"Mason, IL",None,Feature ID,2023 GNIS,No
+424266,"Menard, IL",None,Feature ID,2023 GNIS,No
+424270,"Morgan, IL",None,Feature ID,2023 GNIS,No
+424275,"Piatt, IL",None,Feature ID,2023 GNIS,No
+424277,"Pope, IL",None,Feature ID,2023 GNIS,No
+424279,"Putnam, IL",None,Feature ID,2023 GNIS,No
+424281,"Richland, IL",None,Feature ID,2023 GNIS,No
+424282,"Rock Island, IL",None,Feature ID,2023 GNIS,No
+424283,"Saline, IL",None,Feature ID,2023 GNIS,No
+424286,"Scott, IL",None,Feature ID,2023 GNIS,No
+424288,"Stark, IL",None,Feature ID,2023 GNIS,No
+424293,"Wabash, IL",None,Feature ID,2023 GNIS,No
+424296,"Wayne, IL",None,Feature ID,2023 GNIS,No
+424297,"White, IL",None,Feature ID,2023 GNIS,No
+426598,"De Witt, IL",None,Feature ID,2023 GNIS,No
+446852,"Pulaski, IN",None,Feature ID,2023 GNIS,No
+446853,"Randolph, IN",None,Feature ID,2023 GNIS,No
+446854,"Rush, IN",None,Feature ID,2023 GNIS,No
+448508,Indiana,None,Feature ID,2023 GNIS,No
+450335,"Warrick, IN",None,Feature ID,2023 GNIS,No
+450336,"Wayne, IN",None,Feature ID,2023 GNIS,No
+450337,"Wells, IN",None,Feature ID,2023 GNIS,No
+450338,"White, IN",None,Feature ID,2023 GNIS,No
+450339,"Cass, IN",None,Feature ID,2023 GNIS,No
+450340,"Clark, IN",None,Feature ID,2023 GNIS,No
+450341,"Clay, IN",None,Feature ID,2023 GNIS,No
+450342,"Clinton, IN",None,Feature ID,2023 GNIS,No
+450343,"Daviess, IN",None,Feature ID,2023 GNIS,No
+450344,"Dearborn, IN",None,Feature ID,2023 GNIS,No
+450345,"Decatur, IN",None,Feature ID,2023 GNIS,No
+450346,"DeKalb, IN",None,Feature ID,2023 GNIS,No
+450347,"Delaware, IN",None,Feature ID,2023 GNIS,No
+450348,"Elkhart, IN",None,Feature ID,2023 GNIS,No
+450349,"Fayette, IN",None,Feature ID,2023 GNIS,No
+450350,"Floyd, IN",None,Feature ID,2023 GNIS,No
+450351,"Fountain, IN",None,Feature ID,2023 GNIS,No
+450352,"Franklin, IN",None,Feature ID,2023 GNIS,No
+450353,"Fulton, IN",None,Feature ID,2023 GNIS,No
+450354,"Gibson, IN",None,Feature ID,2023 GNIS,No
+450355,"Grant, IN",None,Feature ID,2023 GNIS,No
+450356,"Hamilton, IN",None,Feature ID,2023 GNIS,No
+450357,"Hancock, IN",None,Feature ID,2023 GNIS,No
+450358,"Hendricks, IN",None,Feature ID,2023 GNIS,No
+450359,"Henry, IN",None,Feature ID,2023 GNIS,No
+450360,"Howard, IN",None,Feature ID,2023 GNIS,No
+450361,"Huntington, IN",None,Feature ID,2023 GNIS,No
+450362,"Jay, IN",None,Feature ID,2023 GNIS,No
+450363,"Jefferson, IN",None,Feature ID,2023 GNIS,No
+450364,"Jennings, IN",None,Feature ID,2023 GNIS,No
+450365,"Johnson, IN",None,Feature ID,2023 GNIS,No
+450366,"Knox, IN",None,Feature ID,2023 GNIS,No
+450367,"Kosciusko, IN",None,Feature ID,2023 GNIS,No
+450368,"LaGrange, IN",None,Feature ID,2023 GNIS,No
+450369,"Whitley, IN",None,Feature ID,2023 GNIS,No
+450370,"Madison, IN",None,Feature ID,2023 GNIS,No
+450371,"Marion, IN",None,Feature ID,2023 GNIS,No
+450372,"Marshall, IN",None,Feature ID,2023 GNIS,No
+450373,"Miami, IN",None,Feature ID,2023 GNIS,No
+450374,"Montgomery, IN",None,Feature ID,2023 GNIS,No
+450375,"Morgan, IN",None,Feature ID,2023 GNIS,No
+450376,"Newton, IN",None,Feature ID,2023 GNIS,No
+450377,"Noble, IN",None,Feature ID,2023 GNIS,No
+450378,"Ohio, IN",None,Feature ID,2023 GNIS,No
+450379,"Owen, IN",None,Feature ID,2023 GNIS,No
+450380,"Parke, IN",None,Feature ID,2023 GNIS,No
+450381,"Pike, IN",None,Feature ID,2023 GNIS,No
+450382,"Porter, IN",None,Feature ID,2023 GNIS,No
+450383,"Posey, IN",None,Feature ID,2023 GNIS,No
+450384,"Putnam, IN",None,Feature ID,2023 GNIS,No
+450385,"Ripley, IN",None,Feature ID,2023 GNIS,No
+450386,"Scott, IN",None,Feature ID,2023 GNIS,No
+450387,"Shelby, IN",None,Feature ID,2023 GNIS,No
+450388,"Spencer, IN",None,Feature ID,2023 GNIS,No
+450389,"Starke, IN",None,Feature ID,2023 GNIS,No
+450390,"Steuben, IN",None,Feature ID,2023 GNIS,No
+450391,"Sullivan, IN",None,Feature ID,2023 GNIS,No
+450392,"Switzerland, IN",None,Feature ID,2023 GNIS,No
+450393,"Tippecanoe, IN",None,Feature ID,2023 GNIS,No
+450394,"Tipton, IN",None,Feature ID,2023 GNIS,No
+450395,"Union, IN",None,Feature ID,2023 GNIS,No
+450396,"Vanderburgh, IN",None,Feature ID,2023 GNIS,No
+450397,"Vermillion, IN",None,Feature ID,2023 GNIS,No
+450398,"Vigo, IN",None,Feature ID,2023 GNIS,No
+450399,"Wabash, IN",None,Feature ID,2023 GNIS,No
+450400,"Warren, IN",None,Feature ID,2023 GNIS,No
+450401,"Adams, IN",None,Feature ID,2023 GNIS,No
+450402,"Allen, IN",None,Feature ID,2023 GNIS,No
+450403,"Benton, IN",None,Feature ID,2023 GNIS,No
+450404,"Blackford, IN",None,Feature ID,2023 GNIS,No
+450405,"Boone, IN",None,Feature ID,2023 GNIS,No
+450406,"Carroll, IN",None,Feature ID,2023 GNIS,No
+450494,"Jasper, IN",None,Feature ID,2023 GNIS,No
+450495,"Lake, IN",None,Feature ID,2023 GNIS,No
+450507,"LaPorte, IN",None,Feature ID,2023 GNIS,No
+451665,"Washington, IN",None,Feature ID,2023 GNIS,No
+451674,"Crawford, IN",None,Feature ID,2023 GNIS,No
+451675,"Dubois, IN",None,Feature ID,2023 GNIS,No
+451676,"Greene, IN",None,Feature ID,2023 GNIS,No
+451677,"Harrison, IN",None,Feature ID,2023 GNIS,No
+451678,"Jackson, IN",None,Feature ID,2023 GNIS,No
+451679,"Martin, IN",None,Feature ID,2023 GNIS,No
+451680,"Monroe, IN",None,Feature ID,2023 GNIS,No
+451681,"Orange, IN",None,Feature ID,2023 GNIS,No
+451682,"Perry, IN",None,Feature ID,2023 GNIS,No
+451683,"Bartholomew, IN",None,Feature ID,2023 GNIS,No
+451684,"Brown, IN",None,Feature ID,2023 GNIS,No
+451703,"Lawrence, IN",None,Feature ID,2023 GNIS,No
+452855,"St. Joseph, IN",None,Feature ID,2023 GNIS,No
+465190,"Adair, IA",None,Feature ID,2023 GNIS,No
+465191,"Adams, IA",None,Feature ID,2023 GNIS,No
+465192,"Allamakee, IA",None,Feature ID,2023 GNIS,No
+465193,"Appanoose, IA",None,Feature ID,2023 GNIS,No
+465194,"Audubon, IA",None,Feature ID,2023 GNIS,No
+465195,"Benton, IA",None,Feature ID,2023 GNIS,No
+465196,"Black Hawk, IA",None,Feature ID,2023 GNIS,No
+465197,"Boone, IA",None,Feature ID,2023 GNIS,No
+465198,"Bremer, IA",None,Feature ID,2023 GNIS,No
+465199,"Buchanan, IA",None,Feature ID,2023 GNIS,No
+465200,"Buena Vista, IA",None,Feature ID,2023 GNIS,No
+465201,"Butler, IA",None,Feature ID,2023 GNIS,No
+465202,"Calhoun, IA",None,Feature ID,2023 GNIS,No
+465203,"Carroll, IA",None,Feature ID,2023 GNIS,No
+465204,"Cass, IA",None,Feature ID,2023 GNIS,No
+465205,"Cedar, IA",None,Feature ID,2023 GNIS,No
+465206,"Cerro Gordo, IA",None,Feature ID,2023 GNIS,No
+465207,"Cherokee, IA",None,Feature ID,2023 GNIS,No
+465208,"Chickasaw, IA",None,Feature ID,2023 GNIS,No
+465209,"Clarke, IA",None,Feature ID,2023 GNIS,No
+465210,"Clayton, IA",None,Feature ID,2023 GNIS,No
+465211,"Clinton, IA",None,Feature ID,2023 GNIS,No
+465212,"Crawford, IA",None,Feature ID,2023 GNIS,No
+465213,"Dallas, IA",None,Feature ID,2023 GNIS,No
+465214,"Davis, IA",None,Feature ID,2023 GNIS,No
+465215,"Decatur, IA",None,Feature ID,2023 GNIS,No
+465216,"Delaware, IA",None,Feature ID,2023 GNIS,No
+465217,"Des Moines, IA",None,Feature ID,2023 GNIS,No
+465218,"Dickinson, IA",None,Feature ID,2023 GNIS,No
+465219,"Dubuque, IA",None,Feature ID,2023 GNIS,No
+465220,"Emmet, IA",None,Feature ID,2023 GNIS,No
+465221,"Fayette, IA",None,Feature ID,2023 GNIS,No
+465222,"Floyd, IA",None,Feature ID,2023 GNIS,No
+465223,"Franklin, IA",None,Feature ID,2023 GNIS,No
+465224,"Fremont, IA",None,Feature ID,2023 GNIS,No
+465225,"Greene, IA",None,Feature ID,2023 GNIS,No
+465226,"Grundy, IA",None,Feature ID,2023 GNIS,No
+465227,"Guthrie, IA",None,Feature ID,2023 GNIS,No
+465228,"Hamilton, IA",None,Feature ID,2023 GNIS,No
+465229,"Hancock, IA",None,Feature ID,2023 GNIS,No
+465230,"Hardin, IA",None,Feature ID,2023 GNIS,No
+465231,"Harrison, IA",None,Feature ID,2023 GNIS,No
+465232,"Henry, IA",None,Feature ID,2023 GNIS,No
+465233,"Howard, IA",None,Feature ID,2023 GNIS,No
+465234,"Humboldt, IA",None,Feature ID,2023 GNIS,No
+465235,"Ida, IA",None,Feature ID,2023 GNIS,No
+465236,"Iowa, IA",None,Feature ID,2023 GNIS,No
+465237,"Jackson, IA",None,Feature ID,2023 GNIS,No
+465238,"Jasper, IA",None,Feature ID,2023 GNIS,No
+465239,"Jefferson, IA",None,Feature ID,2023 GNIS,No
+465240,"Johnson, IA",None,Feature ID,2023 GNIS,No
+465241,"Jones, IA",None,Feature ID,2023 GNIS,No
+465242,"Keokuk, IA",None,Feature ID,2023 GNIS,No
+465243,"Kossuth, IA",None,Feature ID,2023 GNIS,No
+465244,"Lee, IA",None,Feature ID,2023 GNIS,No
+465245,"Linn, IA",None,Feature ID,2023 GNIS,No
+465246,"Louisa, IA",None,Feature ID,2023 GNIS,No
+465247,"Lucas, IA",None,Feature ID,2023 GNIS,No
+465248,"Lyon, IA",None,Feature ID,2023 GNIS,No
+465249,"Madison, IA",None,Feature ID,2023 GNIS,No
+465250,"Mahaska, IA",None,Feature ID,2023 GNIS,No
+465251,"Marion, IA",None,Feature ID,2023 GNIS,No
+465252,"Marshall, IA",None,Feature ID,2023 GNIS,No
+465253,"Mills, IA",None,Feature ID,2023 GNIS,No
+465254,"Mitchell, IA",None,Feature ID,2023 GNIS,No
+465255,"Monona, IA",None,Feature ID,2023 GNIS,No
+465256,"Monroe, IA",None,Feature ID,2023 GNIS,No
+465257,"Montgomery, IA",None,Feature ID,2023 GNIS,No
+465258,"Muscatine, IA",None,Feature ID,2023 GNIS,No
+465259,"O'Brien, IA",None,Feature ID,2023 GNIS,No
+465260,"Osceola, IA",None,Feature ID,2023 GNIS,No
+465261,"Page, IA",None,Feature ID,2023 GNIS,No
+465262,"Palo Alto, IA",None,Feature ID,2023 GNIS,No
+465263,"Plymouth, IA",None,Feature ID,2023 GNIS,No
+465264,"Pocahontas, IA",None,Feature ID,2023 GNIS,No
+465265,"Polk, IA",None,Feature ID,2023 GNIS,No
+465266,"Pottawattamie, IA",None,Feature ID,2023 GNIS,No
+465267,"Poweshiek, IA",None,Feature ID,2023 GNIS,No
+465268,"Ringgold, IA",None,Feature ID,2023 GNIS,No
+465269,"Sac, IA",None,Feature ID,2023 GNIS,No
+465270,"Scott, IA",None,Feature ID,2023 GNIS,No
+465271,"Shelby, IA",None,Feature ID,2023 GNIS,No
+465272,"Sioux, IA",None,Feature ID,2023 GNIS,No
+465273,"Story, IA",None,Feature ID,2023 GNIS,No
+465274,"Tama, IA",None,Feature ID,2023 GNIS,No
+465275,"Taylor, IA",None,Feature ID,2023 GNIS,No
+465276,"Union, IA",None,Feature ID,2023 GNIS,No
+465277,"Van Buren, IA",None,Feature ID,2023 GNIS,No
+465278,"Wapello, IA",None,Feature ID,2023 GNIS,No
+465279,"Warren, IA",None,Feature ID,2023 GNIS,No
+465280,"Washington, IA",None,Feature ID,2023 GNIS,No
+465281,"Wayne, IA",None,Feature ID,2023 GNIS,No
+465282,"Webster, IA",None,Feature ID,2023 GNIS,No
+465283,"Winnebago, IA",None,Feature ID,2023 GNIS,No
+465284,"Winneshiek, IA",None,Feature ID,2023 GNIS,No
+465285,"Woodbury, IA",None,Feature ID,2023 GNIS,No
+465286,"Worth, IA",None,Feature ID,2023 GNIS,No
+465287,"Wright, IA",None,Feature ID,2023 GNIS,No
+465625,"Clay, IA",None,Feature ID,2023 GNIS,No
+481811,"Graham, KS",None,Feature ID,2023 GNIS,No
+481812,"Sumner, KS",None,Feature ID,2023 GNIS,No
+481813,Kansas,None,Feature ID,2023 GNIS,No
+484969,"Smith, KS",None,Feature ID,2023 GNIS,No
+484970,"Allen, KS",None,Feature ID,2023 GNIS,No
+484971,"Anderson, KS",None,Feature ID,2023 GNIS,No
+484972,"Atchison, KS",None,Feature ID,2023 GNIS,No
+484973,"Barber, KS",None,Feature ID,2023 GNIS,No
+484974,"Barton, KS",None,Feature ID,2023 GNIS,No
+484975,"Bourbon, KS",None,Feature ID,2023 GNIS,No
+484976,"Brown, KS",None,Feature ID,2023 GNIS,No
+484977,"Butler, KS",None,Feature ID,2023 GNIS,No
+484978,"Chase, KS",None,Feature ID,2023 GNIS,No
+484979,"Chautauqua, KS",None,Feature ID,2023 GNIS,No
+484980,"Cherokee, KS",None,Feature ID,2023 GNIS,No
+484981,"Cheyenne, KS",None,Feature ID,2023 GNIS,No
+484982,"Clark, KS",None,Feature ID,2023 GNIS,No
+484983,"Clay, KS",None,Feature ID,2023 GNIS,No
+484984,"Cloud, KS",None,Feature ID,2023 GNIS,No
+484985,"Coffey, KS",None,Feature ID,2023 GNIS,No
+484986,"Comanche, KS",None,Feature ID,2023 GNIS,No
+484987,"Cowley, KS",None,Feature ID,2023 GNIS,No
+484988,"Crawford, KS",None,Feature ID,2023 GNIS,No
+484989,"Decatur, KS",None,Feature ID,2023 GNIS,No
+484990,"Dickinson, KS",None,Feature ID,2023 GNIS,No
+484991,"Doniphan, KS",None,Feature ID,2023 GNIS,No
+484992,"Douglas, KS",None,Feature ID,2023 GNIS,No
+484993,"Edwards, KS",None,Feature ID,2023 GNIS,No
+484994,"Elk, KS",None,Feature ID,2023 GNIS,No
+484995,"Ellis, KS",None,Feature ID,2023 GNIS,No
+484996,"Ellsworth, KS",None,Feature ID,2023 GNIS,No
+484997,"Ford, KS",None,Feature ID,2023 GNIS,No
+484998,"Franklin, KS",None,Feature ID,2023 GNIS,No
+484999,"Geary, KS",None,Feature ID,2023 GNIS,No
+485000,"Gove, KS",None,Feature ID,2023 GNIS,No
+485001,"Gray, KS",None,Feature ID,2023 GNIS,No
+485002,"Greeley, KS",None,Feature ID,2023 GNIS,No
+485003,"Greenwood, KS",None,Feature ID,2023 GNIS,No
+485004,"Harper, KS",None,Feature ID,2023 GNIS,No
+485005,"Harvey, KS",None,Feature ID,2023 GNIS,No
+485006,"Hodgeman, KS",None,Feature ID,2023 GNIS,No
+485007,"Jackson, KS",None,Feature ID,2023 GNIS,No
+485008,"Jefferson, KS",None,Feature ID,2023 GNIS,No
+485009,"Jewell, KS",None,Feature ID,2023 GNIS,No
+485010,"Johnson, KS",None,Feature ID,2023 GNIS,No
+485011,"Kearny, KS",None,Feature ID,2023 GNIS,No
+485012,"Kingman, KS",None,Feature ID,2023 GNIS,No
+485013,"Kiowa, KS",None,Feature ID,2023 GNIS,No
+485014,"Labette, KS",None,Feature ID,2023 GNIS,No
+485015,"Lane, KS",None,Feature ID,2023 GNIS,No
+485016,"Leavenworth, KS",None,Feature ID,2023 GNIS,No
+485017,"Lincoln, KS",None,Feature ID,2023 GNIS,No
+485018,"Linn, KS",None,Feature ID,2023 GNIS,No
+485019,"Logan, KS",None,Feature ID,2023 GNIS,No
+485020,"Lyon, KS",None,Feature ID,2023 GNIS,No
+485021,"McPherson, KS",None,Feature ID,2023 GNIS,No
+485022,"Marion, KS",None,Feature ID,2023 GNIS,No
+485023,"Marshall, KS",None,Feature ID,2023 GNIS,No
+485024,"Meade, KS",None,Feature ID,2023 GNIS,No
+485025,"Miami, KS",None,Feature ID,2023 GNIS,No
+485026,"Mitchell, KS",None,Feature ID,2023 GNIS,No
+485027,"Montgomery, KS",None,Feature ID,2023 GNIS,No
+485028,"Morris, KS",None,Feature ID,2023 GNIS,No
+485029,"Nemaha, KS",None,Feature ID,2023 GNIS,No
+485030,"Neosho, KS",None,Feature ID,2023 GNIS,No
+485031,"Ness, KS",None,Feature ID,2023 GNIS,No
+485032,"Norton, KS",None,Feature ID,2023 GNIS,No
+485033,"Osage, KS",None,Feature ID,2023 GNIS,No
+485034,"Osborne, KS",None,Feature ID,2023 GNIS,No
+485035,"Ottawa, KS",None,Feature ID,2023 GNIS,No
+485036,"Pawnee, KS",None,Feature ID,2023 GNIS,No
+485037,"Phillips, KS",None,Feature ID,2023 GNIS,No
+485038,"Pottawatomie, KS",None,Feature ID,2023 GNIS,No
+485039,"Pratt, KS",None,Feature ID,2023 GNIS,No
+485040,"Rawlins, KS",None,Feature ID,2023 GNIS,No
+485041,"Reno, KS",None,Feature ID,2023 GNIS,No
+485042,"Republic, KS",None,Feature ID,2023 GNIS,No
+485043,"Rice, KS",None,Feature ID,2023 GNIS,No
+485044,"Riley, KS",None,Feature ID,2023 GNIS,No
+485045,"Rooks, KS",None,Feature ID,2023 GNIS,No
+485046,"Russell, KS",None,Feature ID,2023 GNIS,No
+485047,"Saline, KS",None,Feature ID,2023 GNIS,No
+485048,"Scott, KS",None,Feature ID,2023 GNIS,No
+485049,"Sedgwick, KS",None,Feature ID,2023 GNIS,No
+485050,"Seward, KS",None,Feature ID,2023 GNIS,No
+485051,"Shawnee, KS",None,Feature ID,2023 GNIS,No
+485052,"Sheridan, KS",None,Feature ID,2023 GNIS,No
+485053,"Sherman, KS",None,Feature ID,2023 GNIS,No
+485054,"Stafford, KS",None,Feature ID,2023 GNIS,No
+485055,"Stanton, KS",None,Feature ID,2023 GNIS,No
+485056,"Stevens, KS",None,Feature ID,2023 GNIS,No
+485057,"Thomas, KS",None,Feature ID,2023 GNIS,No
+485058,"Trego, KS",None,Feature ID,2023 GNIS,No
+485059,"Wabaunsee, KS",None,Feature ID,2023 GNIS,No
+485060,"Wallace, KS",None,Feature ID,2023 GNIS,No
+485061,"Washington, KS",None,Feature ID,2023 GNIS,No
+485062,"Wichita, KS",None,Feature ID,2023 GNIS,No
+485063,"Wilson, KS",None,Feature ID,2023 GNIS,No
+485064,"Woodson, KS",None,Feature ID,2023 GNIS,No
+485065,"Wyandotte, KS",None,Feature ID,2023 GNIS,No
+485099,"Grant, KS",None,Feature ID,2023 GNIS,No
+485135,"Morton, KS",None,Feature ID,2023 GNIS,No
+485326,"Finney, KS",None,Feature ID,2023 GNIS,No
+485327,"Hamilton, KS",None,Feature ID,2023 GNIS,No
+485328,"Haskell, KS",None,Feature ID,2023 GNIS,No
+485358,"Rush, KS",None,Feature ID,2023 GNIS,No
+516847,"Adair, KY",None,Feature ID,2023 GNIS,No
+516848,"Allen, KY",None,Feature ID,2023 GNIS,No
+516849,"Anderson, KY",None,Feature ID,2023 GNIS,No
+516850,"Ballard, KY",None,Feature ID,2023 GNIS,No
+516851,"Barren, KY",None,Feature ID,2023 GNIS,No
+516852,"Bath, KY",None,Feature ID,2023 GNIS,No
+516853,"Bell, KY",None,Feature ID,2023 GNIS,No
+516854,"Boone, KY",None,Feature ID,2023 GNIS,No
+516855,"Bourbon, KY",None,Feature ID,2023 GNIS,No
+516856,"Boyd, KY",None,Feature ID,2023 GNIS,No
+516857,"Boyle, KY",None,Feature ID,2023 GNIS,No
+516858,"Bracken, KY",None,Feature ID,2023 GNIS,No
+516859,"Breathitt, KY",None,Feature ID,2023 GNIS,No
+516860,"Breckinridge, KY",None,Feature ID,2023 GNIS,No
+516861,"Bullitt, KY",None,Feature ID,2023 GNIS,No
+516862,"Butler, KY",None,Feature ID,2023 GNIS,No
+516863,"Caldwell, KY",None,Feature ID,2023 GNIS,No
+516864,"Calloway, KY",None,Feature ID,2023 GNIS,No
+516865,"Campbell, KY",None,Feature ID,2023 GNIS,No
+516866,"Carlisle, KY",None,Feature ID,2023 GNIS,No
+516867,"Carroll, KY",None,Feature ID,2023 GNIS,No
+516868,"Carter, KY",None,Feature ID,2023 GNIS,No
+516869,"Casey, KY",None,Feature ID,2023 GNIS,No
+516870,"Christian, KY",None,Feature ID,2023 GNIS,No
+516871,"Clark, KY",None,Feature ID,2023 GNIS,No
+516872,"Clay, KY",None,Feature ID,2023 GNIS,No
+516873,"Clinton, KY",None,Feature ID,2023 GNIS,No
+516874,"Crittenden, KY",None,Feature ID,2023 GNIS,No
+516875,"Cumberland, KY",None,Feature ID,2023 GNIS,No
+516876,"Daviess, KY",None,Feature ID,2023 GNIS,No
+516877,"Edmonson, KY",None,Feature ID,2023 GNIS,No
+516878,"Elliott, KY",None,Feature ID,2023 GNIS,No
+516879,"Estill, KY",None,Feature ID,2023 GNIS,No
+516880,"Fayette, KY",None,Feature ID,2023 GNIS,No
+516881,"Fleming, KY",None,Feature ID,2023 GNIS,No
+516882,"Floyd, KY",None,Feature ID,2023 GNIS,No
+516883,"Franklin, KY",None,Feature ID,2023 GNIS,No
+516884,"Fulton, KY",None,Feature ID,2023 GNIS,No
+516885,"Gallatin, KY",None,Feature ID,2023 GNIS,No
+516886,"Garrard, KY",None,Feature ID,2023 GNIS,No
+516887,"Grant, KY",None,Feature ID,2023 GNIS,No
+516888,"Graves, KY",None,Feature ID,2023 GNIS,No
+516889,"Grayson, KY",None,Feature ID,2023 GNIS,No
+516890,"Green, KY",None,Feature ID,2023 GNIS,No
+516891,"Greenup, KY",None,Feature ID,2023 GNIS,No
+516892,"Hancock, KY",None,Feature ID,2023 GNIS,No
+516893,"Hardin, KY",None,Feature ID,2023 GNIS,No
+516894,"Harlan, KY",None,Feature ID,2023 GNIS,No
+516895,"Harrison, KY",None,Feature ID,2023 GNIS,No
+516896,"Hart, KY",None,Feature ID,2023 GNIS,No
+516897,"Henderson, KY",None,Feature ID,2023 GNIS,No
+516898,"Henry, KY",None,Feature ID,2023 GNIS,No
+516899,"Hickman, KY",None,Feature ID,2023 GNIS,No
+516900,"Hopkins, KY",None,Feature ID,2023 GNIS,No
+516901,"Jackson, KY",None,Feature ID,2023 GNIS,No
+516902,"Jefferson, KY",None,Feature ID,2023 GNIS,No
+516903,"Jessamine, KY",None,Feature ID,2023 GNIS,No
+516904,"Johnson, KY",None,Feature ID,2023 GNIS,No
+516905,"Kenton, KY",None,Feature ID,2023 GNIS,No
+516906,"Knott, KY",None,Feature ID,2023 GNIS,No
+516907,"Knox, KY",None,Feature ID,2023 GNIS,No
+516908,"Larue, KY",None,Feature ID,2023 GNIS,No
+516909,"Laurel, KY",None,Feature ID,2023 GNIS,No
+516910,"Lawrence, KY",None,Feature ID,2023 GNIS,No
+516911,"Lee, KY",None,Feature ID,2023 GNIS,No
+516912,"Leslie, KY",None,Feature ID,2023 GNIS,No
+516913,"Letcher, KY",None,Feature ID,2023 GNIS,No
+516914,"Lewis, KY",None,Feature ID,2023 GNIS,No
+516915,"Lincoln, KY",None,Feature ID,2023 GNIS,No
+516916,"Livingston, KY",None,Feature ID,2023 GNIS,No
+516917,"Logan, KY",None,Feature ID,2023 GNIS,No
+516918,"Lyon, KY",None,Feature ID,2023 GNIS,No
+516919,"Madison, KY",None,Feature ID,2023 GNIS,No
+516920,"Magoffin, KY",None,Feature ID,2023 GNIS,No
+516921,"Marion, KY",None,Feature ID,2023 GNIS,No
+516922,"Marshall, KY",None,Feature ID,2023 GNIS,No
+516923,"Martin, KY",None,Feature ID,2023 GNIS,No
+516924,"Mason, KY",None,Feature ID,2023 GNIS,No
+516925,"McCracken, KY",None,Feature ID,2023 GNIS,No
+516926,"McCreary, KY",None,Feature ID,2023 GNIS,No
+516927,"McLean, KY",None,Feature ID,2023 GNIS,No
+516928,"Meade, KY",None,Feature ID,2023 GNIS,No
+516929,"Menifee, KY",None,Feature ID,2023 GNIS,No
+516930,"Mercer, KY",None,Feature ID,2023 GNIS,No
+516931,"Metcalfe, KY",None,Feature ID,2023 GNIS,No
+516932,"Monroe, KY",None,Feature ID,2023 GNIS,No
+516933,"Montgomery, KY",None,Feature ID,2023 GNIS,No
+516934,"Morgan, KY",None,Feature ID,2023 GNIS,No
+516935,"Muhlenberg, KY",None,Feature ID,2023 GNIS,No
+516936,"Nelson, KY",None,Feature ID,2023 GNIS,No
+516937,"Nicholas, KY",None,Feature ID,2023 GNIS,No
+516938,"Ohio, KY",None,Feature ID,2023 GNIS,No
+516939,"Oldham, KY",None,Feature ID,2023 GNIS,No
+516940,"Owen, KY",None,Feature ID,2023 GNIS,No
+516941,"Owsley, KY",None,Feature ID,2023 GNIS,No
+516942,"Pendleton, KY",None,Feature ID,2023 GNIS,No
+516943,"Perry, KY",None,Feature ID,2023 GNIS,No
+516944,"Pike, KY",None,Feature ID,2023 GNIS,No
+516945,"Powell, KY",None,Feature ID,2023 GNIS,No
+516946,"Pulaski, KY",None,Feature ID,2023 GNIS,No
+516947,"Robertson, KY",None,Feature ID,2023 GNIS,No
+516948,"Rockcastle, KY",None,Feature ID,2023 GNIS,No
+516949,"Rowan, KY",None,Feature ID,2023 GNIS,No
+516950,"Russell, KY",None,Feature ID,2023 GNIS,No
+516951,"Scott, KY",None,Feature ID,2023 GNIS,No
+516952,"Shelby, KY",None,Feature ID,2023 GNIS,No
+516953,"Simpson, KY",None,Feature ID,2023 GNIS,No
+516954,"Spencer, KY",None,Feature ID,2023 GNIS,No
+516955,"Taylor, KY",None,Feature ID,2023 GNIS,No
+516956,"Todd, KY",None,Feature ID,2023 GNIS,No
+516957,"Trigg, KY",None,Feature ID,2023 GNIS,No
+516958,"Trimble, KY",None,Feature ID,2023 GNIS,No
+516959,"Union, KY",None,Feature ID,2023 GNIS,No
+516960,"Warren, KY",None,Feature ID,2023 GNIS,No
+516961,"Washington, KY",None,Feature ID,2023 GNIS,No
+516962,"Wayne, KY",None,Feature ID,2023 GNIS,No
+516963,"Webster, KY",None,Feature ID,2023 GNIS,No
+516964,"Whitley, KY",None,Feature ID,2023 GNIS,No
+516965,"Wolfe, KY",None,Feature ID,2023 GNIS,No
+516966,"Woodford, KY",None,Feature ID,2023 GNIS,No
+558027,"Jefferson, LA",None,Feature ID,2023 GNIS,No
+558039,"Jefferson Davis, LA",None,Feature ID,2023 GNIS,No
+558049,"LaSalle, LA",None,Feature ID,2023 GNIS,No
+558059,"Lafayette, LA",None,Feature ID,2023 GNIS,No
+558065,"Lafourche, LA",None,Feature ID,2023 GNIS,No
+558077,"Lincoln, LA",None,Feature ID,2023 GNIS,No
+558083,"Livingston, LA",None,Feature ID,2023 GNIS,No
+558088,"Madison, LA",None,Feature ID,2023 GNIS,No
+558097,"Morehouse, LA",None,Feature ID,2023 GNIS,No
+558108,"Natchitoches, LA",None,Feature ID,2023 GNIS,No
+558113,"Orleans, LA",None,Feature ID,2023 GNIS,No
+558114,"Ouachita, LA",None,Feature ID,2023 GNIS,No
+558125,"Plaquemines, LA",None,Feature ID,2023 GNIS,No
+558389,"Acadia, LA",None,Feature ID,2023 GNIS,No
+558397,"Allen, LA",None,Feature ID,2023 GNIS,No
+558403,"Ascension, LA",None,Feature ID,2023 GNIS,No
+558414,"Assumption, LA",None,Feature ID,2023 GNIS,No
+558424,"Avoyelles, LA",None,Feature ID,2023 GNIS,No
+558436,"Beauregard, LA",None,Feature ID,2023 GNIS,No
+558445,"Bienville, LA",None,Feature ID,2023 GNIS,No
+558453,"Bossier, LA",None,Feature ID,2023 GNIS,No
+558458,"Caddo, LA",None,Feature ID,2023 GNIS,No
+558468,"Calcasieu, LA",None,Feature ID,2023 GNIS,No
+558477,"Caldwell, LA",None,Feature ID,2023 GNIS,No
+558488,"Cameron, LA",None,Feature ID,2023 GNIS,No
+558495,"Catahoula, LA",None,Feature ID,2023 GNIS,No
+558505,"Claiborne, LA",None,Feature ID,2023 GNIS,No
+558515,"Concordia, LA",None,Feature ID,2023 GNIS,No
+558521,"De Soto, LA",None,Feature ID,2023 GNIS,No
+558530,"East Baton Rouge, LA",None,Feature ID,2023 GNIS,No
+558534,"East Carroll, LA",None,Feature ID,2023 GNIS,No
+558542,"East Feliciana, LA",None,Feature ID,2023 GNIS,No
+558551,"Evangeline, LA",None,Feature ID,2023 GNIS,No
+558557,"Franklin, LA",None,Feature ID,2023 GNIS,No
+558567,"Grant, LA",None,Feature ID,2023 GNIS,No
+558576,"Iberia, LA",None,Feature ID,2023 GNIS,No
+558582,"Iberville, LA",None,Feature ID,2023 GNIS,No
+558592,"Jackson, LA",None,Feature ID,2023 GNIS,No
+559449,"Pointe Coupee, LA",None,Feature ID,2023 GNIS,No
+559460,"Rapides, LA",None,Feature ID,2023 GNIS,No
+559472,"Red River, LA",None,Feature ID,2023 GNIS,No
+559481,"Richland, LA",None,Feature ID,2023 GNIS,No
+559489,"Sabine, LA",None,Feature ID,2023 GNIS,No
+559500,"Tangipahoa, LA",None,Feature ID,2023 GNIS,No
+559509,"Tensas, LA",None,Feature ID,2023 GNIS,No
+559517,"Terrebonne, LA",None,Feature ID,2023 GNIS,No
+559528,"Union, LA",None,Feature ID,2023 GNIS,No
+559538,"Vermilion, LA",None,Feature ID,2023 GNIS,No
+559548,"Vernon, LA",None,Feature ID,2023 GNIS,No
+559557,"Washington, LA",None,Feature ID,2023 GNIS,No
+559567,"Webster, LA",None,Feature ID,2023 GNIS,No
+559570,"West Baton Rouge, LA",None,Feature ID,2023 GNIS,No
+559578,"West Carroll, LA",None,Feature ID,2023 GNIS,No
+559584,"West Feliciana, LA",None,Feature ID,2023 GNIS,No
+559594,"Winn, LA",None,Feature ID,2023 GNIS,No
+581286,"Androscoggin, ME",None,Feature ID,2023 GNIS,No
+581287,"Aroostook, ME",None,Feature ID,2023 GNIS,No
+581288,"Cumberland, ME",None,Feature ID,2023 GNIS,No
+581289,"Franklin, ME",None,Feature ID,2023 GNIS,No
+581290,"Hancock, ME",None,Feature ID,2023 GNIS,No
+581291,"Kennebec, ME",None,Feature ID,2023 GNIS,No
+581292,"Knox, ME",None,Feature ID,2023 GNIS,No
+581293,"Lincoln, ME",None,Feature ID,2023 GNIS,No
+581294,"Oxford, ME",None,Feature ID,2023 GNIS,No
+581295,"Penobscot, ME",None,Feature ID,2023 GNIS,No
+581296,"Piscataquis, ME",None,Feature ID,2023 GNIS,No
+581297,"Sagadahoc, ME",None,Feature ID,2023 GNIS,No
+581298,"Somerset, ME",None,Feature ID,2023 GNIS,No
+581299,"Waldo, ME",None,Feature ID,2023 GNIS,No
+581300,"Washington, ME",None,Feature ID,2023 GNIS,No
+581301,"York, ME",None,Feature ID,2023 GNIS,No
+592947,"Talbot, MD",None,Feature ID,2023 GNIS,No
+593907,"Kent, MD",None,Feature ID,2023 GNIS,No
+595737,"Caroline, MD",None,Feature ID,2023 GNIS,No
+596089,"Queen Anne's, MD",None,Feature ID,2023 GNIS,No
+596115,"Cecil, MD",None,Feature ID,2023 GNIS,No
+596495,"Dorchester, MD",None,Feature ID,2023 GNIS,No
+596907,"Somerset, MD",None,Feature ID,2023 GNIS,No
+606926,Massachusetts,None,Feature ID,2023 GNIS,No
+606927,"Barnstable, MA",None,Feature ID,2023 GNIS,No
+606928,"Berkshire, MA",None,Feature ID,2023 GNIS,No
+606929,"Bristol, MA",None,Feature ID,2023 GNIS,No
+606930,"Dukes, MA",None,Feature ID,2023 GNIS,No
+606931,"Essex, MA",None,Feature ID,2023 GNIS,No
+606932,"Franklin, MA",None,Feature ID,2023 GNIS,No
+606933,"Hampden, MA",None,Feature ID,2023 GNIS,No
+606934,"Hampshire, MA",None,Feature ID,2023 GNIS,No
+606935,"Middlesex, MA",None,Feature ID,2023 GNIS,No
+606936,"Nantucket, MA",None,Feature ID,2023 GNIS,No
+606937,"Norfolk, MA",None,Feature ID,2023 GNIS,No
+606938,"Plymouth, MA",None,Feature ID,2023 GNIS,No
+606939,"Suffolk, MA",None,Feature ID,2023 GNIS,No
+606940,"Worcester, MA",None,Feature ID,2023 GNIS,No
+659447,"Anoka, MN",None,Feature ID,2023 GNIS,No
+659448,"Becker, MN",None,Feature ID,2023 GNIS,No
+659449,"Beltrami, MN",None,Feature ID,2023 GNIS,No
+659450,"Benton, MN",None,Feature ID,2023 GNIS,No
+659451,"Big Stone, MN",None,Feature ID,2023 GNIS,No
+659452,"Blue Earth, MN",None,Feature ID,2023 GNIS,No
+659453,"Brown, MN",None,Feature ID,2023 GNIS,No
+659454,"Carlton, MN",None,Feature ID,2023 GNIS,No
+659455,"Carver, MN",None,Feature ID,2023 GNIS,No
+659456,"Cass, MN",None,Feature ID,2023 GNIS,No
+659457,"Chippewa, MN",None,Feature ID,2023 GNIS,No
+659458,"Chisago, MN",None,Feature ID,2023 GNIS,No
+659459,"Clay, MN",None,Feature ID,2023 GNIS,No
+659460,"Clearwater, MN",None,Feature ID,2023 GNIS,No
+659461,"Cook, MN",None,Feature ID,2023 GNIS,No
+659462,"Cottonwood, MN",None,Feature ID,2023 GNIS,No
+659463,"Crow Wing, MN",None,Feature ID,2023 GNIS,No
+659464,"Dakota, MN",None,Feature ID,2023 GNIS,No
+659465,"Dodge, MN",None,Feature ID,2023 GNIS,No
+659466,"Douglas, MN",None,Feature ID,2023 GNIS,No
+659467,"Faribault, MN",None,Feature ID,2023 GNIS,No
+659468,"Fillmore, MN",None,Feature ID,2023 GNIS,No
+659469,"Freeborn, MN",None,Feature ID,2023 GNIS,No
+659470,"Goodhue, MN",None,Feature ID,2023 GNIS,No
+659471,"Grant, MN",None,Feature ID,2023 GNIS,No
+659472,"Hennepin, MN",None,Feature ID,2023 GNIS,No
+659473,"Houston, MN",None,Feature ID,2023 GNIS,No
+659474,"Hubbard, MN",None,Feature ID,2023 GNIS,No
+659475,"Isanti, MN",None,Feature ID,2023 GNIS,No
+659476,"Itasca, MN",None,Feature ID,2023 GNIS,No
+659477,"Jackson, MN",None,Feature ID,2023 GNIS,No
+659478,"Kanabec, MN",None,Feature ID,2023 GNIS,No
+659479,"Kandiyohi, MN",None,Feature ID,2023 GNIS,No
+659480,"Kittson, MN",None,Feature ID,2023 GNIS,No
+659481,"Koochiching, MN",None,Feature ID,2023 GNIS,No
+659482,"Lac qui Parle, MN",None,Feature ID,2023 GNIS,No
+659483,"Lake of the Woods, MN",None,Feature ID,2023 GNIS,No
+659484,"Lake, MN",None,Feature ID,2023 GNIS,No
+659485,"Le Sueur, MN",None,Feature ID,2023 GNIS,No
+659486,"Lincoln, MN",None,Feature ID,2023 GNIS,No
+659487,"Lyon, MN",None,Feature ID,2023 GNIS,No
+659488,"Mahnomen, MN",None,Feature ID,2023 GNIS,No
+659489,"Marshall, MN",None,Feature ID,2023 GNIS,No
+659490,"Martin, MN",None,Feature ID,2023 GNIS,No
+659491,"McLeod, MN",None,Feature ID,2023 GNIS,No
+659492,"Meeker, MN",None,Feature ID,2023 GNIS,No
+659493,"Mille Lacs, MN",None,Feature ID,2023 GNIS,No
+659494,"Morrison, MN",None,Feature ID,2023 GNIS,No
+659495,"Mower, MN",None,Feature ID,2023 GNIS,No
+659496,"Murray, MN",None,Feature ID,2023 GNIS,No
+659497,"Nicollet, MN",None,Feature ID,2023 GNIS,No
+659498,"Nobles, MN",None,Feature ID,2023 GNIS,No
+659499,"Norman, MN",None,Feature ID,2023 GNIS,No
+659500,"Olmsted, MN",None,Feature ID,2023 GNIS,No
+659501,"Otter Tail, MN",None,Feature ID,2023 GNIS,No
+659502,"Pennington, MN",None,Feature ID,2023 GNIS,No
+659503,"Pine, MN",None,Feature ID,2023 GNIS,No
+659504,"Pipestone, MN",None,Feature ID,2023 GNIS,No
+659505,"Polk, MN",None,Feature ID,2023 GNIS,No
+659506,"Pope, MN",None,Feature ID,2023 GNIS,No
+659507,"Ramsey, MN",None,Feature ID,2023 GNIS,No
+659508,"Red Lake, MN",None,Feature ID,2023 GNIS,No
+659509,"Redwood, MN",None,Feature ID,2023 GNIS,No
+659510,"Renville, MN",None,Feature ID,2023 GNIS,No
+659511,"Rice, MN",None,Feature ID,2023 GNIS,No
+659512,"Rock, MN",None,Feature ID,2023 GNIS,No
+659513,"Roseau, MN",None,Feature ID,2023 GNIS,No
+659514,"Scott, MN",None,Feature ID,2023 GNIS,No
+659515,"Sherburne, MN",None,Feature ID,2023 GNIS,No
+659516,"Sibley, MN",None,Feature ID,2023 GNIS,No
+659517,"Stearns, MN",None,Feature ID,2023 GNIS,No
+659518,"Steele, MN",None,Feature ID,2023 GNIS,No
+659519,"Stevens, MN",None,Feature ID,2023 GNIS,No
+659520,"Swift, MN",None,Feature ID,2023 GNIS,No
+659521,"Todd, MN",None,Feature ID,2023 GNIS,No
+659522,"Traverse, MN",None,Feature ID,2023 GNIS,No
+659523,"Wabasha, MN",None,Feature ID,2023 GNIS,No
+659524,"Wadena, MN",None,Feature ID,2023 GNIS,No
+659525,"Waseca, MN",None,Feature ID,2023 GNIS,No
+659526,"Washington, MN",None,Feature ID,2023 GNIS,No
+659527,"Watonwan, MN",None,Feature ID,2023 GNIS,No
+659528,"Wilkin, MN",None,Feature ID,2023 GNIS,No
+659529,"Winona, MN",None,Feature ID,2023 GNIS,No
+659530,"Wright, MN",None,Feature ID,2023 GNIS,No
+659531,"Yellow Medicine, MN",None,Feature ID,2023 GNIS,No
+662849,Minnesota,None,Feature ID,2023 GNIS,No
+662850,"St. Louis, MN",None,Feature ID,2023 GNIS,No
+663198,"Aitkin, MN",None,Feature ID,2023 GNIS,No
+695726,"Adams, MS",None,Feature ID,2023 GNIS,No
+695727,"Amite, MS",None,Feature ID,2023 GNIS,No
+695728,"Attala, MS",None,Feature ID,2023 GNIS,No
+695729,"Benton, MS",None,Feature ID,2023 GNIS,No
+695730,"Bolivar, MS",None,Feature ID,2023 GNIS,No
+695731,"Calhoun, MS",None,Feature ID,2023 GNIS,No
+695732,"Carroll, MS",None,Feature ID,2023 GNIS,No
+695733,"Chickasaw, MS",None,Feature ID,2023 GNIS,No
+695734,"Choctaw, MS",None,Feature ID,2023 GNIS,No
+695735,"Claiborne, MS",None,Feature ID,2023 GNIS,No
+695736,"Clarke, MS",None,Feature ID,2023 GNIS,No
+695737,"Clay, MS",None,Feature ID,2023 GNIS,No
+695738,"Coahoma, MS",None,Feature ID,2023 GNIS,No
+695739,"Copiah, MS",None,Feature ID,2023 GNIS,No
+695740,"Covington, MS",None,Feature ID,2023 GNIS,No
+695741,"DeSoto, MS",None,Feature ID,2023 GNIS,No
+695742,"Forrest, MS",None,Feature ID,2023 GNIS,No
+695743,"Franklin, MS",None,Feature ID,2023 GNIS,No
+695744,"George, MS",None,Feature ID,2023 GNIS,No
+695745,"Greene, MS",None,Feature ID,2023 GNIS,No
+695746,"Grenada, MS",None,Feature ID,2023 GNIS,No
+695747,"Harrison, MS",None,Feature ID,2023 GNIS,No
+695748,"Hinds, MS",None,Feature ID,2023 GNIS,No
+695749,"Holmes, MS",None,Feature ID,2023 GNIS,No
+695750,"Humphreys, MS",None,Feature ID,2023 GNIS,No
+695751,"Issaquena, MS",None,Feature ID,2023 GNIS,No
+695752,"Itawamba, MS",None,Feature ID,2023 GNIS,No
+695753,"Jackson, MS",None,Feature ID,2023 GNIS,No
+695754,"Jasper, MS",None,Feature ID,2023 GNIS,No
+695755,"Jefferson, MS",None,Feature ID,2023 GNIS,No
+695756,"Jefferson Davis, MS",None,Feature ID,2023 GNIS,No
+695757,"Jones, MS",None,Feature ID,2023 GNIS,No
+695758,"Kemper, MS",None,Feature ID,2023 GNIS,No
+695759,"Lafayette, MS",None,Feature ID,2023 GNIS,No
+695760,"Lamar, MS",None,Feature ID,2023 GNIS,No
+695761,"Lauderdale, MS",None,Feature ID,2023 GNIS,No
+695762,"Lawrence, MS",None,Feature ID,2023 GNIS,No
+695763,"Leake, MS",None,Feature ID,2023 GNIS,No
+695764,"Lee, MS",None,Feature ID,2023 GNIS,No
+695765,"Leflore, MS",None,Feature ID,2023 GNIS,No
+695766,"Lincoln, MS",None,Feature ID,2023 GNIS,No
+695767,"Lowndes, MS",None,Feature ID,2023 GNIS,No
+695768,"Madison, MS",None,Feature ID,2023 GNIS,No
+695769,"Marion, MS",None,Feature ID,2023 GNIS,No
+695770,"Marshall, MS",None,Feature ID,2023 GNIS,No
+695771,"Monroe, MS",None,Feature ID,2023 GNIS,No
+695772,"Neshoba, MS",None,Feature ID,2023 GNIS,No
+695773,"Newton, MS",None,Feature ID,2023 GNIS,No
+695774,"Noxubee, MS",None,Feature ID,2023 GNIS,No
+695775,"Oktibbeha, MS",None,Feature ID,2023 GNIS,No
+695776,"Panola, MS",None,Feature ID,2023 GNIS,No
+695777,"Pearl River, MS",None,Feature ID,2023 GNIS,No
+695778,"Perry, MS",None,Feature ID,2023 GNIS,No
+695779,"Prentiss, MS",None,Feature ID,2023 GNIS,No
+695780,"Quitman, MS",None,Feature ID,2023 GNIS,No
+695781,"Rankin, MS",None,Feature ID,2023 GNIS,No
+695782,"Scott, MS",None,Feature ID,2023 GNIS,No
+695783,"Sharkey, MS",None,Feature ID,2023 GNIS,No
+695784,"Simpson, MS",None,Feature ID,2023 GNIS,No
+695785,"Smith, MS",None,Feature ID,2023 GNIS,No
+695786,"Stone, MS",None,Feature ID,2023 GNIS,No
+695787,"Sunflower, MS",None,Feature ID,2023 GNIS,No
+695788,"Tallahatchie, MS",None,Feature ID,2023 GNIS,No
+695789,"Tate, MS",None,Feature ID,2023 GNIS,No
+695790,"Tippah, MS",None,Feature ID,2023 GNIS,No
+695791,"Tishomingo, MS",None,Feature ID,2023 GNIS,No
+695792,"Tunica, MS",None,Feature ID,2023 GNIS,No
+695793,"Union, MS",None,Feature ID,2023 GNIS,No
+695794,"Walthall, MS",None,Feature ID,2023 GNIS,No
+695795,"Warren, MS",None,Feature ID,2023 GNIS,No
+695796,"Washington, MS",None,Feature ID,2023 GNIS,No
+695797,"Wayne, MS",None,Feature ID,2023 GNIS,No
+695798,"Webster, MS",None,Feature ID,2023 GNIS,No
+695799,"Wilkinson, MS",None,Feature ID,2023 GNIS,No
+695800,"Winston, MS",None,Feature ID,2023 GNIS,No
+695801,"Yalobusha, MS",None,Feature ID,2023 GNIS,No
+695802,"Yazoo, MS",None,Feature ID,2023 GNIS,No
+695803,"Pontotoc, MS",None,Feature ID,2023 GNIS,No
+711755,"Alcorn, MS",None,Feature ID,2023 GNIS,No
+711756,"Hancock, MS",None,Feature ID,2023 GNIS,No
+711757,"Montgomery, MS",None,Feature ID,2023 GNIS,No
+711758,"Pike, MS",None,Feature ID,2023 GNIS,No
+758456,"Andrew, MO",None,Feature ID,2023 GNIS,No
+758457,"Atchison, MO",None,Feature ID,2023 GNIS,No
+758458,"Audrain, MO",None,Feature ID,2023 GNIS,No
+758459,"Barry, MO",None,Feature ID,2023 GNIS,No
+758460,"Barton, MO",None,Feature ID,2023 GNIS,No
+758461,"Bates, MO",None,Feature ID,2023 GNIS,No
+758462,"Benton, MO",None,Feature ID,2023 GNIS,No
+758463,"Bollinger, MO",None,Feature ID,2023 GNIS,No
+758464,"Boone, MO",None,Feature ID,2023 GNIS,No
+758465,"Buchanan, MO",None,Feature ID,2023 GNIS,No
+758466,"Butler, MO",None,Feature ID,2023 GNIS,No
+758467,"Caldwell, MO",None,Feature ID,2023 GNIS,No
+758468,"Callaway, MO",None,Feature ID,2023 GNIS,No
+758469,"Camden, MO",None,Feature ID,2023 GNIS,No
+758470,"Cape Girardeau, MO",None,Feature ID,2023 GNIS,No
+758471,"Carroll, MO",None,Feature ID,2023 GNIS,No
+758472,"Carter, MO",None,Feature ID,2023 GNIS,No
+758473,"Cass, MO",None,Feature ID,2023 GNIS,No
+758474,"Cedar, MO",None,Feature ID,2023 GNIS,No
+758475,"Chariton, MO",None,Feature ID,2023 GNIS,No
+758476,"Christian, MO",None,Feature ID,2023 GNIS,No
+758477,"Clark, MO",None,Feature ID,2023 GNIS,No
+758478,"Clay, MO",None,Feature ID,2023 GNIS,No
+758479,"Clinton, MO",None,Feature ID,2023 GNIS,No
+758480,"Cole, MO",None,Feature ID,2023 GNIS,No
+758481,"Cooper, MO",None,Feature ID,2023 GNIS,No
+758482,"Crawford, MO",None,Feature ID,2023 GNIS,No
+758483,"Dade, MO",None,Feature ID,2023 GNIS,No
+758484,"Dallas, MO",None,Feature ID,2023 GNIS,No
+758485,"Daviess, MO",None,Feature ID,2023 GNIS,No
+758486,"DeKalb, MO",None,Feature ID,2023 GNIS,No
+758487,"Dent, MO",None,Feature ID,2023 GNIS,No
+758488,"Douglas, MO",None,Feature ID,2023 GNIS,No
+758489,"Dunklin, MO",None,Feature ID,2023 GNIS,No
+758490,"Franklin, MO",None,Feature ID,2023 GNIS,No
+758491,"Gasconade, MO",None,Feature ID,2023 GNIS,No
+758492,"Gentry, MO",None,Feature ID,2023 GNIS,No
+758493,"Greene, MO",None,Feature ID,2023 GNIS,No
+758494,"Grundy, MO",None,Feature ID,2023 GNIS,No
+758495,"Harrison, MO",None,Feature ID,2023 GNIS,No
+758496,"Henry, MO",None,Feature ID,2023 GNIS,No
+758497,"Hickory, MO",None,Feature ID,2023 GNIS,No
+758498,"Holt, MO",None,Feature ID,2023 GNIS,No
+758499,"Howard, MO",None,Feature ID,2023 GNIS,No
+758500,"Howell, MO",None,Feature ID,2023 GNIS,No
+758501,"Iron, MO",None,Feature ID,2023 GNIS,No
+758502,"Jackson, MO",None,Feature ID,2023 GNIS,No
+758503,"Jasper, MO",None,Feature ID,2023 GNIS,No
+758504,"Jefferson, MO",None,Feature ID,2023 GNIS,No
+758505,"Johnson, MO",None,Feature ID,2023 GNIS,No
+758506,"Knox, MO",None,Feature ID,2023 GNIS,No
+758507,"Laclede, MO",None,Feature ID,2023 GNIS,No
+758508,"Lafayette, MO",None,Feature ID,2023 GNIS,No
+758509,"Lawrence, MO",None,Feature ID,2023 GNIS,No
+758510,"Lewis, MO",None,Feature ID,2023 GNIS,No
+758511,"Lincoln, MO",None,Feature ID,2023 GNIS,No
+758512,"Linn, MO",None,Feature ID,2023 GNIS,No
+758513,"Livingston, MO",None,Feature ID,2023 GNIS,No
+758514,"Macon, MO",None,Feature ID,2023 GNIS,No
+758515,"Madison, MO",None,Feature ID,2023 GNIS,No
+758516,"Maries, MO",None,Feature ID,2023 GNIS,No
+758517,"Marion, MO",None,Feature ID,2023 GNIS,No
+758518,"McDonald, MO",None,Feature ID,2023 GNIS,No
+758519,"Mercer, MO",None,Feature ID,2023 GNIS,No
+758520,"Miller, MO",None,Feature ID,2023 GNIS,No
+758521,"Mississippi, MO",None,Feature ID,2023 GNIS,No
+758522,"Moniteau, MO",None,Feature ID,2023 GNIS,No
+758523,"Monroe, MO",None,Feature ID,2023 GNIS,No
+758524,"Montgomery, MO",None,Feature ID,2023 GNIS,No
+758525,"Morgan, MO",None,Feature ID,2023 GNIS,No
+758526,"New Madrid, MO",None,Feature ID,2023 GNIS,No
+758527,"Newton, MO",None,Feature ID,2023 GNIS,No
+758528,"Nodaway, MO",None,Feature ID,2023 GNIS,No
+758529,"Oregon, MO",None,Feature ID,2023 GNIS,No
+758530,"Osage, MO",None,Feature ID,2023 GNIS,No
+758531,"Ozark, MO",None,Feature ID,2023 GNIS,No
+758532,"Pemiscot, MO",None,Feature ID,2023 GNIS,No
+758533,"Perry, MO",None,Feature ID,2023 GNIS,No
+758534,"Pettis, MO",None,Feature ID,2023 GNIS,No
+758535,"Phelps, MO",None,Feature ID,2023 GNIS,No
+758536,"Pike, MO",None,Feature ID,2023 GNIS,No
+758537,"Platte, MO",None,Feature ID,2023 GNIS,No
+758538,"Polk, MO",None,Feature ID,2023 GNIS,No
+758539,"Pulaski, MO",None,Feature ID,2023 GNIS,No
+758540,"Putnam, MO",None,Feature ID,2023 GNIS,No
+758541,"Ralls, MO",None,Feature ID,2023 GNIS,No
+758542,"Randolph, MO",None,Feature ID,2023 GNIS,No
+758543,"Ray, MO",None,Feature ID,2023 GNIS,No
+758544,"Reynolds, MO",None,Feature ID,2023 GNIS,No
+758545,"Ripley, MO",None,Feature ID,2023 GNIS,No
+758546,"St. Charles, MO",None,Feature ID,2023 GNIS,No
+758547,"St. Clair, MO",None,Feature ID,2023 GNIS,No
+758548,"St. Francois, MO",None,Feature ID,2023 GNIS,No
+758549,"St. Louis, MO",None,Feature ID,2023 GNIS,No
+758550,"Saline, MO",None,Feature ID,2023 GNIS,No
+758551,"Schuyler, MO",None,Feature ID,2023 GNIS,No
+758552,"Scotland, MO",None,Feature ID,2023 GNIS,No
+758553,"Scott, MO",None,Feature ID,2023 GNIS,No
+758554,"Shannon, MO",None,Feature ID,2023 GNIS,No
+758555,"Shelby, MO",None,Feature ID,2023 GNIS,No
+758556,"Stoddard, MO",None,Feature ID,2023 GNIS,No
+758557,"Stone, MO",None,Feature ID,2023 GNIS,No
+758558,"Sullivan, MO",None,Feature ID,2023 GNIS,No
+758559,"Taney, MO",None,Feature ID,2023 GNIS,No
+758560,"Texas, MO",None,Feature ID,2023 GNIS,No
+758561,"Vernon, MO",None,Feature ID,2023 GNIS,No
+758562,"Warren, MO",None,Feature ID,2023 GNIS,No
+758563,"Washington, MO",None,Feature ID,2023 GNIS,No
+758564,"Wayne, MO",None,Feature ID,2023 GNIS,No
+758565,"Webster, MO",None,Feature ID,2023 GNIS,No
+758566,"Worth, MO",None,Feature ID,2023 GNIS,No
+758567,"Wright, MO",None,Feature ID,2023 GNIS,No
+765805,"Adair, MO",None,Feature ID,2023 GNIS,No
+765806,"Ste. Genevieve, MO",None,Feature ID,2023 GNIS,No
+767557,"St. Louis (city), MO",None,Feature ID,2023 GNIS,No
+767982,Montana,None,Feature ID,2023 GNIS,No
+793926,"Lewis and Clark, MT",None,Feature ID,2023 GNIS,No
+835823,"Adams, NE",None,Feature ID,2023 GNIS,No
+835824,"Antelope, NE",None,Feature ID,2023 GNIS,No
+835825,"Arthur, NE",None,Feature ID,2023 GNIS,No
+835826,"Banner, NE",None,Feature ID,2023 GNIS,No
+835827,"Blaine, NE",None,Feature ID,2023 GNIS,No
+835828,"Boone, NE",None,Feature ID,2023 GNIS,No
+835829,"Boyd, NE",None,Feature ID,2023 GNIS,No
+835830,"Brown, NE",None,Feature ID,2023 GNIS,No
+835831,"Buffalo, NE",None,Feature ID,2023 GNIS,No
+835832,"Burt, NE",None,Feature ID,2023 GNIS,No
+835833,"Butler, NE",None,Feature ID,2023 GNIS,No
+835834,"Cass, NE",None,Feature ID,2023 GNIS,No
+835835,"Cedar, NE",None,Feature ID,2023 GNIS,No
+835836,"Chase, NE",None,Feature ID,2023 GNIS,No
+835837,"Cherry, NE",None,Feature ID,2023 GNIS,No
+835838,"Cheyenne, NE",None,Feature ID,2023 GNIS,No
+835839,"Clay, NE",None,Feature ID,2023 GNIS,No
+835840,"Colfax, NE",None,Feature ID,2023 GNIS,No
+835841,"Cuming, NE",None,Feature ID,2023 GNIS,No
+835842,"Custer, NE",None,Feature ID,2023 GNIS,No
+835843,"Dakota, NE",None,Feature ID,2023 GNIS,No
+835844,"Dawes, NE",None,Feature ID,2023 GNIS,No
+835845,"Dawson, NE",None,Feature ID,2023 GNIS,No
+835846,"Deuel, NE",None,Feature ID,2023 GNIS,No
+835847,"Dixon, NE",None,Feature ID,2023 GNIS,No
+835848,"Dodge, NE",None,Feature ID,2023 GNIS,No
+835849,"Douglas, NE",None,Feature ID,2023 GNIS,No
+835850,"Dundy, NE",None,Feature ID,2023 GNIS,No
+835851,"Fillmore, NE",None,Feature ID,2023 GNIS,No
+835852,"Franklin, NE",None,Feature ID,2023 GNIS,No
+835853,"Frontier, NE",None,Feature ID,2023 GNIS,No
+835854,"Furnas, NE",None,Feature ID,2023 GNIS,No
+835855,"Gage, NE",None,Feature ID,2023 GNIS,No
+835856,"Garden, NE",None,Feature ID,2023 GNIS,No
+835857,"Garfield, NE",None,Feature ID,2023 GNIS,No
+835858,"Gosper, NE",None,Feature ID,2023 GNIS,No
+835859,"Grant, NE",None,Feature ID,2023 GNIS,No
+835860,"Greeley, NE",None,Feature ID,2023 GNIS,No
+835861,"Hall, NE",None,Feature ID,2023 GNIS,No
+835862,"Hamilton, NE",None,Feature ID,2023 GNIS,No
+835863,"Harlan, NE",None,Feature ID,2023 GNIS,No
+835864,"Hayes, NE",None,Feature ID,2023 GNIS,No
+835865,"Hitchcock, NE",None,Feature ID,2023 GNIS,No
+835866,"Holt, NE",None,Feature ID,2023 GNIS,No
+835867,"Hooker, NE",None,Feature ID,2023 GNIS,No
+835868,"Howard, NE",None,Feature ID,2023 GNIS,No
+835869,"Jefferson, NE",None,Feature ID,2023 GNIS,No
+835870,"Johnson, NE",None,Feature ID,2023 GNIS,No
+835871,"Kearney, NE",None,Feature ID,2023 GNIS,No
+835872,"Keith, NE",None,Feature ID,2023 GNIS,No
+835873,"Keya Paha, NE",None,Feature ID,2023 GNIS,No
+835874,"Kimball, NE",None,Feature ID,2023 GNIS,No
+835875,"Knox, NE",None,Feature ID,2023 GNIS,No
+835876,"Lancaster, NE",None,Feature ID,2023 GNIS,No
+835877,"Lincoln, NE",None,Feature ID,2023 GNIS,No
+835878,"Logan, NE",None,Feature ID,2023 GNIS,No
+835879,"Loup, NE",None,Feature ID,2023 GNIS,No
+835880,"Madison, NE",None,Feature ID,2023 GNIS,No
+835881,"McPherson, NE",None,Feature ID,2023 GNIS,No
+835882,"Merrick, NE",None,Feature ID,2023 GNIS,No
+835883,"Morrill, NE",None,Feature ID,2023 GNIS,No
+835884,"Nance, NE",None,Feature ID,2023 GNIS,No
+835885,"Nemaha, NE",None,Feature ID,2023 GNIS,No
+835886,"Nuckolls, NE",None,Feature ID,2023 GNIS,No
+835887,"Otoe, NE",None,Feature ID,2023 GNIS,No
+835888,"Pawnee, NE",None,Feature ID,2023 GNIS,No
+835889,"Perkins, NE",None,Feature ID,2023 GNIS,No
+835890,"Phelps, NE",None,Feature ID,2023 GNIS,No
+835891,"Pierce, NE",None,Feature ID,2023 GNIS,No
+835892,"Platte, NE",None,Feature ID,2023 GNIS,No
+835893,"Polk, NE",None,Feature ID,2023 GNIS,No
+835894,"Red Willow, NE",None,Feature ID,2023 GNIS,No
+835895,"Richardson, NE",None,Feature ID,2023 GNIS,No
+835896,"Rock, NE",None,Feature ID,2023 GNIS,No
+835897,"Saline, NE",None,Feature ID,2023 GNIS,No
+835898,"Sarpy, NE",None,Feature ID,2023 GNIS,No
+835899,"Saunders, NE",None,Feature ID,2023 GNIS,No
+835900,"Scotts Bluff, NE",None,Feature ID,2023 GNIS,No
+835901,"Seward, NE",None,Feature ID,2023 GNIS,No
+835902,"Sheridan, NE",None,Feature ID,2023 GNIS,No
+835903,"Sherman, NE",None,Feature ID,2023 GNIS,No
+835904,"Sioux, NE",None,Feature ID,2023 GNIS,No
+835905,"Stanton, NE",None,Feature ID,2023 GNIS,No
+835906,"Thayer, NE",None,Feature ID,2023 GNIS,No
+835907,"Thomas, NE",None,Feature ID,2023 GNIS,No
+835908,"Thurston, NE",None,Feature ID,2023 GNIS,No
+835909,"Valley, NE",None,Feature ID,2023 GNIS,No
+835910,"Washington, NE",None,Feature ID,2023 GNIS,No
+835911,"Wayne, NE",None,Feature ID,2023 GNIS,No
+835912,"Webster, NE",None,Feature ID,2023 GNIS,No
+835913,"Wheeler, NE",None,Feature ID,2023 GNIS,No
+835914,"York, NE",None,Feature ID,2023 GNIS,No
+835991,"Box Butte, NE",None,Feature ID,2023 GNIS,No
+857664,"Elko, NV",None,Feature ID,2023 GNIS,No
+858608,"Washoe, NV",None,Feature ID,2023 GNIS,No
+858615,"White Pine, NV",None,Feature ID,2023 GNIS,No
+858638,"Churchill, NV",None,Feature ID,2023 GNIS,No
+858640,"Eureka, NV",None,Feature ID,2023 GNIS,No
+858641,"Esmeralda, NV",None,Feature ID,2023 GNIS,No
+858642,"Storey, NV",None,Feature ID,2023 GNIS,No
+858643,"Douglas, NV",None,Feature ID,2023 GNIS,No
+858644,"Mineral, NV",None,Feature ID,2023 GNIS,No
+858645,"Lyon, NV",None,Feature ID,2023 GNIS,No
+858646,"Pershing, NV",None,Feature ID,2023 GNIS,No
+863219,"Carson City (city), NV",None,Feature ID,2023 GNIS,No
+863310,"Humboldt, NV",None,Feature ID,2023 GNIS,No
+863368,"Lander, NV",None,Feature ID,2023 GNIS,No
+863599,"Nye, NV",None,Feature ID,2023 GNIS,No
+863600,"Clark, NV",None,Feature ID,2023 GNIS,No
+863992,"Lincoln, NV",None,Feature ID,2023 GNIS,No
+873174,"Belknap, NH",None,Feature ID,2023 GNIS,No
+873175,"Carroll, NH",None,Feature ID,2023 GNIS,No
+873176,"Cheshire, NH",None,Feature ID,2023 GNIS,No
+873177,"Coos, NH",None,Feature ID,2023 GNIS,No
+873178,"Grafton, NH",None,Feature ID,2023 GNIS,No
+873179,"Hillsborough, NH",None,Feature ID,2023 GNIS,No
+873180,"Merrimack, NH",None,Feature ID,2023 GNIS,No
+873181,"Rockingham, NH",None,Feature ID,2023 GNIS,No
+873182,"Strafford, NH",None,Feature ID,2023 GNIS,No
+873183,"Sullivan, NH",None,Feature ID,2023 GNIS,No
+882228,"Hunterdon, NJ",None,Feature ID,2023 GNIS,No
+882229,"Mercer, NJ",None,Feature ID,2023 GNIS,No
+882230,"Middlesex, NJ",None,Feature ID,2023 GNIS,No
+882231,"Morris, NJ",None,Feature ID,2023 GNIS,No
+882232,"Passaic, NJ",None,Feature ID,2023 GNIS,No
+882233,"Salem, NJ",None,Feature ID,2023 GNIS,No
+882234,"Somerset, NJ",None,Feature ID,2023 GNIS,No
+882235,"Union, NJ",None,Feature ID,2023 GNIS,No
+882236,"Sussex, NJ",None,Feature ID,2023 GNIS,No
+882237,"Warren, NJ",None,Feature ID,2023 GNIS,No
+882270,"Atlantic, NJ",None,Feature ID,2023 GNIS,No
+882271,"Bergen, NJ",None,Feature ID,2023 GNIS,No
+882272,"Burlington, NJ",None,Feature ID,2023 GNIS,No
+882273,"Camden, NJ",None,Feature ID,2023 GNIS,No
+882274,"Cape May, NJ",None,Feature ID,2023 GNIS,No
+882275,"Cumberland, NJ",None,Feature ID,2023 GNIS,No
+882276,"Essex, NJ",None,Feature ID,2023 GNIS,No
+882277,"Gloucester, NJ",None,Feature ID,2023 GNIS,No
+882278,"Hudson, NJ",None,Feature ID,2023 GNIS,No
+882279,"Ocean, NJ",None,Feature ID,2023 GNIS,No
+882910,"Monmouth, NJ",None,Feature ID,2023 GNIS,No
+897535,New Mexico,None,Feature ID,2023 GNIS,No
+915980,"Grant, NM",None,Feature ID,2023 GNIS,No
+929104,"Otero, NM",None,Feature ID,2023 GNIS,No
+929106,"Hidalgo, NM",None,Feature ID,2023 GNIS,No
+929107,"McKinley, NM",None,Feature ID,2023 GNIS,No
+929108,"Catron, NM",None,Feature ID,2023 GNIS,No
+929109,"Doña Ana, NM",None,Feature ID,2023 GNIS,No
+929110,"Quay, NM",None,Feature ID,2023 GNIS,No
+929111,"Guadalupe, NM",None,Feature ID,2023 GNIS,No
+929112,"Torrance, NM",None,Feature ID,2023 GNIS,No
+929113,"Sandoval, NM",None,Feature ID,2023 GNIS,No
+929114,"San Miguel, NM",None,Feature ID,2023 GNIS,No
+929115,"Union, NM",None,Feature ID,2023 GNIS,No
+929116,"Lincoln, NM",None,Feature ID,2023 GNIS,No
+929117,"Colfax, NM",None,Feature ID,2023 GNIS,No
+933051,"Cibola, NM",None,Feature ID,2023 GNIS,No
+933052,"Valencia, NM",None,Feature ID,2023 GNIS,No
+933053,"Curry, NM",None,Feature ID,2023 GNIS,No
+933054,"De Baca, NM",None,Feature ID,2023 GNIS,No
+933055,"Harding, NM",None,Feature ID,2023 GNIS,No
+933056,"Taos, NM",None,Feature ID,2023 GNIS,No
+933057,"Luna, NM",None,Feature ID,2023 GNIS,No
+933322,"Santa Fe, NM",None,Feature ID,2023 GNIS,No
+936829,"Eddy, NM",None,Feature ID,2023 GNIS,No
+936844,"San Juan, NM",None,Feature ID,2023 GNIS,No
+974099,"Albany, NY",None,Feature ID,2023 GNIS,No
+974100,"Allegany, NY",None,Feature ID,2023 GNIS,No
+974101,"Bronx, NY",None,Feature ID,2023 GNIS,No
+974102,"Broome, NY",None,Feature ID,2023 GNIS,No
+974103,"Cattaraugus, NY",None,Feature ID,2023 GNIS,No
+974104,"Cayuga, NY",None,Feature ID,2023 GNIS,No
+974105,"Chautauqua, NY",None,Feature ID,2023 GNIS,No
+974106,"Chemung, NY",None,Feature ID,2023 GNIS,No
+974107,"Chenango, NY",None,Feature ID,2023 GNIS,No
+974108,"Clinton, NY",None,Feature ID,2023 GNIS,No
+974109,"Columbia, NY",None,Feature ID,2023 GNIS,No
+974110,"Cortland, NY",None,Feature ID,2023 GNIS,No
+974111,"Delaware, NY",None,Feature ID,2023 GNIS,No
+974112,"Dutchess, NY",None,Feature ID,2023 GNIS,No
+974113,"Erie, NY",None,Feature ID,2023 GNIS,No
+974114,"Essex, NY",None,Feature ID,2023 GNIS,No
+974115,"Franklin, NY",None,Feature ID,2023 GNIS,No
+974116,"Fulton, NY",None,Feature ID,2023 GNIS,No
+974117,"Genesee, NY",None,Feature ID,2023 GNIS,No
+974118,"Greene, NY",None,Feature ID,2023 GNIS,No
+974119,"Hamilton, NY",None,Feature ID,2023 GNIS,No
+974120,"Herkimer, NY",None,Feature ID,2023 GNIS,No
+974121,"Jefferson, NY",None,Feature ID,2023 GNIS,No
+974122,"Kings, NY",None,Feature ID,2023 GNIS,No
+974123,"Lewis, NY",None,Feature ID,2023 GNIS,No
+974124,"Livingston, NY",None,Feature ID,2023 GNIS,No
+974125,"Madison, NY",None,Feature ID,2023 GNIS,No
+974126,"Monroe, NY",None,Feature ID,2023 GNIS,No
+974127,"Montgomery, NY",None,Feature ID,2023 GNIS,No
+974128,"Nassau, NY",None,Feature ID,2023 GNIS,No
+974129,"New York, NY",None,Feature ID,2023 GNIS,No
+974130,"Niagara, NY",None,Feature ID,2023 GNIS,No
+974131,"Oneida, NY",None,Feature ID,2023 GNIS,No
+974132,"Onondaga, NY",None,Feature ID,2023 GNIS,No
+974133,"Ontario, NY",None,Feature ID,2023 GNIS,No
+974134,"Orange, NY",None,Feature ID,2023 GNIS,No
+974135,"Orleans, NY",None,Feature ID,2023 GNIS,No
+974136,"Oswego, NY",None,Feature ID,2023 GNIS,No
+974137,"Otsego, NY",None,Feature ID,2023 GNIS,No
+974138,"Putnam, NY",None,Feature ID,2023 GNIS,No
+974139,"Queens, NY",None,Feature ID,2023 GNIS,No
+974140,"Rensselaer, NY",None,Feature ID,2023 GNIS,No
+974141,"Richmond, NY",None,Feature ID,2023 GNIS,No
+974142,"Rockland, NY",None,Feature ID,2023 GNIS,No
+974143,"Saratoga, NY",None,Feature ID,2023 GNIS,No
+974144,"Schenectady, NY",None,Feature ID,2023 GNIS,No
+974145,"Schoharie, NY",None,Feature ID,2023 GNIS,No
+974146,"Schuyler, NY",None,Feature ID,2023 GNIS,No
+974147,"Seneca, NY",None,Feature ID,2023 GNIS,No
+974148,"Steuben, NY",None,Feature ID,2023 GNIS,No
+974149,"Suffolk, NY",None,Feature ID,2023 GNIS,No
+974150,"Sullivan, NY",None,Feature ID,2023 GNIS,No
+974151,"Tioga, NY",None,Feature ID,2023 GNIS,No
+974152,"Tompkins, NY",None,Feature ID,2023 GNIS,No
+974153,"Ulster, NY",None,Feature ID,2023 GNIS,No
+974154,"Warren, NY",None,Feature ID,2023 GNIS,No
+974155,"Washington, NY",None,Feature ID,2023 GNIS,No
+974156,"Wayne, NY",None,Feature ID,2023 GNIS,No
+974157,"Westchester, NY",None,Feature ID,2023 GNIS,No
+974158,"Wyoming, NY",None,Feature ID,2023 GNIS,No
+974159,"Yates, NY",None,Feature ID,2023 GNIS,No
+977309,"St. Lawrence, NY",None,Feature ID,2023 GNIS,No
+1008531,"Alamance, NC",None,Feature ID,2023 GNIS,No
+1008532,"Alexander, NC",None,Feature ID,2023 GNIS,No
+1008533,"Alleghany, NC",None,Feature ID,2023 GNIS,No
+1008534,"Anson, NC",None,Feature ID,2023 GNIS,No
+1008535,"Ashe, NC",None,Feature ID,2023 GNIS,No
+1008536,"Avery, NC",None,Feature ID,2023 GNIS,No
+1008538,"Buncombe, NC",None,Feature ID,2023 GNIS,No
+1008539,"Burke, NC",None,Feature ID,2023 GNIS,No
+1008540,"Cabarrus, NC",None,Feature ID,2023 GNIS,No
+1008541,"Caldwell, NC",None,Feature ID,2023 GNIS,No
+1008542,"Caswell, NC",None,Feature ID,2023 GNIS,No
+1008543,"Catawba, NC",None,Feature ID,2023 GNIS,No
+1008544,"Chatham, NC",None,Feature ID,2023 GNIS,No
+1008545,"Cherokee, NC",None,Feature ID,2023 GNIS,No
+1008546,"Clay, NC",None,Feature ID,2023 GNIS,No
+1008547,"Cleveland, NC",None,Feature ID,2023 GNIS,No
+1008548,"Davidson, NC",None,Feature ID,2023 GNIS,No
+1008549,"Davie, NC",None,Feature ID,2023 GNIS,No
+1008550,"Durham, NC",None,Feature ID,2023 GNIS,No
+1008551,"Edgecombe, NC",None,Feature ID,2023 GNIS,No
+1008552,"Forsyth, NC",None,Feature ID,2023 GNIS,No
+1008553,"Franklin, NC",None,Feature ID,2023 GNIS,No
+1008554,"Gaston, NC",None,Feature ID,2023 GNIS,No
+1008555,"Graham, NC",None,Feature ID,2023 GNIS,No
+1008556,"Granville, NC",None,Feature ID,2023 GNIS,No
+1008557,"Greene, NC",None,Feature ID,2023 GNIS,No
+1008558,"Guilford, NC",None,Feature ID,2023 GNIS,No
+1008559,"Halifax, NC",None,Feature ID,2023 GNIS,No
+1008560,"Harnett, NC",None,Feature ID,2023 GNIS,No
+1008561,"Haywood, NC",None,Feature ID,2023 GNIS,No
+1008562,"Henderson, NC",None,Feature ID,2023 GNIS,No
+1008563,"Hoke, NC",None,Feature ID,2023 GNIS,No
+1008564,"Hyde, NC",None,Feature ID,2023 GNIS,No
+1008565,"Iredell, NC",None,Feature ID,2023 GNIS,No
+1008566,"Jackson, NC",None,Feature ID,2023 GNIS,No
+1008567,"Lee, NC",None,Feature ID,2023 GNIS,No
+1008568,"Lenoir, NC",None,Feature ID,2023 GNIS,No
+1008569,"Lincoln, NC",None,Feature ID,2023 GNIS,No
+1008570,"Mecklenburg, NC",None,Feature ID,2023 GNIS,No
+1008571,"Mitchell, NC",None,Feature ID,2023 GNIS,No
+1008572,"Montgomery, NC",None,Feature ID,2023 GNIS,No
+1008573,"Moore, NC",None,Feature ID,2023 GNIS,No
+1008574,"Nash, NC",None,Feature ID,2023 GNIS,No
+1008575,"Northampton, NC",None,Feature ID,2023 GNIS,No
+1008576,"Orange, NC",None,Feature ID,2023 GNIS,No
+1008577,"Person, NC",None,Feature ID,2023 GNIS,No
+1008578,"Pitt, NC",None,Feature ID,2023 GNIS,No
+1008579,"Polk, NC",None,Feature ID,2023 GNIS,No
+1008580,"Randolph, NC",None,Feature ID,2023 GNIS,No
+1008581,"Richmond, NC",None,Feature ID,2023 GNIS,No
+1008582,"Rockingham, NC",None,Feature ID,2023 GNIS,No
+1008583,"Rowan, NC",None,Feature ID,2023 GNIS,No
+1008584,"Rutherford, NC",None,Feature ID,2023 GNIS,No
+1008585,"Scotland, NC",None,Feature ID,2023 GNIS,No
+1008586,"Stokes, NC",None,Feature ID,2023 GNIS,No
+1008587,"Surry, NC",None,Feature ID,2023 GNIS,No
+1008588,"Swain, NC",None,Feature ID,2023 GNIS,No
+1008589,"Transylvania, NC",None,Feature ID,2023 GNIS,No
+1008590,"Union, NC",None,Feature ID,2023 GNIS,No
+1008591,"Vance, NC",None,Feature ID,2023 GNIS,No
+1008592,"Wake, NC",None,Feature ID,2023 GNIS,No
+1008593,"Warren, NC",None,Feature ID,2023 GNIS,No
+1008594,"Watauga, NC",None,Feature ID,2023 GNIS,No
+1008595,"Wilkes, NC",None,Feature ID,2023 GNIS,No
+1008596,"Wilson, NC",None,Feature ID,2023 GNIS,No
+1008597,"Yadkin, NC",None,Feature ID,2023 GNIS,No
+1008598,"Yancey, NC",None,Feature ID,2023 GNIS,No
+1023355,"Pamlico, NC",None,Feature ID,2023 GNIS,No
+1025822,"Chowan, NC",None,Feature ID,2023 GNIS,No
+1025833,"Macon, NC",None,Feature ID,2023 GNIS,No
+1025834,"Madison, NC",None,Feature ID,2023 GNIS,No
+1025836,"McDowell, NC",None,Feature ID,2023 GNIS,No
+1025841,"Perquimans, NC",None,Feature ID,2023 GNIS,No
+1025844,"Stanly, NC",None,Feature ID,2023 GNIS,No
+1026123,"Craven, NC",None,Feature ID,2023 GNIS,No
+1026124,"Cumberland, NC",None,Feature ID,2023 GNIS,No
+1026125,"Currituck, NC",None,Feature ID,2023 GNIS,No
+1026126,"Gates, NC",None,Feature ID,2023 GNIS,No
+1026127,"Hertford, NC",None,Feature ID,2023 GNIS,No
+1026128,"Wayne, NC",None,Feature ID,2023 GNIS,No
+1026129,"Pender, NC",None,Feature ID,2023 GNIS,No
+1026130,"Robeson, NC",None,Feature ID,2023 GNIS,No
+1026131,"Sampson, NC",None,Feature ID,2023 GNIS,No
+1026132,"Duplin, NC",None,Feature ID,2023 GNIS,No
+1026133,"Dare, NC",None,Feature ID,2023 GNIS,No
+1026327,"Johnston, NC",None,Feature ID,2023 GNIS,No
+1026328,"Martin, NC",None,Feature ID,2023 GNIS,No
+1026329,"New Hanover, NC",None,Feature ID,2023 GNIS,No
+1026330,"Pasquotank, NC",None,Feature ID,2023 GNIS,No
+1026331,"Washington, NC",None,Feature ID,2023 GNIS,No
+1026332,"Tyrrell, NC",None,Feature ID,2023 GNIS,No
+1026333,"Beaufort, NC",None,Feature ID,2023 GNIS,No
+1026334,"Bertie, NC",None,Feature ID,2023 GNIS,No
+1026335,"Camden, NC",None,Feature ID,2023 GNIS,No
+1026336,"Bladen, NC",None,Feature ID,2023 GNIS,No
+1026337,"Carteret, NC",None,Feature ID,2023 GNIS,No
+1026338,"Jones, NC",None,Feature ID,2023 GNIS,No
+1026339,"Columbus, NC",None,Feature ID,2023 GNIS,No
+1026340,"Brunswick, NC",None,Feature ID,2023 GNIS,No
+1026341,"Onslow, NC",None,Feature ID,2023 GNIS,No
+1027616,North Carolina,None,Feature ID,2023 GNIS,No
+1034203,"Sheridan, ND",None,Feature ID,2023 GNIS,No
+1034204,"Wells, ND",None,Feature ID,2023 GNIS,No
+1034205,"Oliver, ND",None,Feature ID,2023 GNIS,No
+1034206,"Kidder, ND",None,Feature ID,2023 GNIS,No
+1034207,"Morton, ND",None,Feature ID,2023 GNIS,No
+1034208,"Sioux, ND",None,Feature ID,2023 GNIS,No
+1034209,"Hettinger, ND",None,Feature ID,2023 GNIS,No
+1034210,"Adams, ND",None,Feature ID,2023 GNIS,No
+1034211,"McIntosh, ND",None,Feature ID,2023 GNIS,No
+1034212,"Pembina, ND",None,Feature ID,2023 GNIS,No
+1034213,"Towner, ND",None,Feature ID,2023 GNIS,No
+1034214,"Walsh, ND",None,Feature ID,2023 GNIS,No
+1034215,"Ramsey, ND",None,Feature ID,2023 GNIS,No
+1034216,"Benson, ND",None,Feature ID,2023 GNIS,No
+1034217,"Nelson, ND",None,Feature ID,2023 GNIS,No
+1034218,"Grand Forks, ND",None,Feature ID,2023 GNIS,No
+1034219,"Griggs, ND",None,Feature ID,2023 GNIS,No
+1034220,"Steele, ND",None,Feature ID,2023 GNIS,No
+1034221,"Traill, ND",None,Feature ID,2023 GNIS,No
+1034222,"Eddy, ND",None,Feature ID,2023 GNIS,No
+1034223,"Foster, ND",None,Feature ID,2023 GNIS,No
+1034224,"Stutsman, ND",None,Feature ID,2023 GNIS,No
+1034225,"Barnes, ND",None,Feature ID,2023 GNIS,No
+1034226,"Cass, ND",None,Feature ID,2023 GNIS,No
+1034227,"Bottineau, ND",None,Feature ID,2023 GNIS,No
+1034228,"Rolette, ND",None,Feature ID,2023 GNIS,No
+1034229,"Renville, ND",None,Feature ID,2023 GNIS,No
+1034230,"Pierce, ND",None,Feature ID,2023 GNIS,No
+1034231,"Ward, ND",None,Feature ID,2023 GNIS,No
+1034232,"McLean, ND",None,Feature ID,2023 GNIS,No
+1034233,"Mercer, ND",None,Feature ID,2023 GNIS,No
+1034234,"Divide, ND",None,Feature ID,2023 GNIS,No
+1034235,"Burke, ND",None,Feature ID,2023 GNIS,No
+1035299,"McKenzie, ND",None,Feature ID,2023 GNIS,No
+1035300,"Grant, ND",None,Feature ID,2023 GNIS,No
+1035301,"Ransom, ND",None,Feature ID,2023 GNIS,No
+1035302,"Richland, ND",None,Feature ID,2023 GNIS,No
+1035303,"Sargent, ND",None,Feature ID,2023 GNIS,No
+1035304,"Cavalier, ND",None,Feature ID,2023 GNIS,No
+1035305,"McHenry, ND",None,Feature ID,2023 GNIS,No
+1035306,"Williams, ND",None,Feature ID,2023 GNIS,No
+1035307,"Mountrail, ND",None,Feature ID,2023 GNIS,No
+1035614,"Burleigh, ND",None,Feature ID,2023 GNIS,No
+1035615,"Emmons, ND",None,Feature ID,2023 GNIS,No
+1035616,"Billings, ND",None,Feature ID,2023 GNIS,No
+1035617,"Golden Valley, ND",None,Feature ID,2023 GNIS,No
+1035618,"Stark, ND",None,Feature ID,2023 GNIS,No
+1035619,"Bowman, ND",None,Feature ID,2023 GNIS,No
+1035620,"Logan, ND",None,Feature ID,2023 GNIS,No
+1035621,"LaMoure, ND",None,Feature ID,2023 GNIS,No
+1035622,"Dickey, ND",None,Feature ID,2023 GNIS,No
+1035623,"Dunn, ND",None,Feature ID,2023 GNIS,No
+1035896,"Slope, ND",None,Feature ID,2023 GNIS,No
+1065575,"Belmont, OH",None,Feature ID,2023 GNIS,No
+1065576,"Stark, OH",None,Feature ID,2023 GNIS,No
+1074014,"Adams, OH",None,Feature ID,2023 GNIS,No
+1074015,"Allen, OH",None,Feature ID,2023 GNIS,No
+1074016,"Ashland, OH",None,Feature ID,2023 GNIS,No
+1074017,"Ashtabula, OH",None,Feature ID,2023 GNIS,No
+1074018,"Athens, OH",None,Feature ID,2023 GNIS,No
+1074019,"Auglaize, OH",None,Feature ID,2023 GNIS,No
+1074020,"Brown, OH",None,Feature ID,2023 GNIS,No
+1074021,"Butler, OH",None,Feature ID,2023 GNIS,No
+1074022,"Carroll, OH",None,Feature ID,2023 GNIS,No
+1074023,"Champaign, OH",None,Feature ID,2023 GNIS,No
+1074024,"Clark, OH",None,Feature ID,2023 GNIS,No
+1074025,"Clermont, OH",None,Feature ID,2023 GNIS,No
+1074026,"Clinton, OH",None,Feature ID,2023 GNIS,No
+1074027,"Columbiana, OH",None,Feature ID,2023 GNIS,No
+1074028,"Coshocton, OH",None,Feature ID,2023 GNIS,No
+1074029,"Crawford, OH",None,Feature ID,2023 GNIS,No
+1074030,"Cuyahoga, OH",None,Feature ID,2023 GNIS,No
+1074031,"Darke, OH",None,Feature ID,2023 GNIS,No
+1074032,"Defiance, OH",None,Feature ID,2023 GNIS,No
+1074033,"Delaware, OH",None,Feature ID,2023 GNIS,No
+1074034,"Erie, OH",None,Feature ID,2023 GNIS,No
+1074035,"Fairfield, OH",None,Feature ID,2023 GNIS,No
+1074036,"Fayette, OH",None,Feature ID,2023 GNIS,No
+1074037,"Franklin, OH",None,Feature ID,2023 GNIS,No
+1074038,"Fulton, OH",None,Feature ID,2023 GNIS,No
+1074039,"Gallia, OH",None,Feature ID,2023 GNIS,No
+1074040,"Geauga, OH",None,Feature ID,2023 GNIS,No
+1074041,"Greene, OH",None,Feature ID,2023 GNIS,No
+1074042,"Guernsey, OH",None,Feature ID,2023 GNIS,No
+1074043,"Hamilton, OH",None,Feature ID,2023 GNIS,No
+1074044,"Hancock, OH",None,Feature ID,2023 GNIS,No
+1074045,"Hardin, OH",None,Feature ID,2023 GNIS,No
+1074046,"Harrison, OH",None,Feature ID,2023 GNIS,No
+1074047,"Henry, OH",None,Feature ID,2023 GNIS,No
+1074048,"Highland, OH",None,Feature ID,2023 GNIS,No
+1074049,"Hocking, OH",None,Feature ID,2023 GNIS,No
+1074050,"Holmes, OH",None,Feature ID,2023 GNIS,No
+1074051,"Huron, OH",None,Feature ID,2023 GNIS,No
+1074052,"Jackson, OH",None,Feature ID,2023 GNIS,No
+1074053,"Jefferson, OH",None,Feature ID,2023 GNIS,No
+1074054,"Knox, OH",None,Feature ID,2023 GNIS,No
+1074055,"Lake, OH",None,Feature ID,2023 GNIS,No
+1074056,"Lawrence, OH",None,Feature ID,2023 GNIS,No
+1074057,"Licking, OH",None,Feature ID,2023 GNIS,No
+1074058,"Logan, OH",None,Feature ID,2023 GNIS,No
+1074059,"Lorain, OH",None,Feature ID,2023 GNIS,No
+1074060,"Lucas, OH",None,Feature ID,2023 GNIS,No
+1074061,"Madison, OH",None,Feature ID,2023 GNIS,No
+1074062,"Mahoning, OH",None,Feature ID,2023 GNIS,No
+1074063,"Marion, OH",None,Feature ID,2023 GNIS,No
+1074064,"Medina, OH",None,Feature ID,2023 GNIS,No
+1074065,"Meigs, OH",None,Feature ID,2023 GNIS,No
+1074066,"Mercer, OH",None,Feature ID,2023 GNIS,No
+1074067,"Miami, OH",None,Feature ID,2023 GNIS,No
+1074068,"Monroe, OH",None,Feature ID,2023 GNIS,No
+1074069,"Montgomery, OH",None,Feature ID,2023 GNIS,No
+1074070,"Morgan, OH",None,Feature ID,2023 GNIS,No
+1074071,"Morrow, OH",None,Feature ID,2023 GNIS,No
+1074072,"Muskingum, OH",None,Feature ID,2023 GNIS,No
+1074073,"Noble, OH",None,Feature ID,2023 GNIS,No
+1074074,"Ottawa, OH",None,Feature ID,2023 GNIS,No
+1074075,"Paulding, OH",None,Feature ID,2023 GNIS,No
+1074076,"Perry, OH",None,Feature ID,2023 GNIS,No
+1074077,"Pickaway, OH",None,Feature ID,2023 GNIS,No
+1074078,"Pike, OH",None,Feature ID,2023 GNIS,No
+1074079,"Portage, OH",None,Feature ID,2023 GNIS,No
+1074080,"Preble, OH",None,Feature ID,2023 GNIS,No
+1074081,"Putnam, OH",None,Feature ID,2023 GNIS,No
+1074082,"Richland, OH",None,Feature ID,2023 GNIS,No
+1074083,"Ross, OH",None,Feature ID,2023 GNIS,No
+1074084,"Sandusky, OH",None,Feature ID,2023 GNIS,No
+1074085,"Scioto, OH",None,Feature ID,2023 GNIS,No
+1074086,"Seneca, OH",None,Feature ID,2023 GNIS,No
+1074087,"Shelby, OH",None,Feature ID,2023 GNIS,No
+1074088,"Summit, OH",None,Feature ID,2023 GNIS,No
+1074089,"Trumbull, OH",None,Feature ID,2023 GNIS,No
+1074090,"Tuscarawas, OH",None,Feature ID,2023 GNIS,No
+1074091,"Union, OH",None,Feature ID,2023 GNIS,No
+1074092,"Van Wert, OH",None,Feature ID,2023 GNIS,No
+1074093,"Vinton, OH",None,Feature ID,2023 GNIS,No
+1074094,"Warren, OH",None,Feature ID,2023 GNIS,No
+1074095,"Washington, OH",None,Feature ID,2023 GNIS,No
+1074096,"Wayne, OH",None,Feature ID,2023 GNIS,No
+1074097,"Williams, OH",None,Feature ID,2023 GNIS,No
+1074098,"Wood, OH",None,Feature ID,2023 GNIS,No
+1074099,"Wyandot, OH",None,Feature ID,2023 GNIS,No
+1085497,Ohio,None,Feature ID,2023 GNIS,No
+1101788,"Adair, OK",None,Feature ID,2023 GNIS,No
+1101789,"Alfalfa, OK",None,Feature ID,2023 GNIS,No
+1101790,"Atoka, OK",None,Feature ID,2023 GNIS,No
+1101791,"Beaver, OK",None,Feature ID,2023 GNIS,No
+1101792,"Beckham, OK",None,Feature ID,2023 GNIS,No
+1101793,"Blaine, OK",None,Feature ID,2023 GNIS,No
+1101794,"Bryan, OK",None,Feature ID,2023 GNIS,No
+1101795,"Caddo, OK",None,Feature ID,2023 GNIS,No
+1101796,"Canadian, OK",None,Feature ID,2023 GNIS,No
+1101797,"Carter, OK",None,Feature ID,2023 GNIS,No
+1101798,"Cherokee, OK",None,Feature ID,2023 GNIS,No
+1101799,"Choctaw, OK",None,Feature ID,2023 GNIS,No
+1101800,"Cimarron, OK",None,Feature ID,2023 GNIS,No
+1101801,"Cleveland, OK",None,Feature ID,2023 GNIS,No
+1101802,"Coal, OK",None,Feature ID,2023 GNIS,No
+1101803,"Comanche, OK",None,Feature ID,2023 GNIS,No
+1101804,"Cotton, OK",None,Feature ID,2023 GNIS,No
+1101805,"Craig, OK",None,Feature ID,2023 GNIS,No
+1101806,"Creek, OK",None,Feature ID,2023 GNIS,No
+1101807,"Custer, OK",None,Feature ID,2023 GNIS,No
+1101808,"Delaware, OK",None,Feature ID,2023 GNIS,No
+1101809,"Dewey, OK",None,Feature ID,2023 GNIS,No
+1101810,"Ellis, OK",None,Feature ID,2023 GNIS,No
+1101811,"Garfield, OK",None,Feature ID,2023 GNIS,No
+1101812,"Garvin, OK",None,Feature ID,2023 GNIS,No
+1101813,"Grady, OK",None,Feature ID,2023 GNIS,No
+1101814,"Grant, OK",None,Feature ID,2023 GNIS,No
+1101815,"Greer, OK",None,Feature ID,2023 GNIS,No
+1101816,"Harmon, OK",None,Feature ID,2023 GNIS,No
+1101817,"Harper, OK",None,Feature ID,2023 GNIS,No
+1101818,"Haskell, OK",None,Feature ID,2023 GNIS,No
+1101819,"Hughes, OK",None,Feature ID,2023 GNIS,No
+1101820,"Jackson, OK",None,Feature ID,2023 GNIS,No
+1101821,"Jefferson, OK",None,Feature ID,2023 GNIS,No
+1101822,"Johnston, OK",None,Feature ID,2023 GNIS,No
+1101823,"Kay, OK",None,Feature ID,2023 GNIS,No
+1101824,"Kingfisher, OK",None,Feature ID,2023 GNIS,No
+1101825,"Kiowa, OK",None,Feature ID,2023 GNIS,No
+1101826,"Latimer, OK",None,Feature ID,2023 GNIS,No
+1101827,"Le Flore, OK",None,Feature ID,2023 GNIS,No
+1101828,"Lincoln, OK",None,Feature ID,2023 GNIS,No
+1101829,"Logan, OK",None,Feature ID,2023 GNIS,No
+1101830,"Love, OK",None,Feature ID,2023 GNIS,No
+1101831,"Major, OK",None,Feature ID,2023 GNIS,No
+1101832,"Marshall, OK",None,Feature ID,2023 GNIS,No
+1101833,"Mayes, OK",None,Feature ID,2023 GNIS,No
+1101834,"McClain, OK",None,Feature ID,2023 GNIS,No
+1101835,"McCurtain, OK",None,Feature ID,2023 GNIS,No
+1101836,"McIntosh, OK",None,Feature ID,2023 GNIS,No
+1101837,"Murray, OK",None,Feature ID,2023 GNIS,No
+1101838,"Muskogee, OK",None,Feature ID,2023 GNIS,No
+1101839,"Noble, OK",None,Feature ID,2023 GNIS,No
+1101840,"Nowata, OK",None,Feature ID,2023 GNIS,No
+1101841,"Okfuskee, OK",None,Feature ID,2023 GNIS,No
+1101842,"Oklahoma, OK",None,Feature ID,2023 GNIS,No
+1101843,"Okmulgee, OK",None,Feature ID,2023 GNIS,No
+1101844,"Osage, OK",None,Feature ID,2023 GNIS,No
+1101845,"Ottawa, OK",None,Feature ID,2023 GNIS,No
+1101846,"Pawnee, OK",None,Feature ID,2023 GNIS,No
+1101847,"Payne, OK",None,Feature ID,2023 GNIS,No
+1101848,"Pittsburg, OK",None,Feature ID,2023 GNIS,No
+1101849,"Pontotoc, OK",None,Feature ID,2023 GNIS,No
+1101850,"Pottawatomie, OK",None,Feature ID,2023 GNIS,No
+1101851,"Pushmataha, OK",None,Feature ID,2023 GNIS,No
+1101852,"Roger Mills, OK",None,Feature ID,2023 GNIS,No
+1101853,"Rogers, OK",None,Feature ID,2023 GNIS,No
+1101854,"Seminole, OK",None,Feature ID,2023 GNIS,No
+1101855,"Sequoyah, OK",None,Feature ID,2023 GNIS,No
+1101856,"Stephens, OK",None,Feature ID,2023 GNIS,No
+1101857,"Texas, OK",None,Feature ID,2023 GNIS,No
+1101858,"Tillman, OK",None,Feature ID,2023 GNIS,No
+1101859,"Tulsa, OK",None,Feature ID,2023 GNIS,No
+1101860,"Wagoner, OK",None,Feature ID,2023 GNIS,No
+1101861,"Washington, OK",None,Feature ID,2023 GNIS,No
+1101862,"Washita, OK",None,Feature ID,2023 GNIS,No
+1101863,"Woods, OK",None,Feature ID,2023 GNIS,No
+1101864,"Woodward, OK",None,Feature ID,2023 GNIS,No
+1102857,Oklahoma,None,Feature ID,2023 GNIS,No
+1135845,"Baker, OR",None,Feature ID,2023 GNIS,No
+1135846,"Clatsop, OR",None,Feature ID,2023 GNIS,No
+1135847,"Columbia, OR",None,Feature ID,2023 GNIS,No
+1135848,"Coos, OR",None,Feature ID,2023 GNIS,No
+1135849,"Douglas, OR",None,Feature ID,2023 GNIS,No
+1135850,"Gilliam, OR",None,Feature ID,2023 GNIS,No
+1135851,"Grant, OR",None,Feature ID,2023 GNIS,No
+1135852,"Harney, OR",None,Feature ID,2023 GNIS,No
+1135853,"Jackson, OR",None,Feature ID,2023 GNIS,No
+1135854,"Lake, OR",None,Feature ID,2023 GNIS,No
+1135855,"Lane, OR",None,Feature ID,2023 GNIS,No
+1135856,"Lincoln, OR",None,Feature ID,2023 GNIS,No
+1135857,"Linn, OR",None,Feature ID,2023 GNIS,No
+1135858,"Malheur, OR",None,Feature ID,2023 GNIS,No
+1135859,"Marion, OR",None,Feature ID,2023 GNIS,No
+1135860,"Morrow, OR",None,Feature ID,2023 GNIS,No
+1135861,"Multnomah, OR",None,Feature ID,2023 GNIS,No
+1135862,"Polk, OR",None,Feature ID,2023 GNIS,No
+1135863,"Sherman, OR",None,Feature ID,2023 GNIS,No
+1135864,"Tillamook, OR",None,Feature ID,2023 GNIS,No
+1135865,"Wheeler, OR",None,Feature ID,2023 GNIS,No
+1135866,"Yamhill, OR",None,Feature ID,2023 GNIS,No
+1155107,Oregon,None,Feature ID,2023 GNIS,No
+1155126,"Benton, OR",None,Feature ID,2023 GNIS,No
+1155127,"Clackamas, OR",None,Feature ID,2023 GNIS,No
+1155128,"Crook, OR",None,Feature ID,2023 GNIS,No
+1155129,"Curry, OR",None,Feature ID,2023 GNIS,No
+1155130,"Deschutes, OR",None,Feature ID,2023 GNIS,No
+1155131,"Hood River, OR",None,Feature ID,2023 GNIS,No
+1155132,"Jefferson, OR",None,Feature ID,2023 GNIS,No
+1155133,"Josephine, OR",None,Feature ID,2023 GNIS,No
+1155134,"Klamath, OR",None,Feature ID,2023 GNIS,No
+1155135,"Wallowa, OR",None,Feature ID,2023 GNIS,No
+1155136,"Wasco, OR",None,Feature ID,2023 GNIS,No
+1155137,"Washington, OR",None,Feature ID,2023 GNIS,No
+1156673,"Umatilla, OR",None,Feature ID,2023 GNIS,No
+1164165,"Union, OR",None,Feature ID,2023 GNIS,No
+1209171,"Bedford, PA",None,Feature ID,2023 GNIS,No
+1209172,"Berks, PA",None,Feature ID,2023 GNIS,No
+1209173,"Bucks, PA",None,Feature ID,2023 GNIS,No
+1209174,"Chester, PA",None,Feature ID,2023 GNIS,No
+1209175,"Clearfield, PA",None,Feature ID,2023 GNIS,No
+1209176,"Cumberland, PA",None,Feature ID,2023 GNIS,No
+1209177,"Delaware, PA",None,Feature ID,2023 GNIS,No
+1209178,"Erie, PA",None,Feature ID,2023 GNIS,No
+1209179,"Fayette, PA",None,Feature ID,2023 GNIS,No
+1209180,"Juniata, PA",None,Feature ID,2023 GNIS,No
+1209181,"Lancaster, PA",None,Feature ID,2023 GNIS,No
+1209182,"Lehigh, PA",None,Feature ID,2023 GNIS,No
+1209183,"Luzerne, PA",None,Feature ID,2023 GNIS,No
+1209184,"Monroe, PA",None,Feature ID,2023 GNIS,No
+1209185,"Northampton, PA",None,Feature ID,2023 GNIS,No
+1209186,"Northumberland, PA",None,Feature ID,2023 GNIS,No
+1209187,"Philadelphia, PA",None,Feature ID,2023 GNIS,No
+1209188,"Somerset, PA",None,Feature ID,2023 GNIS,No
+1209189,"Tioga, PA",None,Feature ID,2023 GNIS,No
+1209190,"Washington, PA",None,Feature ID,2023 GNIS,No
+1209191,"Westmoreland, PA",None,Feature ID,2023 GNIS,No
+1209192,"Wyoming, PA",None,Feature ID,2023 GNIS,No
+1209193,"York, PA",None,Feature ID,2023 GNIS,No
+1210234,"Clarion, PA",None,Feature ID,2023 GNIS,No
+1210235,"McKean, PA",None,Feature ID,2023 GNIS,No
+1213656,"Adams, PA",None,Feature ID,2023 GNIS,No
+1213657,"Allegheny, PA",None,Feature ID,2023 GNIS,No
+1213658,"Armstrong, PA",None,Feature ID,2023 GNIS,No
+1213659,"Blair, PA",None,Feature ID,2023 GNIS,No
+1213660,"Bradford, PA",None,Feature ID,2023 GNIS,No
+1213661,"Butler, PA",None,Feature ID,2023 GNIS,No
+1213662,"Cambria, PA",None,Feature ID,2023 GNIS,No
+1213663,"Cameron, PA",None,Feature ID,2023 GNIS,No
+1213664,"Carbon, PA",None,Feature ID,2023 GNIS,No
+1213665,"Columbia, PA",None,Feature ID,2023 GNIS,No
+1213666,"Crawford, PA",None,Feature ID,2023 GNIS,No
+1213667,"Dauphin, PA",None,Feature ID,2023 GNIS,No
+1213668,"Elk, PA",None,Feature ID,2023 GNIS,No
+1213669,"Forest, PA",None,Feature ID,2023 GNIS,No
+1213670,"Franklin, PA",None,Feature ID,2023 GNIS,No
+1213671,"Fulton, PA",None,Feature ID,2023 GNIS,No
+1213672,"Huntingdon, PA",None,Feature ID,2023 GNIS,No
+1213673,"Indiana, PA",None,Feature ID,2023 GNIS,No
+1213674,"Jefferson, PA",None,Feature ID,2023 GNIS,No
+1213675,"Lackawanna, PA",None,Feature ID,2023 GNIS,No
+1213676,"Lawrence, PA",None,Feature ID,2023 GNIS,No
+1213677,"Lycoming, PA",None,Feature ID,2023 GNIS,No
+1213678,"Mercer, PA",None,Feature ID,2023 GNIS,No
+1213679,"Mifflin, PA",None,Feature ID,2023 GNIS,No
+1213680,"Montgomery, PA",None,Feature ID,2023 GNIS,No
+1213681,"Montour, PA",None,Feature ID,2023 GNIS,No
+1213682,"Perry, PA",None,Feature ID,2023 GNIS,No
+1213683,"Pike, PA",None,Feature ID,2023 GNIS,No
+1213684,"Potter, PA",None,Feature ID,2023 GNIS,No
+1213685,"Schuylkill, PA",None,Feature ID,2023 GNIS,No
+1213686,"Snyder, PA",None,Feature ID,2023 GNIS,No
+1213687,"Sullivan, PA",None,Feature ID,2023 GNIS,No
+1213688,"Susquehanna, PA",None,Feature ID,2023 GNIS,No
+1213689,"Union, PA",None,Feature ID,2023 GNIS,No
+1213690,"Venango, PA",None,Feature ID,2023 GNIS,No
+1213691,"Warren, PA",None,Feature ID,2023 GNIS,No
+1213692,"Wayne, PA",None,Feature ID,2023 GNIS,No
+1214033,"Greene, PA",None,Feature ID,2023 GNIS,No
+1214034,"Lebanon, PA",None,Feature ID,2023 GNIS,No
+1214112,"Beaver, PA",None,Feature ID,2023 GNIS,No
+1214720,"Centre, PA",None,Feature ID,2023 GNIS,No
+1214721,"Clinton, PA",None,Feature ID,2023 GNIS,No
+1219777,"Bristol, RI",None,Feature ID,2023 GNIS,No
+1219778,"Kent, RI",None,Feature ID,2023 GNIS,No
+1219779,"Newport, RI",None,Feature ID,2023 GNIS,No
+1219781,"Providence, RI",None,Feature ID,2023 GNIS,No
+1219782,"Washington, RI",None,Feature ID,2023 GNIS,No
+1219835,Rhode Island,None,Feature ID,2023 GNIS,No
+1244251,"Lexington, SC",None,Feature ID,2023 GNIS,No
+1244717,"Sumter, SC",None,Feature ID,2023 GNIS,No
+1244832,"Oconee, SC",None,Feature ID,2023 GNIS,No
+1245489,"Greenville, SC",None,Feature ID,2023 GNIS,No
+1245652,"Lee, SC",None,Feature ID,2023 GNIS,No
+1245666,"Abbeville, SC",None,Feature ID,2023 GNIS,No
+1247979,"Aiken, SC",None,Feature ID,2023 GNIS,No
+1247980,"Allendale, SC",None,Feature ID,2023 GNIS,No
+1247981,"Anderson, SC",None,Feature ID,2023 GNIS,No
+1247982,"Bamberg, SC",None,Feature ID,2023 GNIS,No
+1247983,"Barnwell, SC",None,Feature ID,2023 GNIS,No
+1247984,"Beaufort, SC",None,Feature ID,2023 GNIS,No
+1247985,"Berkeley, SC",None,Feature ID,2023 GNIS,No
+1247986,"Calhoun, SC",None,Feature ID,2023 GNIS,No
+1247987,"Cherokee, SC",None,Feature ID,2023 GNIS,No
+1247988,"Chester, SC",None,Feature ID,2023 GNIS,No
+1247989,"Chesterfield, SC",None,Feature ID,2023 GNIS,No
+1247990,"Clarendon, SC",None,Feature ID,2023 GNIS,No
+1247991,"Colleton, SC",None,Feature ID,2023 GNIS,No
+1247992,"Darlington, SC",None,Feature ID,2023 GNIS,No
+1247993,"Dillon, SC",None,Feature ID,2023 GNIS,No
+1247998,"Dorchester, SC",None,Feature ID,2023 GNIS,No
+1247999,"Edgefield, SC",None,Feature ID,2023 GNIS,No
+1248000,"Fairfield, SC",None,Feature ID,2023 GNIS,No
+1248001,"Florence, SC",None,Feature ID,2023 GNIS,No
+1248002,"Georgetown, SC",None,Feature ID,2023 GNIS,No
+1248003,"Greenwood, SC",None,Feature ID,2023 GNIS,No
+1248004,"Hampton, SC",None,Feature ID,2023 GNIS,No
+1248005,"Horry, SC",None,Feature ID,2023 GNIS,No
+1248006,"Jasper, SC",None,Feature ID,2023 GNIS,No
+1248007,"Kershaw, SC",None,Feature ID,2023 GNIS,No
+1248008,"Lancaster, SC",None,Feature ID,2023 GNIS,No
+1248009,"Laurens, SC",None,Feature ID,2023 GNIS,No
+1248010,"Marion, SC",None,Feature ID,2023 GNIS,No
+1248011,"Marlboro, SC",None,Feature ID,2023 GNIS,No
+1248012,"McCormick, SC",None,Feature ID,2023 GNIS,No
+1248013,"Newberry, SC",None,Feature ID,2023 GNIS,No
+1248014,"Orangeburg, SC",None,Feature ID,2023 GNIS,No
+1248015,"Pickens, SC",None,Feature ID,2023 GNIS,No
+1248016,"Saluda, SC",None,Feature ID,2023 GNIS,No
+1248017,"Union, SC",None,Feature ID,2023 GNIS,No
+1248018,"Williamsburg, SC",None,Feature ID,2023 GNIS,No
+1248019,"York, SC",None,Feature ID,2023 GNIS,No
+1248592,"Spartanburg, SC",None,Feature ID,2023 GNIS,No
+1249299,"Richland, SC",None,Feature ID,2023 GNIS,No
+1252740,"Charleston, SC",None,Feature ID,2023 GNIS,No
+1265759,"Marshall, SD",None,Feature ID,2023 GNIS,No
+1265760,"Faulk, SD",None,Feature ID,2023 GNIS,No
+1265761,"Potter, SD",None,Feature ID,2023 GNIS,No
+1265762,"McPherson, SD",None,Feature ID,2023 GNIS,No
+1265763,"Union, SD",None,Feature ID,2023 GNIS,No
+1265764,"Clay, SD",None,Feature ID,2023 GNIS,No
+1265765,"Gregory, SD",None,Feature ID,2023 GNIS,No
+1265766,"Hamlin, SD",None,Feature ID,2023 GNIS,No
+1265767,"Buffalo, SD",None,Feature ID,2023 GNIS,No
+1265768,"Brule, SD",None,Feature ID,2023 GNIS,No
+1265769,"Lincoln, SD",None,Feature ID,2023 GNIS,No
+1265770,"Turner, SD",None,Feature ID,2023 GNIS,No
+1265771,"Hutchinson, SD",None,Feature ID,2023 GNIS,No
+1265772,"Minnehaha, SD",None,Feature ID,2023 GNIS,No
+1265773,"McCook, SD",None,Feature ID,2023 GNIS,No
+1265774,"Hughes, SD",None,Feature ID,2023 GNIS,No
+1265775,"Moody, SD",None,Feature ID,2023 GNIS,No
+1265776,"Lake, SD",None,Feature ID,2023 GNIS,No
+1265777,"Miner, SD",None,Feature ID,2023 GNIS,No
+1265778,"Jerauld, SD",None,Feature ID,2023 GNIS,No
+1265779,"Brookings, SD",None,Feature ID,2023 GNIS,No
+1265780,"Kingsbury, SD",None,Feature ID,2023 GNIS,No
+1265781,"Deuel, SD",None,Feature ID,2023 GNIS,No
+1265782,"Grant, SD",None,Feature ID,2023 GNIS,No
+1265783,"Hand, SD",None,Feature ID,2023 GNIS,No
+1265784,"Tripp, SD",None,Feature ID,2023 GNIS,No
+1265785,"Brown, SD",None,Feature ID,2023 GNIS,No
+1265786,"Roberts, SD",None,Feature ID,2023 GNIS,No
+1265787,"Fall River, SD",None,Feature ID,2023 GNIS,No
+1265788,"Custer, SD",None,Feature ID,2023 GNIS,No
+1265789,"Lyman, SD",None,Feature ID,2023 GNIS,No
+1265790,"Day, SD",None,Feature ID,2023 GNIS,No
+1265791,"Codington, SD",None,Feature ID,2023 GNIS,No
+1265792,"Harding, SD",None,Feature ID,2023 GNIS,No
+1265793,"Butte, SD",None,Feature ID,2023 GNIS,No
+1265794,"Jackson, SD",None,Feature ID,2023 GNIS,No
+1265811,"Corson, SD",None,Feature ID,2023 GNIS,No
+1265812,"Bennett, SD",None,Feature ID,2023 GNIS,No
+1266972,"Edmunds, SD",None,Feature ID,2023 GNIS,No
+1266973,"Walworth, SD",None,Feature ID,2023 GNIS,No
+1266974,"Campbell, SD",None,Feature ID,2023 GNIS,No
+1266975,"Yankton, SD",None,Feature ID,2023 GNIS,No
+1266976,"Charles Mix, SD",None,Feature ID,2023 GNIS,No
+1266977,"Sanborn, SD",None,Feature ID,2023 GNIS,No
+1266978,"Douglas, SD",None,Feature ID,2023 GNIS,No
+1266979,"Hanson, SD",None,Feature ID,2023 GNIS,No
+1266980,"Davison, SD",None,Feature ID,2023 GNIS,No
+1266981,"Jones, SD",None,Feature ID,2023 GNIS,No
+1266982,"Sully, SD",None,Feature ID,2023 GNIS,No
+1266983,"Aurora, SD",None,Feature ID,2023 GNIS,No
+1266984,"Hyde, SD",None,Feature ID,2023 GNIS,No
+1266985,"Clark, SD",None,Feature ID,2023 GNIS,No
+1266986,"Beadle, SD",None,Feature ID,2023 GNIS,No
+1266987,"Spink, SD",None,Feature ID,2023 GNIS,No
+1266988,"Haakon, SD",None,Feature ID,2023 GNIS,No
+1266989,"Todd, SD",None,Feature ID,2023 GNIS,No
+1266990,"Perkins, SD",None,Feature ID,2023 GNIS,No
+1266991,"Meade, SD",None,Feature ID,2023 GNIS,No
+1266992,"Oglala Lakota, SD",None,Feature ID,2023 GNIS,No
+1266993,"Ziebach, SD",None,Feature ID,2023 GNIS,No
+1266994,"Dewey, SD",None,Feature ID,2023 GNIS,No
+1266995,"Pennington, SD",None,Feature ID,2023 GNIS,No
+1266996,"Lawrence, SD",None,Feature ID,2023 GNIS,No
+1266997,"Bon Homme, SD",None,Feature ID,2023 GNIS,No
+1266998,"Stanley, SD",None,Feature ID,2023 GNIS,No
+1267177,"Mellette, SD",None,Feature ID,2023 GNIS,No
+1325873,Tennessee,None,Feature ID,2023 GNIS,No
+1383786,"Anderson, TX",None,Feature ID,2023 GNIS,No
+1383787,"Andrews, TX",None,Feature ID,2023 GNIS,No
+1383788,"Angelina, TX",None,Feature ID,2023 GNIS,No
+1383789,"Aransas, TX",None,Feature ID,2023 GNIS,No
+1383790,"Archer, TX",None,Feature ID,2023 GNIS,No
+1383791,"Armstrong, TX",None,Feature ID,2023 GNIS,No
+1383792,"Atascosa, TX",None,Feature ID,2023 GNIS,No
+1383793,"Austin, TX",None,Feature ID,2023 GNIS,No
+1383794,"Bailey, TX",None,Feature ID,2023 GNIS,No
+1383795,"Bandera, TX",None,Feature ID,2023 GNIS,No
+1383796,"Bastrop, TX",None,Feature ID,2023 GNIS,No
+1383797,"Baylor, TX",None,Feature ID,2023 GNIS,No
+1383798,"Bee, TX",None,Feature ID,2023 GNIS,No
+1383799,"Bell, TX",None,Feature ID,2023 GNIS,No
+1383800,"Bexar, TX",None,Feature ID,2023 GNIS,No
+1383801,"Blanco, TX",None,Feature ID,2023 GNIS,No
+1383802,"Borden, TX",None,Feature ID,2023 GNIS,No
+1383803,"Bosque, TX",None,Feature ID,2023 GNIS,No
+1383804,"Bowie, TX",None,Feature ID,2023 GNIS,No
+1383805,"Brazoria, TX",None,Feature ID,2023 GNIS,No
+1383806,"Brazos, TX",None,Feature ID,2023 GNIS,No
+1383807,"Brewster, TX",None,Feature ID,2023 GNIS,No
+1383808,"Briscoe, TX",None,Feature ID,2023 GNIS,No
+1383809,"Brooks, TX",None,Feature ID,2023 GNIS,No
+1383810,"Brown, TX",None,Feature ID,2023 GNIS,No
+1383811,"Burleson, TX",None,Feature ID,2023 GNIS,No
+1383812,"Burnet, TX",None,Feature ID,2023 GNIS,No
+1383813,"Caldwell, TX",None,Feature ID,2023 GNIS,No
+1383814,"Calhoun, TX",None,Feature ID,2023 GNIS,No
+1383815,"Callahan, TX",None,Feature ID,2023 GNIS,No
+1383816,"Cameron, TX",None,Feature ID,2023 GNIS,No
+1383817,"Camp, TX",None,Feature ID,2023 GNIS,No
+1383818,"Carson, TX",None,Feature ID,2023 GNIS,No
+1383819,"Cass, TX",None,Feature ID,2023 GNIS,No
+1383820,"Castro, TX",None,Feature ID,2023 GNIS,No
+1383821,"Chambers, TX",None,Feature ID,2023 GNIS,No
+1383822,"Cherokee, TX",None,Feature ID,2023 GNIS,No
+1383823,"Childress, TX",None,Feature ID,2023 GNIS,No
+1383824,"Clay, TX",None,Feature ID,2023 GNIS,No
+1383825,"Cochran, TX",None,Feature ID,2023 GNIS,No
+1383826,"Coke, TX",None,Feature ID,2023 GNIS,No
+1383827,"Coleman, TX",None,Feature ID,2023 GNIS,No
+1383828,"Collin, TX",None,Feature ID,2023 GNIS,No
+1383829,"Collingsworth, TX",None,Feature ID,2023 GNIS,No
+1383830,"Colorado, TX",None,Feature ID,2023 GNIS,No
+1383831,"Comal, TX",None,Feature ID,2023 GNIS,No
+1383832,"Comanche, TX",None,Feature ID,2023 GNIS,No
+1383833,"Concho, TX",None,Feature ID,2023 GNIS,No
+1383834,"Cooke, TX",None,Feature ID,2023 GNIS,No
+1383835,"Coryell, TX",None,Feature ID,2023 GNIS,No
+1383836,"Cottle, TX",None,Feature ID,2023 GNIS,No
+1383837,"Crane, TX",None,Feature ID,2023 GNIS,No
+1383838,"Crockett, TX",None,Feature ID,2023 GNIS,No
+1383839,"Crosby, TX",None,Feature ID,2023 GNIS,No
+1383840,"Culberson, TX",None,Feature ID,2023 GNIS,No
+1383841,"Dallam, TX",None,Feature ID,2023 GNIS,No
+1383842,"Dallas, TX",None,Feature ID,2023 GNIS,No
+1383843,"Dawson, TX",None,Feature ID,2023 GNIS,No
+1383844,"DeWitt, TX",None,Feature ID,2023 GNIS,No
+1383845,"Deaf Smith, TX",None,Feature ID,2023 GNIS,No
+1383846,"Delta, TX",None,Feature ID,2023 GNIS,No
+1383847,"Denton, TX",None,Feature ID,2023 GNIS,No
+1383848,"Dickens, TX",None,Feature ID,2023 GNIS,No
+1383849,"Dimmit, TX",None,Feature ID,2023 GNIS,No
+1383850,"Donley, TX",None,Feature ID,2023 GNIS,No
+1383851,"Duval, TX",None,Feature ID,2023 GNIS,No
+1383852,"Eastland, TX",None,Feature ID,2023 GNIS,No
+1383853,"Ector, TX",None,Feature ID,2023 GNIS,No
+1383854,"Edwards, TX",None,Feature ID,2023 GNIS,No
+1383855,"El Paso, TX",None,Feature ID,2023 GNIS,No
+1383856,"Ellis, TX",None,Feature ID,2023 GNIS,No
+1383857,"Erath, TX",None,Feature ID,2023 GNIS,No
+1383858,"Falls, TX",None,Feature ID,2023 GNIS,No
+1383859,"Fannin, TX",None,Feature ID,2023 GNIS,No
+1383860,"Fayette, TX",None,Feature ID,2023 GNIS,No
+1383861,"Fisher, TX",None,Feature ID,2023 GNIS,No
+1383862,"Floyd, TX",None,Feature ID,2023 GNIS,No
+1383863,"Foard, TX",None,Feature ID,2023 GNIS,No
+1383864,"Fort Bend, TX",None,Feature ID,2023 GNIS,No
+1383865,"Franklin, TX",None,Feature ID,2023 GNIS,No
+1383866,"Freestone, TX",None,Feature ID,2023 GNIS,No
+1383867,"Frio, TX",None,Feature ID,2023 GNIS,No
+1383868,"Gaines, TX",None,Feature ID,2023 GNIS,No
+1383869,"Galveston, TX",None,Feature ID,2023 GNIS,No
+1383870,"Garza, TX",None,Feature ID,2023 GNIS,No
+1383871,"Gillespie, TX",None,Feature ID,2023 GNIS,No
+1383872,"Glasscock, TX",None,Feature ID,2023 GNIS,No
+1383873,"Goliad, TX",None,Feature ID,2023 GNIS,No
+1383874,"Gonzales, TX",None,Feature ID,2023 GNIS,No
+1383875,"Gray, TX",None,Feature ID,2023 GNIS,No
+1383876,"Grayson, TX",None,Feature ID,2023 GNIS,No
+1383877,"Gregg, TX",None,Feature ID,2023 GNIS,No
+1383878,"Grimes, TX",None,Feature ID,2023 GNIS,No
+1383879,"Guadalupe, TX",None,Feature ID,2023 GNIS,No
+1383880,"Hale, TX",None,Feature ID,2023 GNIS,No
+1383881,"Hall, TX",None,Feature ID,2023 GNIS,No
+1383882,"Hamilton, TX",None,Feature ID,2023 GNIS,No
+1383883,"Hansford, TX",None,Feature ID,2023 GNIS,No
+1383884,"Hardeman, TX",None,Feature ID,2023 GNIS,No
+1383885,"Hardin, TX",None,Feature ID,2023 GNIS,No
+1383886,"Harris, TX",None,Feature ID,2023 GNIS,No
+1383887,"Harrison, TX",None,Feature ID,2023 GNIS,No
+1383888,"Hartley, TX",None,Feature ID,2023 GNIS,No
+1383889,"Haskell, TX",None,Feature ID,2023 GNIS,No
+1383890,"Hays, TX",None,Feature ID,2023 GNIS,No
+1383891,"Hemphill, TX",None,Feature ID,2023 GNIS,No
+1383892,"Henderson, TX",None,Feature ID,2023 GNIS,No
+1383893,"Hidalgo, TX",None,Feature ID,2023 GNIS,No
+1383894,"Hill, TX",None,Feature ID,2023 GNIS,No
+1383895,"Hockley, TX",None,Feature ID,2023 GNIS,No
+1383896,"Hood, TX",None,Feature ID,2023 GNIS,No
+1383897,"Hopkins, TX",None,Feature ID,2023 GNIS,No
+1383898,"Houston, TX",None,Feature ID,2023 GNIS,No
+1383899,"Howard, TX",None,Feature ID,2023 GNIS,No
+1383900,"Hudspeth, TX",None,Feature ID,2023 GNIS,No
+1383901,"Hunt, TX",None,Feature ID,2023 GNIS,No
+1383902,"Hutchinson, TX",None,Feature ID,2023 GNIS,No
+1383903,"Irion, TX",None,Feature ID,2023 GNIS,No
+1383904,"Jack, TX",None,Feature ID,2023 GNIS,No
+1383905,"Jackson, TX",None,Feature ID,2023 GNIS,No
+1383906,"Jasper, TX",None,Feature ID,2023 GNIS,No
+1383907,"Jeff Davis, TX",None,Feature ID,2023 GNIS,No
+1383908,"Jefferson, TX",None,Feature ID,2023 GNIS,No
+1383909,"Jim Hogg, TX",None,Feature ID,2023 GNIS,No
+1383910,"Jim Wells, TX",None,Feature ID,2023 GNIS,No
+1383911,"Johnson, TX",None,Feature ID,2023 GNIS,No
+1383912,"Jones, TX",None,Feature ID,2023 GNIS,No
+1383913,"Karnes, TX",None,Feature ID,2023 GNIS,No
+1383914,"Kaufman, TX",None,Feature ID,2023 GNIS,No
+1383915,"Kendall, TX",None,Feature ID,2023 GNIS,No
+1383916,"Kenedy, TX",None,Feature ID,2023 GNIS,No
+1383917,"Kent, TX",None,Feature ID,2023 GNIS,No
+1383918,"Kerr, TX",None,Feature ID,2023 GNIS,No
+1383919,"Kimble, TX",None,Feature ID,2023 GNIS,No
+1383920,"King, TX",None,Feature ID,2023 GNIS,No
+1383921,"Kinney, TX",None,Feature ID,2023 GNIS,No
+1383922,"Kleberg, TX",None,Feature ID,2023 GNIS,No
+1383923,"Knox, TX",None,Feature ID,2023 GNIS,No
+1383924,"La Salle, TX",None,Feature ID,2023 GNIS,No
+1383925,"Lamar, TX",None,Feature ID,2023 GNIS,No
+1383926,"Lamb, TX",None,Feature ID,2023 GNIS,No
+1383927,"Lampasas, TX",None,Feature ID,2023 GNIS,No
+1383928,"Lavaca, TX",None,Feature ID,2023 GNIS,No
+1383929,"Lee, TX",None,Feature ID,2023 GNIS,No
+1383930,"Leon, TX",None,Feature ID,2023 GNIS,No
+1383931,"Liberty, TX",None,Feature ID,2023 GNIS,No
+1383932,"Limestone, TX",None,Feature ID,2023 GNIS,No
+1383933,"Lipscomb, TX",None,Feature ID,2023 GNIS,No
+1383934,"Live Oak, TX",None,Feature ID,2023 GNIS,No
+1383935,"Llano, TX",None,Feature ID,2023 GNIS,No
+1383936,"Loving, TX",None,Feature ID,2023 GNIS,No
+1383937,"Lubbock, TX",None,Feature ID,2023 GNIS,No
+1383938,"Lynn, TX",None,Feature ID,2023 GNIS,No
+1383939,"Madison, TX",None,Feature ID,2023 GNIS,No
+1383940,"Marion, TX",None,Feature ID,2023 GNIS,No
+1383941,"Martin, TX",None,Feature ID,2023 GNIS,No
+1383942,"Mason, TX",None,Feature ID,2023 GNIS,No
+1383943,"Matagorda, TX",None,Feature ID,2023 GNIS,No
+1383944,"Maverick, TX",None,Feature ID,2023 GNIS,No
+1383945,"McCulloch, TX",None,Feature ID,2023 GNIS,No
+1383946,"McLennan, TX",None,Feature ID,2023 GNIS,No
+1383947,"McMullen, TX",None,Feature ID,2023 GNIS,No
+1383948,"Medina, TX",None,Feature ID,2023 GNIS,No
+1383949,"Menard, TX",None,Feature ID,2023 GNIS,No
+1383950,"Midland, TX",None,Feature ID,2023 GNIS,No
+1383951,"Milam, TX",None,Feature ID,2023 GNIS,No
+1383952,"Mills, TX",None,Feature ID,2023 GNIS,No
+1383953,"Mitchell, TX",None,Feature ID,2023 GNIS,No
+1383954,"Montague, TX",None,Feature ID,2023 GNIS,No
+1383955,"Montgomery, TX",None,Feature ID,2023 GNIS,No
+1383956,"Moore, TX",None,Feature ID,2023 GNIS,No
+1383957,"Morris, TX",None,Feature ID,2023 GNIS,No
+1383958,"Motley, TX",None,Feature ID,2023 GNIS,No
+1383959,"Nacogdoches, TX",None,Feature ID,2023 GNIS,No
+1383960,"Navarro, TX",None,Feature ID,2023 GNIS,No
+1383961,"Newton, TX",None,Feature ID,2023 GNIS,No
+1383962,"Nolan, TX",None,Feature ID,2023 GNIS,No
+1383963,"Nueces, TX",None,Feature ID,2023 GNIS,No
+1383964,"Ochiltree, TX",None,Feature ID,2023 GNIS,No
+1383965,"Oldham, TX",None,Feature ID,2023 GNIS,No
+1383966,"Orange, TX",None,Feature ID,2023 GNIS,No
+1383967,"Palo Pinto, TX",None,Feature ID,2023 GNIS,No
+1383968,"Panola, TX",None,Feature ID,2023 GNIS,No
+1383969,"Parker, TX",None,Feature ID,2023 GNIS,No
+1383970,"Parmer, TX",None,Feature ID,2023 GNIS,No
+1383971,"Pecos, TX",None,Feature ID,2023 GNIS,No
+1383972,"Polk, TX",None,Feature ID,2023 GNIS,No
+1383973,"Potter, TX",None,Feature ID,2023 GNIS,No
+1383974,"Presidio, TX",None,Feature ID,2023 GNIS,No
+1383975,"Rains, TX",None,Feature ID,2023 GNIS,No
+1383976,"Randall, TX",None,Feature ID,2023 GNIS,No
+1383977,"Reagan, TX",None,Feature ID,2023 GNIS,No
+1383978,"Real, TX",None,Feature ID,2023 GNIS,No
+1383979,"Red River, TX",None,Feature ID,2023 GNIS,No
+1383980,"Reeves, TX",None,Feature ID,2023 GNIS,No
+1383981,"Refugio, TX",None,Feature ID,2023 GNIS,No
+1383982,"Roberts, TX",None,Feature ID,2023 GNIS,No
+1383983,"Robertson, TX",None,Feature ID,2023 GNIS,No
+1383984,"Rockwall, TX",None,Feature ID,2023 GNIS,No
+1383985,"Runnels, TX",None,Feature ID,2023 GNIS,No
+1383986,"Rusk, TX",None,Feature ID,2023 GNIS,No
+1383987,"Sabine, TX",None,Feature ID,2023 GNIS,No
+1383988,"San Augustine, TX",None,Feature ID,2023 GNIS,No
+1383989,"San Jacinto, TX",None,Feature ID,2023 GNIS,No
+1383990,"San Patricio, TX",None,Feature ID,2023 GNIS,No
+1383991,"San Saba, TX",None,Feature ID,2023 GNIS,No
+1383992,"Schleicher, TX",None,Feature ID,2023 GNIS,No
+1383993,"Scurry, TX",None,Feature ID,2023 GNIS,No
+1383994,"Shackelford, TX",None,Feature ID,2023 GNIS,No
+1383995,"Shelby, TX",None,Feature ID,2023 GNIS,No
+1383996,"Sherman, TX",None,Feature ID,2023 GNIS,No
+1383997,"Smith, TX",None,Feature ID,2023 GNIS,No
+1383998,"Somervell, TX",None,Feature ID,2023 GNIS,No
+1383999,"Starr, TX",None,Feature ID,2023 GNIS,No
+1384000,"Stephens, TX",None,Feature ID,2023 GNIS,No
+1384001,"Sterling, TX",None,Feature ID,2023 GNIS,No
+1384002,"Stonewall, TX",None,Feature ID,2023 GNIS,No
+1384003,"Sutton, TX",None,Feature ID,2023 GNIS,No
+1384004,"Swisher, TX",None,Feature ID,2023 GNIS,No
+1384005,"Tarrant, TX",None,Feature ID,2023 GNIS,No
+1384006,"Taylor, TX",None,Feature ID,2023 GNIS,No
+1384007,"Terrell, TX",None,Feature ID,2023 GNIS,No
+1384008,"Terry, TX",None,Feature ID,2023 GNIS,No
+1384009,"Throckmorton, TX",None,Feature ID,2023 GNIS,No
+1384010,"Titus, TX",None,Feature ID,2023 GNIS,No
+1384011,"Tom Green, TX",None,Feature ID,2023 GNIS,No
+1384012,"Travis, TX",None,Feature ID,2023 GNIS,No
+1384013,"Trinity, TX",None,Feature ID,2023 GNIS,No
+1384014,"Tyler, TX",None,Feature ID,2023 GNIS,No
+1384015,"Upshur, TX",None,Feature ID,2023 GNIS,No
+1384016,"Upton, TX",None,Feature ID,2023 GNIS,No
+1384017,"Uvalde, TX",None,Feature ID,2023 GNIS,No
+1384018,"Val Verde, TX",None,Feature ID,2023 GNIS,No
+1384019,"Van Zandt, TX",None,Feature ID,2023 GNIS,No
+1384020,"Victoria, TX",None,Feature ID,2023 GNIS,No
+1384021,"Walker, TX",None,Feature ID,2023 GNIS,No
+1384022,"Waller, TX",None,Feature ID,2023 GNIS,No
+1384023,"Ward, TX",None,Feature ID,2023 GNIS,No
+1384024,"Washington, TX",None,Feature ID,2023 GNIS,No
+1384025,"Webb, TX",None,Feature ID,2023 GNIS,No
+1384026,"Wharton, TX",None,Feature ID,2023 GNIS,No
+1384027,"Wheeler, TX",None,Feature ID,2023 GNIS,No
+1384028,"Wichita, TX",None,Feature ID,2023 GNIS,No
+1384029,"Wilbarger, TX",None,Feature ID,2023 GNIS,No
+1384030,"Willacy, TX",None,Feature ID,2023 GNIS,No
+1384031,"Williamson, TX",None,Feature ID,2023 GNIS,No
+1384032,"Wilson, TX",None,Feature ID,2023 GNIS,No
+1384033,"Winkler, TX",None,Feature ID,2023 GNIS,No
+1384034,"Wise, TX",None,Feature ID,2023 GNIS,No
+1384035,"Wood, TX",None,Feature ID,2023 GNIS,No
+1384036,"Yoakum, TX",None,Feature ID,2023 GNIS,No
+1384037,"Young, TX",None,Feature ID,2023 GNIS,No
+1384038,"Zapata, TX",None,Feature ID,2023 GNIS,No
+1384039,"Zavala, TX",None,Feature ID,2023 GNIS,No
+1393098,"Navassa Island, UM",None,Feature ID,2023 GNIS,No
+1416061,"Anchorage, AK",None,Feature ID,2023 GNIS,No
+1419964,"Aleutians East, AK",None,Feature ID,2023 GNIS,No
+1419965,"Aleutians West (CA), AK",None,Feature ID,2023 GNIS,No
+1419966,"Bethel (CA), AK",None,Feature ID,2023 GNIS,No
+1419967,"Bristol Bay, AK",None,Feature ID,2023 GNIS,No
+1419968,"Dillingham (CA), AK",None,Feature ID,2023 GNIS,No
+1419969,"Fairbanks North Star, AK",None,Feature ID,2023 GNIS,No
+1419970,"Haines, AK",None,Feature ID,2023 GNIS,No
+1419971,"Juneau, AK",None,Feature ID,2023 GNIS,No
+1419972,"Kenai Peninsula, AK",None,Feature ID,2023 GNIS,No
+1419973,"Ketchikan Gateway, AK",None,Feature ID,2023 GNIS,No
+1419974,"Kodiak Island, AK",None,Feature ID,2023 GNIS,No
+1419975,"Lake and Peninsula, AK",None,Feature ID,2023 GNIS,No
+1419976,"Matanuska-Susitna, AK",None,Feature ID,2023 GNIS,No
+1419977,"Nome (CA), AK",None,Feature ID,2023 GNIS,No
+1419978,"North Slope, AK",None,Feature ID,2023 GNIS,No
+1419979,"Northwest Arctic, AK",None,Feature ID,2023 GNIS,No
+1419980,"Prince of Wales-Hyder (CA), AK",None,Feature ID,2023 GNIS,No
+1419981,"Sitka, AK",None,Feature ID,2023 GNIS,No
+1419983,"Southeast Fairbanks (CA), AK",None,Feature ID,2023 GNIS,No
+1419985,"Kusilvak (CA), AK",None,Feature ID,2023 GNIS,No
+1419986,"Yakutat, AK",None,Feature ID,2023 GNIS,No
+1419987,"Yukon-Koyukuk (CA), AK",None,Feature ID,2023 GNIS,No
+1419988,"Denali, AK",None,Feature ID,2023 GNIS,No
+1448015,"Beaver, UT",None,Feature ID,2023 GNIS,No
+1448017,"Cache, UT",None,Feature ID,2023 GNIS,No
+1448018,"Carbon, UT",None,Feature ID,2023 GNIS,No
+1448019,"Daggett, UT",None,Feature ID,2023 GNIS,No
+1448020,"Davis, UT",None,Feature ID,2023 GNIS,No
+1448021,"Duchesne, UT",None,Feature ID,2023 GNIS,No
+1448022,"Emery, UT",None,Feature ID,2023 GNIS,No
+1448023,"Garfield, UT",None,Feature ID,2023 GNIS,No
+1448024,"Grand, UT",None,Feature ID,2023 GNIS,No
+1448025,"Iron, UT",None,Feature ID,2023 GNIS,No
+1448026,"Kane, UT",None,Feature ID,2023 GNIS,No
+1448027,"Millard, UT",None,Feature ID,2023 GNIS,No
+1448028,"Morgan, UT",None,Feature ID,2023 GNIS,No
+1448029,"Piute, UT",None,Feature ID,2023 GNIS,No
+1448030,"Rich, UT",None,Feature ID,2023 GNIS,No
+1448031,"Salt Lake, UT",None,Feature ID,2023 GNIS,No
+1448032,"San Juan, UT",None,Feature ID,2023 GNIS,No
+1448033,"Sanpete, UT",None,Feature ID,2023 GNIS,No
+1448034,"Sevier, UT",None,Feature ID,2023 GNIS,No
+1448035,"Summit, UT",None,Feature ID,2023 GNIS,No
+1448036,"Tooele, UT",None,Feature ID,2023 GNIS,No
+1448037,"Uintah, UT",None,Feature ID,2023 GNIS,No
+1448038,"Utah, UT",None,Feature ID,2023 GNIS,No
+1448039,"Wasatch, UT",None,Feature ID,2023 GNIS,No
+1448040,"Washington, UT",None,Feature ID,2023 GNIS,No
+1448041,"Wayne, UT",None,Feature ID,2023 GNIS,No
+1448042,"Weber, UT",None,Feature ID,2023 GNIS,No
+1455158,"Juab, UT",None,Feature ID,2023 GNIS,No
+1455966,"Box Elder, UT",None,Feature ID,2023 GNIS,No
+1455989,Utah,None,Feature ID,2023 GNIS,No
+1461757,"Addison, VT",None,Feature ID,2023 GNIS,No
+1461758,"Bennington, VT",None,Feature ID,2023 GNIS,No
+1461759,"Caledonia, VT",None,Feature ID,2023 GNIS,No
+1461760,"Chittenden, VT",None,Feature ID,2023 GNIS,No
+1461761,"Essex, VT",None,Feature ID,2023 GNIS,No
+1461762,"Franklin, VT",None,Feature ID,2023 GNIS,No
+1461763,"Grand Isle, VT",None,Feature ID,2023 GNIS,No
+1461764,"Lamoille, VT",None,Feature ID,2023 GNIS,No
+1461765,"Orange, VT",None,Feature ID,2023 GNIS,No
+1461766,"Orleans, VT",None,Feature ID,2023 GNIS,No
+1461767,"Rutland, VT",None,Feature ID,2023 GNIS,No
+1461768,"Washington, VT",None,Feature ID,2023 GNIS,No
+1461769,"Windham, VT",None,Feature ID,2023 GNIS,No
+1461770,"Windsor, VT",None,Feature ID,2023 GNIS,No
+1480091,"Accomack, VA",None,Feature ID,2023 GNIS,No
+1480095,"Amherst, VA",None,Feature ID,2023 GNIS,No
+1480097,"Arlington, VA",None,Feature ID,2023 GNIS,No
+1480098,"Augusta, VA",None,Feature ID,2023 GNIS,No
+1480107,"Caroline, VA",None,Feature ID,2023 GNIS,No
+1480108,"Carroll, VA",None,Feature ID,2023 GNIS,No
+1480109,"Charles City, VA",None,Feature ID,2023 GNIS,No
+1480111,"Chesterfield, VA",None,Feature ID,2023 GNIS,No
+1480118,"Essex, VA",None,Feature ID,2023 GNIS,No
+1480119,"Fairfax, VA",None,Feature ID,2023 GNIS,No
+1480120,"Fauquier, VA",None,Feature ID,2023 GNIS,No
+1480124,"Frederick, VA",None,Feature ID,2023 GNIS,No
+1480126,"Gloucester, VA",None,Feature ID,2023 GNIS,No
+1480129,"Greene, VA",None,Feature ID,2023 GNIS,No
+1480132,"Hanover, VA",None,Feature ID,2023 GNIS,No
+1480133,"Henrico, VA",None,Feature ID,2023 GNIS,No
+1480135,"James City, VA",None,Feature ID,2023 GNIS,No
+1480136,"King and Queen, VA",None,Feature ID,2023 GNIS,No
+1480137,"King George, VA",None,Feature ID,2023 GNIS,No
+1480138,"King William, VA",None,Feature ID,2023 GNIS,No
+1480139,"Lancaster, VA",None,Feature ID,2023 GNIS,No
+1480141,"Loudoun, VA",None,Feature ID,2023 GNIS,No
+1480145,"Mathews, VA",None,Feature ID,2023 GNIS,No
+1480147,"Middlesex, VA",None,Feature ID,2023 GNIS,No
+1480150,"New Kent, VA",None,Feature ID,2023 GNIS,No
+1480151,"Northampton, VA",None,Feature ID,2023 GNIS,No
+1480152,"Northumberland, VA",None,Feature ID,2023 GNIS,No
+1480157,"Pittsylvania, VA",None,Feature ID,2023 GNIS,No
+1480160,"Prince George, VA",None,Feature ID,2023 GNIS,No
+1480161,"Prince William, VA",None,Feature ID,2023 GNIS,No
+1480164,"Richmond, VA",None,Feature ID,2023 GNIS,No
+1480165,"Roanoke, VA",None,Feature ID,2023 GNIS,No
+1480166,"Rockbridge, VA",None,Feature ID,2023 GNIS,No
+1480171,"Southampton, VA",None,Feature ID,2023 GNIS,No
+1480172,"Spotsylvania, VA",None,Feature ID,2023 GNIS,No
+1480173,"Stafford, VA",None,Feature ID,2023 GNIS,No
+1480174,"Surry, VA",None,Feature ID,2023 GNIS,No
+1480179,"Westmoreland, VA",None,Feature ID,2023 GNIS,No
+1480182,"York, VA",None,Feature ID,2023 GNIS,No
+1488970,"Rockingham, VA",None,Feature ID,2023 GNIS,No
+1492239,"Lunenburg, VA",None,Feature ID,2023 GNIS,No
+1492359,"Prince Edward, VA",None,Feature ID,2023 GNIS,No
+1492442,"Charlotte, VA",None,Feature ID,2023 GNIS,No
+1493928,"Nottoway, VA",None,Feature ID,2023 GNIS,No
+1493961,"Brunswick, VA",None,Feature ID,2023 GNIS,No
+1494061,"Fluvanna, VA",None,Feature ID,2023 GNIS,No
+1494109,"Cumberland, VA",None,Feature ID,2023 GNIS,No
+1494354,"Floyd, VA",None,Feature ID,2023 GNIS,No
+1494434,"Franklin, VA",None,Feature ID,2023 GNIS,No
+1494551,"Giles, VA",None,Feature ID,2023 GNIS,No
+1494590,"Madison, VA",None,Feature ID,2023 GNIS,No
+1494613,"Bland, VA",None,Feature ID,2023 GNIS,No
+1494707,"Louisa, VA",None,Feature ID,2023 GNIS,No
+1494761,"Orange, VA",None,Feature ID,2023 GNIS,No
+1496538,"Lee, VA",None,Feature ID,2023 GNIS,No
+1496656,"Wise, VA",None,Feature ID,2023 GNIS,No
+1496705,"Halifax, VA",None,Feature ID,2023 GNIS,No
+1497238,"Appomattox, VA",None,Feature ID,2023 GNIS,No
+1497376,"Dickenson, VA",None,Feature ID,2023 GNIS,No
+1497431,"Buchanan, VA",None,Feature ID,2023 GNIS,No
+1497573,"Russell, VA",None,Feature ID,2023 GNIS,No
+1497748,"Tazewell, VA",None,Feature ID,2023 GNIS,No
+1497770,"Amelia, VA",None,Feature ID,2023 GNIS,No
+1497831,"Culpeper, VA",None,Feature ID,2023 GNIS,No
+1497999,"Patrick, VA",None,Feature ID,2023 GNIS,No
+1498172,"Scott, VA",None,Feature ID,2023 GNIS,No
+1498359,"Washington, VA",None,Feature ID,2023 GNIS,No
+1498415,"Alexandria (city), VA",None,Feature ID,2023 GNIS,No
+1498416,"Bristol (city), VA",None,Feature ID,2023 GNIS,No
+1498417,"Buena Vista (city), VA",None,Feature ID,2023 GNIS,No
+1498420,"Colonial Heights (city), VA",None,Feature ID,2023 GNIS,No
+1498421,"Danville (city), VA",None,Feature ID,2023 GNIS,No
+1498422,"Emporia (city), VA",None,Feature ID,2023 GNIS,No
+1498423,"Falls Church (city), VA",None,Feature ID,2023 GNIS,No
+1498424,"Franklin (city), VA",None,Feature ID,2023 GNIS,No
+1498425,"Fredericksburg (city), VA",None,Feature ID,2023 GNIS,No
+1498426,"Galax (city), VA",None,Feature ID,2023 GNIS,No
+1498428,"Hopewell (city), VA",None,Feature ID,2023 GNIS,No
+1498429,"Lynchburg (city), VA",None,Feature ID,2023 GNIS,No
+1498430,"Manassas (city), VA",None,Feature ID,2023 GNIS,No
+1498431,"Manassas Park (city), VA",None,Feature ID,2023 GNIS,No
+1498434,"Norton (city), VA",None,Feature ID,2023 GNIS,No
+1498435,"Petersburg (city), VA",None,Feature ID,2023 GNIS,No
+1498436,"Poquoson (city), VA",None,Feature ID,2023 GNIS,No
+1498438,"Radford (city), VA",None,Feature ID,2023 GNIS,No
+1498439,"Roanoke (city), VA",None,Feature ID,2023 GNIS,No
+1498443,"Waynesboro (city), VA",None,Feature ID,2023 GNIS,No
+1498554,"Hampton (city), VA",None,Feature ID,2023 GNIS,No
+1498555,"Newport News (city), VA",None,Feature ID,2023 GNIS,No
+1498556,"Portsmouth (city), VA",None,Feature ID,2023 GNIS,No
+1498557,"Norfolk (city), VA",None,Feature ID,2023 GNIS,No
+1498558,"Chesapeake (city), VA",None,Feature ID,2023 GNIS,No
+1498559,"Virginia Beach (city), VA",None,Feature ID,2023 GNIS,No
+1498560,"Suffolk (city), VA",None,Feature ID,2023 GNIS,No
+1498563,"Harrisonburg (city), VA",None,Feature ID,2023 GNIS,No
+1500440,"Page, VA",None,Feature ID,2023 GNIS,No
+1500545,"Smyth, VA",None,Feature ID,2023 GNIS,No
+1500747,"Mecklenburg, VA",None,Feature ID,2023 GNIS,No
+1500936,"Nelson, VA",None,Feature ID,2023 GNIS,No
+1501122,"Greensville, VA",None,Feature ID,2023 GNIS,No
+1501196,"Grayson, VA",None,Feature ID,2023 GNIS,No
+1501379,"Wythe, VA",None,Feature ID,2023 GNIS,No
+1501465,"Pulaski, VA",None,Feature ID,2023 GNIS,No
+1501502,"Buckingham, VA",None,Feature ID,2023 GNIS,No
+1502770,"Henry, VA",None,Feature ID,2023 GNIS,No
+1513272,"Island, WA",None,Feature ID,2023 GNIS,No
+1513273,"Columbia, WA",None,Feature ID,2023 GNIS,No
+1513274,"Pacific, WA",None,Feature ID,2023 GNIS,No
+1513275,"Wahkiakum, WA",None,Feature ID,2023 GNIS,No
+1513302,"Benton, WA",None,Feature ID,2023 GNIS,No
+1514052,"Lincoln, WA",None,Feature ID,2023 GNIS,No
+1529156,"Cowlitz, WA",None,Feature ID,2023 GNIS,No
+1529157,"Pend Oreille, WA",None,Feature ID,2023 GNIS,No
+1529159,"Pierce, WA",None,Feature ID,2023 GNIS,No
+1529219,"Klickitat, WA",None,Feature ID,2023 GNIS,No
+1529220,"Skamania, WA",None,Feature ID,2023 GNIS,No
+1529221,"Mason, WA",None,Feature ID,2023 GNIS,No
+1529222,"Snohomish, WA",None,Feature ID,2023 GNIS,No
+1529223,"Kitsap, WA",None,Feature ID,2023 GNIS,No
+1529224,"Whatcom, WA",None,Feature ID,2023 GNIS,No
+1529225,"Spokane, WA",None,Feature ID,2023 GNIS,No
+1529226,"Thurston, WA",None,Feature ID,2023 GNIS,No
+1531341,"Clallam, WA",None,Feature ID,2023 GNIS,No
+1531402,"Skagit, WA",None,Feature ID,2023 GNIS,No
+1531601,"Adams, WA",None,Feature ID,2023 GNIS,No
+1531818,"Douglas, WA",None,Feature ID,2023 GNIS,No
+1531819,"Walla Walla, WA",None,Feature ID,2023 GNIS,No
+1531820,"Clark, WA",None,Feature ID,2023 GNIS,No
+1531821,"Ferry, WA",None,Feature ID,2023 GNIS,No
+1531822,"Franklin, WA",None,Feature ID,2023 GNIS,No
+1531823,"Grays Harbor, WA",None,Feature ID,2023 GNIS,No
+1531924,"Grant, WA",None,Feature ID,2023 GNIS,No
+1531926,"Kittitas, WA",None,Feature ID,2023 GNIS,No
+1531927,"Lewis, WA",None,Feature ID,2023 GNIS,No
+1531928,"Okanogan, WA",None,Feature ID,2023 GNIS,No
+1531929,"Yakima, WA",None,Feature ID,2023 GNIS,No
+1531930,"Stevens, WA",None,Feature ID,2023 GNIS,No
+1531931,"San Juan, WA",None,Feature ID,2023 GNIS,No
+1531932,"Chelan, WA",None,Feature ID,2023 GNIS,No
+1531933,"King, WA",None,Feature ID,2023 GNIS,No
+1531936,"Jefferson, WA",None,Feature ID,2023 GNIS,No
+1533500,"Garfield, WA",None,Feature ID,2023 GNIS,No
+1533501,"Whitman, WA",None,Feature ID,2023 GNIS,No
+1533502,"Asotin, WA",None,Feature ID,2023 GNIS,No
+1550008,"Berkeley, WV",None,Feature ID,2023 GNIS,No
+1550009,"Boone, WV",None,Feature ID,2023 GNIS,No
+1550010,"Braxton, WV",None,Feature ID,2023 GNIS,No
+1550012,"Cabell, WV",None,Feature ID,2023 GNIS,No
+1550014,"Clay, WV",None,Feature ID,2023 GNIS,No
+1550025,"Jefferson, WV",None,Feature ID,2023 GNIS,No
+1550026,"Kanawha, WV",None,Feature ID,2023 GNIS,No
+1550027,"Lewis, WV",None,Feature ID,2023 GNIS,No
+1550028,"Lincoln, WV",None,Feature ID,2023 GNIS,No
+1550029,"Logan, WV",None,Feature ID,2023 GNIS,No
+1550036,"Mingo, WV",None,Feature ID,2023 GNIS,No
+1550037,"Monongalia, WV",None,Feature ID,2023 GNIS,No
+1550040,"Nicholas, WV",None,Feature ID,2023 GNIS,No
+1550042,"Pendleton, WV",None,Feature ID,2023 GNIS,No
+1550044,"Pocahontas, WV",None,Feature ID,2023 GNIS,No
+1550046,"Putnam, WV",None,Feature ID,2023 GNIS,No
+1550047,"Raleigh, WV",None,Feature ID,2023 GNIS,No
+1550048,"Randolph, WV",None,Feature ID,2023 GNIS,No
+1550050,"Roane, WV",None,Feature ID,2023 GNIS,No
+1550056,"Wayne, WV",None,Feature ID,2023 GNIS,No
+1550057,"Webster, WV",None,Feature ID,2023 GNIS,No
+1550061,"Wyoming, WV",None,Feature ID,2023 GNIS,No
+1557518,"Greenbrier, WV",None,Feature ID,2023 GNIS,No
+1557645,"Mercer, WV",None,Feature ID,2023 GNIS,No
+1557702,"Monroe, WV",None,Feature ID,2023 GNIS,No
+1557805,"Summers, WV",None,Feature ID,2023 GNIS,No
+1557950,"Morgan, WV",None,Feature ID,2023 GNIS,No
+1558262,"Brooke, WV",None,Feature ID,2023 GNIS,No
+1558642,"Preston, WV",None,Feature ID,2023 GNIS,No
+1559963,"Jackson, WV",None,Feature ID,2023 GNIS,No
+1560095,"Fayette, WV",None,Feature ID,2023 GNIS,No
+1560254,"Mason, WV",None,Feature ID,2023 GNIS,No
+1560558,"Wood, WV",None,Feature ID,2023 GNIS,No
+1560574,"Hancock, WV",None,Feature ID,2023 GNIS,No
+1581060,"Adams, WI",None,Feature ID,2023 GNIS,No
+1581061,"Ashland, WI",None,Feature ID,2023 GNIS,No
+1581062,"Barron, WI",None,Feature ID,2023 GNIS,No
+1581063,"Bayfield, WI",None,Feature ID,2023 GNIS,No
+1581064,"Brown, WI",None,Feature ID,2023 GNIS,No
+1581065,"Buffalo, WI",None,Feature ID,2023 GNIS,No
+1581066,"Burnett, WI",None,Feature ID,2023 GNIS,No
+1581067,"Calumet, WI",None,Feature ID,2023 GNIS,No
+1581068,"Chippewa, WI",None,Feature ID,2023 GNIS,No
+1581069,"Clark, WI",None,Feature ID,2023 GNIS,No
+1581070,"Columbia, WI",None,Feature ID,2023 GNIS,No
+1581071,"Crawford, WI",None,Feature ID,2023 GNIS,No
+1581072,"Dane, WI",None,Feature ID,2023 GNIS,No
+1581073,"Dodge, WI",None,Feature ID,2023 GNIS,No
+1581074,"Door, WI",None,Feature ID,2023 GNIS,No
+1581075,"Douglas, WI",None,Feature ID,2023 GNIS,No
+1581076,"Dunn, WI",None,Feature ID,2023 GNIS,No
+1581077,"Eau Claire, WI",None,Feature ID,2023 GNIS,No
+1581078,"Florence, WI",None,Feature ID,2023 GNIS,No
+1581079,"Fond du Lac, WI",None,Feature ID,2023 GNIS,No
+1581080,"Forest, WI",None,Feature ID,2023 GNIS,No
+1581081,"Grant, WI",None,Feature ID,2023 GNIS,No
+1581082,"Green, WI",None,Feature ID,2023 GNIS,No
+1581083,"Green Lake, WI",None,Feature ID,2023 GNIS,No
+1581084,"Iowa, WI",None,Feature ID,2023 GNIS,No
+1581085,"Iron, WI",None,Feature ID,2023 GNIS,No
+1581086,"Jackson, WI",None,Feature ID,2023 GNIS,No
+1581087,"Jefferson, WI",None,Feature ID,2023 GNIS,No
+1581088,"Juneau, WI",None,Feature ID,2023 GNIS,No
+1581089,"Kenosha, WI",None,Feature ID,2023 GNIS,No
+1581090,"Kewaunee, WI",None,Feature ID,2023 GNIS,No
+1581091,"La Crosse, WI",None,Feature ID,2023 GNIS,No
+1581092,"Lafayette, WI",None,Feature ID,2023 GNIS,No
+1581093,"Langlade, WI",None,Feature ID,2023 GNIS,No
+1581094,"Lincoln, WI",None,Feature ID,2023 GNIS,No
+1581095,"Manitowoc, WI",None,Feature ID,2023 GNIS,No
+1581096,"Marathon, WI",None,Feature ID,2023 GNIS,No
+1581097,"Marinette, WI",None,Feature ID,2023 GNIS,No
+1581098,"Marquette, WI",None,Feature ID,2023 GNIS,No
+1581099,"Menominee, WI",None,Feature ID,2023 GNIS,No
+1581100,"Milwaukee, WI",None,Feature ID,2023 GNIS,No
+1581101,"Monroe, WI",None,Feature ID,2023 GNIS,No
+1581102,"Oconto, WI",None,Feature ID,2023 GNIS,No
+1581103,"Oneida, WI",None,Feature ID,2023 GNIS,No
+1581104,"Outagamie, WI",None,Feature ID,2023 GNIS,No
+1581105,"Ozaukee, WI",None,Feature ID,2023 GNIS,No
+1581106,"Pepin, WI",None,Feature ID,2023 GNIS,No
+1581107,"Pierce, WI",None,Feature ID,2023 GNIS,No
+1581108,"Polk, WI",None,Feature ID,2023 GNIS,No
+1581109,"Portage, WI",None,Feature ID,2023 GNIS,No
+1581110,"Price, WI",None,Feature ID,2023 GNIS,No
+1581111,"Racine, WI",None,Feature ID,2023 GNIS,No
+1581112,"Richland, WI",None,Feature ID,2023 GNIS,No
+1581113,"Rock, WI",None,Feature ID,2023 GNIS,No
+1581114,"Rusk, WI",None,Feature ID,2023 GNIS,No
+1581115,"Sauk, WI",None,Feature ID,2023 GNIS,No
+1581116,"Sawyer, WI",None,Feature ID,2023 GNIS,No
+1581117,"Shawano, WI",None,Feature ID,2023 GNIS,No
+1581118,"Sheboygan, WI",None,Feature ID,2023 GNIS,No
+1581119,"Taylor, WI",None,Feature ID,2023 GNIS,No
+1581120,"Trempealeau, WI",None,Feature ID,2023 GNIS,No
+1581121,"Vernon, WI",None,Feature ID,2023 GNIS,No
+1581122,"Vilas, WI",None,Feature ID,2023 GNIS,No
+1581123,"Walworth, WI",None,Feature ID,2023 GNIS,No
+1581124,"Washburn, WI",None,Feature ID,2023 GNIS,No
+1581125,"Washington, WI",None,Feature ID,2023 GNIS,No
+1581126,"Waukesha, WI",None,Feature ID,2023 GNIS,No
+1581127,"Waupaca, WI",None,Feature ID,2023 GNIS,No
+1581128,"Waushara, WI",None,Feature ID,2023 GNIS,No
+1581129,"Winnebago, WI",None,Feature ID,2023 GNIS,No
+1581130,"Wood, WI",None,Feature ID,2023 GNIS,No
+1581833,"St. Croix, WI",None,Feature ID,2023 GNIS,No
+1605066,"Albany, WY",None,Feature ID,2023 GNIS,No
+1605067,"Big Horn, WY",None,Feature ID,2023 GNIS,No
+1605068,"Campbell, WY",None,Feature ID,2023 GNIS,No
+1605069,"Carbon, WY",None,Feature ID,2023 GNIS,No
+1605070,"Converse, WY",None,Feature ID,2023 GNIS,No
+1605071,"Crook, WY",None,Feature ID,2023 GNIS,No
+1605072,"Fremont, WY",None,Feature ID,2023 GNIS,No
+1605073,"Goshen, WY",None,Feature ID,2023 GNIS,No
+1605074,"Hot Springs, WY",None,Feature ID,2023 GNIS,No
+1605075,"Laramie, WY",None,Feature ID,2023 GNIS,No
+1605076,"Lincoln, WY",None,Feature ID,2023 GNIS,No
+1605077,"Natrona, WY",None,Feature ID,2023 GNIS,No
+1605078,"Niobrara, WY",None,Feature ID,2023 GNIS,No
+1605079,"Park, WY",None,Feature ID,2023 GNIS,No
+1605080,"Platte, WY",None,Feature ID,2023 GNIS,No
+1605081,"Sheridan, WY",None,Feature ID,2023 GNIS,No
+1605082,"Sublette, WY",None,Feature ID,2023 GNIS,No
+1605083,"Teton, WY",None,Feature ID,2023 GNIS,No
+1605084,"Uinta, WY",None,Feature ID,2023 GNIS,No
+1605085,"Washakie, WY",None,Feature ID,2023 GNIS,No
+1605086,"Weston, WY",None,Feature ID,2023 GNIS,No
+1609191,"Johnson, WY",None,Feature ID,2023 GNIS,No
+1609192,"Sweetwater, WY",None,Feature ID,2023 GNIS,No
+1622943,"Alcona, MI",None,Feature ID,2023 GNIS,No
+1622944,"Alger, MI",None,Feature ID,2023 GNIS,No
+1622945,"Allegan, MI",None,Feature ID,2023 GNIS,No
+1622946,"Alpena, MI",None,Feature ID,2023 GNIS,No
+1622947,"Antrim, MI",None,Feature ID,2023 GNIS,No
+1622948,"Arenac, MI",None,Feature ID,2023 GNIS,No
+1622949,"Baraga, MI",None,Feature ID,2023 GNIS,No
+1622950,"Barry, MI",None,Feature ID,2023 GNIS,No
+1622951,"Bay, MI",None,Feature ID,2023 GNIS,No
+1622952,"Benzie, MI",None,Feature ID,2023 GNIS,No
+1622953,"Berrien, MI",None,Feature ID,2023 GNIS,No
+1622954,"Branch, MI",None,Feature ID,2023 GNIS,No
+1622955,"Calhoun, MI",None,Feature ID,2023 GNIS,No
+1622956,"Cass, MI",None,Feature ID,2023 GNIS,No
+1622957,"Charlevoix, MI",None,Feature ID,2023 GNIS,No
+1622958,"Cheboygan, MI",None,Feature ID,2023 GNIS,No
+1622959,"Chippewa, MI",None,Feature ID,2023 GNIS,No
+1622960,"Clare, MI",None,Feature ID,2023 GNIS,No
+1622961,"Clinton, MI",None,Feature ID,2023 GNIS,No
+1622962,"Crawford, MI",None,Feature ID,2023 GNIS,No
+1622963,"Delta, MI",None,Feature ID,2023 GNIS,No
+1622964,"Dickinson, MI",None,Feature ID,2023 GNIS,No
+1622965,"Eaton, MI",None,Feature ID,2023 GNIS,No
+1622966,"Emmet, MI",None,Feature ID,2023 GNIS,No
+1622967,"Genesee, MI",None,Feature ID,2023 GNIS,No
+1622968,"Gladwin, MI",None,Feature ID,2023 GNIS,No
+1622969,"Gogebic, MI",None,Feature ID,2023 GNIS,No
+1622970,"Grand Traverse, MI",None,Feature ID,2023 GNIS,No
+1622971,"Gratiot, MI",None,Feature ID,2023 GNIS,No
+1622972,"Hillsdale, MI",None,Feature ID,2023 GNIS,No
+1622973,"Houghton, MI",None,Feature ID,2023 GNIS,No
+1622974,"Huron, MI",None,Feature ID,2023 GNIS,No
+1622975,"Ingham, MI",None,Feature ID,2023 GNIS,No
+1622976,"Ionia, MI",None,Feature ID,2023 GNIS,No
+1622977,"Iosco, MI",None,Feature ID,2023 GNIS,No
+1622978,"Iron, MI",None,Feature ID,2023 GNIS,No
+1622979,"Isabella, MI",None,Feature ID,2023 GNIS,No
+1622980,"Jackson, MI",None,Feature ID,2023 GNIS,No
+1622981,"Kalamazoo, MI",None,Feature ID,2023 GNIS,No
+1622982,"Kalkaska, MI",None,Feature ID,2023 GNIS,No
+1622983,"Kent, MI",None,Feature ID,2023 GNIS,No
+1622984,"Keweenaw, MI",None,Feature ID,2023 GNIS,No
+1622985,"Lake, MI",None,Feature ID,2023 GNIS,No
+1622986,"Lapeer, MI",None,Feature ID,2023 GNIS,No
+1622987,"Leelanau, MI",None,Feature ID,2023 GNIS,No
+1622988,"Lenawee, MI",None,Feature ID,2023 GNIS,No
+1622989,"Livingston, MI",None,Feature ID,2023 GNIS,No
+1622990,"Luce, MI",None,Feature ID,2023 GNIS,No
+1622991,"Mackinac, MI",None,Feature ID,2023 GNIS,No
+1622992,"Macomb, MI",None,Feature ID,2023 GNIS,No
+1622993,"Manistee, MI",None,Feature ID,2023 GNIS,No
+1622994,"Marquette, MI",None,Feature ID,2023 GNIS,No
+1622995,"Mason, MI",None,Feature ID,2023 GNIS,No
+1622996,"Mecosta, MI",None,Feature ID,2023 GNIS,No
+1622997,"Menominee, MI",None,Feature ID,2023 GNIS,No
+1622998,"Midland, MI",None,Feature ID,2023 GNIS,No
+1622999,"Missaukee, MI",None,Feature ID,2023 GNIS,No
+1623000,"Monroe, MI",None,Feature ID,2023 GNIS,No
+1623001,"Montcalm, MI",None,Feature ID,2023 GNIS,No
+1623002,"Montmorency, MI",None,Feature ID,2023 GNIS,No
+1623003,"Muskegon, MI",None,Feature ID,2023 GNIS,No
+1623004,"Newaygo, MI",None,Feature ID,2023 GNIS,No
+1623005,"Oakland, MI",None,Feature ID,2023 GNIS,No
+1623006,"Oceana, MI",None,Feature ID,2023 GNIS,No
+1623007,"Ogemaw, MI",None,Feature ID,2023 GNIS,No
+1623008,"Ontonagon, MI",None,Feature ID,2023 GNIS,No
+1623009,"Osceola, MI",None,Feature ID,2023 GNIS,No
+1623010,"Oscoda, MI",None,Feature ID,2023 GNIS,No
+1623011,"Otsego, MI",None,Feature ID,2023 GNIS,No
+1623012,"Ottawa, MI",None,Feature ID,2023 GNIS,No
+1623013,"Presque Isle, MI",None,Feature ID,2023 GNIS,No
+1623014,"Roscommon, MI",None,Feature ID,2023 GNIS,No
+1623015,"Saginaw, MI",None,Feature ID,2023 GNIS,No
+1623016,"Sanilac, MI",None,Feature ID,2023 GNIS,No
+1623017,"Schoolcraft, MI",None,Feature ID,2023 GNIS,No
+1623018,"Shiawassee, MI",None,Feature ID,2023 GNIS,No
+1623019,"Tuscola, MI",None,Feature ID,2023 GNIS,No
+1623020,"Van Buren, MI",None,Feature ID,2023 GNIS,No
+1623021,"Washtenaw, MI",None,Feature ID,2023 GNIS,No
+1623022,"Wayne, MI",None,Feature ID,2023 GNIS,No
+1623023,"Wexford, MI",None,Feature ID,2023 GNIS,No
+1625033,"St. Clair, MI",None,Feature ID,2023 GNIS,No
+1625034,"St. Joseph, MI",None,Feature ID,2023 GNIS,No
+1629449,"St. Charles, LA",None,Feature ID,2023 GNIS,No
+1629457,"St. Helena, LA",None,Feature ID,2023 GNIS,No
+1629464,"St. James, LA",None,Feature ID,2023 GNIS,No
+1629472,"St. John the Baptist, LA",None,Feature ID,2023 GNIS,No
+1629479,"St. Landry, LA",None,Feature ID,2023 GNIS,No
+1629486,"St. Martin, LA",None,Feature ID,2023 GNIS,No
+1629492,"St. Mary, LA",None,Feature ID,2023 GNIS,No
+1629503,"St. Tammany, LA",None,Feature ID,2023 GNIS,No
+1629542,"St. Bernard, LA",None,Feature ID,2023 GNIS,No
+1629543,Louisiana,None,Feature ID,2023 GNIS,No
+1637566,"Daniels, MT",None,Feature ID,2023 GNIS,No
+1639722,"Anderson, TN",None,Feature ID,2023 GNIS,No
+1639723,"Bedford, TN",None,Feature ID,2023 GNIS,No
+1639724,"Benton, TN",None,Feature ID,2023 GNIS,No
+1639725,"Bledsoe, TN",None,Feature ID,2023 GNIS,No
+1639726,"Blount, TN",None,Feature ID,2023 GNIS,No
+1639727,"Bradley, TN",None,Feature ID,2023 GNIS,No
+1639728,"Campbell, TN",None,Feature ID,2023 GNIS,No
+1639729,"Carroll, TN",None,Feature ID,2023 GNIS,No
+1639730,"Carter, TN",None,Feature ID,2023 GNIS,No
+1639731,"Cheatham, TN",None,Feature ID,2023 GNIS,No
+1639732,"Chester, TN",None,Feature ID,2023 GNIS,No
+1639733,"Claiborne, TN",None,Feature ID,2023 GNIS,No
+1639734,"Cocke, TN",None,Feature ID,2023 GNIS,No
+1639735,"Coffee, TN",None,Feature ID,2023 GNIS,No
+1639736,"Cumberland, TN",None,Feature ID,2023 GNIS,No
+1639737,"Davidson, TN",None,Feature ID,2023 GNIS,No
+1639738,"DeKalb, TN",None,Feature ID,2023 GNIS,No
+1639739,"Decatur, TN",None,Feature ID,2023 GNIS,No
+1639740,"Dickson, TN",None,Feature ID,2023 GNIS,No
+1639741,"Dyer, TN",None,Feature ID,2023 GNIS,No
+1639742,"Fayette, TN",None,Feature ID,2023 GNIS,No
+1639743,"Fentress, TN",None,Feature ID,2023 GNIS,No
+1639744,"Franklin, TN",None,Feature ID,2023 GNIS,No
+1639745,"Gibson, TN",None,Feature ID,2023 GNIS,No
+1639746,"Giles, TN",None,Feature ID,2023 GNIS,No
+1639747,"Greene, TN",None,Feature ID,2023 GNIS,No
+1639748,"Grundy, TN",None,Feature ID,2023 GNIS,No
+1639749,"Hamilton, TN",None,Feature ID,2023 GNIS,No
+1639750,"Hardeman, TN",None,Feature ID,2023 GNIS,No
+1639751,"Hardin, TN",None,Feature ID,2023 GNIS,No
+1639752,"Hawkins, TN",None,Feature ID,2023 GNIS,No
+1639753,"Haywood, TN",None,Feature ID,2023 GNIS,No
+1639754,"Henderson, TN",None,Feature ID,2023 GNIS,No
+1639755,"Henry, TN",None,Feature ID,2023 GNIS,No
+1639756,"Hickman, TN",None,Feature ID,2023 GNIS,No
+1639757,"Humphreys, TN",None,Feature ID,2023 GNIS,No
+1639758,"Jackson, TN",None,Feature ID,2023 GNIS,No
+1639759,"Jefferson, TN",None,Feature ID,2023 GNIS,No
+1639760,"Johnson, TN",None,Feature ID,2023 GNIS,No
+1639761,"Knox, TN",None,Feature ID,2023 GNIS,No
+1639762,"Lake, TN",None,Feature ID,2023 GNIS,No
+1639763,"Lauderdale, TN",None,Feature ID,2023 GNIS,No
+1639764,"Lawrence, TN",None,Feature ID,2023 GNIS,No
+1639765,"Lewis, TN",None,Feature ID,2023 GNIS,No
+1639766,"Lincoln, TN",None,Feature ID,2023 GNIS,No
+1639767,"Loudon, TN",None,Feature ID,2023 GNIS,No
+1639768,"Macon, TN",None,Feature ID,2023 GNIS,No
+1639769,"Madison, TN",None,Feature ID,2023 GNIS,No
+1639770,"Marion, TN",None,Feature ID,2023 GNIS,No
+1639771,"Marshall, TN",None,Feature ID,2023 GNIS,No
+1639772,"Maury, TN",None,Feature ID,2023 GNIS,No
+1639773,"McMinn, TN",None,Feature ID,2023 GNIS,No
+1639774,"McNairy, TN",None,Feature ID,2023 GNIS,No
+1639775,"Meigs, TN",None,Feature ID,2023 GNIS,No
+1639776,"Monroe, TN",None,Feature ID,2023 GNIS,No
+1639777,"Montgomery, TN",None,Feature ID,2023 GNIS,No
+1639778,"Morgan, TN",None,Feature ID,2023 GNIS,No
+1639779,"Obion, TN",None,Feature ID,2023 GNIS,No
+1639780,"Overton, TN",None,Feature ID,2023 GNIS,No
+1639781,"Perry, TN",None,Feature ID,2023 GNIS,No
+1639782,"Polk, TN",None,Feature ID,2023 GNIS,No
+1639783,"Putnam, TN",None,Feature ID,2023 GNIS,No
+1639784,"Rhea, TN",None,Feature ID,2023 GNIS,No
+1639785,"Roane, TN",None,Feature ID,2023 GNIS,No
+1639786,"Robertson, TN",None,Feature ID,2023 GNIS,No
+1639787,"Rutherford, TN",None,Feature ID,2023 GNIS,No
+1639788,"Scott, TN",None,Feature ID,2023 GNIS,No
+1639789,"Sevier, TN",None,Feature ID,2023 GNIS,No
+1639790,"Shelby, TN",None,Feature ID,2023 GNIS,No
+1639791,"Smith, TN",None,Feature ID,2023 GNIS,No
+1639792,"Stewart, TN",None,Feature ID,2023 GNIS,No
+1639793,"Sullivan, TN",None,Feature ID,2023 GNIS,No
+1639794,"Sumner, TN",None,Feature ID,2023 GNIS,No
+1639795,"Tipton, TN",None,Feature ID,2023 GNIS,No
+1639796,"Warren, TN",None,Feature ID,2023 GNIS,No
+1639797,"Washington, TN",None,Feature ID,2023 GNIS,No
+1639798,"Wayne, TN",None,Feature ID,2023 GNIS,No
+1639799,"Weakley, TN",None,Feature ID,2023 GNIS,No
+1639800,"White, TN",None,Feature ID,2023 GNIS,No
+1639801,"Williamson, TN",None,Feature ID,2023 GNIS,No
+1639802,"Wilson, TN",None,Feature ID,2023 GNIS,No
+1648572,"Cannon, TN",None,Feature ID,2023 GNIS,No
+1648573,"Clay, TN",None,Feature ID,2023 GNIS,No
+1648574,"Crockett, TN",None,Feature ID,2023 GNIS,No
+1648575,"Grainger, TN",None,Feature ID,2023 GNIS,No
+1648576,"Hamblen, TN",None,Feature ID,2023 GNIS,No
+1648577,"Hancock, TN",None,Feature ID,2023 GNIS,No
+1648578,"Houston, TN",None,Feature ID,2023 GNIS,No
+1648579,"Moore, TN",None,Feature ID,2023 GNIS,No
+1648580,"Pickett, TN",None,Feature ID,2023 GNIS,No
+1648581,"Trousdale, TN",None,Feature ID,2023 GNIS,No
+1648582,"Unicoi, TN",None,Feature ID,2023 GNIS,No
+1648583,"Union, TN",None,Feature ID,2023 GNIS,No
+1648584,"Van Buren, TN",None,Feature ID,2023 GNIS,No
+1652643,"Sequatchie, TN",None,Feature ID,2023 GNIS,No
+1657246,"Sonoma, CA",None,Feature ID,2023 GNIS,No
+1668606,"Wicomico, MD",None,Feature ID,2023 GNIS,No
+1668802,"Worcester, MD",None,Feature ID,2023 GNIS,No
+1669428,"Roosevelt, MT",None,Feature ID,2023 GNIS,No
+1671316,"Camden, GA",None,Feature ID,2023 GNIS,No
+1671513,"Glynn, GA",None,Feature ID,2023 GNIS,No
+1671693,"Houston, GA",None,Feature ID,2023 GNIS,No
+1671894,"Henry, GA",None,Feature ID,2023 GNIS,No
+1672039,"Bibb, GA",None,Feature ID,2023 GNIS,No
+1672399,"Clayton, GA",None,Feature ID,2023 GNIS,No
+1672699,"Clarke, GA",None,Feature ID,2023 GNIS,No
+1673011,"Pickens, GA",None,Feature ID,2023 GNIS,No
+1673298,"Troup, GA",None,Feature ID,2023 GNIS,No
+1673358,"Forsyth, GA",None,Feature ID,2023 GNIS,No
+1673547,"Newton, GA",None,Feature ID,2023 GNIS,No
+1673638,"Bath, VA",None,Feature ID,2023 GNIS,No
+1673664,"Craig, VA",None,Feature ID,2023 GNIS,No
+1673675,"Alleghany, VA",None,Feature ID,2023 GNIS,No
+1673774,"Highland, VA",None,Feature ID,2023 GNIS,No
+1673918,"Shenandoah, VA",None,Feature ID,2023 GNIS,No
+1673976,"Rappahannock, VA",None,Feature ID,2023 GNIS,No
+1674058,"Warren, VA",None,Feature ID,2023 GNIS,No
+1674225,"Powhatan, VA",None,Feature ID,2023 GNIS,No
+1674271,"Goochland, VA",None,Feature ID,2023 GNIS,No
+1674418,"Botetourt, VA",None,Feature ID,2023 GNIS,No
+1674630,"Montgomery, VA",None,Feature ID,2023 GNIS,No
+1674818,"Bedford, VA",None,Feature ID,2023 GNIS,No
+1674917,"Campbell, VA",None,Feature ID,2023 GNIS,No
+1675170,"Albemarle, VA",None,Feature ID,2023 GNIS,No
+1675839,"Alameda, CA",None,Feature ID,2023 GNIS,No
+1675840,"Alpine, CA",None,Feature ID,2023 GNIS,No
+1675841,"Amador, CA",None,Feature ID,2023 GNIS,No
+1675842,"Butte, CA",None,Feature ID,2023 GNIS,No
+1675885,"Calaveras, CA",None,Feature ID,2023 GNIS,No
+1675902,"Colusa, CA",None,Feature ID,2023 GNIS,No
+1675903,"Contra Costa, CA",None,Feature ID,2023 GNIS,No
+1676636,"Calvert, MD",None,Feature ID,2023 GNIS,No
+1676992,"Charles, MD",None,Feature ID,2023 GNIS,No
+1677577,"Sheridan, MT",None,Feature ID,2023 GNIS,No
+1678557,"Pleasants, WV",None,Feature ID,2023 GNIS,No
+1678706,"Tyler, WV",None,Feature ID,2023 GNIS,No
+1678877,"Wirt, WV",None,Feature ID,2023 GNIS,No
+1678923,"Valley, MT",None,Feature ID,2023 GNIS,No
+1681908,"Humboldt, CA",None,Feature ID,2023 GNIS,No
+1682074,"Del Norte, CA",None,Feature ID,2023 GNIS,No
+1682610,"Shasta, CA",None,Feature ID,2023 GNIS,No
+1682927,"Nevada, CA",None,Feature ID,2023 GNIS,No
+1685718,"Cherokee, GA",None,Feature ID,2023 GNIS,No
+1686112,"Cobb, GA",None,Feature ID,2023 GNIS,No
+1686467,"Douglas, GA",None,Feature ID,2023 GNIS,No
+1686953,"Hall, GA",None,Feature ID,2023 GNIS,No
+1687424,"DeKalb, GA",None,Feature ID,2023 GNIS,No
+1687740,"Fayette, GA",None,Feature ID,2023 GNIS,No
+1687995,"Hart, GA",None,Feature ID,2023 GNIS,No
+1687999,"Jeff Davis, GA",None,Feature ID,2023 GNIS,No
+1688000,"Lincoln, GA",None,Feature ID,2023 GNIS,No
+1688004,"Madison, GA",None,Feature ID,2023 GNIS,No
+1688005,"Murray, GA",None,Feature ID,2023 GNIS,No
+1688166,"Gwinnett, GA",None,Feature ID,2023 GNIS,No
+1688745,"Fallon, MT",None,Feature ID,2023 GNIS,No
+1688746,"Carter, MT",None,Feature ID,2023 GNIS,No
+1689049,"Ritchie, WV",None,Feature ID,2023 GNIS,No
+1689162,"McDowell, WV",None,Feature ID,2023 GNIS,No
+1689423,"Tucker, WV",None,Feature ID,2023 GNIS,No
+1689476,"Doddridge, WV",None,Feature ID,2023 GNIS,No
+1689673,"Gilmer, WV",None,Feature ID,2023 GNIS,No
+1689856,"Taylor, WV",None,Feature ID,2023 GNIS,No
+1690257,"Sussex, VA",None,Feature ID,2023 GNIS,No
+1690562,"Clarke, VA",None,Feature ID,2023 GNIS,No
+1690739,"Dinwiddie, VA",None,Feature ID,2023 GNIS,No
+1692767,"Tehama, CA",None,Feature ID,2023 GNIS,No
+1693324,"Lassen, CA",None,Feature ID,2023 GNIS,No
+1694477,"Chatham, GA",None,Feature ID,2023 GNIS,No
+1694833,"Fulton, GA",None,Feature ID,2023 GNIS,No
+1695314,"Baltimore, MD",None,Feature ID,2023 GNIS,No
+1696228,"Carroll, MD",None,Feature ID,2023 GNIS,No
+1696629,"Wibaux, MT",None,Feature ID,2023 GNIS,No
+1696800,"Upshur, WV",None,Feature ID,2023 GNIS,No
+1696945,"Calhoun, WV",None,Feature ID,2023 GNIS,No
+1696996,"Barbour, WV",None,Feature ID,2023 GNIS,No
+1697238,"Grant, WV",None,Feature ID,2023 GNIS,No
+1697853,"St. Mary's, MD",None,Feature ID,2023 GNIS,No
+1698178,"Harford, MD",None,Feature ID,2023 GNIS,No
+1702363,"Bernalillo, NM",None,Feature ID,2023 GNIS,No
+1702364,"Chaves, NM",None,Feature ID,2023 GNIS,No
+1702365,"Lea, NM",None,Feature ID,2023 GNIS,No
+1702366,"Los Alamos, NM",None,Feature ID,2023 GNIS,No
+1702367,"Mora, NM",None,Feature ID,2023 GNIS,No
+1702368,"Rio Arriba, NM",None,Feature ID,2023 GNIS,No
+1702369,"Roosevelt, NM",None,Feature ID,2023 GNIS,No
+1702370,"Sierra, NM",None,Feature ID,2023 GNIS,No
+1702371,"Socorro, NM",None,Feature ID,2023 GNIS,No
+1702378,"Isle of Wight, VA",None,Feature ID,2023 GNIS,No
+1702379,"Shoshone, ID",None,Feature ID,2023 GNIS,No
+1702380,"Kalawao, HI",None,Feature ID,2023 GNIS,No
+1702381,"Baltimore (city), MD",None,Feature ID,2023 GNIS,No
+1702382,"District of Columbia, DC",None,Feature ID,2023 GNIS,No
+1702382,District of Columbia,None,Feature ID,2023 GNIS,No
+1705317,Georgia,None,Feature ID,2023 GNIS,No
+1709077,"Howard, MD",None,Feature ID,2023 GNIS,No
+1710958,"Anne Arundel, MD",None,Feature ID,2023 GNIS,No
+1711058,"Garrett, MD",None,Feature ID,2023 GNIS,No
+1711211,"Frederick, MD",None,Feature ID,2023 GNIS,No
+1712500,"Montgomery, MD",None,Feature ID,2023 GNIS,No
+1713506,"Allegany, MD",None,Feature ID,2023 GNIS,No
+1714220,"Washington, MD",None,Feature ID,2023 GNIS,No
+1714670,"Prince George's, MD",None,Feature ID,2023 GNIS,No
+1714934,Maryland,None,Feature ID,2023 GNIS,No
+1715338,"Richland, MT",None,Feature ID,2023 GNIS,No
+1715632,"Dawson, MT",None,Feature ID,2023 GNIS,No
+1715847,"Prairie, MT",None,Feature ID,2023 GNIS,No
+1716058,"Garfield, MT",None,Feature ID,2023 GNIS,No
+1716270,"McCone, MT",None,Feature ID,2023 GNIS,No
+1716521,"Big Horn, MT",None,Feature ID,2023 GNIS,No
+1716795,"Rosebud, MT",None,Feature ID,2023 GNIS,No
+1717163,"Ohio, WV",None,Feature ID,2023 GNIS,No
+1717539,"Marshall, WV",None,Feature ID,2023 GNIS,No
+1717836,"Wetzel, WV",None,Feature ID,2023 GNIS,No
+1717890,"Mineral, WV",None,Feature ID,2023 GNIS,No
+1718173,"Marion, WV",None,Feature ID,2023 GNIS,No
+1718426,"Harrison, WV",None,Feature ID,2023 GNIS,No
+1718557,"Hardy, WV",None,Feature ID,2023 GNIS,No
+1718644,"Hampshire, WV",None,Feature ID,2023 GNIS,No
+1719558,"Yellowstone, MT",None,Feature ID,2023 GNIS,No
+1719560,"Wheatland, MT",None,Feature ID,2023 GNIS,No
+1719563,"Treasure, MT",None,Feature ID,2023 GNIS,No
+1719566,"Toole, MT",None,Feature ID,2023 GNIS,No
+1719569,"Sweet Grass, MT",None,Feature ID,2023 GNIS,No
+1719572,"Stillwater, MT",None,Feature ID,2023 GNIS,No
+1719575,"Silver Bow, MT",None,Feature ID,2023 GNIS,No
+1719578,"Sanders, MT",None,Feature ID,2023 GNIS,No
+1719582,"Ravalli, MT",None,Feature ID,2023 GNIS,No
+1719584,"Powder River, MT",None,Feature ID,2023 GNIS,No
+1719587,"Pondera, MT",None,Feature ID,2023 GNIS,No
+1719590,"Petroleum, MT",None,Feature ID,2023 GNIS,No
+1719593,"Musselshell, MT",None,Feature ID,2023 GNIS,No
+1719596,"Missoula, MT",None,Feature ID,2023 GNIS,No
+1719600,"Meagher, MT",None,Feature ID,2023 GNIS,No
+1719602,"Judith Basin, MT",None,Feature ID,2023 GNIS,No
+1719605,"Granite, MT",None,Feature ID,2023 GNIS,No
+1719607,"Glacier, MT",None,Feature ID,2023 GNIS,No
+1719611,"Flathead, MT",None,Feature ID,2023 GNIS,No
+1719614,"Fergus, MT",None,Feature ID,2023 GNIS,No
+1719617,"Deer Lodge, MT",None,Feature ID,2023 GNIS,No
+1719619,"Chouteau, MT",None,Feature ID,2023 GNIS,No
+1719622,"Cascade, MT",None,Feature ID,2023 GNIS,No
+1719625,"Broadwater, MT",None,Feature ID,2023 GNIS,No
+1719627,"Beaverhead, MT",None,Feature ID,2023 GNIS,No
+1720018,"Teton, MT",None,Feature ID,2023 GNIS,No
+1720021,"Powell, MT",None,Feature ID,2023 GNIS,No
+1720023,"Phillips, MT",None,Feature ID,2023 GNIS,No
+1720027,"Park, MT",None,Feature ID,2023 GNIS,No
+1720030,"Mineral, MT",None,Feature ID,2023 GNIS,No
+1720033,"Madison, MT",None,Feature ID,2023 GNIS,No
+1720036,"Liberty, MT",None,Feature ID,2023 GNIS,No
+1720038,"Lincoln, MT",None,Feature ID,2023 GNIS,No
+1720045,"Jefferson, MT",None,Feature ID,2023 GNIS,No
+1720048,"Hill, MT",None,Feature ID,2023 GNIS,No
+1720053,"Gallatin, MT",None,Feature ID,2023 GNIS,No
+1720109,"Custer, MT",None,Feature ID,2023 GNIS,No
+1720111,"Carbon, MT",None,Feature ID,2023 GNIS,No
+1722470,"Blaine, MT",None,Feature ID,2023 GNIS,No
+1723078,"Golden Valley, MT",None,Feature ID,2023 GNIS,No
+1779775,Alabama,None,Feature ID,2023 GNIS,No
+1779777,Arizona,None,Feature ID,2023 GNIS,No
+1779778,California,None,Feature ID,2023 GNIS,No
+1779779,Colorado,None,Feature ID,2023 GNIS,No
+1779780,Connecticut,None,Feature ID,2023 GNIS,No
+1779781,Delaware,None,Feature ID,2023 GNIS,No
+1779782,Hawaii,None,Feature ID,2023 GNIS,No
+1779783,Idaho,None,Feature ID,2023 GNIS,No
+1779784,Illinois,None,Feature ID,2023 GNIS,No
+1779785,Iowa,None,Feature ID,2023 GNIS,No
+1779786,Kentucky,None,Feature ID,2023 GNIS,No
+1779787,Maine,None,Feature ID,2023 GNIS,No
+1779789,Michigan,None,Feature ID,2023 GNIS,No
+1779790,Mississippi,None,Feature ID,2023 GNIS,No
+1779791,Missouri,None,Feature ID,2023 GNIS,No
+1779792,Nebraska,None,Feature ID,2023 GNIS,No
+1779793,Nevada,None,Feature ID,2023 GNIS,No
+1779794,New Hampshire,None,Feature ID,2023 GNIS,No
+1779795,New Jersey,None,Feature ID,2023 GNIS,No
+1779796,New York,None,Feature ID,2023 GNIS,No
+1779797,North Dakota,None,Feature ID,2023 GNIS,No
+1779798,Pennsylvania,None,Feature ID,2023 GNIS,No
+1779799,South Carolina,None,Feature ID,2023 GNIS,No
+1779801,Texas,None,Feature ID,2023 GNIS,No
+1779802,Vermont,None,Feature ID,2023 GNIS,No
+1779803,Virginia,None,Feature ID,2023 GNIS,No
+1779804,Washington,None,Feature ID,2023 GNIS,No
+1779805,West Virginia,None,Feature ID,2023 GNIS,No
+1779806,Wisconsin,None,Feature ID,2023 GNIS,No
+1779807,Wyoming,None,Feature ID,2023 GNIS,No
+1779808,Puerto Rico,None,Feature ID,2023 GNIS,No
+1779809,Commonwealth of the Northern Mariana Islands,None,Feature ID,2023 GNIS,No
+1784729,"McDonough, IL",None,Feature ID,2023 GNIS,No
+1784730,"Massac, IL",None,Feature ID,2023 GNIS,No
+1784750,"Mercer, IL",None,Feature ID,2023 GNIS,No
+1784766,"Cook, IL",None,Feature ID,2023 GNIS,No
+1784796,"Lake, IL",None,Feature ID,2023 GNIS,No
+1784815,"McHenry, IL",None,Feature ID,2023 GNIS,No
+1784833,"McLean, IL",None,Feature ID,2023 GNIS,No
+1784865,"Monroe, IL",None,Feature ID,2023 GNIS,No
+1784866,"Montgomery, IL",None,Feature ID,2023 GNIS,No
+1784885,"Moultrie, IL",None,Feature ID,2023 GNIS,No
+1784894,"Ogle, IL",None,Feature ID,2023 GNIS,No
+1784920,"Peoria, IL",None,Feature ID,2023 GNIS,No
+1784940,"Perry, IL",None,Feature ID,2023 GNIS,No
+1784941,"Pike, IL",None,Feature ID,2023 GNIS,No
+1784966,"Pulaski, IL",None,Feature ID,2023 GNIS,No
+1784967,"Randolph, IL",None,Feature ID,2023 GNIS,No
+1784987,"St. Clair, IL",None,Feature ID,2023 GNIS,No
+1785010,"Sangamon, IL",None,Feature ID,2023 GNIS,No
+1785037,"Schuyler, IL",None,Feature ID,2023 GNIS,No
+1785051,"Shelby, IL",None,Feature ID,2023 GNIS,No
+1785076,"Stephenson, IL",None,Feature ID,2023 GNIS,No
+1785094,"Tazewell, IL",None,Feature ID,2023 GNIS,No
+1785113,"Union, IL",None,Feature ID,2023 GNIS,No
+1785114,"Vermilion, IL",None,Feature ID,2023 GNIS,No
+1785134,"Warren, IL",None,Feature ID,2023 GNIS,No
+1785150,"Washington, IL",None,Feature ID,2023 GNIS,No
+1785167,"Whiteside, IL",None,Feature ID,2023 GNIS,No
+1785190,"Will, IL",None,Feature ID,2023 GNIS,No
+1785215,"Williamson, IL",None,Feature ID,2023 GNIS,No
+1785216,"Winnebago, IL",None,Feature ID,2023 GNIS,No
+1785231,"Woodford, IL",None,Feature ID,2023 GNIS,No
+1785533,Alaska,None,Feature ID,2023 GNIS,No
+1785534,South Dakota,None,Feature ID,2023 GNIS,No
+1789068,"Charlottesville (city), VA",None,Feature ID,2023 GNIS,No
+1789069,"Covington (city), VA",None,Feature ID,2023 GNIS,No
+1789070,"Fairfax (city), VA",None,Feature ID,2023 GNIS,No
+1789071,"Lexington (city), VA",None,Feature ID,2023 GNIS,No
+1789072,"Martinsville (city), VA",None,Feature ID,2023 GNIS,No
+1789073,"Richmond (city), VA",None,Feature ID,2023 GNIS,No
+1789074,"Salem (city), VA",None,Feature ID,2023 GNIS,No
+1789075,"Staunton (city), VA",None,Feature ID,2023 GNIS,No
+1789076,"Williamsburg (city), VA",None,Feature ID,2023 GNIS,No
+1789077,"Winchester (city), VA",None,Feature ID,2023 GNIS,No
+1796943,"Lake, MT",None,Feature ID,2023 GNIS,No
+1802699,"Midway Islands, UM",None,Feature ID,2023 GNIS,No
+1802700,"Wake Island, UM",None,Feature ID,2023 GNIS,No
+1802701,American Samoa,None,Feature ID,2023 GNIS,No
+1802703,"Jarvis Island, UM",None,Feature ID,2023 GNIS,No
+1802704,"Baker Island, UM",None,Feature ID,2023 GNIS,No
+1802705,Guam,None,Feature ID,2023 GNIS,No
+1802705,"Guam, GU",None,Feature ID,2023 GNIS,No
+1802706,"Howland Island, UM",None,Feature ID,2023 GNIS,No
+1802707,"Johnston Atoll, UM",None,Feature ID,2023 GNIS,No
+1802708,"Kingman Reef, UM",None,Feature ID,2023 GNIS,No
+1802709,"Palmyra Atoll, UM",None,Feature ID,2023 GNIS,No
+1802710,United States Virgin Islands,None,Feature ID,2023 GNIS,No
+1804480,"Adjuntas, PR",None,Feature ID,2023 GNIS,No
+1804481,"Aguada, PR",None,Feature ID,2023 GNIS,No
+1804482,"Aguadilla, PR",None,Feature ID,2023 GNIS,No
+1804483,"Aguas Buenas, PR",None,Feature ID,2023 GNIS,No
+1804484,"Aibonito, PR",None,Feature ID,2023 GNIS,No
+1804485,"Añasco, PR",None,Feature ID,2023 GNIS,No
+1804486,"Arecibo, PR",None,Feature ID,2023 GNIS,No
+1804487,"Arroyo, PR",None,Feature ID,2023 GNIS,No
+1804488,"Barceloneta, PR",None,Feature ID,2023 GNIS,No
+1804489,"Barranquitas, PR",None,Feature ID,2023 GNIS,No
+1804490,"Bayamón, PR",None,Feature ID,2023 GNIS,No
+1804491,"Cabo Rojo, PR",None,Feature ID,2023 GNIS,No
+1804492,"Caguas, PR",None,Feature ID,2023 GNIS,No
+1804493,"Camuy, PR",None,Feature ID,2023 GNIS,No
+1804494,"Canóvanas, PR",None,Feature ID,2023 GNIS,No
+1804495,"Carolina, PR",None,Feature ID,2023 GNIS,No
+1804496,"Cataño, PR",None,Feature ID,2023 GNIS,No
+1804497,"Cayey, PR",None,Feature ID,2023 GNIS,No
+1804498,"Ceiba, PR",None,Feature ID,2023 GNIS,No
+1804499,"Ciales, PR",None,Feature ID,2023 GNIS,No
+1804500,"Cidra, PR",None,Feature ID,2023 GNIS,No
+1804501,"Coamo, PR",None,Feature ID,2023 GNIS,No
+1804502,"Comerío, PR",None,Feature ID,2023 GNIS,No
+1804503,"Corozal, PR",None,Feature ID,2023 GNIS,No
+1804504,"Culebra, PR",None,Feature ID,2023 GNIS,No
+1804505,"Dorado, PR",None,Feature ID,2023 GNIS,No
+1804506,"Fajardo, PR",None,Feature ID,2023 GNIS,No
+1804507,"Florida, PR",None,Feature ID,2023 GNIS,No
+1804508,"Guánica, PR",None,Feature ID,2023 GNIS,No
+1804509,"Guayama, PR",None,Feature ID,2023 GNIS,No
+1804510,"Guayanilla, PR",None,Feature ID,2023 GNIS,No
+1804511,"Guaynabo, PR",None,Feature ID,2023 GNIS,No
+1804512,"Gurabo, PR",None,Feature ID,2023 GNIS,No
+1804513,"Hatillo, PR",None,Feature ID,2023 GNIS,No
+1804514,"Hormigueros, PR",None,Feature ID,2023 GNIS,No
+1804515,"Humacao, PR",None,Feature ID,2023 GNIS,No
+1804516,"Isabela, PR",None,Feature ID,2023 GNIS,No
+1804517,"Jayuya, PR",None,Feature ID,2023 GNIS,No
+1804518,"Juana Díaz, PR",None,Feature ID,2023 GNIS,No
+1804519,"Juncos, PR",None,Feature ID,2023 GNIS,No
+1804520,"Lajas, PR",None,Feature ID,2023 GNIS,No
+1804521,"Lares, PR",None,Feature ID,2023 GNIS,No
+1804522,"Las Marías, PR",None,Feature ID,2023 GNIS,No
+1804523,"Las Piedras, PR",None,Feature ID,2023 GNIS,No
+1804524,"Loíza, PR",None,Feature ID,2023 GNIS,No
+1804525,"Luquillo, PR",None,Feature ID,2023 GNIS,No
+1804526,"Manatí, PR",None,Feature ID,2023 GNIS,No
+1804527,"Maricao, PR",None,Feature ID,2023 GNIS,No
+1804528,"Maunabo, PR",None,Feature ID,2023 GNIS,No
+1804529,"Mayagüez, PR",None,Feature ID,2023 GNIS,No
+1804530,"Moca, PR",None,Feature ID,2023 GNIS,No
+1804531,"Morovis, PR",None,Feature ID,2023 GNIS,No
+1804532,"Naguabo, PR",None,Feature ID,2023 GNIS,No
+1804533,"Naranjito, PR",None,Feature ID,2023 GNIS,No
+1804534,"Orocovis, PR",None,Feature ID,2023 GNIS,No
+1804535,"Patillas, PR",None,Feature ID,2023 GNIS,No
+1804536,"Peñuelas, PR",None,Feature ID,2023 GNIS,No
+1804537,"Ponce, PR",None,Feature ID,2023 GNIS,No
+1804538,"Quebradillas, PR",None,Feature ID,2023 GNIS,No
+1804539,"Rincón, PR",None,Feature ID,2023 GNIS,No
+1804540,"Río Grande, PR",None,Feature ID,2023 GNIS,No
+1804541,"Sabana Grande, PR",None,Feature ID,2023 GNIS,No
+1804542,"Salinas, PR",None,Feature ID,2023 GNIS,No
+1804543,"San Germán, PR",None,Feature ID,2023 GNIS,No
+1804544,"San Juan, PR",None,Feature ID,2023 GNIS,No
+1804545,"San Lorenzo, PR",None,Feature ID,2023 GNIS,No
+1804546,"San Sebastián, PR",None,Feature ID,2023 GNIS,No
+1804547,"Santa Isabel, PR",None,Feature ID,2023 GNIS,No
+1804548,"Toa Alta, PR",None,Feature ID,2023 GNIS,No
+1804549,"Toa Baja, PR",None,Feature ID,2023 GNIS,No
+1804550,"Trujillo Alto, PR",None,Feature ID,2023 GNIS,No
+1804551,"Utuado, PR",None,Feature ID,2023 GNIS,No
+1804552,"Vega Alta, PR",None,Feature ID,2023 GNIS,No
+1804553,"Vega Baja, PR",None,Feature ID,2023 GNIS,No
+1804554,"Vieques, PR",None,Feature ID,2023 GNIS,No
+1804555,"Villalba, PR",None,Feature ID,2023 GNIS,No
+1804556,"Yabucoa, PR",None,Feature ID,2023 GNIS,No
+1804557,"Yauco, PR",None,Feature ID,2023 GNIS,No
+1804637,"Inyo, CA",None,Feature ID,2023 GNIS,No
+1805240,"Eastern, AS",None,Feature ID,2023 GNIS,No
+1805241,"Western, AS",None,Feature ID,2023 GNIS,No
+1805242,"Manu‘a District, AS",None,Feature ID,2023 GNIS,No
+1805243,"Rose Island, AS",None,Feature ID,2023 GNIS,No
+1805244,"Swains Island, AS",None,Feature ID,2023 GNIS,No
+1805245,"Northern Islands, MP",None,Feature ID,2023 GNIS,No
+1805246,"Rota, MP",None,Feature ID,2023 GNIS,No
+1805247,"Saipan, MP",None,Feature ID,2023 GNIS,No
+1805248,"Tinian, MP",None,Feature ID,2023 GNIS,No
+1878752,US Minor Outlying Islands,None,Feature ID,2023 GNIS,No
+1890283,Alberta,None,Feature ID,2023 GNIS,No
+1890284,British Columbia,None,Feature ID,2023 GNIS,No
+1890285,Manitoba,None,Feature ID,2023 GNIS,No
+1890286,New Brunswick,None,Feature ID,2023 GNIS,No
+1890287,Newfoundland and Labrador,None,Feature ID,2023 GNIS,No
+1890288,Northwest Territories,None,Feature ID,2023 GNIS,No
+1890289,Nova Scotia,None,Feature ID,2023 GNIS,No
+1890290,Ontario,None,Feature ID,2023 GNIS,No
+1890291,Prince Edward Island,None,Feature ID,2023 GNIS,No
+1890293,Saskatchewan,None,Feature ID,2023 GNIS,No
+1890295,Nunavut,None,Feature ID,2023 GNIS,No
+1890296,Baja California Norte,None,Feature ID,2023 GNIS,No
+1890297,Sonora,None,Feature ID,2023 GNIS,No
+1890298,Chihuahua,None,Feature ID,2023 GNIS,No
+1890299,Coahuila de Zaragoza,None,Feature ID,2023 GNIS,No
+1890300,Nuevo Leon,None,Feature ID,2023 GNIS,No
+1890301,Tamaulipas,None,Feature ID,2023 GNIS,No
+1890464,Canada,None,Feature ID,2023 GNIS,No
+1890465,Mexico,None,Feature ID,2023 GNIS,No
+1890467,United States,None,Feature ID,2023 GNIS,No
+1945881,"Broomfield, CO",None,Feature ID,2023 GNIS,No
+2054176,"Kern, CA",None,Feature ID,2023 GNIS,No
+2339479,"Skagway, AK",None,Feature ID,2023 GNIS,No
+2371430,"Hoonah-Angoon (CA), AK",None,Feature ID,2023 GNIS,No
+2378248,"St. Croix, VI",None,Feature ID,2023 GNIS,No
+2378249,"St. John, VI",None,Feature ID,2023 GNIS,No
+2378250,"St. Thomas, VI",None,Feature ID,2023 GNIS,No
+2493660,Quebec,None,Feature ID,2023 GNIS,No
+2493661,Yukon,None,Feature ID,2023 GNIS,No
+2516402,"Wrangell, AK",None,Feature ID,2023 GNIS,No
+2516404,"Petersburg Borough, AK",None,Feature ID,2023 GNIS,No
+2804400,"Chugach, AK",None,Feature ID,2023 GNIS,No
+2804401,"Copper River, AK",None,Feature ID,2023 GNIS,No
+2830244,"Capitol, CT",None,Feature ID,2023 GNIS,No
+2830245,"Greater Bridgeport, CT",None,Feature ID,2023 GNIS,No
+2830246,"Lower Connecticut River Valley, CT",None,Feature ID,2023 GNIS,No
+2830249,"Naugatuck Valley, CT",None,Feature ID,2023 GNIS,No
+2830250,"Northeastern Connecticut, CT",None,Feature ID,2023 GNIS,No
+2830251,"Northwest Hills, CT",None,Feature ID,2023 GNIS,No
+2830252,"South Central Connecticut, CT",None,Feature ID,2023 GNIS,No
+2830253,"Southeastern Connecticut, CT",None,Feature ID,2023 GNIS,No
+2830254,"Western Connecticut, CT",None,Feature ID,2023 GNIS,No

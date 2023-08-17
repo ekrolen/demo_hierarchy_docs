@@ -1,0 +1,77 @@
+code,fk_state_or_territory,parent,concept_name,source,standard_semantic_hierarchy
+05,Arkansas,None,State Numeric Code,2023 GNIS,No
+12,Florida,None,State Numeric Code,2023 GNIS,No
+18,Indiana,None,State Numeric Code,2023 GNIS,No
+20,Kansas,None,State Numeric Code,2023 GNIS,No
+25,Massachusetts,None,State Numeric Code,2023 GNIS,No
+27,Minnesota,None,State Numeric Code,2023 GNIS,No
+30,Montana,None,State Numeric Code,2023 GNIS,No
+35,New Mexico,None,State Numeric Code,2023 GNIS,No
+37,North Carolina,None,State Numeric Code,2023 GNIS,No
+39,Ohio,None,State Numeric Code,2023 GNIS,No
+40,Oklahoma,None,State Numeric Code,2023 GNIS,No
+41,Oregon,None,State Numeric Code,2023 GNIS,No
+44,Rhode Island,None,State Numeric Code,2023 GNIS,No
+47,Tennessee,None,State Numeric Code,2023 GNIS,No
+49,Utah,None,State Numeric Code,2023 GNIS,No
+22,Louisiana,None,State Numeric Code,2023 GNIS,No
+11,District of Columbia,None,State Numeric Code,2023 GNIS,No
+13,Georgia,None,State Numeric Code,2023 GNIS,No
+24,Maryland,None,State Numeric Code,2023 GNIS,No
+01,Alabama,None,State Numeric Code,2023 GNIS,No
+04,Arizona,None,State Numeric Code,2023 GNIS,No
+06,California,None,State Numeric Code,2023 GNIS,No
+08,Colorado,None,State Numeric Code,2023 GNIS,No
+09,Connecticut,None,State Numeric Code,2023 GNIS,No
+10,Delaware,None,State Numeric Code,2023 GNIS,No
+15,Hawaii,None,State Numeric Code,2023 GNIS,No
+16,Idaho,None,State Numeric Code,2023 GNIS,No
+17,Illinois,None,State Numeric Code,2023 GNIS,No
+19,Iowa,None,State Numeric Code,2023 GNIS,No
+21,Kentucky,None,State Numeric Code,2023 GNIS,No
+23,Maine,None,State Numeric Code,2023 GNIS,No
+26,Michigan,None,State Numeric Code,2023 GNIS,No
+28,Mississippi,None,State Numeric Code,2023 GNIS,No
+29,Missouri,None,State Numeric Code,2023 GNIS,No
+31,Nebraska,None,State Numeric Code,2023 GNIS,No
+32,Nevada,None,State Numeric Code,2023 GNIS,No
+33,New Hampshire,None,State Numeric Code,2023 GNIS,No
+34,New Jersey,None,State Numeric Code,2023 GNIS,No
+36,New York,None,State Numeric Code,2023 GNIS,No
+38,North Dakota,None,State Numeric Code,2023 GNIS,No
+42,Pennsylvania,None,State Numeric Code,2023 GNIS,No
+45,South Carolina,None,State Numeric Code,2023 GNIS,No
+48,Texas,None,State Numeric Code,2023 GNIS,No
+50,Vermont,None,State Numeric Code,2023 GNIS,No
+51,Virginia,None,State Numeric Code,2023 GNIS,No
+53,Washington,None,State Numeric Code,2023 GNIS,No
+54,West Virginia,None,State Numeric Code,2023 GNIS,No
+55,Wisconsin,None,State Numeric Code,2023 GNIS,No
+56,Wyoming,None,State Numeric Code,2023 GNIS,No
+72,Puerto Rico,None,State Numeric Code,2023 GNIS,No
+69,Commonwealth of the Northern Mariana Islands,None,State Numeric Code,2023 GNIS,No
+02,Alaska,None,State Numeric Code,2023 GNIS,No
+46,South Dakota,None,State Numeric Code,2023 GNIS,No
+60,American Samoa,None,State Numeric Code,2023 GNIS,No
+66,Guam,None,State Numeric Code,2023 GNIS,No
+78,United States Virgin Islands,None,State Numeric Code,2023 GNIS,No
+74,US Minor Outlying Islands,None,State Numeric Code,2023 GNIS,No
+01,Alberta,None,State Numeric Code,2023 GNIS,No
+02,British Columbia,None,State Numeric Code,2023 GNIS,No
+03,Manitoba,None,State Numeric Code,2023 GNIS,No
+04,New Brunswick,None,State Numeric Code,2023 GNIS,No
+05,Newfoundland and Labrador,None,State Numeric Code,2023 GNIS,No
+13,Northwest Territories,None,State Numeric Code,2023 GNIS,No
+07,Nova Scotia,None,State Numeric Code,2023 GNIS,No
+08,Ontario,None,State Numeric Code,2023 GNIS,No
+09,Prince Edward Island,None,State Numeric Code,2023 GNIS,No
+11,Saskatchewan,None,State Numeric Code,2023 GNIS,No
+14,Nunavut,None,State Numeric Code,2023 GNIS,No
+02,Baja California Norte,None,State Numeric Code,2023 GNIS,No
+26,Sonora,None,State Numeric Code,2023 GNIS,No
+06,Chihuahua,None,State Numeric Code,2023 GNIS,No
+07,Coahuila de Zaragoza,None,State Numeric Code,2023 GNIS,No
+19,Nuevo Leon,None,State Numeric Code,2023 GNIS,No
+28,Tamaulipas,None,State Numeric Code,2023 GNIS,No
+10,Quebec,None,State Numeric Code,2023 GNIS,No
+12,Yukon,None,State Numeric Code,2023 GNIS,No

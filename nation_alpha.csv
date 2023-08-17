@@ -1,0 +1,4 @@
+code,fk_nation,parent,concept_name,source,standard_semantic_hierarchy
+CA,Canada,None,Country Alphabetic Code,2023 GNIS,No
+MX,Mexico,None,Country Alphabetic Code,2023 GNIS,No
+US,United States,None,Country Alphabetic Code,2023 GNIS,No

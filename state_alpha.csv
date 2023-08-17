@@ -1,0 +1,77 @@
+code,fk_state_or_territory,parent,concept_name,source,standard_semantic_hierarchy
+AR,Arkansas,None,State Alphabetic Code,2023 GNIS,No
+FL,Florida,None,State Alphabetic Code,2023 GNIS,No
+IN,Indiana,None,State Alphabetic Code,2023 GNIS,No
+KS,Kansas,None,State Alphabetic Code,2023 GNIS,No
+MA,Massachusetts,None,State Alphabetic Code,2023 GNIS,No
+MN,Minnesota,None,State Alphabetic Code,2023 GNIS,No
+MT,Montana,None,State Alphabetic Code,2023 GNIS,No
+NM,New Mexico,None,State Alphabetic Code,2023 GNIS,No
+NC,North Carolina,None,State Alphabetic Code,2023 GNIS,No
+OH,Ohio,None,State Alphabetic Code,2023 GNIS,No
+OK,Oklahoma,None,State Alphabetic Code,2023 GNIS,No
+OR,Oregon,None,State Alphabetic Code,2023 GNIS,No
+RI,Rhode Island,None,State Alphabetic Code,2023 GNIS,No
+TN,Tennessee,None,State Alphabetic Code,2023 GNIS,No
+UT,Utah,None,State Alphabetic Code,2023 GNIS,No
+LA,Louisiana,None,State Alphabetic Code,2023 GNIS,No
+DC,District of Columbia,None,State Alphabetic Code,2023 GNIS,No
+GA,Georgia,None,State Alphabetic Code,2023 GNIS,No
+MD,Maryland,None,State Alphabetic Code,2023 GNIS,No
+AL,Alabama,None,State Alphabetic Code,2023 GNIS,No
+AZ,Arizona,None,State Alphabetic Code,2023 GNIS,No
+CA,California,None,State Alphabetic Code,2023 GNIS,No
+CO,Colorado,None,State Alphabetic Code,2023 GNIS,No
+CT,Connecticut,None,State Alphabetic Code,2023 GNIS,No
+DE,Delaware,None,State Alphabetic Code,2023 GNIS,No
+HI,Hawaii,None,State Alphabetic Code,2023 GNIS,No
+ID,Idaho,None,State Alphabetic Code,2023 GNIS,No
+IL,Illinois,None,State Alphabetic Code,2023 GNIS,No
+IA,Iowa,None,State Alphabetic Code,2023 GNIS,No
+KY,Kentucky,None,State Alphabetic Code,2023 GNIS,No
+ME,Maine,None,State Alphabetic Code,2023 GNIS,No
+MI,Michigan,None,State Alphabetic Code,2023 GNIS,No
+MS,Mississippi,None,State Alphabetic Code,2023 GNIS,No
+MO,Missouri,None,State Alphabetic Code,2023 GNIS,No
+NE,Nebraska,None,State Alphabetic Code,2023 GNIS,No
+NV,Nevada,None,State Alphabetic Code,2023 GNIS,No
+NH,New Hampshire,None,State Alphabetic Code,2023 GNIS,No
+NJ,New Jersey,None,State Alphabetic Code,2023 GNIS,No
+NY,New York,None,State Alphabetic Code,2023 GNIS,No
+ND,North Dakota,None,State Alphabetic Code,2023 GNIS,No
+PA,Pennsylvania,None,State Alphabetic Code,2023 GNIS,No
+SC,South Carolina,None,State Alphabetic Code,2023 GNIS,No
+TX,Texas,None,State Alphabetic Code,2023 GNIS,No
+VT,Vermont,None,State Alphabetic Code,2023 GNIS,No
+VA,Virginia,None,State Alphabetic Code,2023 GNIS,No
+WA,Washington,None,State Alphabetic Code,2023 GNIS,No
+WV,West Virginia,None,State Alphabetic Code,2023 GNIS,No
+WI,Wisconsin,None,State Alphabetic Code,2023 GNIS,No
+WY,Wyoming,None,State Alphabetic Code,2023 GNIS,No
+PR,Puerto Rico,None,State Alphabetic Code,2023 GNIS,No
+MP,Commonwealth of the Northern Mariana Islands,None,State Alphabetic Code,2023 GNIS,No
+AK,Alaska,None,State Alphabetic Code,2023 GNIS,No
+SD,South Dakota,None,State Alphabetic Code,2023 GNIS,No
+AS,American Samoa,None,State Alphabetic Code,2023 GNIS,No
+GU,Guam,None,State Alphabetic Code,2023 GNIS,No
+VI,United States Virgin Islands,None,State Alphabetic Code,2023 GNIS,No
+UM,US Minor Outlying Islands,None,State Alphabetic Code,2023 GNIS,No
+AB,Alberta,None,State Alphabetic Code,2023 GNIS,No
+BC,British Columbia,None,State Alphabetic Code,2023 GNIS,No
+MB,Manitoba,None,State Alphabetic Code,2023 GNIS,No
+NB,New Brunswick,None,State Alphabetic Code,2023 GNIS,No
+NL,Newfoundland and Labrador,None,State Alphabetic Code,2023 GNIS,No
+NT,Northwest Territories,None,State Alphabetic Code,2023 GNIS,No
+NS,Nova Scotia,None,State Alphabetic Code,2023 GNIS,No
+ON,Ontario,None,State Alphabetic Code,2023 GNIS,No
+PE,Prince Edward Island,None,State Alphabetic Code,2023 GNIS,No
+SK,Saskatchewan,None,State Alphabetic Code,2023 GNIS,No
+NU,Nunavut,None,State Alphabetic Code,2023 GNIS,No
+BCN,Baja California Norte,None,State Alphabetic Code,2023 GNIS,No
+SON,Sonora,None,State Alphabetic Code,2023 GNIS,No
+CHH,Chihuahua,None,State Alphabetic Code,2023 GNIS,No
+COA,Coahuila de Zaragoza,None,State Alphabetic Code,2023 GNIS,No
+NLE,Nuevo Leon,None,State Alphabetic Code,2023 GNIS,No
+TAM,Tamaulipas,None,State Alphabetic Code,2023 GNIS,No
+QC,Quebec,None,State Alphabetic Code,2023 GNIS,No
+YT,Yukon,None,State Alphabetic Code,2023 GNIS,No
