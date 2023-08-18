@@ -1,0 +1,24 @@
+code,fk_name,parent,concept_name,source,standard_semantic_hierarchy
+11-0000,Management Occupations,None,Major Group SOC Code,2018 SOC,No
+13-0000,Business and Financial Operations Occupations,None,Major Group SOC Code,2018 SOC,No
+15-0000,Computer and Mathematical Occupations,None,Major Group SOC Code,2018 SOC,No
+17-0000,Architecture and Engineering Occupations,None,Major Group SOC Code,2018 SOC,No
+19-0000,"Life, Physical, and Social Science Occupations",None,Major Group SOC Code,2018 SOC,No
+21-0000,Community and Social Service Occupations,None,Major Group SOC Code,2018 SOC,No
+23-0000,Legal Occupations,None,Major Group SOC Code,2018 SOC,No
+25-0000,Educational Instruction and Library Occupations,None,Major Group SOC Code,2018 SOC,No
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",None,Major Group SOC Code,2018 SOC,No
+29-0000,Healthcare Practitioners and Technical Occupations,None,Major Group SOC Code,2018 SOC,No
+31-0000,Healthcare Support Occupations,None,Major Group SOC Code,2018 SOC,No
+33-0000,Protective Service Occupations,None,Major Group SOC Code,2018 SOC,No
+35-0000,Food Preparation and Serving Related Occupations,None,Major Group SOC Code,2018 SOC,No
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,None,Major Group SOC Code,2018 SOC,No
+39-0000,Personal Care and Service Occupations,None,Major Group SOC Code,2018 SOC,No
+41-0000,Sales and Related Occupations,None,Major Group SOC Code,2018 SOC,No
+43-0000,Office and Administrative Support Occupations,None,Major Group SOC Code,2018 SOC,No
+45-0000,"Farming, Fishing, and Forestry Occupations",None,Major Group SOC Code,2018 SOC,No
+47-0000,Construction and Extraction Occupations,None,Major Group SOC Code,2018 SOC,No
+49-0000,"Installation, Maintenance, and Repair Occupations",None,Major Group SOC Code,2018 SOC,No
+51-0000,Production Occupations,None,Major Group SOC Code,2018 SOC,No
+53-0000,Transportation and Material Moving Occupations,None,Major Group SOC Code,2018 SOC,No
+55-0000,Military Specific Occupations,None,Major Group SOC Code,2018 SOC,No
